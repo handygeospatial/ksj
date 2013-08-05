@@ -1,7 +1,7 @@
 # coding: utf-8
 require 'fileutils'
 task :default do
-  7.upto(14) {|i|
+  15.upto(47) {|i|
     s = sprintf('%02d', i)
     dst = "P13-11_#{s}.geojson"
     FileUtils.rm(dst) if File.exist?(dst)
