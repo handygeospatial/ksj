@@ -1,0 +1,22 @@
+# coding: utf-8
+require 'fileutils'
+task :default do
+  1.upto(1) {|i|
+    s = sprintf('%02d', i)
+    dst = "N07-11_#{s}.geojson"
+    FileUtils.rm(dst) if File.exist?(dst)
+    sh "ogr2ogr -f GeoJSON #{dst} ~/Downloads/N07-11_#{s}_GML/N07-11_#{s}.shp"
+    buf = File.open(dst).read.split("\n")
+    File.open(dst, 'w') {|w|
+      n = 0
+      buf.each {|l|
+        n += 1
+        if n == 3
+          w.print "\"source\": \"国土数値情報（バスルートデータ）　国土交通省\",\n"
+        else 
+          w.print l, "\n"
+        end
+      } 
+    }
+  }
+end
