@@ -1,0 +1,1354 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町国分本村触字田端１３８８−９" }, "geometry": { "type": "Point", "coordinates": [ 129.718525699999987, 33.7971058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市東触６５８−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.70060866, 33.75601487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市平人触字佐小５５−５" }, "geometry": { "type": "Point", "coordinates": [ 129.72041561, 33.75282394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市柳田触９４０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.700880430000012, 33.76585972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町北本町２１９−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.20986295, 32.73692184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市多比良甲１３４" }, "geometry": { "type": "Point", "coordinates": [ 130.315063470000013, 32.86859959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市板引乙−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.15791789, 32.684669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市岐宿町川原５６６−１２" }, "geometry": { "type": "Point", "coordinates": [ 128.728893879999987, 32.73571138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市卸本町１−１６７" }, "geometry": { "type": "Point", "coordinates": [ 129.76617826, 33.15114313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市高砂町１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.71653107, 33.17867859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市春日町２４７" }, "geometry": { "type": "Point", "coordinates": [ 129.72068682, 33.20131616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市大和町３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.74841756, 33.15835737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市田の浦町４０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.78478745000001, 33.14515272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市田ノ元免４８２番地６" }, "geometry": { "type": "Point", "coordinates": [ 129.680915340000013, 33.28224482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市御厨町北平免字清水２１３−３" }, "geometry": { "type": "Point", "coordinates": [ 129.67264914, 33.35771101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町吉無田郷４１１−８" }, "geometry": { "type": "Point", "coordinates": [ 129.875905780000011, 32.82166757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町下原２８６" }, "geometry": { "type": "Point", "coordinates": [ 129.21619235, 34.22905617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町久田６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.282834720000011, 34.18852158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町宮谷８５" }, "geometry": { "type": "Point", "coordinates": [ 129.289240510000013, 34.21272954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町豆酘東神田６３５" }, "geometry": { "type": "Point", "coordinates": [ 129.18651589000001, 34.11890008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上県町佐須奈甲５３３" }, "geometry": { "type": "Point", "coordinates": [ 129.39380460000001, 34.63850522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町琴８１６" }, "geometry": { "type": "Point", "coordinates": [ 129.45442558, 34.55451334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町大字舟志乙６１５−４" }, "geometry": { "type": "Point", "coordinates": [ 129.437023110000013, 34.61245155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市美津島町鶏知甲１１３０" }, "geometry": { "type": "Point", "coordinates": [ 129.30738943, 34.26782726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市豊玉町仁位４３２" }, "geometry": { "type": "Point", "coordinates": [ 129.31978246, 34.3967708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市西大村本町１９４" }, "geometry": { "type": "Point", "coordinates": [ 129.94975455, 32.92441942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市富の原２丁目６９９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.935670460000011, 32.94269686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小ヶ倉町１−１０２７" }, "geometry": { "type": "Point", "coordinates": [ 129.85042273, 32.70790411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小江町１６１１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.82398539, 32.770922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市大橋町２５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.8643309, 32.78274734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市田中町１０２７−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.952360520000013, 32.76698635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市田中町２３４" }, "geometry": { "type": "Point", "coordinates": [ 129.94774254, 32.76422951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市平間町１３５０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.94984767, 32.79087527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市栄町８４９３" }, "geometry": { "type": "Point", "coordinates": [ 130.36776995, 32.77573884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市高島２−７２１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.372272900000013, 32.78548463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市田町６７７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.36898338, 32.79359265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町小串郷１０２０" }, "geometry": { "type": "Point", "coordinates": [ 129.08988359, 33.05368547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市加津佐町己２６０２−６" }, "geometry": { "type": "Point", "coordinates": [ 130.16778811, 32.62315021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡佐々町市場免字馬場添５５" }, "geometry": { "type": "Point", "coordinates": [ 129.64623107, 33.23220023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市宇都町３０−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.043474339999989, 32.84562997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市猿崎町７７０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.10154875, 32.87974348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市高来町町名１１４" }, "geometry": { "type": "Point", "coordinates": [ 130.13753866, 32.9040191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町諸吉大石触４７２−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.75517283, 33.80534411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町諸吉二亦触１６４８−６" }, "geometry": { "type": "Point", "coordinates": [ 129.75410632, 33.78495764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町郷ノ浦１２２−４７" }, "geometry": { "type": "Point", "coordinates": [ 129.69159624, 33.74562605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町郷ノ浦１６８" }, "geometry": { "type": "Point", "coordinates": [ 129.68980731, 33.74651368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町郷ノ浦本村触八畑７４２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.69727594, 33.7518185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町田中触字大谷１１４７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.699565979999988, 33.76203855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市石田町印通寺浦４６９−２２" }, "geometry": { "type": "Point", "coordinates": [ 129.754741599999988, 33.74407947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市石田町池田東触４７５−４" }, "geometry": { "type": "Point", "coordinates": [ 129.75069586, 33.74754836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市愛野町乙字桃山５０３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.16446868, 32.79655393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市吾妻町大木場名桑原５８" }, "geometry": { "type": "Point", "coordinates": [ 130.189652810000013, 32.83831667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市国見町神代戊９４" }, "geometry": { "type": "Point", "coordinates": [ 130.262209649999988, 32.87154919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市国見町土黒甲１０４７" }, "geometry": { "type": "Point", "coordinates": [ 130.304108609999986, 32.87307689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市国見町土黒甲６５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.30643335, 32.87521007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町金浜１４３４" }, "geometry": { "type": "Point", "coordinates": [ 130.186654159999989, 32.70685091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町山畑１７３９−８" }, "geometry": { "type": "Point", "coordinates": [ 130.19469658, 32.69434206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町富津４０７４" }, "geometry": { "type": "Point", "coordinates": [ 130.20161994, 32.75886403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市岐宿町中嶽１０８７" }, "geometry": { "type": "Point", "coordinates": [ 128.73626137, 32.68719926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市玉之浦町荒川２８３" }, "geometry": { "type": "Point", "coordinates": [ 128.673769490000012, 32.66868263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市三井楽町濱ノ畔３１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 128.68976154, 32.73939071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市三尾野３−１−１２" }, "geometry": { "type": "Point", "coordinates": [ 128.84167383, 32.69065057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市三尾野町３丁目６番１２号" }, "geometry": { "type": "Point", "coordinates": [ 128.8366212, 32.69099664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市奈留町浦１８５９−１１" }, "geometry": { "type": "Point", "coordinates": [ 128.93673257, 32.82701256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市冨江町富江１８５−１" }, "geometry": { "type": "Point", "coordinates": [ 128.76480132, 32.61630787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市冨江町富江１８７番地３" }, "geometry": { "type": "Point", "coordinates": [ 128.76485919000001, 32.61667093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市稲荷町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 129.73311396, 33.1581375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市干尽町１−４１" }, "geometry": { "type": "Point", "coordinates": [ 129.72837962, 33.16176843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市干尽町４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.72554351, 33.15426708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市吉岡町１９８１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.71315802, 33.20901701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市宮田町１−２３" }, "geometry": { "type": "Point", "coordinates": [ 129.718095659999989, 33.18452928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市広田３−２３−３３" }, "geometry": { "type": "Point", "coordinates": [ 129.800046579999986, 33.12302068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市勝海町１３１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.79054833, 33.14161359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市小佐々町矢岳２３４" }, "geometry": { "type": "Point", "coordinates": [ 129.56810686, 33.22912389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市小佐々町矢岳新浜１６５−２１" }, "geometry": { "type": "Point", "coordinates": [ 129.566017929999987, 33.22445602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市松浦町４−７" }, "geometry": { "type": "Point", "coordinates": [ 129.717346420000013, 33.17464878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市上原町１０９２" }, "geometry": { "type": "Point", "coordinates": [ 129.81007155, 33.14453028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市城間町４１６−４" }, "geometry": { "type": "Point", "coordinates": [ 129.81587836, 33.09151011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市赤崎町６１９−４" }, "geometry": { "type": "Point", "coordinates": [ 129.69444578, 33.15533747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市折橋町１２−３" }, "geometry": { "type": "Point", "coordinates": [ 129.72087518, 33.18655735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市南風崎町２５" }, "geometry": { "type": "Point", "coordinates": [ 129.81030607, 33.08572536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市日宇町２７９０" }, "geometry": { "type": "Point", "coordinates": [ 129.76662603, 33.15763827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市日野町１２１８−５" }, "geometry": { "type": "Point", "coordinates": [ 129.673517940000011, 33.17273034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市御厨町里免２３−１５" }, "geometry": { "type": "Point", "coordinates": [ 129.66208859, 33.3667565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市御厨町里免６４０" }, "geometry": { "type": "Point", "coordinates": [ 129.66713579, 33.36433003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市今福町東免字宮崎１−９" }, "geometry": { "type": "Point", "coordinates": [ 129.7671798, 33.35288502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市志佐町浦免字宮の前８９２" }, "geometry": { "type": "Point", "coordinates": [ 129.70976158, 33.34334593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市鷹島町阿翁浦免字迎８０１−９" }, "geometry": { "type": "Point", "coordinates": [ 129.75871321, 33.45360522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町喰場郷９１" }, "geometry": { "type": "Point", "coordinates": [ 129.77796543, 32.98563722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町小迎郷９５９" }, "geometry": { "type": "Point", "coordinates": [ 129.746415109999987, 33.04621017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町大串郷字籠王３２３−４" }, "geometry": { "type": "Point", "coordinates": [ 129.7310063, 33.00740716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町瀬戸樫浦郷字小浦２２７８−６３" }, "geometry": { "type": "Point", "coordinates": [ 129.640620320000011, 32.93426805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町元村郷８６１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.84792779, 32.81974083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町野田郷３５−３" }, "geometry": { "type": "Point", "coordinates": [ 129.84798754, 32.82573547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町野田郷字猪ヶ倉９６０−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.83852986, 32.81755945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町吉無田郷１４２７−８" }, "geometry": { "type": "Point", "coordinates": [ 129.884092360000011, 32.81605816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町高田郷字大迫９２０−４" }, "geometry": { "type": "Point", "coordinates": [ 129.870743049999987, 32.80800121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町小浦１０４−２" }, "geometry": { "type": "Point", "coordinates": [ 129.30484224, 34.23132734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町豆酘３００２" }, "geometry": { "type": "Point", "coordinates": [ 129.18303911000001, 34.12041365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市古里５０４" }, "geometry": { "type": "Point", "coordinates": [ 129.470542779999988, 34.65787562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上県町樫滝１０８７" }, "geometry": { "type": "Point", "coordinates": [ 129.35027525000001, 34.53079393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上県町佐須奈乙８５０" }, "geometry": { "type": "Point", "coordinates": [ 129.40047575, 34.64171234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町比田勝１０００−２１" }, "geometry": { "type": "Point", "coordinates": [ 129.47030367, 34.6568745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市美津島町鶏知甲４７６" }, "geometry": { "type": "Point", "coordinates": [ 129.315611890000014, 34.26759218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市峰町三根２２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.3129476, 34.4668864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市峰町志多賀５６７" }, "geometry": { "type": "Point", "coordinates": [ 129.39731153, 34.47956952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市豊玉町横浦６３−４" }, "geometry": { "type": "Point", "coordinates": [ 129.3779549, 34.38871475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市豊玉町仁位１１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.31780884, 34.4001935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市協和町７７３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.94996475, 32.91518963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市古賀島町２８７−７" }, "geometry": { "type": "Point", "coordinates": [ 129.937641860000014, 32.92723691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市桜馬場２−５７６−２" }, "geometry": { "type": "Point", "coordinates": [ 129.950012570000013, 32.93223964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市西三城町１８−５" }, "geometry": { "type": "Point", "coordinates": [ 129.961256819999988, 32.91613374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市西大村本町２１４−１２" }, "geometry": { "type": "Point", "coordinates": [ 129.95054041, 32.92563933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市池田２−３０１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.963309900000013, 32.93403762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市東三城町１８−７" }, "geometry": { "type": "Point", "coordinates": [ 129.95911253, 32.91229409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市かき道１−４０−３" }, "geometry": { "type": "Point", "coordinates": [ 129.95461162, 32.77644023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市蚊焼町１９７６" }, "geometry": { "type": "Point", "coordinates": [ 129.818597509999989, 32.65007544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市滑石５−１−５８" }, "geometry": { "type": "Point", "coordinates": [ 129.83729818, 32.8073646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市樺島町１−１２" }, "geometry": { "type": "Point", "coordinates": [ 129.872624300000012, 32.746769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市竿浦町７２９−７" }, "geometry": { "type": "Point", "coordinates": [ 129.839684940000012, 32.67528688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市琴海戸根町２９０５−４" }, "geometry": { "type": "Point", "coordinates": [ 129.78623970000001, 32.88854959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市元船町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.87197009, 32.74956111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市戸石町１７３９−２９" }, "geometry": { "type": "Point", "coordinates": [ 129.980577079999989, 32.76392475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市光町１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86439046000001, 32.75620333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市光町９−１１" }, "geometry": { "type": "Point", "coordinates": [ 129.86326496, 32.75533445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市香焼町深浦３０２１−７" }, "geometry": { "type": "Point", "coordinates": [ 129.81728395, 32.69039218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市式見町２００−４３" }, "geometry": { "type": "Point", "coordinates": [ 129.79144886, 32.78706883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市宿町１０５−５" }, "geometry": { "type": "Point", "coordinates": [ 129.94380794, 32.76035644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市宿町５８８−３０" }, "geometry": { "type": "Point", "coordinates": [ 129.934561300000013, 32.76119942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市出来大工町６２" }, "geometry": { "type": "Point", "coordinates": [ 129.88301736, 32.75202331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小浦町７１４−８" }, "geometry": { "type": "Point", "coordinates": [ 129.82466716, 32.74748596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小江町２７３４−６" }, "geometry": { "type": "Point", "coordinates": [ 129.812096989999986, 32.76082137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小菅町２９−７" }, "geometry": { "type": "Point", "coordinates": [ 129.86470992, 32.72594838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市城栄町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.85860452, 32.77539813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市新小ヶ倉町２−１２−６" }, "geometry": { "type": "Point", "coordinates": [ 129.85969863, 32.70659089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市畝刈町１６１−１６" }, "geometry": { "type": "Point", "coordinates": [ 129.77983393, 32.82643867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西山２丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.887146410000014, 32.75908054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市千歳町１−８" }, "geometry": { "type": "Point", "coordinates": [ 129.86160123, 32.7890552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市川平町７１８−３" }, "geometry": { "type": "Point", "coordinates": [ 129.88779607, 32.79884062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市草住町１−４" }, "geometry": { "type": "Point", "coordinates": [ 129.84810076, 32.6910899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市大黒町１−２２" }, "geometry": { "type": "Point", "coordinates": [ 129.8709665, 32.75325057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市大浜町８５０" }, "geometry": { "type": "Point", "coordinates": [ 129.8319383, 32.74497908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市賑町１０−７" }, "geometry": { "type": "Point", "coordinates": [ 129.878025040000011, 32.74639947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市尾上町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.866945930000014, 32.75525943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市本原町１４−１６" }, "geometry": { "type": "Point", "coordinates": [ 129.86906894, 32.78263741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市末石町１５４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.84144695, 32.67962594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市末石町４５８−２" }, "geometry": { "type": "Point", "coordinates": [ 129.83818481, 32.68525692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市茂木町２１４８" }, "geometry": { "type": "Point", "coordinates": [ 129.91075623, 32.70327781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市野母町１３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.76169106, 32.58298936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市油木町１０１−７" }, "geometry": { "type": "Point", "coordinates": [ 129.841725239999988, 32.78344207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市亀ノ甲町乙１６４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.35290548, 32.82272613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市出の川町甲１６１９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33943889, 32.80935119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市新馬場町８５０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.36749891, 32.79639314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市西八幡町８４０１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.369705110000012, 32.77341351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市前浜町６３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.36191514, 32.80530888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市弁天町１−７４００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.37313848, 32.78250569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町折敷瀬郷１７７６−７" }, "geometry": { "type": "Point", "coordinates": [ 129.9029842, 33.14228108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町折敷瀬郷２１８０" }, "geometry": { "type": "Point", "coordinates": [ 129.897933849999987, 33.13782823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町榎津郷４９６" }, "geometry": { "type": "Point", "coordinates": [ 129.08986027, 33.00218099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町荒川郷４８４" }, "geometry": { "type": "Point", "coordinates": [ 129.04197166, 32.93036605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町若松郷１３６−３７" }, "geometry": { "type": "Point", "coordinates": [ 129.02465788, 32.88983057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町若松郷４６２−４９" }, "geometry": { "type": "Point", "coordinates": [ 129.02596204, 32.88617031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町若松郷５０５番地イ" }, "geometry": { "type": "Point", "coordinates": [ 129.021767610000012, 32.87592002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町青方郷２３３０" }, "geometry": { "type": "Point", "coordinates": [ 129.06810532, 32.98254734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町奈良尾郷１０２３" }, "geometry": { "type": "Point", "coordinates": [ 129.05651981, 32.8465176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町奈良尾郷８５４" }, "geometry": { "type": "Point", "coordinates": [ 129.05689795, 32.85247378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町有川郷２６１７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.11357805, 32.98396771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町有川郷字西原２２５４−２" }, "geometry": { "type": "Point", "coordinates": [ 129.11611589, 32.98075887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町有川郷字大橋２７８３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.11042957, 32.98166978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市加津佐町乙３０６" }, "geometry": { "type": "Point", "coordinates": [ 130.15580782, 32.62886664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市口之津町丙２００８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.18844603, 32.61172863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町丁３５５７" }, "geometry": { "type": "Point", "coordinates": [ 130.35629021, 32.72402781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町戊３０７９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.34091433, 32.73439502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市南有馬町乙２２９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.245137840000012, 32.63074963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市布津町甲１１９６" }, "geometry": { "type": "Point", "coordinates": [ 130.35238143, 32.68130081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市北有馬町乙１７６０" }, "geometry": { "type": "Point", "coordinates": [ 130.194927189999987, 32.67640451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市北有馬町丁１３" }, "geometry": { "type": "Point", "coordinates": [ 130.24469425, 32.65504303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市北有馬町丁５７" }, "geometry": { "type": "Point", "coordinates": [ 130.23942716, 32.65420182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町原尾２９９０" }, "geometry": { "type": "Point", "coordinates": [ 130.32111203, 32.69259251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町原尾６１２" }, "geometry": { "type": "Point", "coordinates": [ 130.34283665000001, 32.67255076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町小川８７６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.31145555, 32.66259082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市生月町里免３７４０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.4296908, 33.39500317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市生月町里免字小守６６０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.42959208, 33.38446702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市生月町里免字上川１６７９−４" }, "geometry": { "type": "Point", "coordinates": [ 129.43108059, 33.38782188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市前津吉町１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.44795801, 33.20995501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市草積町１１０８−７" }, "geometry": { "type": "Point", "coordinates": [ 129.46394396, 33.28424791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市築地町５１３" }, "geometry": { "type": "Point", "coordinates": [ 129.55252342, 33.36626716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市津吉町字大坪７９１−１４" }, "geometry": { "type": "Point", "coordinates": [ 129.427568470000011, 33.21671366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡佐々町松瀬免字狩立２０−３" }, "geometry": { "type": "Point", "coordinates": [ 129.66530432, 33.26053925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡小値賀町笛吹郷１３６２−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.05620954, 33.18597803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市栄田町１２−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.03724083, 32.86411786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市貝津町１５８６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.013306199999988, 32.83927316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市貝津町１６６２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.01300114, 32.83684472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市幸町２−３３" }, "geometry": { "type": "Point", "coordinates": [ 130.05907869, 32.84116363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市黒崎町９８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.09720594, 32.83710288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小川町１２５３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.054380689999988, 32.83168024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小船越町６０８" }, "geometry": { "type": "Point", "coordinates": [ 130.029068349999989, 32.84103107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小長井町牧２５６" }, "geometry": { "type": "Point", "coordinates": [ 130.18035525, 32.91478359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市松里町１６８３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.115277569999989, 32.7950216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市城見町３１−６３" }, "geometry": { "type": "Point", "coordinates": [ 130.049980080000012, 32.85152931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市森山町上井牟田１７３１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.11216459, 32.80526946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市森山町杉谷１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.14881664, 32.82296716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市真崎町８３４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.0288879, 32.85427222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町囲２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.979952090000012, 32.8265209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町化屋５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.98969939, 32.8305544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町化屋７２１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.98657, 32.83069327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市長野町１４８１−４" }, "geometry": { "type": "Point", "coordinates": [ 130.077964009999988, 32.83312536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市東小路町３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.04976509, 32.84347408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市飯盛町開１９０６" }, "geometry": { "type": "Point", "coordinates": [ 130.02280851, 32.78006047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市飯盛町野中１４−７" }, "geometry": { "type": "Point", "coordinates": [ 130.03163909, 32.79852852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市平和町１２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86431970000001, 32.77458282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町瀬戸浦５５" }, "geometry": { "type": "Point", "coordinates": [ 129.756343500000014, 33.81201357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町長峰本村触７８３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.67221751, 33.78739617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町田中触１１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.69984064, 33.76432858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市国見町神代辛" }, "geometry": { "type": "Point", "coordinates": [ 130.281561509999989, 32.85525487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市国見町土黒甲" }, "geometry": { "type": "Point", "coordinates": [ 130.307130629999989, 32.87355138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町雲仙４１３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.252006740000013, 32.72596855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市瑞穂町伊福乙" }, "geometry": { "type": "Point", "coordinates": [ 130.231410219999987, 32.86375117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市南串山町丙" }, "geometry": { "type": "Point", "coordinates": [ 130.137410710000012, 32.67551359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市岐宿町岐宿２５２３-４" }, "geometry": { "type": "Point", "coordinates": [ 128.760833459999986, 32.75051915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市吉久木町２０５−２２" }, "geometry": { "type": "Point", "coordinates": [ 128.819015040000011, 32.68984383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市東浜町１-４-１４" }, "geometry": { "type": "Point", "coordinates": [ 128.84741057, 32.69482434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市東浜町１丁目１９−１０" }, "geometry": { "type": "Point", "coordinates": [ 128.84834691, 32.69340188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市奈留町浦１６６８-５" }, "geometry": { "type": "Point", "coordinates": [ 128.933338780000014, 32.83339308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市宇久町平" }, "geometry": { "type": "Point", "coordinates": [ 129.13371759, 33.26270554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市江上町９５２-１" }, "geometry": { "type": "Point", "coordinates": [ 129.76955091, 33.10439011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市三浦町４-１１" }, "geometry": { "type": "Point", "coordinates": [ 129.72563623, 33.16607557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市世知原町栗迎３０８" }, "geometry": { "type": "Point", "coordinates": [ 129.74872711, 33.25915878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市日野町８２８-５" }, "geometry": { "type": "Point", "coordinates": [ 129.67950679, 33.16834114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町松島内郷１０３" }, "geometry": { "type": "Point", "coordinates": [ 129.62141434, 32.93632418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町久留里郷４１４" }, "geometry": { "type": "Point", "coordinates": [ 129.83800888, 32.83785274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市美津島町根緒４６８−６" }, "geometry": { "type": "Point", "coordinates": [ 129.30869526, 34.23407897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市久原２丁目１１９４−４" }, "geometry": { "type": "Point", "coordinates": [ 129.96940967, 32.89162843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市池田２-３３６-３" }, "geometry": { "type": "Point", "coordinates": [ 129.96140581, 32.93335982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市滑石１丁目１１３番２５" }, "geometry": { "type": "Point", "coordinates": [ 129.84583397, 32.8089289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市岩見町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.85519503, 32.76677859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市高浜町" }, "geometry": { "type": "Point", "coordinates": [ 129.78675604, 32.60913185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小ヶ倉町３丁目４６７" }, "geometry": { "type": "Point", "coordinates": [ 129.84892295, 32.70453358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市畝刈町５−３" }, "geometry": { "type": "Point", "coordinates": [ 129.78436861, 32.82625572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西海町１６９４−４" }, "geometry": { "type": "Point", "coordinates": [ 129.78618798, 32.8630137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市中園町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.85900541, 32.79281352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市平和町１９−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.867086699999987, 32.77556929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市弥生町７-３９" }, "geometry": { "type": "Point", "coordinates": [ 129.89246555, 32.72987316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市矢上町３２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.95241356, 32.77733556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市柳田町２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.84573849, 32.68650299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市下川尻町６９" }, "geometry": { "type": "Point", "coordinates": [ 130.37109898, 32.76648878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市蛭子町７４６０" }, "geometry": { "type": "Point", "coordinates": [ 130.37344872, 32.78008659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町大三東甲" }, "geometry": { "type": "Point", "coordinates": [ 130.34699351, 32.83354631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町石木郷１７４-１" }, "geometry": { "type": "Point", "coordinates": [ 129.86957124, 33.08221825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡東彼杵町三根郷１３６５" }, "geometry": { "type": "Point", "coordinates": [ 129.919991509999988, 33.04394485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町青方郷１７９１-９" }, "geometry": { "type": "Point", "coordinates": [ 129.06597835, 32.9806559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町丁２３９９" }, "geometry": { "type": "Point", "coordinates": [ 130.35137705, 32.71765052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市南有馬町乙１８３５-２" }, "geometry": { "type": "Point", "coordinates": [ 130.25352195, 32.63559325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町小川８３８" }, "geometry": { "type": "Point", "coordinates": [ 130.31023034, 32.66236755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市久山町２１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.00046864, 32.83139822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町野副６２" }, "geometry": { "type": "Point", "coordinates": [ 129.953607580000011, 32.84588492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐郡芦辺町箱崎本村触字辻１０１-３" }, "geometry": { "type": "Point", "coordinates": [ 129.73222525, 33.82480647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐郡郷ノ浦町東触５６３" }, "geometry": { "type": "Point", "coordinates": [ 129.69843744, 33.75359793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐郡勝本町布気触字腹川９６６-１０" }, "geometry": { "type": "Point", "coordinates": [ 129.68959374, 33.80613588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市南風崎町３６-１" }, "geometry": { "type": "Point", "coordinates": [ 129.8090833, 33.08601662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市御厨町高野免字丸久保１１８-１" }, "geometry": { "type": "Point", "coordinates": [ 129.66064252000001, 33.36655658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市志佐町高野免１０２-３" }, "geometry": { "type": "Point", "coordinates": [ 129.71326506, 33.33107203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡西海町横瀬郷３９０８" }, "geometry": { "type": "Point", "coordinates": [ 129.70223367, 33.08073647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町川内郷１１０６-５" }, "geometry": { "type": "Point", "coordinates": [ 129.72992363, 33.04976656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町中浦南郷１９０７-１" }, "geometry": { "type": "Point", "coordinates": [ 129.65547039, 33.013782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町中浦北郷１８１４-１" }, "geometry": { "type": "Point", "coordinates": [ 129.65990229, 33.03862377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町喰場郷１３２４" }, "geometry": { "type": "Point", "coordinates": [ 129.766083470000012, 32.98851033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町八木原郷１５２５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.737574880000011, 33.02266769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町雪浦下郷１４５６-２" }, "geometry": { "type": "Point", "coordinates": [ 129.66460906, 32.92015347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町多以良内郷１３６５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.646345059999987, 32.96646016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡琴海町長浦郷２７４８-１" }, "geometry": { "type": "Point", "coordinates": [ 129.78232139, 32.90780585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡三和町川原２６４-３" }, "geometry": { "type": "Point", "coordinates": [ 129.83463279, 32.63366065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町久留郷１４３９-１" }, "geometry": { "type": "Point", "coordinates": [ 129.83624896, 32.84343075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町嬉里郷１１０６" }, "geometry": { "type": "Point", "coordinates": [ 129.871491850000012, 32.8339141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市杭出津３丁目５０５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.95078106, 32.91349328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市松原本町３６３−１４" }, "geometry": { "type": "Point", "coordinates": [ 129.944672450000013, 32.9731976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市西三城町１４-４" }, "geometry": { "type": "Point", "coordinates": [ 129.9615369, 32.91416907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市富の原２-２１９-１" }, "geometry": { "type": "Point", "coordinates": [ 129.940510350000011, 32.94278548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市飯香浦町３４８３-１" }, "geometry": { "type": "Point", "coordinates": [ 129.93420304, 32.72812222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市新馬場町９０７" }, "geometry": { "type": "Point", "coordinates": [ 130.36529998, 32.79995186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町下組郷２０４２-２" }, "geometry": { "type": "Point", "coordinates": [ 129.85515296, 33.06628514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡東彼杵町千綿八反田郷１０１０" }, "geometry": { "type": "Point", "coordinates": [ 129.939903390000012, 33.02292691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町長野郷３１２" }, "geometry": { "type": "Point", "coordinates": [ 129.87330341, 33.1193448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡愛野町乙４９３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.15127511, 32.8153062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡加津佐町乙４７２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.15454616, 32.62972656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡吾妻町牛口名４４０-３" }, "geometry": { "type": "Point", "coordinates": [ 130.18823068, 32.83702475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡吾妻町古城名１１６-２" }, "geometry": { "type": "Point", "coordinates": [ 130.195479299999988, 32.84301237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡国見町神代己２４５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.28302251, 32.87511303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡国見町多比良戊３３７" }, "geometry": { "type": "Point", "coordinates": [ 130.29694281, 32.84956794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡小浜町山畑３４５-４" }, "geometry": { "type": "Point", "coordinates": [ 130.19032324, 32.69680651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡小浜町北本町１１４-２３" }, "geometry": { "type": "Point", "coordinates": [ 130.207374179999988, 32.73223579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡深江町丁４１３６" }, "geometry": { "type": "Point", "coordinates": [ 130.35835753, 32.72821629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡瑞穂町西郷辛６０４-２" }, "geometry": { "type": "Point", "coordinates": [ 130.23805588, 32.86806245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡西有家町龍石５０８２-２３" }, "geometry": { "type": "Point", "coordinates": [ 130.27247189, 32.65459178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡千々石町甲４５４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.196085329999988, 32.78667174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡南有馬町乙１３０９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.24795806, 32.63239537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡布津町乙１３５８-１" }, "geometry": { "type": "Point", "coordinates": [ 130.35364213, 32.69171189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡有家町小川字上小柳３４４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.30703989, 32.6621341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南高来郡有家町石田４５" }, "geometry": { "type": "Point", "coordinates": [ 130.33105787, 32.66830816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡岐宿町岐宿郷字幸田３３９４-１" }, "geometry": { "type": "Point", "coordinates": [ 128.761204209999988, 32.74791693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡岐宿町中岳郷１９４８-１" }, "geometry": { "type": "Point", "coordinates": [ 128.73181829, 32.6765703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡玉之浦町中須郷７４２" }, "geometry": { "type": "Point", "coordinates": [ 128.67471785, 32.63503805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡三井楽町浜之畔郷２９７２-６" }, "geometry": { "type": "Point", "coordinates": [ 128.68245431, 32.7387399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡富江町狩立郷４７９" }, "geometry": { "type": "Point", "coordinates": [ 128.764848120000011, 32.6144112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡有川町七目郷小蛤９５７-３" }, "geometry": { "type": "Point", "coordinates": [ 129.100133449999987, 32.97863915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市北有馬町戊字門前2760-1" }, "geometry": { "type": "Point", "coordinates": [ 130.24926532, 32.65565343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市下崎山町７７-３" }, "geometry": { "type": "Point", "coordinates": [ 128.87942682, 32.65470459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市下大津町２１５０" }, "geometry": { "type": "Point", "coordinates": [ 128.851598739999986, 32.68782347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市堤町１３３８-２" }, "geometry": { "type": "Point", "coordinates": [ 128.82115807, 32.6677801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市浜町１２２-１" }, "geometry": { "type": "Point", "coordinates": [ 128.81230446, 32.65327431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市木場町３０４-１" }, "geometry": { "type": "Point", "coordinates": [ 128.833878660000011, 32.69157767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市山中町字入口７３９-５" }, "geometry": { "type": "Point", "coordinates": [ 129.50606789, 33.34130612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市津吉町７０４" }, "geometry": { "type": "Point", "coordinates": [ 129.427113600000013, 33.21929445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡宇久町平郷岡の平３３５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.12543252, 33.26003921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡吉井町直谷町免２０８-１" }, "geometry": { "type": "Point", "coordinates": [ 129.699839, 33.28622277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡佐々町本田原免１６８-６" }, "geometry": { "type": "Point", "coordinates": [ 129.6496029, 33.23837735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡鹿町町深江免５７-３" }, "geometry": { "type": "Point", "coordinates": [ 129.62374652, 33.30650563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡小佐々町臼の浦免１-１" }, "geometry": { "type": "Point", "coordinates": [ 129.620210789999987, 33.22635448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡小値賀町笛吹郷字水ノ下２４５３-１" }, "geometry": { "type": "Point", "coordinates": [ 129.05940475, 33.19489098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡生月町山田免９７４-１" }, "geometry": { "type": "Point", "coordinates": [ 129.43567717, 33.36616981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡生月町里免１６１７" }, "geometry": { "type": "Point", "coordinates": [ 129.43335611, 33.38994457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡大島村大字大島前平免１７２０" }, "geometry": { "type": "Point", "coordinates": [ 129.55479051, 33.4840206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡鷹島町中通免憩石１８８５-２" }, "geometry": { "type": "Point", "coordinates": [ 129.75651177, 33.43569019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡田平町小手田字免柚木１０６７-２" }, "geometry": { "type": "Point", "coordinates": [ 129.58296191, 33.35507106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡福島町喜内瀬免６７４-３" }, "geometry": { "type": "Point", "coordinates": [ 129.8527255, 33.37302939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市下大渡野町２６９９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.023292739999988, 32.88666701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市貝津町２２３３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.01568045, 32.83749901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市高来町泉１８６-３" }, "geometry": { "type": "Point", "coordinates": [ 130.14513563, 32.90437291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小川町１-２" }, "geometry": { "type": "Point", "coordinates": [ 130.06189437, 32.8333266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市森山町田尻１４５７-３" }, "geometry": { "type": "Point", "coordinates": [ 130.14132253, 32.82936146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町舟津６４１-４" }, "geometry": { "type": "Point", "coordinates": [ 129.92737533, 32.85889452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市中通町１６７１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.073487019999988, 32.79196205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市長田町２２２１" }, "geometry": { "type": "Point", "coordinates": [ 130.079872200000011, 32.86105711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市長野１６００-１" }, "geometry": { "type": "Point", "coordinates": [ 130.08215135, 32.83318854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市飯盛町開１６０７" }, "geometry": { "type": "Point", "coordinates": [ 130.019524249999989, 32.78033531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市志佐町白浜免上の窪660-62" }, "geometry": { "type": "Point", "coordinates": [ 129.69340073, 33.3507465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市桜馬場1丁目398-1" }, "geometry": { "type": "Point", "coordinates": [ 129.95093961, 32.92880737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市磯道町130" }, "geometry": { "type": "Point", "coordinates": [ 129.84905619, 32.69926753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市花丘町17-15" }, "geometry": { "type": "Point", "coordinates": [ 129.86523424, 32.79132287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市昭和3丁目382-6" }, "geometry": { "type": "Point", "coordinates": [ 129.87060635, 32.79984461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西海町1730" }, "geometry": { "type": "Point", "coordinates": [ 129.78640592, 32.86073951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市石神町1-2" }, "geometry": { "type": "Point", "coordinates": [ 129.871037269999988, 32.78301243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市八千代町2-9" }, "geometry": { "type": "Point", "coordinates": [ 129.870014309999988, 32.75516799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市大手原町甲18" }, "geometry": { "type": "Point", "coordinates": [ 130.3580189, 32.81256621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町湯江甲432-1" }, "geometry": { "type": "Point", "coordinates": [ 130.32937259, 32.85918886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町下組郷42-3" }, "geometry": { "type": "Point", "coordinates": [ 129.859008460000013, 33.06838341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町浦桑郷字浦浜1376" }, "geometry": { "type": "Point", "coordinates": [ 129.08378037, 32.98535815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町奈摩郷1264-5" }, "geometry": { "type": "Point", "coordinates": [ 129.086216900000011, 33.02723135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡佐々町小浦免1127-8" }, "geometry": { "type": "Point", "coordinates": [ 129.6518302, 33.20810527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町囲480-4" }, "geometry": { "type": "Point", "coordinates": [ 129.97965364, 32.82738082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市長田町1558" }, "geometry": { "type": "Point", "coordinates": [ 130.08616084, 32.86662049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町雲仙札ノ原414-4" }, "geometry": { "type": "Point", "coordinates": [ 130.25259387, 32.72591784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市瑞穂町西郷辛1375-2" }, "geometry": { "type": "Point", "coordinates": [ 130.24068431, 32.86906953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市千々石町甲250-1" }, "geometry": { "type": "Point", "coordinates": [ 130.191848560000011, 32.78820832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市宇久町平2434-1" }, "geometry": { "type": "Point", "coordinates": [ 129.1293786, 33.26208256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市吉井町立石免252-7" }, "geometry": { "type": "Point", "coordinates": [ 129.68454287, 33.26833643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市小佐々町臼ノ浦374-1" }, "geometry": { "type": "Point", "coordinates": [ 129.62201823, 33.22298303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市有福町4158-1" }, "geometry": { "type": "Point", "coordinates": [ 129.79308296, 33.13182994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市志佐町浦免555" }, "geometry": { "type": "Point", "coordinates": [ 129.712891610000014, 33.34600621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市志佐町庄野免字蛭子崎269−2" }, "geometry": { "type": "Point", "coordinates": [ 129.69904317000001, 33.34999126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市調川町下免字762−3" }, "geometry": { "type": "Point", "coordinates": [ 129.730512800000014, 33.35372588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市指方町２７１２−９" }, "geometry": { "type": "Point", "coordinates": [ 129.77549055, 33.10300591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市針尾東町２３９３−３６" }, "geometry": { "type": "Point", "coordinates": [ 129.7621321, 33.05846475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市大塔町１９−７" }, "geometry": { "type": "Point", "coordinates": [ 129.780180910000013, 33.15041543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市日野町８５８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.67676839, 33.17094712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町喰場郷１２４７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.77061464, 32.98679858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町浜田郷６７−２" }, "geometry": { "type": "Point", "coordinates": [ 129.85199078, 32.83203485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町嬉里郷１６０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.8729727, 32.82921326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町高田郷字森の木７１１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.86943785, 32.8015238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市岩松町１６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.97966681, 32.89170706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市森園町１５７２−３" }, "geometry": { "type": "Point", "coordinates": [ 129.94120279, 32.9191432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市かき道１−２９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.95381855, 32.77031424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市滑石３−１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.84058962, 32.80745631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市古町１１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.88144405, 32.7504325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市高浜町２５３８" }, "geometry": { "type": "Point", "coordinates": [ 129.78942564, 32.60940876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市小ケ倉町１−１０２６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.85032367, 32.70884375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市松が枝町５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.868891749999989, 32.73617205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市新小が倉２丁目６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86032459, 32.70739659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西山町２−８−４" }, "geometry": { "type": "Point", "coordinates": [ 129.88839571, 32.7625481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市長浦町２６０２" }, "geometry": { "type": "Point", "coordinates": [ 129.78392029, 32.91051321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市宝栄町２２−２３" }, "geometry": { "type": "Point", "coordinates": [ 129.85976474, 32.77150817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市茂里町１−４６" }, "geometry": { "type": "Point", "coordinates": [ 129.86429793, 32.76363108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市御手水町甲２３２６" }, "geometry": { "type": "Point", "coordinates": [ 130.35500461, 32.81786336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町栄町３−２" }, "geometry": { "type": "Point", "coordinates": [ 129.86189746, 33.06905388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町中山郷１１６４" }, "geometry": { "type": "Point", "coordinates": [ 129.86664255, 33.10328669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町湯無田郷１９３１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.914393350000012, 33.13887898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市加津佐町乙８６５" }, "geometry": { "type": "Point", "coordinates": [ 130.15140946, 32.63276542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町丙９２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.348920889999988, 32.71577812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町市布１５７２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.97037764, 32.82038393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町芦辺浦字東３２４" }, "geometry": { "type": "Point", "coordinates": [ 129.75915446, 33.80260418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町住吉東触４５７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.70479329, 33.78845134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町中野郷西触３８５−３" }, "geometry": { "type": "Point", "coordinates": [ 129.720009940000011, 33.79130527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市勝本町新城西触１１８１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.69919164, 33.83110946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市勝本町大久保触１８４０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.692951849999986, 33.84606664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市勝本町百合畑触９９０" }, "geometry": { "type": "Point", "coordinates": [ 129.70097087, 33.80148437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市勝本町北触５１８−２" }, "geometry": { "type": "Point", "coordinates": [ 129.7119683, 33.83544843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市愛野町乙展望台５８７３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.16549251, 32.79602833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市小浜町北野５９４" }, "geometry": { "type": "Point", "coordinates": [ 130.21091733, 32.74924559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市千々石町戊５０１" }, "geometry": { "type": "Point", "coordinates": [ 130.20136137, 32.7846177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市南串山町丙９４０９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.14985728, 32.68107647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市栄町１−６" }, "geometry": { "type": "Point", "coordinates": [ 128.84728447, 32.69609166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市下本山町１５３９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.68056675, 33.20563516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市吉井町立石１８６−６" }, "geometry": { "type": "Point", "coordinates": [ 129.682589830000012, 33.26689638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市広田町１−３８７−１１" }, "geometry": { "type": "Point", "coordinates": [ 129.79993221, 33.12616516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市三浦７４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.63248997, 33.30352389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市小舟町４７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.760900310000011, 33.2089261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市早岐３−１１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.79321908, 33.13921613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市早苗町４３２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.80301581, 33.14460763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市大和町３９７" }, "geometry": { "type": "Point", "coordinates": [ 129.75089795, 33.15656157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市谷郷町３−３" }, "geometry": { "type": "Point", "coordinates": [ 129.71767319, 33.17702509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市椎木町１９３−１１" }, "geometry": { "type": "Point", "coordinates": [ 129.669596430000013, 33.17621117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市白木町６２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.73187483000001, 33.17239812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市俵町２３−３１" }, "geometry": { "type": "Point", "coordinates": [ 129.71821845, 33.19026022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市有福町２９７−４" }, "geometry": { "type": "Point", "coordinates": [ 129.78951007, 33.1265469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市崎戸町蠣浦郷１８１１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.567220420000012, 33.0213396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町七釜郷５０８−３０" }, "geometry": { "type": "Point", "coordinates": [ 129.651167719999989, 32.99334363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町太田和郷１０１３−４" }, "geometry": { "type": "Point", "coordinates": [ 129.66073651, 33.04121961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町雪浦下釜郷８９６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.66279971, 32.92032903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町元村郷８９７−３０" }, "geometry": { "type": "Point", "coordinates": [ 129.84699129, 32.81940596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町西時津郷６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86336993, 32.83213876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町高田郷字大平１７６９−６" }, "geometry": { "type": "Point", "coordinates": [ 129.857303910000013, 32.81353171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町下原４９８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.221306410000011, 34.22791367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町桟原５０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.28707018, 34.21527278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町東里字野良３５２−４" }, "geometry": { "type": "Point", "coordinates": [ 129.29146703, 34.19931038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上県町樫滝１０７９" }, "geometry": { "type": "Point", "coordinates": [ 129.34874812000001, 34.53165091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上県町佐護東里２４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.3594119, 34.61350804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町芦見２６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.45159665, 34.53321805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町一重５１４" }, "geometry": { "type": "Point", "coordinates": [ 129.44475968, 34.53070058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町泉６９２−５" }, "geometry": { "type": "Point", "coordinates": [ 129.471654089999987, 34.67707988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市上対馬町比田勝６６５" }, "geometry": { "type": "Point", "coordinates": [ 129.46078431, 34.65389455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市美津島町鶏知甲３６６" }, "geometry": { "type": "Point", "coordinates": [ 129.315361239999987, 34.2623875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市峰町佐賀６１４" }, "geometry": { "type": "Point", "coordinates": [ 129.36942776, 34.45691499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市峰町三根４９３−２" }, "geometry": { "type": "Point", "coordinates": [ 129.31756262, 34.47045024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市豊玉町鑓川１６−２" }, "geometry": { "type": "Point", "coordinates": [ 129.34961941, 34.3828967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市宮小路１−２８２" }, "geometry": { "type": "Point", "coordinates": [ 129.94531362, 32.94682978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市池田１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.963777, 32.92783794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市かき道１−１０６２" }, "geometry": { "type": "Point", "coordinates": [ 129.954364160000011, 32.77594707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市琴海形上町１８６１" }, "geometry": { "type": "Point", "coordinates": [ 129.784728159999986, 32.94953712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市江戸町２−３４" }, "geometry": { "type": "Point", "coordinates": [ 129.87367741, 32.74423832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市三重町９２−２" }, "geometry": { "type": "Point", "coordinates": [ 129.75146497, 32.82613082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市宿町３−３" }, "geometry": { "type": "Point", "coordinates": [ 129.94315626, 32.75865138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市松山町３−７３" }, "geometry": { "type": "Point", "coordinates": [ 129.86191894000001, 32.77597169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市新地町５−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.873459849999989, 32.74095083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市神浦江川町５００" }, "geometry": { "type": "Point", "coordinates": [ 129.68011116, 32.88225919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市多以良町５３０" }, "geometry": { "type": "Point", "coordinates": [ 129.79285063, 32.82236371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市池島町１５４" }, "geometry": { "type": "Point", "coordinates": [ 129.60390582, 32.88906192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市中川２−８−２５" }, "geometry": { "type": "Point", "coordinates": [ 129.89304015, 32.75197277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市八千代町２−２５" }, "geometry": { "type": "Point", "coordinates": [ 129.869778489999987, 32.75550126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市布巻町１４１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.82931985, 32.65129869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市茂木町１２７４" }, "geometry": { "type": "Point", "coordinates": [ 129.90187727, 32.70703635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市柳田町１０４" }, "geometry": { "type": "Point", "coordinates": [ 129.84471217, 32.68575696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市親和町丁３５６４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.368808019999989, 32.76205744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市田町６７７" }, "geometry": { "type": "Point", "coordinates": [ 130.36849909, 32.79375453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町湯江甲１４２" }, "geometry": { "type": "Point", "coordinates": [ 130.32558744, 32.86088185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡川棚町百津郷４３９" }, "geometry": { "type": "Point", "coordinates": [ 129.86461006, 33.06882098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡東彼杵町蔵本郷１７５２" }, "geometry": { "type": "Point", "coordinates": [ 129.91411982, 33.03926088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡東彼杵町里郷２３４３−６" }, "geometry": { "type": "Point", "coordinates": [ 129.94917249, 33.00499837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町宿郷２１８−６" }, "geometry": { "type": "Point", "coordinates": [ 129.88319184, 33.13405524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町宿郷５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.894016810000011, 33.13658515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町青方郷１３７２−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.068680980000011, 32.98394382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町奈摩郷１８" }, "geometry": { "type": "Point", "coordinates": [ 129.0702217, 33.01824886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南松浦郡新上五島町有川郷２２７５−１６" }, "geometry": { "type": "Point", "coordinates": [ 129.10805847, 32.97945095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市口之津町甲２１８６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.182003329999986, 32.60802531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市南有馬町戊１９６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.25390683, 32.64920704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市田平町山内免３０７" }, "geometry": { "type": "Point", "coordinates": [ 129.57770535, 33.3619748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市田平町里免２４１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.592862200000013, 33.3575481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市幸町２６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.06238603, 32.83866366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小船越町５１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.02280228, 32.83942371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小船越町９５０−８" }, "geometry": { "type": "Point", "coordinates": [ 130.03407542, 32.84100167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小長井町小川原浦４６１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.19178138, 32.92830941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市森山町下井牟田４２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.11304779, 32.82151042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市森山町唐比東６７１" }, "geometry": { "type": "Point", "coordinates": [ 130.13209931, 32.80051144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市泉町１７−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.056428540000013, 32.84720376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町中里５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.975447190000011, 32.82385439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市吉岡町１９２８−８" }, "geometry": { "type": "Point", "coordinates": [ 129.710064859999989, 33.21014658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市松浦町２−２９" }, "geometry": { "type": "Point", "coordinates": [ 129.71865688, 33.17483223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市上相浦８−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.66844361, 33.19516507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町野田郷字岩崎３５" }, "geometry": { "type": "Point", "coordinates": [ 129.848671599999989, 32.8250823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市畝刈町１６１３−２７９" }, "geometry": { "type": "Point", "coordinates": [ 129.77999165, 32.82612412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市中里町１２８４−４" }, "geometry": { "type": "Point", "coordinates": [ 129.96363661, 32.80567223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市目覚町２−５" }, "geometry": { "type": "Point", "coordinates": [ 129.865561609999986, 32.76276658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市高来町下与６３２−８５" }, "geometry": { "type": "Point", "coordinates": [ 130.11459917, 32.88929973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小船越町２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.03686374, 32.83770209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市上本山町1011-1" }, "geometry": { "type": "Point", "coordinates": [ 129.690727939999988, 33.20730111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市藤原町23-45" }, "geometry": { "type": "Point", "coordinates": [ 129.74191306, 33.16043817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町左底郷字坂口１００−４" }, "geometry": { "type": "Point", "coordinates": [ 129.8439991, 32.83288732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市森園町６６３−３" }, "geometry": { "type": "Point", "coordinates": [ 129.9380308, 32.92256787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市魚の町２−２４" }, "geometry": { "type": "Point", "coordinates": [ 129.8793221, 32.74815211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市恵美須町３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.87499537, 32.75063613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市昭和町２５６−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.8715573, 32.79822244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市中里町１１９４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.963272749999987, 32.80449722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市宝町９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86645848, 32.75988463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市新湊１−３５" }, "geometry": { "type": "Point", "coordinates": [ 130.370683680000013, 32.76401897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡東彼杵町大音琴郷１５７−４" }, "geometry": { "type": "Point", "coordinates": [ 129.89174799, 33.05773194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町丁５２２３" }, "geometry": { "type": "Point", "coordinates": [ 130.363037029999987, 32.7337358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市東浜町１丁目２番１０号" }, "geometry": { "type": "Point", "coordinates": [ 128.848022969999988, 32.69571171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市籠渕町１４−３" }, "geometry": { "type": "Point", "coordinates": [ 128.80573902, 32.69758172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市久山町２１５５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.00077138, 32.83176544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市高来町小船津３６４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.125710590000011, 32.89890616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小船越町６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.03313803, 32.84945451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市中里町26-1" }, "geometry": { "type": "Point", "coordinates": [ 129.677961149999987, 33.20304154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市瀬戸越４−６−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.72262662, 33.20630424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市滑石１−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 129.847686360000012, 32.80717589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町浜田郷３１−２" }, "geometry": { "type": "Point", "coordinates": [ 129.85064287, 32.83089712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡佐々町古川免105" }, "geometry": { "type": "Point", "coordinates": [ 129.650357539999987, 33.2430688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市深堀１丁目１４５−２２" }, "geometry": { "type": "Point", "coordinates": [ 129.833423900000014, 32.6846164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町左底郷１５８３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.83132236, 32.81916666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県福江市錦町３-２" }, "geometry": { "type": "Point", "coordinates": [ 128.84215117, 32.69377093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市木宮町３-３１" }, "geometry": { "type": "Point", "coordinates": [ 129.667730330000012, 33.19467598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市新地町４−１６−１０１" }, "geometry": { "type": "Point", "coordinates": [ 129.87405311, 32.74122794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市瀬戸越４丁目８‐１５" }, "geometry": { "type": "Point", "coordinates": [ 129.72348064, 33.20615409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市光町1-21" }, "geometry": { "type": "Point", "coordinates": [ 129.65233038, 33.20724878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市鹿子前町９２０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.68420046, 33.16200732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市松原本町487-1" }, "geometry": { "type": "Point", "coordinates": [ 129.94291732, 32.96946357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町瀬戸板浦郷８９２" }, "geometry": { "type": "Point", "coordinates": [ 129.638659710000013, 32.94535466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市片町１７５−４４" }, "geometry": { "type": "Point", "coordinates": [ 129.95925069, 32.90061795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市竹松本町８３３" }, "geometry": { "type": "Point", "coordinates": [ 129.946559509999986, 32.93891792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市藤原町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.7388469, 33.16474213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市梅田町６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.71845388, 33.19193634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県島原市弁天町２−７３５３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.3744269, 32.78254232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県五島市吉久木町１４６８" }, "geometry": { "type": "Point", "coordinates": [ 128.825038189999987, 32.69315742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県大村市小路口町７４５" }, "geometry": { "type": "Point", "coordinates": [ 129.95514289, 32.93653103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市常盤町１−８" }, "geometry": { "type": "Point", "coordinates": [ 129.872053419999986, 32.74104992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市江戸町７−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.87440872, 32.7441552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市住吉町２１−３６" }, "geometry": { "type": "Point", "coordinates": [ 129.85849267, 32.79374295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県大村市協和町８３２" }, "geometry": { "type": "Point", "coordinates": [ 129.94787993, 32.91831835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県雲仙市小浜町北野１０６１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.21035211, 32.74117063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市小ヶ倉町１−１０２２" }, "geometry": { "type": "Point", "coordinates": [ 129.85086056, 32.70914463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市郷ノ浦町東触１１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.70377127, 33.75509853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市芦辺町箱崎大左右触４９４" }, "geometry": { "type": "Point", "coordinates": [ 129.75742631, 33.81741484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県壱岐市石田町石田西触１０５７−４" }, "geometry": { "type": "Point", "coordinates": [ 129.75987971, 33.74783849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市大島村的山川内３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.53000114, 33.48409894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡小値賀町笛吹郷１３７３−２" }, "geometry": { "type": "Point", "coordinates": [ 129.05621438, 33.18664977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市矢上町６１３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.952060069999987, 32.7792419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市古賀島町３２４−２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.938337319999988, 32.92657713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市昭和１丁目１２−７" }, "geometry": { "type": "Point", "coordinates": [ 129.87166876, 32.79142699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町大手橋１２５０" }, "geometry": { "type": "Point", "coordinates": [ 129.291157, 34.20010698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市愛野町甲４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.15973674, 32.82163009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町松島内郷１７０７" }, "geometry": { "type": "Point", "coordinates": [ 129.60927107, 32.93882833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町稗木場郷２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.872019130000012, 33.13727216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町湯無田郷１３３８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.9218176, 33.13888659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小長井町打越８００−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.16818507, 32.91556056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県松浦市福島町塩浜免６６８−１１" }, "geometry": { "type": "Point", "coordinates": [ 129.82100023000001, 33.35892961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市瑞穂町西郷戊７８３" }, "geometry": { "type": "Point", "coordinates": [ 130.25089552, 32.85058826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市宇久町神浦２９１０" }, "geometry": { "type": "Point", "coordinates": [ 129.09811022, 33.2549869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市西有家町須川１７００−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.29412597000001, 32.65770684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町尾上２０６９" }, "geometry": { "type": "Point", "coordinates": [ 130.30281299, 32.67484988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町山川３５６" }, "geometry": { "type": "Point", "coordinates": [ 130.31408868, 32.6636958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市有家町山川６６" }, "geometry": { "type": "Point", "coordinates": [ 130.30595704000001, 32.6650821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市深江町甲３４" }, "geometry": { "type": "Point", "coordinates": [ 130.34517491, 32.71036714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市松里町７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.08224697, 32.79810286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町湯江甲２７３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.33101025, 32.85921425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市布巻町９３５" }, "geometry": { "type": "Point", "coordinates": [ 129.83418172, 32.65926379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市若葉町２−２８" }, "geometry": { "type": "Point", "coordinates": [ 129.862002780000012, 32.78610906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市奈留町浦１７６−３１" }, "geometry": { "type": "Point", "coordinates": [ 128.93332741, 32.83941618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市小豆崎町３１５" }, "geometry": { "type": "Point", "coordinates": [ 130.070989160000011, 32.85468974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町高田郷７１９−６" }, "geometry": { "type": "Point", "coordinates": [ 129.87039615, 32.80322595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市峰町佐賀７１６" }, "geometry": { "type": "Point", "coordinates": [ 129.36738975, 34.45712604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市宇土町８８１" }, "geometry": { "type": "Point", "coordinates": [ 130.34535312, 32.80209791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市岡町１−７" }, "geometry": { "type": "Point", "coordinates": [ 129.86248925000001, 32.77623771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市松が枝町５−３５" }, "geometry": { "type": "Point", "coordinates": [ 129.86849546, 32.73590308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市陰平町３９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.98725055, 32.88882014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市吉久木町１８８−１" }, "geometry": { "type": "Point", "coordinates": [ 128.81546366, 32.68804338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町久留里郷１４３９−２１" }, "geometry": { "type": "Point", "coordinates": [ 129.83684305, 32.84275113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市滑石２丁目１−５２" }, "geometry": { "type": "Point", "coordinates": [ 129.84674038, 32.80741239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市旭町８−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.86431499, 32.74855727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大瀬戸町瀬戸西濱郷５２" }, "geometry": { "type": "Point", "coordinates": [ 129.643830939999987, 32.93229087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西海町２５２７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.77177662, 32.83748301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市厚生町３−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.058065230000011, 32.84201635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市皆同町２２１" }, "geometry": { "type": "Point", "coordinates": [ 129.943940270000013, 32.96389133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市鏡川町４９４" }, "geometry": { "type": "Point", "coordinates": [ 129.541777309999986, 33.37371499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市野子町８９５−７" }, "geometry": { "type": "Point", "coordinates": [ 129.35971722, 33.19190503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県平戸市宮の町６４７−６" }, "geometry": { "type": "Point", "coordinates": [ 129.55287334, 33.37051922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市高島町２７０６" }, "geometry": { "type": "Point", "coordinates": [ 129.75519781, 32.65782841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市湊新地町４２０" }, "geometry": { "type": "Point", "coordinates": [ 130.37526613, 32.77431987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市琴海形上町１７８４−８" }, "geometry": { "type": "Point", "coordinates": [ 129.78266947, 32.9451121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市船泊町３３１２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.37169086, 32.75368486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町面高郷１５７２" }, "geometry": { "type": "Point", "coordinates": [ 129.67676645, 33.07813178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町川内郷１１０６−７" }, "geometry": { "type": "Point", "coordinates": [ 129.7292952, 33.04909714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西海町黒口郷４８４−２" }, "geometry": { "type": "Point", "coordinates": [ 129.68690281, 33.06517647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市多良見町市布１４８７−２" }, "geometry": { "type": "Point", "coordinates": [ 129.96745511, 32.81702893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市瀬戸越町１３０８" }, "geometry": { "type": "Point", "coordinates": [ 129.72105259, 33.20437107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市旭町６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86502324, 32.75024048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市大宮町１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.832892210000011, 32.80205204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市三京町２０３５" }, "geometry": { "type": "Point", "coordinates": [ 129.7540802, 32.8265321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市多以良町２５７−２" }, "geometry": { "type": "Point", "coordinates": [ 129.78690161, 32.82549067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市鳴見町８０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.810602859999989, 32.81039193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市西泊町２３−４９" }, "geometry": { "type": "Point", "coordinates": [ 129.846852649999988, 32.72306412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県諫早市赤崎町５９" }, "geometry": { "type": "Point", "coordinates": [ 130.106036030000013, 32.83695653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市元船町３−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.87124223, 32.74986956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市崎戸町蠣浦郷１８１２" }, "geometry": { "type": "Point", "coordinates": [ 129.56734748, 33.02208556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市干尽町６−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.72696012, 33.15052923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市干尽町１１−５" }, "geometry": { "type": "Point", "coordinates": [ 129.73016988, 33.15827322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市早岐２丁目１２−１９" }, "geometry": { "type": "Point", "coordinates": [ 129.79461538000001, 33.13795649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市早岐２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 129.79690298, 33.13534569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市広田４丁目８−５" }, "geometry": { "type": "Point", "coordinates": [ 129.79761008, 33.12107735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県佐世保市ハウステンボス町３７８８−１３５" }, "geometry": { "type": "Point", "coordinates": [ 129.79112139, 33.09568974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市門内町６１５" }, "geometry": { "type": "Point", "coordinates": [ 130.35862029, 32.75204073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市平間町９４５" }, "geometry": { "type": "Point", "coordinates": [ 129.94745798, 32.78812568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市新戸町１丁目３０−８" }, "geometry": { "type": "Point", "coordinates": [ 129.86452448, 32.71018035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県南島原市口之津町甲２７０１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.18107713, 32.60835111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県五島市東浜町１丁目２−１３" }, "geometry": { "type": "Point", "coordinates": [ 128.847800760000013, 32.69567836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市桜木町１４−２" }, "geometry": { "type": "Point", "coordinates": [ 129.724334449999986, 33.19901258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市下本山町４８７" }, "geometry": { "type": "Point", "coordinates": [ 129.68453442, 33.20817328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市西立神町１０−４４" }, "geometry": { "type": "Point", "coordinates": [ 129.84996593, 32.73603832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県松浦市志佐町浦免１２３８" }, "geometry": { "type": "Point", "coordinates": [ 129.706039299999986, 33.34227583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市宝栄町２２−２６" }, "geometry": { "type": "Point", "coordinates": [ 129.8598812, 32.77140265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県大村市富の原２丁目３１１" }, "geometry": { "type": "Point", "coordinates": [ 129.93961267, 32.94459684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市田原町１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.726151359999989, 33.20876361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市木宮町４−３" }, "geometry": { "type": "Point", "coordinates": [ 129.66775701, 33.19547281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市田原町１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 129.72173102, 33.20838779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県長崎市彦見町３−３１" }, "geometry": { "type": "Point", "coordinates": [ 129.89402361, 32.74004055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県五島市籠淵町１３５８−３" }, "geometry": { "type": "Point", "coordinates": [ 128.79839851, 32.70345068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県東彼杵郡川棚町中組郷１５８１" }, "geometry": { "type": "Point", "coordinates": [ 129.86283878, 33.07256594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県西海市崎戸町蠣浦郷１６４６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.56987605, 33.0227412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県南島原市西有家町須川７２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28758638, 32.66002939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県島原市有明町大三東戊１９０" }, "geometry": { "type": "Point", "coordinates": [ 130.34033438, 32.85135865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県南島原市西有家町須川５６９" }, "geometry": { "type": "Point", "coordinates": [ 130.29284059, 32.65412318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県南島原市北有馬町戊２８０５" }, "geometry": { "type": "Point", "coordinates": [ 130.25100254, 32.65661075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県南島原市西有家町須川１１００−３８" }, "geometry": { "type": "Point", "coordinates": [ 130.28664785, 32.65445774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市万徳町７−５" }, "geometry": { "type": "Point", "coordinates": [ 129.71498492, 33.18307034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県諫早市津久葉町５−１１７" }, "geometry": { "type": "Point", "coordinates": [ 130.00619925, 32.82135824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市大塔町１３１５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.76032158000001, 33.14539043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市油屋町５−４" }, "geometry": { "type": "Point", "coordinates": [ 129.8826349, 32.741379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市油屋町６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.88275808, 32.74172977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市白岳町８３５" }, "geometry": { "type": "Point", "coordinates": [ 129.75279616, 33.14615535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市滑石４丁目２０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.82668014, 32.80566579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市岩屋町４４−１８" }, "geometry": { "type": "Point", "coordinates": [ 129.847881120000011, 32.7984851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県松浦市星鹿町下田免１２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.67212555, 33.37910127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県五島市末広町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 128.84244996000001, 32.69477444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県五島市江川町４−２" }, "geometry": { "type": "Point", "coordinates": [ 128.84424261, 32.69680357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県大村市箕島町５９３" }, "geometry": { "type": "Point", "coordinates": [ 129.92163537, 32.91486556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県大村市今津町７７８" }, "geometry": { "type": "Point", "coordinates": [ 129.93476704, 32.93489838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県諫早市中尾町１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.02905795, 32.8470047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県諫早市飯盛町平古場１４９６" }, "geometry": { "type": "Point", "coordinates": [ 130.00629097, 32.78862214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県西彼杵郡長与町吉無田郷１４８９−１５９" }, "geometry": { "type": "Point", "coordinates": [ 129.890852489999986, 32.81323573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市北陽町３７−５" }, "geometry": { "type": "Point", "coordinates": [ 129.822043619999988, 32.81235828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市鹿町町大屋４５８" }, "geometry": { "type": "Point", "coordinates": [ 129.58984014, 33.28415184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市塩浜町７−２０" }, "geometry": { "type": "Point", "coordinates": [ 129.721079, 33.16645246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県松浦市調川町下免６９５" }, "geometry": { "type": "Point", "coordinates": [ 129.72667887, 33.35389153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県佐世保市田原町１６−４４" }, "geometry": { "type": "Point", "coordinates": [ 129.71779974, 33.20776392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市西山台２丁目８−２２" }, "geometry": { "type": "Point", "coordinates": [ 129.89016991, 32.78270141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県対馬市豊玉町横浦１４−２" }, "geometry": { "type": "Point", "coordinates": [ 129.37388564, 34.38794923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県五島市奈留町浦１５７１" }, "geometry": { "type": "Point", "coordinates": [ 128.933436809999989, 32.82069855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市本尾町６−６" }, "geometry": { "type": "Point", "coordinates": [ 129.87036913, 32.77408014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県長崎市宝町５−１５" }, "geometry": { "type": "Point", "coordinates": [ 129.86870595, 32.75858273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "長崎県諫早市多良見町化屋４７５" }, "geometry": { "type": "Point", "coordinates": [ 129.987799099999989, 32.83230583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県五島市東浜町１−２−５" }, "geometry": { "type": "Point", "coordinates": [ 128.84791148, 32.69585398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県対馬市厳原町下原２７８" }, "geometry": { "type": "Point", "coordinates": [ 129.2152534, 34.22916879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県雲仙市愛野町乙４１９" }, "geometry": { "type": "Point", "coordinates": [ 130.15109322, 32.81333513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡長与町高田郷７１６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86948028, 32.80243448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼杵町白似田郷１８７４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.78217743, 32.97007965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西彼杵郡時津町日並郷字中曽根2195-16" }, "geometry": { "type": "Point", "coordinates": [ 129.82920521, 32.84868884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市崎戸町蠣浦郷網干場１６４４" }, "geometry": { "type": "Point", "coordinates": [ 129.57050386, 33.02295102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市西彼町小迎郷７７-１" }, "geometry": { "type": "Point", "coordinates": [ 129.75565058, 33.05064812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県西海市大島町間瀬本町２区１９１８−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.61648107, 33.035012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県東彼杵郡波佐見町井石郷２２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.91028637, 33.14075499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市口之津町甲2160" }, "geometry": { "type": "Point", "coordinates": [ 130.184469220000011, 32.6094599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市西有家町須川５００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.292223869999987, 32.65654396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県南島原市西有家町須川４９１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.29217535, 32.65661296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡江迎町長坂免123-2" }, "geometry": { "type": "Point", "coordinates": [ 129.63085517, 33.30490903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県北松浦郡江迎町長坂免１６８" }, "geometry": { "type": "Point", "coordinates": [ 129.62917656, 33.30807359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県長崎市下黒崎町４２５０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.71074916, 32.84184196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町大三東乙１１０４" }, "geometry": { "type": "Point", "coordinates": [ 130.344635360000012, 32.8413521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県島原市有明町湯江乙１２００−２" }, "geometry": { "type": "Point", "coordinates": [ 130.319066600000014, 32.84055325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県佐世保市広田町３０５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.79942089, 33.12394678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県西海市大瀬戸町板浦郷１５３６" }, "geometry": { "type": "Point", "coordinates": [ 129.63893402, 32.94509085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県西海市大島町１８０６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.62561415, 33.04121056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県東彼杵郡波佐見町稗木場５３６−４" }, "geometry": { "type": "Point", "coordinates": [ 129.87186109000001, 33.13396559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県南松浦郡新上五島町三日の浦郷１−１３１" }, "geometry": { "type": "Point", "coordinates": [ 129.05190431, 32.96739585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県南島原市南有馬町丁２８２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.25405752, 32.63696378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県平戸市戸石川町字一ツ石８８−３" }, "geometry": { "type": "Point", "coordinates": [ 129.53864983, 33.35531735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "長崎県北松浦郡佐々町沖田免" }, "geometry": { "type": "Point", "coordinates": [ 129.63899011, 33.22603525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "長崎県大村市杭出津２丁目７４４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.95227929, 32.91134844 ] } }
+
+]
+}

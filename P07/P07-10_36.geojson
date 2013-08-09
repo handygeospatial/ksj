@@ -1,0 +1,1094 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市羽ノ浦町宮倉字芝生７" }, "geometry": { "type": "Point", "coordinates": [ 134.62268784, 33.96227449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町牛島７８２-１" }, "geometry": { "type": "Point", "coordinates": [ 134.650042039999988, 33.8786632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町江野島字羽村８３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.65155044, 33.9680958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町北中島字東浦２５９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.67129979, 33.9474769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市富岡町滝の下４２−５" }, "geometry": { "type": "Point", "coordinates": [ 134.66463905, 33.91587962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市福井町西の前６４−５" }, "geometry": { "type": "Point", "coordinates": [ 134.607758389999987, 33.82822841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市福井町土井ケ崎１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.62623584, 33.84994583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市阿波町庚申原７８" }, "geometry": { "type": "Point", "coordinates": [ 134.24958093, 34.07842751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市西条西姥御前７９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.38409872, 34.10926009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町水田字月成１３２の１" }, "geometry": { "type": "Point", "coordinates": [ 134.31664286, 34.0956865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町久保字板取２４３−２２７" }, "geometry": { "type": "Point", "coordinates": [ 134.30755521, 33.57647357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町小川字小川３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.30421974, 33.69433652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町大里字上中須１３８−２" }, "geometry": { "type": "Point", "coordinates": [ 134.351614610000013, 33.60219626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡美波町奥河内字寺前２６４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.528588, 33.7334486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡牟岐町大字中村字清水８６−５" }, "geometry": { "type": "Point", "coordinates": [ 134.42036787, 33.67501002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町牛島８５１の１" }, "geometry": { "type": "Point", "coordinates": [ 134.384073699999988, 34.0723303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町西麻植字新田１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.32976968, 34.06722907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町飯尾７９２−９" }, "geometry": { "type": "Point", "coordinates": [ 134.35248081, 34.06143466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町前川６４−３" }, "geometry": { "type": "Point", "coordinates": [ 134.24446078, 34.05807004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市川島町川島２６２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.319500909999988, 34.06477259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町中庄１２６８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.95610086, 34.03622035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町昼間３４６７番地の１" }, "geometry": { "type": "Point", "coordinates": [ 133.873863699999987, 34.04084922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市井川町西井川１９４番地の３" }, "geometry": { "type": "Point", "coordinates": [ 133.834978760000013, 34.03092625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町下名１０１０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.77048706, 33.87282352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町字シマ７６２−５" }, "geometry": { "type": "Point", "coordinates": [ 133.819033069999989, 34.02800884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町大字久国字国光３２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.50821796, 33.93098235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡上勝町大字福原字下横峰３８−２" }, "geometry": { "type": "Point", "coordinates": [ 134.402731179999989, 33.89013478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市田浦町字大栗２３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.56069505, 33.99819905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市立江町字中の坪１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.59664547, 33.96106207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町吉成字七丁原１２" }, "geometry": { "type": "Point", "coordinates": [ 134.52615033, 34.11800112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町東貞方字諏訪ノ市４２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.51839265000001, 34.1157313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町府中５６６" }, "geometry": { "type": "Point", "coordinates": [ 134.478346820000013, 34.07168443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市佐古６番町９−８" }, "geometry": { "type": "Point", "coordinates": [ 134.52880649, 34.07931589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市寺島本町西２−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.54697615, 34.07560713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市上八万町下中筋３番地４" }, "geometry": { "type": "Point", "coordinates": [ 134.51923632, 34.04018713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市城東町２−１２９" }, "geometry": { "type": "Point", "coordinates": [ 134.574108419999988, 34.07236729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町平石古田２９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.5767222, 34.11090671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大原町川添５の３" }, "geometry": { "type": "Point", "coordinates": [ 134.56760205, 34.02060049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大松町上ノ口２３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.55670385, 34.02113968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市中洲町１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.557609570000011, 34.06759941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市中島田町３−５２" }, "geometry": { "type": "Point", "coordinates": [ 134.51179835, 34.0838934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市津田本町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.577775, 34.05233633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南田宮３丁目５６０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.53861444, 34.08627817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市八万町大坪９２−４" }, "geometry": { "type": "Point", "coordinates": [ 134.527177880000011, 34.04504272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町延野字王字４５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.480216039999988, 33.82218146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町笹木野字八北開拓１０６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.58822322, 34.13749656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町笹木野字八北開拓１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.59277029, 34.14266156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町中喜来字宮前２番２１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.5784572, 34.14509485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町豊岡字芦田鶴１１３" }, "geometry": { "type": "Point", "coordinates": [ 134.59902754, 34.11612138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町西分字法師窪２６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.42050006, 34.11490147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町羅漢字前田３７" }, "geometry": { "type": "Point", "coordinates": [ 134.431793559999988, 34.13341826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町江尻松の本２８−３" }, "geometry": { "type": "Point", "coordinates": [ 134.55551871, 34.1236749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町笠木字中野１０４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.5039083, 34.13452392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町富吉字豊吉１００−１" }, "geometry": { "type": "Point", "coordinates": [ 134.48807971, 34.1324519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町貞光宮下１５" }, "geometry": { "type": "Point", "coordinates": [ 134.06379038, 34.04148943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町三島三谷２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.137763439999986, 34.05514731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町曽江名３３２" }, "geometry": { "type": "Point", "coordinates": [ 134.16831621, 34.0867841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原字桜間２２６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.46134878, 34.08440905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井字城の内１５２番１" }, "geometry": { "type": "Point", "coordinates": [ 134.43685585, 34.06657713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町藍畑字高畑６３５" }, "geometry": { "type": "Point", "coordinates": [ 134.45041052, 34.08868335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町吉永２２６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.59733458, 34.16525667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大麻町姫田字新田１６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.558367120000014, 34.1625027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市北灘町折野字屋敷９" }, "geometry": { "type": "Point", "coordinates": [ 134.48029201, 34.21271973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市鳴門町高島字中島１５４" }, "geometry": { "type": "Point", "coordinates": [ 134.60641949, 34.21154287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市柿原字西二条１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.34335932, 34.09401458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市吉田字原田市４−５−６" }, "geometry": { "type": "Point", "coordinates": [ 134.35006701, 34.11180295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場町香美字秋葉本８１番地２" }, "geometry": { "type": "Point", "coordinates": [ 134.284189919999989, 34.08487733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市西条字中小路４０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.37866392, 34.09949746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市西林１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.190628940000011, 34.06700265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市北五味知２０７−６" }, "geometry": { "type": "Point", "coordinates": [ 134.23545773, 34.09309242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町久保字板取６７−６" }, "geometry": { "type": "Point", "coordinates": [ 134.30506304, 33.57067467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町高園字酒岩５２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.34044241, 33.59851439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町尾崎字八山１４" }, "geometry": { "type": "Point", "coordinates": [ 134.28198921, 33.56520543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡美波町赤松字野田７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.500800450000014, 33.77105389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡牟岐町中村字本村１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.41934194000001, 33.67296921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町知恵島１３７２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.36200904, 34.08159161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町中島４３５−８" }, "geometry": { "type": "Point", "coordinates": [ 134.364063069999986, 34.06986252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町川田６４３" }, "geometry": { "type": "Point", "coordinates": [ 134.21159364, 34.06038858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町湯立２７６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.23069686, 34.05675115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市川島町三ツ島字北新田５６６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.282418619999987, 34.06342553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町加茂１８５４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.92712684, 34.03870423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町加茂５０２２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.91396601, 34.03570716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町中庄９１４" }, "geometry": { "type": "Point", "coordinates": [ 133.96330534, 34.03561984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市阿瀬比町字中村８" }, "geometry": { "type": "Point", "coordinates": [ 134.557003619999989, 33.87021264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市羽ノ浦町岩脇紫衣池９２" }, "geometry": { "type": "Point", "coordinates": [ 134.62639403, 33.947926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市桑野町中野１１６−７" }, "geometry": { "type": "Point", "coordinates": [ 134.61021028, 33.87550755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市見能林町青木９０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.6617239, 33.89419554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市見能林町青木９６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.66300135, 33.89489326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市新野町東馬場８７−５" }, "geometry": { "type": "Point", "coordinates": [ 134.58817937, 33.85042344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市領家町室の内３８４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.666425550000014, 33.92383983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町昼間１４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.88088324, 34.04142012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市三野町芝生字市９０２" }, "geometry": { "type": "Point", "coordinates": [ 133.96853794, 34.04557679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町下川２１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.79104923, 33.99195449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町末貞川口７７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.7553333, 33.95968192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市西祖谷山村一宇３８０" }, "geometry": { "type": "Point", "coordinates": [ 133.816902809999988, 33.89085436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町ウエノ２７９３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.79948735, 34.03037231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町中西字マガリタ８２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.786027499999989, 34.01217629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町馬路字横持９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76059429, 34.01497869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市東祖谷久保７４０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.94413608, 33.86799384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市東祖谷京上１４６−７" }, "geometry": { "type": "Point", "coordinates": [ 133.903675170000014, 33.8672992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市金磯町３−１１１" }, "geometry": { "type": "Point", "coordinates": [ 134.60353649000001, 33.99531982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市芝生町狭間５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58155459, 33.99630026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市赤石町４−１０１" }, "geometry": { "type": "Point", "coordinates": [ 134.60781943, 33.98276255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市大林町字岩戸８１−２" }, "geometry": { "type": "Point", "coordinates": [ 134.61447751, 33.97383687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市大林町字蛭子免３０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.6212006, 33.98262749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町古川字戒子野９６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.55678401, 34.1049018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町西貞方字小島９０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.51229354, 34.12002733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町東貞方字北野８９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.52044555, 34.1234667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市沖浜東１丁目１０" }, "geometry": { "type": "Point", "coordinates": [ 134.55362867, 34.05394976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町早淵北カジヤ−１" }, "geometry": { "type": "Point", "coordinates": [ 134.486541929999987, 34.07223958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町日開１０８３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.47358639, 34.08332719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市三軒屋町東１１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.55177373, 34.03174085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市住吉２−１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.56731213, 34.07866804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市住吉４丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 134.57261258, 34.08143955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市助任橋３丁目２９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.559180239999989, 34.07945604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市庄町３−３０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.51176172000001, 34.07505125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市昭和町７丁目３１" }, "geometry": { "type": "Point", "coordinates": [ 134.56824581, 34.05801522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市新浜本町２−２２２−７" }, "geometry": { "type": "Point", "coordinates": [ 134.56952844, 34.04376725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町竹須賀１６５" }, "geometry": { "type": "Point", "coordinates": [ 134.57576905, 34.10599301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大道２丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.54748547, 34.0640339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南沖洲５丁目１９２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.58363549, 34.05910105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南田宮１−２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.547305560000012, 34.08637492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南田宮２丁目７−２３" }, "geometry": { "type": "Point", "coordinates": [ 134.5434578, 34.08092083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市二軒屋町３丁目３２" }, "geometry": { "type": "Point", "coordinates": [ 134.54634683, 34.05715618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市富田橋１丁目８３番地" }, "geometry": { "type": "Point", "coordinates": [ 134.552998190000011, 34.06507086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市北矢三町１丁目１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.528487039999987, 34.08628118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市末広１丁目５−５６" }, "geometry": { "type": "Point", "coordinates": [ 134.56955364, 34.06291979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町大久保川久保４−８" }, "geometry": { "type": "Point", "coordinates": [ 134.45941235, 33.80020522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町木頭字広瀬１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.2994304, 33.83122165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町木頭出原字ウシロダ１５" }, "geometry": { "type": "Point", "coordinates": [ 134.20139362, 33.76902008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町木頭北川字ふんでん３１" }, "geometry": { "type": "Point", "coordinates": [ 134.10867255, 33.77659101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町笹木野字灘２０−４" }, "geometry": { "type": "Point", "coordinates": [ 134.58442521, 34.13508182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町笹木野字八北開拓１９０−４" }, "geometry": { "type": "Point", "coordinates": [ 134.59275767, 34.14127576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町神宅字西金屋７９−７" }, "geometry": { "type": "Point", "coordinates": [ 134.4101681, 34.12810985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町西分字東光６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.42852287, 34.11838705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町椎本字亀の本１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.43586858, 34.12056245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町椎本寺ノ前５９１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.43593191, 34.11463507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町川端字新手崎３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.47473930000001, 34.13758044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町大寺字泉口１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.46712756, 34.14187167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町鯛浜字西ノ須２７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.54900522, 34.11401277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町北村三町地５４−４" }, "geometry": { "type": "Point", "coordinates": [ 134.556566440000012, 34.13258155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町勝瑞字西地１１２" }, "geometry": { "type": "Point", "coordinates": [ 134.51350155, 34.13354405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町勝瑞字東勝地３６９" }, "geometry": { "type": "Point", "coordinates": [ 134.52279354, 34.1311861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町勝瑞字東勝地９６−１２" }, "geometry": { "type": "Point", "coordinates": [ 134.52007652, 34.13169991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町東中富字東傍示９８−１４" }, "geometry": { "type": "Point", "coordinates": [ 134.47997874, 34.11986867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町貞光大須賀６０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.06298326000001, 34.04331923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町半田中藪２６１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03825186, 34.04154176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町半田日開野５３２" }, "geometry": { "type": "Point", "coordinates": [ 134.03519397, 34.00382212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町穴吹字曽根３７番１" }, "geometry": { "type": "Point", "coordinates": [ 134.1708663, 34.05228769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町三島字小島４００" }, "geometry": { "type": "Point", "coordinates": [ 134.1080015, 34.05138929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町字一の宮１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03075655, 34.04880837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町天神北２５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.05251669, 34.05081506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町大字脇町４５７" }, "geometry": { "type": "Point", "coordinates": [ 134.144247009999987, 34.06922796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町拝原１５８８" }, "geometry": { "type": "Point", "coordinates": [ 134.16382302, 34.06458637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町鬼篭野字中分８４" }, "geometry": { "type": "Point", "coordinates": [ 134.392390400000011, 33.98829469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町神領字北２４５" }, "geometry": { "type": "Point", "coordinates": [ 134.34468211, 33.96759663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高原字平島４１１" }, "geometry": { "type": "Point", "coordinates": [ 134.407166929999988, 34.08193603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井字城の内６５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.42867245, 34.06582028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井字白鳥３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.46413234, 34.07058684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町大代字西ノ須２５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58023436, 34.15616709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大麻町市場居屋敷１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.531957690000013, 34.13485917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大麻町板東西山田１１９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.50035639, 34.15840468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市勝命２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26736466, 34.08166872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市大野島字新ノ池１７" }, "geometry": { "type": "Point", "coordinates": [ 134.307931270000012, 34.09304569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町四方原字大道西６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.35303126, 33.61121273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡美波町奥河内寺前１３２−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.53359002, 33.73058217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町内原２１４" }, "geometry": { "type": "Point", "coordinates": [ 134.36958340000001, 34.071003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町ウヱノ３１５８−９" }, "geometry": { "type": "Point", "coordinates": [ 133.793577950000014, 34.02938905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町西貞方字仁徳７４番１" }, "geometry": { "type": "Point", "coordinates": [ 134.50832367000001, 34.1164284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町府中字市ノ窪５７４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.47917675, 34.07129127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町北岩延字立石７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.49590717000001, 34.08455839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市佐古二番町７−１８" }, "geometry": { "type": "Point", "coordinates": [ 134.53814448, 34.07795459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市城南町１丁目２−１２" }, "geometry": { "type": "Point", "coordinates": [ 134.542183200000011, 34.05652403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町大松７８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.577728400000012, 34.11276001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市中洲町１−６６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.557215250000013, 34.06848194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南島田町２丁目１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.513398919999986, 34.08129179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市入田町春日３１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.44005667, 34.04294845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町延野字大原１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.48218194, 33.82032804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町矢武字南川窪１２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.43948208, 34.1200666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町江尻字川中須１６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.55904077, 34.12597938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町一宇字赤松５４０" }, "geometry": { "type": "Point", "coordinates": [ 134.065166299999987, 33.95494385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町川原町４７５３" }, "geometry": { "type": "Point", "coordinates": [ 134.08898417, 34.05918777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町浦庄字下浦１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.42092921, 34.06747445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市北灘町粟田字西傍示２５９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.54250332, 34.22447918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県みよし市池田町州津乳ノ木１３９８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.83448597, 34.03518307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市新野町片山４３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.58557984, 33.84743506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市西路見町元村１０２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.67190441, 33.92572966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市中大野町北傍示４４０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.594277049999988, 33.9328838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市椿町庄田５" }, "geometry": { "type": "Point", "coordinates": [ 134.67511699, 33.83171861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市福井町大西２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.6224937, 33.8414751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市喜来字田中６０４" }, "geometry": { "type": "Point", "coordinates": [ 134.26931201, 34.10526644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場字町筋３２３" }, "geometry": { "type": "Point", "coordinates": [ 134.28190686, 34.08886673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成字寒方77-7" }, "geometry": { "type": "Point", "coordinates": [ 134.345141219999988, 34.10340207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市南柴生２０６" }, "geometry": { "type": "Point", "coordinates": [ 134.23055395, 34.08883536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡牟岐町大字川長字関３４−１、３５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.42168085, 33.67921715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町山路１０７７" }, "geometry": { "type": "Point", "coordinates": [ 134.371761740000011, 34.06370627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市川島町大字桑村字北須賀２８２７" }, "geometry": { "type": "Point", "coordinates": [ 134.296087590000013, 34.0606547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町大字生名字太田42番１" }, "geometry": { "type": "Point", "coordinates": [ 134.52193556, 33.93275617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡上勝町大字正木字中津８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.42577823, 33.92176899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市小松島町字門田２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57477339, 34.00534794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市和田島字松田新田１４８" }, "geometry": { "type": "Point", "coordinates": [ 134.63274443, 33.99062349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市応神町吉成字西吉成１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.52626595000001, 34.11595419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町日開９７７−８" }, "geometry": { "type": "Point", "coordinates": [ 134.47799346, 34.08389866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町府中５５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.4823556, 34.07082015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町大殿字上川端３３−６" }, "geometry": { "type": "Point", "coordinates": [ 134.290747900000014, 33.80561663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町平野字森の下２０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.443889289999987, 33.83437153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町高瀬字宮の本２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.41355323, 34.10332468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町神宅字北屋敷２４" }, "geometry": { "type": "Point", "coordinates": [ 134.41582478, 34.13141907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町下ノ庄字松ノ本１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.455468990000014, 34.12667033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町大寺字王子７２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.46170636, 34.14325585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町那東大道下３４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.44070919, 34.13727687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町奥野字和田１００−１" }, "geometry": { "type": "Point", "coordinates": [ 134.49086587, 34.12232151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町笠木字中野１６４−４" }, "geometry": { "type": "Point", "coordinates": [ 134.50625917, 34.13307772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町端山字捨子谷南２７２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0771715, 34.01453961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町日開野２１０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.027807, 33.99728454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町中通２１４−３" }, "geometry": { "type": "Point", "coordinates": [ 134.021545339999989, 34.04639352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市木屋平字川井６４" }, "geometry": { "type": "Point", "coordinates": [ 134.20950066, 33.93085625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町字拝原１２２６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.166879990000012, 34.07221615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町下分字今井１３１" }, "geometry": { "type": "Point", "coordinates": [ 134.31079315, 33.96070916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町鬼籠野字東分７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39595343, 33.98831731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町神領字本上角１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.369230570000013, 33.97372477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原字天神７０６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.44041404, 34.08229153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名東郡佐那河内村下字中川原１１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.45425909, 33.99261114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大麻町大谷字上浜上１２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.544770379999989, 34.15640056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市新野町廿枝名光15-1" }, "geometry": { "type": "Point", "coordinates": [ 134.60518513, 33.8419897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町黒地字池の上477-8" }, "geometry": { "type": "Point", "coordinates": [ 134.63847812, 33.96074169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町色ケ島字民養64-1" }, "geometry": { "type": "Point", "coordinates": [ 134.659584200000012, 33.96321328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町北中島23-8" }, "geometry": { "type": "Point", "coordinates": [ 134.66368609, 33.94458623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市富岡町西石塚2-1" }, "geometry": { "type": "Point", "coordinates": [ 134.65508244, 33.91891387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町吉田字原田市の二1-1" }, "geometry": { "type": "Point", "coordinates": [ 134.35186517, 34.10436087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町鞆浦字那佐1-1" }, "geometry": { "type": "Point", "coordinates": [ 134.34439661, 33.58565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町季邦38" }, "geometry": { "type": "Point", "coordinates": [ 134.233679489999986, 34.05444181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町前川162" }, "geometry": { "type": "Point", "coordinates": [ 134.23876073, 34.05989274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市美郷川俣4-4" }, "geometry": { "type": "Point", "coordinates": [ 134.258080400000011, 34.03142248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町加茂5562-1" }, "geometry": { "type": "Point", "coordinates": [ 133.90557345, 34.03372409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市鮎喰町1丁目4-12" }, "geometry": { "type": "Point", "coordinates": [ 134.503185480000013, 34.07211659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市下町本丁27-6" }, "geometry": { "type": "Point", "coordinates": [ 134.48993643, 34.03808879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町観音寺字梨木675-1" }, "geometry": { "type": "Point", "coordinates": [ 134.4676598, 34.07008699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市佐古五番町8-2" }, "geometry": { "type": "Point", "coordinates": [ 134.5303189, 34.07852788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市昭和町7丁目38-4" }, "geometry": { "type": "Point", "coordinates": [ 134.56733928, 34.05863116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町大松225-1" }, "geometry": { "type": "Point", "coordinates": [ 134.57770409, 34.11677819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南沖洲3丁目22-1" }, "geometry": { "type": "Point", "coordinates": [ 134.58953338, 34.06487334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市八万町下福万151-5" }, "geometry": { "type": "Point", "coordinates": [ 134.53246139, 34.04995478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町広島北川向二ノ越154-1" }, "geometry": { "type": "Point", "coordinates": [ 134.57817272, 34.14030665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町穴吹字井口58-7" }, "geometry": { "type": "Point", "coordinates": [ 134.16613274, 34.04189336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市長生町大津田5−4" }, "geometry": { "type": "Point", "coordinates": [ 134.62146837, 33.91047847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市津乃峰町戎山15" }, "geometry": { "type": "Point", "coordinates": [ 134.65501568, 33.88500739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市大坪109" }, "geometry": { "type": "Point", "coordinates": [ 134.24394586, 34.07786896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡美波町奥河内字寺前46-1" }, "geometry": { "type": "Point", "coordinates": [ 134.52915323, 33.73618942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町西麻植字絵馬堂21-1" }, "geometry": { "type": "Point", "coordinates": [ 134.34092156, 34.06854006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町大字脇町3758−1" }, "geometry": { "type": "Point", "coordinates": [ 134.105210660000012, 34.05962874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市北灘町折野上東地6−4" }, "geometry": { "type": "Point", "coordinates": [ 134.49064868, 34.22084937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市羽ノ浦町中庄字蔵ノホケ" }, "geometry": { "type": "Point", "coordinates": [ 134.625824419999987, 33.95405307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市上中町南島751-13" }, "geometry": { "type": "Point", "coordinates": [ 134.624033700000012, 33.93437254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市津乃峰町東分104" }, "geometry": { "type": "Point", "coordinates": [ 134.65269949, 33.88732508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場町上喜来大門９１８" }, "geometry": { "type": "Point", "coordinates": [ 134.27442352, 34.10344506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市西野神187-1" }, "geometry": { "type": "Point", "coordinates": [ 134.27867378, 34.08358231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市大林町高橋70-1" }, "geometry": { "type": "Point", "coordinates": [ 134.6191527, 33.96600715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町拝原1555-2" }, "geometry": { "type": "Point", "coordinates": [ 134.16403367, 34.06609548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市橘町大浦２０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.63583756, 33.87193677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市上中町南島７０５" }, "geometry": { "type": "Point", "coordinates": [ 134.62264937, 33.93479615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町中島１４１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.666758140000013, 33.93893967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市富岡町南向２２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.662428659999989, 33.91726164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市福村町北筋１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.68834528, 33.92740779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市宝田町大久保２３２−８" }, "geometry": { "type": "Point", "coordinates": [ 134.63836729, 33.92723841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波郡市場町市場字町筋３９４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.283749160000013, 34.0856295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波郡市場町大字犬の墓字大北６" }, "geometry": { "type": "Point", "coordinates": [ 134.26589218, 34.12998726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡牟岐町中村字本村１４４−５" }, "geometry": { "type": "Point", "coordinates": [ 134.418812010000011, 33.67189301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市三野町加茂野宮字妙見６１５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.99118915, 34.04633945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町黒川３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.74403465, 33.96699213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町三渓字定岡９１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.490315579999987, 33.9307377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市小松島町字房浜１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58164428, 34.01022843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市安宅１−４−３０" }, "geometry": { "type": "Point", "coordinates": [ 134.570660159999989, 34.07046973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市吉野本町５−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.55144112, 34.08432877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市三軒屋町下分５６" }, "geometry": { "type": "Point", "coordinates": [ 134.55228806, 34.03841819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市庄町５−５−７" }, "geometry": { "type": "Point", "coordinates": [ 134.506100909999986, 34.07191214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市西新浜町２−３−８３" }, "geometry": { "type": "Point", "coordinates": [ 134.55850430000001, 34.04285599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市西須賀町中開３７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.549523349999987, 34.02750487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市仲之町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.55460709, 34.06623404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市徳島本町２−５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.558599539999989, 34.0717887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南昭和町１−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.55548388, 34.05896987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市藍場町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.547182529999986, 34.07504099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市論田町本浦下１０４−３" }, "geometry": { "type": "Point", "coordinates": [ 134.56682, 34.03411245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町朴野字大下４３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.44104299, 33.79145085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡鷲敷町和食郷字南川１９６−３" }, "geometry": { "type": "Point", "coordinates": [ 134.50027099, 33.85698747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町大寺字平田７１−２０" }, "geometry": { "type": "Point", "coordinates": [ 134.46566027, 34.1427224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町勝瑞字西勝地８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.517838149999989, 34.13274024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町富吉字地神１２" }, "geometry": { "type": "Point", "coordinates": [ 134.48546933, 34.13762107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡一宇村一宇３４９−５" }, "geometry": { "type": "Point", "coordinates": [ 134.069166450000012, 33.95593395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県麻植郡鴨島町本郷１６５−３" }, "geometry": { "type": "Point", "coordinates": [ 134.35705324, 34.06840984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県麻植郡山川町建石１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.229933859999988, 34.04662446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町阿野字本名１３５" }, "geometry": { "type": "Point", "coordinates": [ 134.37332742000001, 34.0075797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井石井４７９−８" }, "geometry": { "type": "Point", "coordinates": [ 134.446160920000011, 34.0680629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市北灘町大字折野字屋敷３７１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.48628464, 34.2186966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市羽ノ浦町宮倉５６" }, "geometry": { "type": "Point", "coordinates": [ 134.61972416, 33.96469054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市下大野町小野８４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.59557571, 33.93195021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市吉井町地神南２０−３" }, "geometry": { "type": "Point", "coordinates": [ 134.563920599999989, 33.9210358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市橘町土井崎１０７−９" }, "geometry": { "type": "Point", "coordinates": [ 134.62742774, 33.8549077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市宝田町川原８５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.646689110000011, 33.9222214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市宝田町平岡８９８" }, "geometry": { "type": "Point", "coordinates": [ 134.633494789999986, 33.9299667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市阿波町善地８５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20676118, 34.08126521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市阿波町東原１２２" }, "geometry": { "type": "Point", "coordinates": [ 134.23379148, 34.0836072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場町香美字原田２５０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.29173298, 34.08710865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町土成寒方５３−６" }, "geometry": { "type": "Point", "coordinates": [ 134.344583480000011, 34.10205341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡海陽町奥浦字鹿ケ谷３" }, "geometry": { "type": "Point", "coordinates": [ 134.353015449999987, 33.59270919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町牛島２１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39407868, 34.08362948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町上浦９５６" }, "geometry": { "type": "Point", "coordinates": [ 134.39628095, 34.06707871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町西麻植新田１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.33158185, 34.0678607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町知恵島４５９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.349088599999988, 34.08045533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町敷地１５９" }, "geometry": { "type": "Point", "coordinates": [ 134.34737085, 34.0606993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町加茂２６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.921599570000012, 34.03716824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町足代１４７８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.89634512, 34.04247225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市井川町西井川２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.83265105000001, 34.03051533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市三野町芝生３９３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.97391531, 34.045343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町シマ６８２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.820749479999989, 34.0277937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市赤石町４−８１" }, "geometry": { "type": "Point", "coordinates": [ 134.60987225, 33.98274078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市中田町原ノ下２７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57739343, 34.01434623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市立江町字小田の浦７５−５" }, "geometry": { "type": "Point", "coordinates": [ 134.604258570000013, 33.97779503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町井戸字堂ノ裏５１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.4841778, 34.08577591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町西黒田字南傍示２０７" }, "geometry": { "type": "Point", "coordinates": [ 134.46674271, 34.09905633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町西矢野８８７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.477408989999986, 34.04531278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町府中８３" }, "geometry": { "type": "Point", "coordinates": [ 134.482122299999986, 34.07210381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市渋野町浅野１０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.54123912, 34.01109188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市上八万町下中筋９８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.5130569, 34.03758307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市城東町１−２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57341882, 34.0769668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町平石夷野７８−５" }, "geometry": { "type": "Point", "coordinates": [ 134.57882224, 34.1209984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町鈴江北３３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.573944610000012, 34.09874477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市多家良町小路地７７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.533599650000014, 33.9933766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大松町榎原外７７−７" }, "geometry": { "type": "Point", "coordinates": [ 134.5561739, 34.0223813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市津田浜之町１−１８" }, "geometry": { "type": "Point", "coordinates": [ 134.57471306, 34.05325487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南常三島町１−２−６" }, "geometry": { "type": "Point", "coordinates": [ 134.55864184, 34.07753124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南二軒屋町１−１−２６" }, "geometry": { "type": "Point", "coordinates": [ 134.54623145, 34.05468308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南矢三町２−６３−１２" }, "geometry": { "type": "Point", "coordinates": [ 134.52502611, 34.08504583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市八万町字下福万１８０−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.53482068, 34.05277805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市飯谷町下里２４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.55190399, 33.96827964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市不動本町２−１８３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.506855980000012, 34.09441277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市末広１−３１４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.56893972, 34.06357896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町鮎川字大国１６４" }, "geometry": { "type": "Point", "coordinates": [ 134.48498135, 33.82694222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町掛盤字名古ノ瀬９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.28548612, 33.85291506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町小仁宇舟津の上５３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.489048090000011, 33.8581604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町長安字風穴２０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.35991931, 33.81180277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町平谷平谷向へ１６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.30351302, 33.79547845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町広島字北川向二ノ越８２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57584841, 34.1392233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町七條字大辻１６" }, "geometry": { "type": "Point", "coordinates": [ 134.40179422, 34.12155571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町犬伏２９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.451305569999988, 34.1405615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町奥野字原１５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.48823343, 34.1207856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町奥野西中須４４−４" }, "geometry": { "type": "Point", "coordinates": [ 134.48614358, 34.13059223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町徳命字前須東４６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.489184920000014, 34.11674934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町一宇字一宇３４９−５" }, "geometry": { "type": "Point", "coordinates": [ 134.07101058, 33.95626401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町貞光字宮下８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.063376799999986, 34.03971879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町半田字小野４６２" }, "geometry": { "type": "Point", "coordinates": [ 134.028194930000012, 34.03758594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町西赤谷３１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.17053547, 34.11025489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町大字脇町８０８−４" }, "geometry": { "type": "Point", "coordinates": [ 134.13882897, 34.07007206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町拝原１０８６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.170168929999988, 34.06774487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町別所２７６６" }, "geometry": { "type": "Point", "coordinates": [ 134.10874748, 34.05925289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町神領字本野間２５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.35054656, 33.96796705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原加茂野３１４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.45717908, 34.0835704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原字市楽９７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.45718359, 34.0809014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井８２２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.44991317, 34.06887161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名東郡佐那河内村下字東内１１−３" }, "geometry": { "type": "Point", "coordinates": [ 134.46213444, 33.98513155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市瀬戸町堂浦１９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57690706, 34.20789524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市瀬戸町明神字楠谷４１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.591229629999987, 34.19769918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町木津野字東川田８−６" }, "geometry": { "type": "Point", "coordinates": [ 134.59030329, 34.17051862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大麻町川崎３０７" }, "geometry": { "type": "Point", "coordinates": [ 134.515918840000012, 34.14200515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町斎田字北浜１９６" }, "geometry": { "type": "Point", "coordinates": [ 134.60085199, 34.18325695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町木津７１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.57949373, 34.16540073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町立岩字七枚６８" }, "geometry": { "type": "Point", "coordinates": [ 134.61427962, 34.17433956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市北灘町折野字屋敷２０２−７" }, "geometry": { "type": "Point", "coordinates": [ 134.48212827, 34.21580629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市橘町大浦２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.636968270000011, 33.87305057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市見能林町大作半３８" }, "geometry": { "type": "Point", "coordinates": [ 134.66854512, 33.90354704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市新野町馬場１０−３" }, "geometry": { "type": "Point", "coordinates": [ 134.58569555, 33.85008409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市楠根町津越１８２" }, "geometry": { "type": "Point", "coordinates": [ 134.57009027, 33.92449398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市富岡町玉塚６４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.65761075, 33.91793105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市阿波町北柴生１６２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.22600112, 34.09210796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県海部郡美波町西の地字東地１１３" }, "geometry": { "type": "Point", "coordinates": [ 134.59624263, 33.77628433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市かちどき橋１−１９" }, "geometry": { "type": "Point", "coordinates": [ 134.5571208, 34.06523392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町宮島本浦７０" }, "geometry": { "type": "Point", "coordinates": [ 134.58331254, 34.09204225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町中島１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.56753013, 34.11537333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大原町千代ケ丸３０−１４" }, "geometry": { "type": "Point", "coordinates": [ 134.567838529999989, 34.02395562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市中吉野町１−１３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.55748122, 34.08325774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市論田町和太開８２−５" }, "geometry": { "type": "Point", "coordinates": [ 134.56890883, 34.03791503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町瀬部４８１" }, "geometry": { "type": "Point", "coordinates": [ 134.39878202, 34.10061129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町川端字若王寺５７" }, "geometry": { "type": "Point", "coordinates": [ 134.47908825, 34.14803194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町口山字鯛子野４２８" }, "geometry": { "type": "Point", "coordinates": [ 134.145999069999988, 34.01033359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町字宗ノ分３６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03323014, 34.04947288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町阿野字広野７０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.40196921, 34.02672287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市小松島町字北浜４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58437888, 34.0135605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市庄町３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.51092527, 34.07401281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市大松町榎原外８３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.553883399999989, 34.02667609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町木頭出原字テラモト３" }, "geometry": { "type": "Point", "coordinates": [ 134.20303798, 33.77261097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡松茂町広島字宮後７−８" }, "geometry": { "type": "Point", "coordinates": [ 134.57203467, 34.13308216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町東中富字長江傍示１０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.48145562, 34.12889394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町半田字小野５１５" }, "geometry": { "type": "Point", "coordinates": [ 134.029539840000012, 34.03787076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町字駅６９" }, "geometry": { "type": "Point", "coordinates": [ 134.063861620000011, 34.05950436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市美馬町天神１６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.050437960000011, 34.04908928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町字拝原２０２８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.17015181, 34.06602619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町黒崎松島４６２" }, "geometry": { "type": "Point", "coordinates": [ 134.597948159999987, 34.19030387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町南浜字東浜１７３−５" }, "geometry": { "type": "Point", "coordinates": [ 134.60765134, 34.17212275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市鳴門町土佐泊浦字高砂８７−１６" }, "geometry": { "type": "Point", "coordinates": [ 134.625055370000013, 34.1953959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市桑野町紺屋6-2" }, "geometry": { "type": "Point", "coordinates": [ 134.61283784, 33.87945406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市長生町北貝ヶ原3-1" }, "geometry": { "type": "Point", "coordinates": [ 134.62209986, 33.91809715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町足代1346-1" }, "geometry": { "type": "Point", "coordinates": [ 133.893829649999986, 34.03733278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町足代1377" }, "geometry": { "type": "Point", "coordinates": [ 133.89481394, 34.03825714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市大林町中新田61-2" }, "geometry": { "type": "Point", "coordinates": [ 134.61651229, 33.9699541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市三軒屋町東72-9" }, "geometry": { "type": "Point", "coordinates": [ 134.55173855000001, 34.03496995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市北島田町1-48-1" }, "geometry": { "type": "Point", "coordinates": [ 134.51911949, 34.084019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町中村字東堤ノ内24-3" }, "geometry": { "type": "Point", "coordinates": [ 134.56250771, 34.12921077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町北村字一丁目四反地79-2" }, "geometry": { "type": "Point", "coordinates": [ 134.551814869999987, 34.13631951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市穴吹町穴吹東岩手13-4" }, "geometry": { "type": "Point", "coordinates": [ 134.16512622, 34.05604681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市脇町字拝原2722-1" }, "geometry": { "type": "Point", "coordinates": [ 134.176342369999986, 34.0651628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原字高川原2271-1" }, "geometry": { "type": "Point", "coordinates": [ 134.447804670000011, 34.08255779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市里浦町恵美寿143-5" }, "geometry": { "type": "Point", "coordinates": [ 134.61743847, 34.15594407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡神山町下分今井" }, "geometry": { "type": "Point", "coordinates": [ 134.30948582, 33.96003585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高川原字高川原１７１０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.44974034, 34.08031856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町石井７１５−４" }, "geometry": { "type": "Point", "coordinates": [ 134.455774819999988, 34.0699785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市中郷町高田８４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.56508553, 34.01151712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町藍畑字高畑1044" }, "geometry": { "type": "Point", "coordinates": [ 134.44040318, 34.09182393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町藍畑字高畑１２９２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.43707164, 34.09399526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町榎瀬４５６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.56147619, 34.10655095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市沖浜東1-8-3" }, "geometry": { "type": "Point", "coordinates": [ 134.554096539999989, 34.05481852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市庄町５−２１−３" }, "geometry": { "type": "Point", "coordinates": [ 134.50743103, 34.07287803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町東山字中村９５" }, "geometry": { "type": "Point", "coordinates": [ 133.87059918, 34.07558415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市八万町弐丈３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.54141759, 34.04383183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市万代町６丁目２９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.566919039999988, 34.06085391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市南沖洲１−７−９" }, "geometry": { "type": "Point", "coordinates": [ 134.58255736000001, 34.06473983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市国府町早渕８３９" }, "geometry": { "type": "Point", "coordinates": [ 134.48476678, 34.05501171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市北佐古二番町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.53624693, 34.08408664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市大津町矢倉四の越１５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.586802080000012, 34.15819474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県阿波市土成町土成字殿開６５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.32614392, 34.11982049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県小松島市金磯町８−１１３" }, "geometry": { "type": "Point", "coordinates": [ 134.60555037, 33.9917703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県板野郡藍住町東中富字大塚傍示２１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.47283937, 34.11660707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県板野郡松茂町笹木野字八山開拓１５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58780568, 34.1276022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県板野郡松茂町笹木野字八山開拓２３" }, "geometry": { "type": "Point", "coordinates": [ 134.591481789999989, 34.12412226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市津田海岸町１−９８" }, "geometry": { "type": "Point", "coordinates": [ 134.584932149999986, 34.05113026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市八万町大坪２０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.52615721, 34.04349447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市万代町７−２３" }, "geometry": { "type": "Point", "coordinates": [ 134.56868659, 34.05955699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町宮川内字広坪３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.35876704, 34.11863238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町南浜字東浜４４２" }, "geometry": { "type": "Point", "coordinates": [ 134.60843594, 34.17428103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市楠根町生蓮３６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.5663999, 33.92954572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市下大野町渡り上り５２２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.6082554, 33.93259212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市橘町幸野６２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.647742310000012, 33.87555371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市橘町西浜６９" }, "geometry": { "type": "Point", "coordinates": [ 134.64231834, 33.8726476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市富岡町第住町４７８" }, "geometry": { "type": "Point", "coordinates": [ 134.65024664, 33.92013355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市中大野町北傍示３６３" }, "geometry": { "type": "Point", "coordinates": [ 134.590782389999987, 33.93396805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町大字中角字長田２５−６" }, "geometry": { "type": "Point", "coordinates": [ 134.52949358, 33.9359604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名東郡佐那河内村下字下野９７−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.475375109999987, 34.00689499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町黒崎字松島６０−２１" }, "geometry": { "type": "Point", "coordinates": [ 134.601047630000011, 34.19124761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市那賀川町今津浦喜来３１−２" }, "geometry": { "type": "Point", "coordinates": [ 134.65173503, 33.96176025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県那賀郡那賀町海川字ヲフウチ８０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.25473697000001, 33.78064204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡北島町江尻字夷ノ本４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.54798155, 34.12140952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡板野町矢武字南川窪３３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.43772539, 34.12036436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町秋月字乾４９" }, "geometry": { "type": "Point", "coordinates": [ 134.314290379999989, 34.10088161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市土成町郡５６４" }, "geometry": { "type": "Point", "coordinates": [ 134.33451896, 34.09831886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市上八万町下中筋２５５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.51073119, 34.03745915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町榎瀬８５９" }, "geometry": { "type": "Point", "coordinates": [ 134.559065800000013, 34.10754675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町南浜字東浜１６７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.60815913, 34.17315696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市国府町西黒田字南傍示２２９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.46843727000001, 34.09947231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市撫養町斎田字北浜１５２" }, "geometry": { "type": "Point", "coordinates": [ 134.60391340000001, 34.18094666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市不動西町１丁目３８２−４" }, "geometry": { "type": "Point", "coordinates": [ 134.50391328, 34.09591134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町木津野字西辰巳８−２" }, "geometry": { "type": "Point", "coordinates": [ 134.59275419, 34.15964931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町鶴島１１２" }, "geometry": { "type": "Point", "coordinates": [ 134.57332165, 34.09696927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿南市見能林町青木２１９" }, "geometry": { "type": "Point", "coordinates": [ 134.664423809999988, 33.89627537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好郡東みよし町中庄１２４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.954668739999988, 34.03612958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県小松島市南小松島町１−２３" }, "geometry": { "type": "Point", "coordinates": [ 134.59052756, 34.00562745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町矢倉字六ノ越２５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.59273062, 34.15414307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市川内町平石若宮７３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.58091521, 34.10682107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市吉野本町１丁目１９" }, "geometry": { "type": "Point", "coordinates": [ 134.550898530000012, 34.0790489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町黒川１６３１" }, "geometry": { "type": "Point", "coordinates": [ 133.739999860000012, 33.96884184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町下川５８９−４" }, "geometry": { "type": "Point", "coordinates": [ 133.78422507, 33.97542356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市吉野本町６丁目２０−３" }, "geometry": { "type": "Point", "coordinates": [ 134.552194320000012, 34.08792174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市南昭和町１丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 134.55427735, 34.05770867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町サラダ１６１２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.80997098, 34.02714034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市井川町西井川３４３" }, "geometry": { "type": "Point", "coordinates": [ 133.8422846, 34.03249295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町吉永２４５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.5958393, 34.16353826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡藍住町住吉字千鳥ケ浜２０−４" }, "geometry": { "type": "Point", "coordinates": [ 134.50484774, 34.11897304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市阿波町南整理１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20105433, 34.07284157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町西麻植字広畑８９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.34179547, 34.06852434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町矢倉字中の越１−３" }, "geometry": { "type": "Point", "coordinates": [ 134.5931674, 34.14654802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市大津町大代１３１３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.56639385, 34.16310264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市八万町法花谷２９４−５" }, "geometry": { "type": "Point", "coordinates": [ 134.53773336, 34.03820394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県徳島市不動本町２丁目１８０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.50621475, 34.09480619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬市木屋平字八幡１９３" }, "geometry": { "type": "Point", "coordinates": [ 134.20100445, 33.92576273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県美馬郡つるぎ町貞光字長瀬６６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.079482039999988, 34.00260122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町西麻植字絵馬堂６４−４" }, "geometry": { "type": "Point", "coordinates": [ 134.339383309999988, 34.0693003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町前川２１２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.238884680000012, 34.05686448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市川島町児島字西須賀６７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.2868646, 34.06266517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市川島町桑村２６５７−９" }, "geometry": { "type": "Point", "coordinates": [ 134.29959882, 34.06057987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市三野町太刀野６１５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.9532997, 34.04617215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市山城町大野４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.71480055, 33.96383689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市池田町マチ２１８１−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.80508119000001, 34.02884488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場町上喜来字大門９１６−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.275578270000011, 34.10308531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県阿波市市場町山野上字大西２０１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.29831117, 34.08848723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県鳴門市鳴門町高島字中島２２２" }, "geometry": { "type": "Point", "coordinates": [ 134.60239479, 34.19835139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県板野郡藍住町徳命字前須東１９３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.48618799, 34.11750472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市庄町３丁目５８" }, "geometry": { "type": "Point", "coordinates": [ 134.51122516, 34.07547805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市撫養町木津１４６４−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.581997199999989, 34.1734722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市北沖洲４丁目１４−２８" }, "geometry": { "type": "Point", "coordinates": [ 134.59682806, 34.07192244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市藍場町２丁目８" }, "geometry": { "type": "Point", "coordinates": [ 134.54761306, 34.07472992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市西須賀町下中須８２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.547446900000011, 34.03281807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市西二軒屋町１丁目１" }, "geometry": { "type": "Point", "coordinates": [ 134.54642131, 34.05763925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市大津町大代６４３" }, "geometry": { "type": "Point", "coordinates": [ 134.56974501, 34.16491545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市中島田町４丁目９６" }, "geometry": { "type": "Point", "coordinates": [ 134.50705339000001, 34.08360055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市庄町５丁目６３−６" }, "geometry": { "type": "Point", "coordinates": [ 134.50458146, 34.07420151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市撫養町小桑島字前組９１" }, "geometry": { "type": "Point", "coordinates": [ 134.60477902, 34.18266455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県板野郡松茂町広島字東裏４２−１３" }, "geometry": { "type": "Point", "coordinates": [ 134.57845817, 34.13284144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市富田橋２丁目３１" }, "geometry": { "type": "Point", "coordinates": [ 134.552582300000012, 34.06355071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市大津町吉永１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.59902639, 34.16421672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市福島１丁目３−５８" }, "geometry": { "type": "Point", "coordinates": [ 134.56298908, 34.07090657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県吉野川市川島町桑村７８５" }, "geometry": { "type": "Point", "coordinates": [ 134.31877943, 34.05946306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県徳島市富田橋１丁目１０６" }, "geometry": { "type": "Point", "coordinates": [ 134.55191566, 34.06467557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県鳴門市撫養町黒崎字清水９２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.596298460000014, 34.18984428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県吉野川市鴨島町鴨島６８５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.35428955, 34.07420297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県小松島市小松島町字北浜１０６" }, "geometry": { "type": "Point", "coordinates": [ 134.588784080000011, 34.01331477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県徳島市末広１丁目５−４８" }, "geometry": { "type": "Point", "coordinates": [ 134.57029749, 34.06305382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県吉野川市鴨島町上浦３９２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39791931, 34.0718175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県名西郡神山町阿野字広野５０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.4042078, 34.02858112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県阿波市土成町土成字美緑２１７" }, "geometry": { "type": "Point", "coordinates": [ 134.339900480000011, 34.1085168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県名西郡石井町藍畑字西覚円１１００" }, "geometry": { "type": "Point", "coordinates": [ 134.42648534, 34.09433121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県徳島市寺島本町東２丁目９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.55284966, 34.07268357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県板野郡松茂町広島字宮ノ後４０−２８" }, "geometry": { "type": "Point", "coordinates": [ 134.57080134, 34.13464546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県美馬市脇町字西大谷５７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.15007336, 34.10020843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県徳島市南昭和町１丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 134.555985990000011, 34.05946236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県徳島市北沖洲４丁目１−３８" }, "geometry": { "type": "Point", "coordinates": [ 134.592197989999988, 34.06796173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県徳島市幸町３丁目２４" }, "geometry": { "type": "Point", "coordinates": [ 134.55399219, 34.06839147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "徳島県鳴門市撫養町南浜字蛭子前西４９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.596244680000012, 34.17342889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市井川町西井川６" }, "geometry": { "type": "Point", "coordinates": [ 133.83161031, 34.02996575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市鴨島町牛島７８２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.388373339999987, 34.07306467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県吉野川市山川町中須賀３８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26748674000001, 34.06382213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県三好市白地本名２２８−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.78243255000001, 34.01094625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町沼江字家台1" }, "geometry": { "type": "Point", "coordinates": [ 134.55185734, 33.95327365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県勝浦郡勝浦町中角字西原２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.52685001, 33.93424628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県板野郡上板町西分字君ノ木15-1" }, "geometry": { "type": "Point", "coordinates": [ 134.42367557, 34.11585881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "徳島県名西郡石井町高原字東高原４０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.42734178, 34.0849752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県阿南市橘町幸野１０７−１３" }, "geometry": { "type": "Point", "coordinates": [ 134.65607262, 33.87738099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県阿波市市場町上喜来字岸ノ下８３２−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.273479329999986, 34.099089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県海部郡海陽町大字宍喰浦字那佐２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.34359908, 33.58566656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県海部郡牟岐町大字内妻字古江９５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39037503, 33.6528224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県吉野川市鴨島町牛島字先須賀１４９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39600495, 34.08870648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県三好郡東みよし町西庄字井関１２５" }, "geometry": { "type": "Point", "coordinates": [ 133.939235020000012, 34.03255857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県三好市池田町州津片山７９" }, "geometry": { "type": "Point", "coordinates": [ 133.849478479999988, 34.03727272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県三好市池田町白地字井ノ久保１６１１" }, "geometry": { "type": "Point", "coordinates": [ 133.76622802, 34.01498899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県美馬市脇町大字猪尻字建神社下南１４６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.16334512, 34.06531939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県美馬市脇町大字猪尻字建神社下南１５６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.163093730000014, 34.06445246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "徳島県名西郡石井町石井字石井４５５−４" }, "geometry": { "type": "Point", "coordinates": [ 134.44390087, 34.06749951 ] } }
+
+]
+}

@@ -1,0 +1,1444 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市小松原町２丁目７番２６号" }, "geometry": { "type": "Point", "coordinates": [ 131.23783415, 33.9629436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市上宇部字吉原４７２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.26146843, 33.98666166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西宇部南３丁目５番１８号" }, "geometry": { "type": "Point", "coordinates": [ 131.22002361, 33.99806383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字船木４５６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.226373779999989, 34.04717309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東岐波字大津出５６１８" }, "geometry": { "type": "Point", "coordinates": [ 131.33314249, 33.97176186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮町２丁目９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.950429609999986, 34.00301492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市貴船町３丁目１番２０号" }, "geometry": { "type": "Point", "coordinates": [ 130.94153021, 33.96731528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市山の田東町４−１６" }, "geometry": { "type": "Point", "coordinates": [ 130.9284642, 33.98633035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市田倉字風ケ尾６１９" }, "geometry": { "type": "Point", "coordinates": [ 130.965116959999989, 34.01322534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市稗田西町１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.92578439, 33.99886351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町大字厚母郷大石９７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.90817904, 34.11682183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町大字矢田市尻３０７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07468727, 34.19917195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町大字神田字三浦１１７３" }, "geometry": { "type": "Point", "coordinates": [ 130.89454152, 34.31262166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市望町２丁目１２−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.8575808, 34.02342612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町字佐郷１２３３−５" }, "geometry": { "type": "Point", "coordinates": [ 132.019370939999988, 34.37029633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市車町２丁目２番２４号" }, "geometry": { "type": "Point", "coordinates": [ 132.22041651, 34.15682938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町大字下久原１７２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.04593527, 34.09234591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市青木町１丁目９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.2037748, 34.09827618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市多田字中村１０６２" }, "geometry": { "type": "Point", "coordinates": [ 132.164802189999989, 34.18024044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美川町南桑久保２３０８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.02693341, 34.20980418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美和町佐坂３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.1063393, 34.22629839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市麻里布町７−１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.21709754, 34.17068072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字平生村５０５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.08072633, 33.94486243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市協和町４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.93064884, 33.98538129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿東地福下３９３の１" }, "geometry": { "type": "Point", "coordinates": [ 131.621030319999988, 34.33718161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市葵２−７−５" }, "geometry": { "type": "Point", "coordinates": [ 131.450728590000011, 34.1617627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市旭通リ１丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.47311717, 34.17165612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市下小鯖字流４３０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52083893, 34.14877681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡下郷２９０９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.404681430000011, 34.09665553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内矢田字上大野４６５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.50572938, 34.15498684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市鋳銭司２２９２" }, "geometry": { "type": "Point", "coordinates": [ 131.46510558, 34.06985095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地堀１６４５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65863868, 34.18843677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市平井１４５６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.45665406, 34.14362256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市緑町５−８" }, "geometry": { "type": "Point", "coordinates": [ 131.46482547, 34.16956272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字山野井字穴角１８７８−１２２" }, "geometry": { "type": "Point", "coordinates": [ 131.11508889000001, 34.04367907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字埴生２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.06966083, 34.04366939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市東高泊梅ヶ崎１０２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.182088639999989, 34.0117539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市宮ノ前２丁目７番１０号" }, "geometry": { "type": "Point", "coordinates": [ 131.76334035, 34.07200269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市築港町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.79967955, 34.05223111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町大字西方字高田１９５８−２５" }, "geometry": { "type": "Point", "coordinates": [ 132.341005880000012, 33.90287546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市三隅中１５６６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.251018179999988, 34.36296614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川字丁ケ坪８５２" }, "geometry": { "type": "Point", "coordinates": [ 131.18725932000001, 34.37296458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷向津具下大字黒見崎３６０３" }, "geometry": { "type": "Point", "coordinates": [ 130.97335536, 34.40476855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷大字伊上４７７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.028815040000012, 34.37028249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市佐々並２６０７" }, "geometry": { "type": "Point", "coordinates": [ 131.46514652, 34.28671476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市秋芳町大字別府２７２１" }, "geometry": { "type": "Point", "coordinates": [ 131.26619286, 34.24420527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分２９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.20163562, 34.16606447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市豊田前町麻生上１３２６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.12306519, 34.19793057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市国衙５丁目６９２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59068338, 34.05515981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市佐野字村上開作１５６３−４" }, "geometry": { "type": "Point", "coordinates": [ 131.50391833, 34.04876091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市西浦木舟１４３５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52290789, 34.02590884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字植松字開１３１３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.53384703, 34.04241879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市田島上地一筋７８９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.56234803000001, 34.02908016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市八王子１丁目３０番１６号" }, "geometry": { "type": "Point", "coordinates": [ 131.566597589999986, 34.05696566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市浜方古浜横入川１７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.574890360000012, 34.02533996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市鈴屋字宮ノ前７９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59006939, 34.10713132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市南町２丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.10666706, 33.96348173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市河東町２−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.811817319999989, 34.04890249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市久米３２２３" }, "geometry": { "type": "Point", "coordinates": [ 131.83551746, 34.03390647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市櫛ヶ浜中町５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.83070906, 34.02754928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市古川町９−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.773435760000012, 34.07084928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市周陽２丁目２−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.83429153, 34.04596465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市秋月３−４−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.8289562, 34.0574291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市城ケ丘２−１−３７" }, "geometry": { "type": "Point", "coordinates": [ 131.83887467, 34.04315944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新宿通１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.8025001, 34.05695517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新宿通り４丁目２" }, "geometry": { "type": "Point", "coordinates": [ 131.7998436, 34.06237945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字戸田字出合１３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.69085744, 34.07365303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字鹿野下字細野２１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.818022289999988, 34.21263202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字鹿野上字上野３２６５" }, "geometry": { "type": "Point", "coordinates": [ 131.816761570000011, 34.23077821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字須々万本郷３８９−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.86744314, 34.11909713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市二番町３丁目９" }, "geometry": { "type": "Point", "coordinates": [ 131.81318177, 34.05676857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町外入１６４６−３" }, "geometry": { "type": "Point", "coordinates": [ 132.33583925, 33.88540495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町久賀字石仏６５４８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.25265405, 33.95156792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町小松１９９−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.192292009999989, 33.93053828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町森６８１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.3584951, 33.91298142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町西安下庄２３" }, "geometry": { "type": "Point", "coordinates": [ 132.27687044000001, 33.89890956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町大字久賀八幡上９９５" }, "geometry": { "type": "Point", "coordinates": [ 132.27183015, 33.94697366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市深川湯本字北スケ１７９番地" }, "geometry": { "type": "Point", "coordinates": [ 131.177278410000014, 34.35240584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川七反田２５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18068512, 34.36400716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷新別名字道添９７０−４" }, "geometry": { "type": "Point", "coordinates": [ 131.058869859999987, 34.37232302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大井下馬場１８２２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.44961056, 34.47699026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字下田万字西松ヶ前１２３１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.660047889999987, 34.64269962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字椿東字玉太郎１０６９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.415912170000013, 34.40989849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市椿東玉太郎１０５４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41556047, 34.40821592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市土原１９番地" }, "geometry": { "type": "Point", "coordinates": [ 131.40694728, 34.40557939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市伊佐町伊佐字１の野崎３５７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.235623479999987, 34.17164191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市嘉万３２６２" }, "geometry": { "type": "Point", "coordinates": [ 131.26346804, 34.26144622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市絵堂字開作５７６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35843925, 34.26126108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市秋吉５４１１" }, "geometry": { "type": "Point", "coordinates": [ 131.2905685, 34.21466806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市真名字台７５３" }, "geometry": { "type": "Point", "coordinates": [ 131.33813711, 34.1528653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市西厚保町本郷６９１" }, "geometry": { "type": "Point", "coordinates": [ 131.13916057, 34.11015399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分２６２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.20956396, 34.16732671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字国衙２丁目２−３９" }, "geometry": { "type": "Point", "coordinates": [ 131.58381467000001, 34.05590488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字植松２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.53567797, 34.04951244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県阿武郡阿武町福田下１５４３−４" }, "geometry": { "type": "Point", "coordinates": [ 131.59902062, 34.5161437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市若松町６−３５" }, "geometry": { "type": "Point", "coordinates": [ 131.2420955, 33.9599648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市寿町３丁目３−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.25355651000001, 33.95044454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西岐波亀浦４６７３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.287785039999989, 33.94257961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西岐波字神楽田１３４６−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.31837998, 33.96205444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市川上１００５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.27938393, 33.99250148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字妻崎開作字崎拾拾壱ノは４９０番１" }, "geometry": { "type": "Point", "coordinates": [ 131.20503187, 33.98316555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字山中字吉川２２６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.323205, 34.05667118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市中村２丁目４−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.2636475, 33.96432108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市鍋倉町６−３３" }, "geometry": { "type": "Point", "coordinates": [ 131.23225906, 33.96914059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市明治町２丁目１２−９" }, "geometry": { "type": "Point", "coordinates": [ 131.252628390000012, 33.94014579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮町３丁目１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.952426409999987, 33.9961402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮本町２−１３−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.95253245, 33.99854855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市員光町４−１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.00333455, 34.05004281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市横野町１−１６−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.912393259999988, 34.03133576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市王司上町５−７−４０" }, "geometry": { "type": "Point", "coordinates": [ 131.01291475, 34.04042005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市王司南町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.01302597, 34.03183771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市王司本町３丁目１−２８" }, "geometry": { "type": "Point", "coordinates": [ 131.01838657, 34.03889248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市観音崎町１３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.93734862, 33.95195293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市丸山町２−１−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.932266590000012, 33.95953575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市菊川町下岡枝１４０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.03207562, 34.12131314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市吉見新町１−２−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.90039109, 34.07096016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市筋川町１−６" }, "geometry": { "type": "Point", "coordinates": [ 130.918258, 33.96552963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市垢田町５−７−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.91951258, 33.99248257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市上新地町１丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.921175049999988, 33.95839923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字永田郷永田町１１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.89486696, 34.08191275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大和町１−１３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.91753, 33.94485003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府珠の浦町２１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.98025189, 34.00800141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府松小田本町１８−７" }, "geometry": { "type": "Point", "coordinates": [ 130.9993715, 34.01524317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府前八幡町５２９−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.9942622, 34.00706664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市東大和町１丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.921211590000013, 33.94395842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市稗田中町１２−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.92756209, 33.99336855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島角倉町１丁目１−３７" }, "geometry": { "type": "Point", "coordinates": [ 130.91464273, 33.9287112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島江の浦町２−１−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.91108867, 33.93559848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島迫町３丁目８−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.8972781, 33.93962803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島本村町６丁目２−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.913956829999989, 33.93956726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市武久町２丁目１３−９" }, "geometry": { "type": "Point", "coordinates": [ 130.919840560000011, 33.9760657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町宇賀７０１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.93226343, 34.2033671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町川棚７０９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.921375930000011, 34.14494584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町大字中村田屋２５７" }, "geometry": { "type": "Point", "coordinates": [ 131.07266894, 34.18715726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町中村３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07706589, 34.20026534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町大字神田１４７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.898211589999988, 34.31795256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町滝部市の下８８２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.952818439999987, 34.29066509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町北宇賀字二見" }, "geometry": { "type": "Point", "coordinates": [ 130.910628339999988, 34.24732067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市生野屋南２丁目３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.88212127, 34.03430177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市西豊井高砂東１３５２−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.86341083, 34.00917683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字河内１８５４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.891487360000013, 34.02268568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字山田９４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.90046196, 34.03215931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字切山字下柳ケ坪１４７６" }, "geometry": { "type": "Point", "coordinates": [ 131.91627688, 34.0429718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字東豊井９０５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.87335386, 33.99938007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字東豊井宮前１５３５" }, "geometry": { "type": "Point", "coordinates": [ 131.87309259, 34.00738793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市中央町２１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.86277, 34.01955005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市望町２−９−５" }, "geometry": { "type": "Point", "coordinates": [ 131.85917636, 34.02439763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市葉山２丁目９０４−２８" }, "geometry": { "type": "Point", "coordinates": [ 131.908593489999987, 34.02326046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町宇佐郷１２３０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.019436860000013, 34.3711109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町広瀬１０６２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.95520961, 34.26131626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市玖珂町阿山６２２５−２" }, "geometry": { "type": "Point", "coordinates": [ 132.07479924, 34.09532542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市玖珂町上市９００−５" }, "geometry": { "type": "Point", "coordinates": [ 132.08754764, 34.09926949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市桂町１−５−７" }, "geometry": { "type": "Point", "coordinates": [ 132.2351707, 34.17157393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市元町１丁目２−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.22697749, 34.17118028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市車町２丁目９−４５" }, "geometry": { "type": "Point", "coordinates": [ 132.2198391, 34.15457094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市新港町４丁目１８−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.23038, 34.19130449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市青木町１丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 132.20240075000001, 34.10178838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市大字柱野字沖田１１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.14836613, 34.13241447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市南岩国町２丁目４−７" }, "geometry": { "type": "Point", "coordinates": [ 132.1935637, 34.13726712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美和町渋前下立野１７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.08148818, 34.21975643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市平田６丁目２４−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.19025405, 34.13936272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市保津町１丁目２５−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.209091480000012, 34.08642243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市麻里布町７丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 132.21795033, 34.17242996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市門前町３−１６−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.2143801, 34.14639824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市由宇町南町３−１１−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.213391410000014, 34.0411784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市立石町１丁目５−４０" }, "geometry": { "type": "Point", "coordinates": [ 132.23014581000001, 34.17940411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町宿井１１２３" }, "geometry": { "type": "Point", "coordinates": [ 132.01687499, 33.97112037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字下田布施３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.053991880000012, 33.95470293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字宿井１０８８" }, "geometry": { "type": "Point", "coordinates": [ 132.01872975, 33.97046935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町波野原河内３２７−５" }, "geometry": { "type": "Point", "coordinates": [ 132.04754166, 33.95834449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字尾国２１６" }, "geometry": { "type": "Point", "coordinates": [ 132.12108801, 33.87047508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市室積新開２丁目１番３号" }, "geometry": { "type": "Point", "coordinates": [ 131.967827129999989, 33.94068392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市上島田４丁目４番１号" }, "geometry": { "type": "Point", "coordinates": [ 131.96149581, 33.98989603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江２−８−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.92517702, 33.97182178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市大字岩田１０３２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.99413687, 33.97502249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市大字岩田２５０４−３７" }, "geometry": { "type": "Point", "coordinates": [ 131.996398559999989, 33.9823243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市中央４丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 131.94436794, 33.96003275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市島田１丁目１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.93433518, 33.9697178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市虹ヶ浜１丁目１１−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.919692880000014, 33.97244434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿知須沖の原区４８８６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.355109950000013, 34.01370238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿東徳佐中３３３９−８" }, "geometry": { "type": "Point", "coordinates": [ 131.72281117, 34.39724807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市葵２丁目９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.44734237, 34.16038075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市桜畠１丁目１−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.49573167, 34.19024774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市三の宮１−７２２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.48812142, 34.18563692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市糸米２丁目２６８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.46251418, 34.17694258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡下郷３０４−７" }, "geometry": { "type": "Point", "coordinates": [ 131.3994451, 34.10699298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡下郷８１８" }, "geometry": { "type": "Point", "coordinates": [ 131.39527327, 34.10561433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷１６４８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.418187030000013, 34.13177862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷３３８４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.40159087, 34.11438101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷坂ノ下１８２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41043628, 34.12554323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡前田町４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39882917, 34.08622754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字大内長野字権現８２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51723843, 34.15888026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字朝田６０８" }, "geometry": { "type": "Point", "coordinates": [ 131.43490752, 34.15005559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字陶１５５０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.433833029999988, 34.08611725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内御堀１２３１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.48915037, 34.16094453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内矢田２４１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51077572, 34.15368076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市中央５丁目１−３９" }, "geometry": { "type": "Point", "coordinates": [ 131.47092996, 34.17333196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地上村１３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.70172297, 34.15379288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市平井字沖１２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.461079829999989, 34.14671022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市西高泊６２３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.172537549999987, 34.00864232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字鴨庄字大沖田３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.154218969999988, 34.05740264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字埴生字埴生山１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.11162506, 34.04375967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市日の出２丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 131.17921908, 34.00583524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市日の出３−８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18365531, 34.006218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字西浦１７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.532618179999986, 34.03259559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字台道２９０６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.50206247, 34.04892985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市牟礼今宿２丁目１９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60166661, 34.05085494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市緑町１−７−２９" }, "geometry": { "type": "Point", "coordinates": [ 131.57728602, 34.05598295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字伊保庄４９８４−５" }, "geometry": { "type": "Point", "coordinates": [ 132.10983303, 33.95774075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字柳井１５７０" }, "geometry": { "type": "Point", "coordinates": [ 132.12743638, 33.95942612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字余田１３９４−４" }, "geometry": { "type": "Point", "coordinates": [ 132.0720818, 33.96974834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市南町３−６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.10574363, 33.96300857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市日積５１９２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.15370288, 34.01929472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市柳井４５８４" }, "geometry": { "type": "Point", "coordinates": [ 132.09992091, 33.98260161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字伊倉字金富山７６２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.936641509999987, 34.00133503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府港町１２-１６" }, "geometry": { "type": "Point", "coordinates": [ 130.995601130000011, 34.00815343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府才川２丁目３-１１" }, "geometry": { "type": "Point", "coordinates": [ 131.00520746, 34.02384206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町川棚７２７３" }, "geometry": { "type": "Point", "coordinates": [ 130.92163459, 34.14450945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町八道１７２５" }, "geometry": { "type": "Point", "coordinates": [ 131.05603903, 34.21383041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町阿川６２８-１" }, "geometry": { "type": "Point", "coordinates": [ 130.92768356, 34.34099057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町神田上浜屋１３６０" }, "geometry": { "type": "Point", "coordinates": [ 130.88919506, 34.29122611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町滝部３６９８-２" }, "geometry": { "type": "Point", "coordinates": [ 130.946407099999988, 34.28487863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市椋野町１丁目１５−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.94281733, 33.97747254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市下谷１７３" }, "geometry": { "type": "Point", "coordinates": [ 131.87706508, 34.07999895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市河内八口２７７７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.878756, 34.01934282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市西豊井１３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.8643433, 34.00717789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字切山桂坊１３５５" }, "geometry": { "type": "Point", "coordinates": [ 131.91444994, 34.04155995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字末武中堂ノ口１４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.85438328, 34.03370743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市潮音町８-５-２２" }, "geometry": { "type": "Point", "coordinates": [ 131.84519853, 34.01644619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市望町２-１３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.85844778, 34.02358248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町大字祖生７２６１" }, "geometry": { "type": "Point", "coordinates": [ 132.08292326, 34.07134706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市川下町２丁目６−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.221862789999989, 34.15918914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市柱野１１０１" }, "geometry": { "type": "Point", "coordinates": [ 132.14997427, 34.13296761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字埴生３２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07948432, 34.04156404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市際波１４３５-１" }, "geometry": { "type": "Point", "coordinates": [ 131.21982247, 33.99710204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市松島町１０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.24454599, 33.95606933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西岐波３３２１" }, "geometry": { "type": "Point", "coordinates": [ 131.30474009, 33.95057029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西岐波才川７８６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.32606619, 33.96391355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市中尾１-７-１７" }, "geometry": { "type": "Point", "coordinates": [ 131.2667716, 33.96809685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東琴芝５５９‐８" }, "geometry": { "type": "Point", "coordinates": [ 131.258228769999988, 33.95597485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東須江梅田２６１０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.19631099, 33.97498242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市南浜町１-１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.236918730000014, 33.96271191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市綾羅木新町３丁目８-１３" }, "geometry": { "type": "Point", "coordinates": [ 130.924074170000011, 34.00968538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市安岡町３丁目１３−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.91922655, 34.02632954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市永田郷９３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.90041568, 34.10074778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市観音崎１４-１３" }, "geometry": { "type": "Point", "coordinates": [ 130.93670135, 33.95173319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市菊川町下岡枝５３３‐４" }, "geometry": { "type": "Point", "coordinates": [ 131.034351570000013, 34.12418221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市勝谷新町１丁目３−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.97157103, 34.00338139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市小月茶屋２丁目１１‐４０" }, "geometry": { "type": "Point", "coordinates": [ 131.03000388000001, 34.06785229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美川町四馬神１０６２-１２" }, "geometry": { "type": "Point", "coordinates": [ 131.98545064000001, 34.2425037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美和町秋掛３３-４" }, "geometry": { "type": "Point", "coordinates": [ 132.08970672, 34.31696893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市美和町渋前壱町田１３９２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.09348402, 34.22350341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市保木３９０-４" }, "geometry": { "type": "Point", "coordinates": [ 132.1061334, 34.16499473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市由宇町貞清" }, "geometry": { "type": "Point", "coordinates": [ 132.17114824, 34.03197896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字波野道免２１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.05488466, 33.95875691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町尾国３６４" }, "geometry": { "type": "Point", "coordinates": [ 132.11976178, 33.87619081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町平生６０１-１" }, "geometry": { "type": "Point", "coordinates": [ 132.07688668, 33.9406042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市光井４-３１-２１" }, "geometry": { "type": "Point", "coordinates": [ 131.95482976, 33.95338658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市室積新開２-１１-１０" }, "geometry": { "type": "Point", "coordinates": [ 131.96588467, 33.94384646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市室積東の庄１４番２３号" }, "geometry": { "type": "Point", "coordinates": [ 131.97986566, 33.93033256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市小周防２２９３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.97375691, 34.02153842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市小周防川端１６５０−６" }, "geometry": { "type": "Point", "coordinates": [ 131.978001760000012, 34.02017655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江１丁目１１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.92816918, 33.97086815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江五丁目１７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.92623716, 33.97091032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市島田森崎１６８５" }, "geometry": { "type": "Point", "coordinates": [ 131.95410241, 33.98303213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市佐山河内神２７４８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.358109899999988, 34.03730453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市秋穂東" }, "geometry": { "type": "Point", "coordinates": [ 131.43095254, 34.01087883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市秋穂東下村６７２７" }, "geometry": { "type": "Point", "coordinates": [ 131.43415939, 34.0144479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡前田町１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.39637642, 34.08583482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市生雲西分字猶原１０４３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.6170779, 34.3748905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市泉町７−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.45020906, 34.1682539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字下小鯖神ケ原２２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52411222, 34.13797134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字吉敷字下田屋１０１９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.43150541, 34.17085475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大字平井古曽６８３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.46294624, 34.15494938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内矢田５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.51667966, 34.15249781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地伊賀地４９２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.64895396, 34.18086445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地島地２６４" }, "geometry": { "type": "Point", "coordinates": [ 131.704295550000012, 34.16234348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市串山２-１-３" }, "geometry": { "type": "Point", "coordinates": [ 131.18407878, 34.01341167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市赤崎３-６-１１" }, "geometry": { "type": "Point", "coordinates": [ 131.176075020000013, 33.96300128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市有帆９２４-５" }, "geometry": { "type": "Point", "coordinates": [ 131.20467145, 34.02095624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市下上上野２０９３" }, "geometry": { "type": "Point", "coordinates": [ 131.78276592, 34.08992068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市久米南殿山７４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.85003767, 34.03651242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市栗谷３６１" }, "geometry": { "type": "Point", "coordinates": [ 131.833096899999987, 34.02311295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市港町２-１" }, "geometry": { "type": "Point", "coordinates": [ 131.75053985, 34.07070202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市鹿野下１２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.81724938, 34.22524605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市城ケ丘１-１-２７" }, "geometry": { "type": "Point", "coordinates": [ 131.836655869999987, 34.04506311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新地３−５９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.78804055, 34.06907537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市須々万本郷４８８-５" }, "geometry": { "type": "Point", "coordinates": [ 131.86944584, 34.12025888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市青山町１-８" }, "geometry": { "type": "Point", "coordinates": [ 131.81548215, 34.04325871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市代々木通１−２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.80364323, 34.05449601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字大向１６８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.81866656, 34.1799099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字富田字浜田２７６６−４" }, "geometry": { "type": "Point", "coordinates": [ 131.75704678, 34.07204326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市長穂１７２９" }, "geometry": { "type": "Point", "coordinates": [ 131.83601484, 34.13252801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市徳山字阿弥陀５５８０-１６" }, "geometry": { "type": "Point", "coordinates": [ 131.82156697, 34.06251252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市入船町７‐２６" }, "geometry": { "type": "Point", "coordinates": [ 131.797403440000011, 34.05734138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町戸田字赤石５９０" }, "geometry": { "type": "Point", "coordinates": [ 132.19976072, 33.88263488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町小松開作４-２" }, "geometry": { "type": "Point", "coordinates": [ 132.179471080000013, 33.92977735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町小松石丸新開１７２６" }, "geometry": { "type": "Point", "coordinates": [ 132.19261597, 33.93431246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町西安下庄５４５-１０" }, "geometry": { "type": "Point", "coordinates": [ 132.27382452, 33.8960511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市三隅上３２０２-１" }, "geometry": { "type": "Point", "coordinates": [ 131.30177784, 34.34994377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎堤尻２９９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.193168070000013, 34.37538732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川正明市三区" }, "geometry": { "type": "Point", "coordinates": [ 131.18229456, 34.36966203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川提山６２-１３" }, "geometry": { "type": "Point", "coordinates": [ 131.18927277, 34.3739346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷町新別名１１１４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.062210099999987, 34.37557772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市御許町１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40214509, 34.40634285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市川上４５３番地" }, "geometry": { "type": "Point", "coordinates": [ 131.44070545, 34.3633154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市椿東釜屋６０７９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.42185465, 34.44259456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市平安古５５６-３" }, "geometry": { "type": "Point", "coordinates": [ 131.393576880000012, 34.40849024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市弥富下４０７３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.63954394000001, 34.54955253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市伊佐町伊佐３９５４番地６" }, "geometry": { "type": "Point", "coordinates": [ 131.23006313, 34.16763591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市於福町下字東３１７６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.20768184, 34.24691009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市真名井上２６０-３" }, "geometry": { "type": "Point", "coordinates": [ 131.347338189999988, 34.15876406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大字秋吉２８２３‐４" }, "geometry": { "type": "Point", "coordinates": [ 131.298237840000013, 34.21809469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大字大田５９４９-２" }, "geometry": { "type": "Point", "coordinates": [ 131.34351231, 34.2198494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町西分１９６-１０" }, "geometry": { "type": "Point", "coordinates": [ 131.18500257, 34.16331477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市佐野字下自力１５２０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.50959039, 34.04746792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市戎町１丁目１１‐１５" }, "geometry": { "type": "Point", "coordinates": [ 131.57012502, 34.05662879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字高井１６０" }, "geometry": { "type": "Point", "coordinates": [ 131.556141489999987, 34.06603786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市田島１５０４-５" }, "geometry": { "type": "Point", "coordinates": [ 131.54421688, 34.02254026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市緑町１丁目６−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.579005489999986, 34.05588423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市伊豫金４７４５" }, "geometry": { "type": "Point", "coordinates": [ 132.10140998, 33.97385121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市南町６丁目１‐６" }, "geometry": { "type": "Point", "coordinates": [ 132.10171394, 33.96218449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市柳井１４５" }, "geometry": { "type": "Point", "coordinates": [ 132.134764280000013, 33.95735566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市美東町真名字長葉山６４３" }, "geometry": { "type": "Point", "coordinates": [ 131.33705104, 34.1539778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県阿武郡阿東町大字徳佐中3208-1" }, "geometry": { "type": "Point", "coordinates": [ 131.72032194, 34.39474678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県阿武郡阿武町大字奈古3413-2" }, "geometry": { "type": "Point", "coordinates": [ 131.47997518, 34.50868312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市木田482-3" }, "geometry": { "type": "Point", "coordinates": [ 131.2881035, 34.05718311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市秋根北町3-1" }, "geometry": { "type": "Point", "coordinates": [ 130.95338428, 34.01482605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市吉敷4525-1" }, "geometry": { "type": "Point", "coordinates": [ 131.439534189999989, 34.15298469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市仁保中郷963-1" }, "geometry": { "type": "Point", "coordinates": [ 131.55813581000001, 34.21069212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市名田島1176-1" }, "geometry": { "type": "Point", "coordinates": [ 131.41531353, 34.08059147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町大字久賀6598" }, "geometry": { "type": "Point", "coordinates": [ 132.26471713, 33.94846189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町大字土居1391-3" }, "geometry": { "type": "Point", "coordinates": [ 132.30128595, 33.91749086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷向津具下3264-7" }, "geometry": { "type": "Point", "coordinates": [ 130.97277796, 34.40948622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大井1740-2" }, "geometry": { "type": "Point", "coordinates": [ 131.44755622, 34.47266748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字吉部下3375" }, "geometry": { "type": "Point", "coordinates": [ 131.5744542, 34.43522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字江向440-2" }, "geometry": { "type": "Point", "coordinates": [ 131.401492, 34.40890267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字高佐下19-1" }, "geometry": { "type": "Point", "coordinates": [ 131.6115581, 34.47374629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字佐々並2520" }, "geometry": { "type": "Point", "coordinates": [ 131.463741840000012, 34.28685252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字紫福3427-1" }, "geometry": { "type": "Point", "coordinates": [ 131.5321518, 34.46079299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字須佐427-1" }, "geometry": { "type": "Point", "coordinates": [ 131.60330087, 34.62093757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字中小川665" }, "geometry": { "type": "Point", "coordinates": [ 131.680414359999986, 34.59115505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市小松原町1丁目3-1" }, "geometry": { "type": "Point", "coordinates": [ 131.24195433, 33.96418195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字妻崎開作839-4" }, "geometry": { "type": "Point", "coordinates": [ 131.20809556, 33.97726319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字東須恵下四町開作1989-3" }, "geometry": { "type": "Point", "coordinates": [ 131.20173488, 33.98006834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市王司神田4丁目14-1" }, "geometry": { "type": "Point", "coordinates": [ 131.00470925, 34.05030737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市卸新町１３番５号" }, "geometry": { "type": "Point", "coordinates": [ 130.95020513, 33.98728221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市菊川町田部758" }, "geometry": { "type": "Point", "coordinates": [ 131.035855770000012, 34.11971677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字秋根西町2-8-1" }, "geometry": { "type": "Point", "coordinates": [ 130.94389611, 34.00715308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字冨任469" }, "geometry": { "type": "Point", "coordinates": [ 130.93402895, 34.02101975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島西山町4丁目9-27" }, "geometry": { "type": "Point", "coordinates": [ 130.8799153, 33.94780483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町大字吉永字北無田613-1" }, "geometry": { "type": "Point", "coordinates": [ 130.91415224, 34.13510839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町大字粟野4716" }, "geometry": { "type": "Point", "coordinates": [ 130.97171286, 34.35554513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市南花岡6-1-55" }, "geometry": { "type": "Point", "coordinates": [ 131.86801039, 34.03226795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市岩国1丁目1-37" }, "geometry": { "type": "Point", "coordinates": [ 132.18031416, 34.16729105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町広瀬7909-1" }, "geometry": { "type": "Point", "coordinates": [ 131.96426028, 34.26397357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町中ノ瀬178-1" }, "geometry": { "type": "Point", "coordinates": [ 131.96701563, 34.28038971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市玖珂町856-4" }, "geometry": { "type": "Point", "coordinates": [ 132.085005849999988, 34.09837701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町下久原1864-1" }, "geometry": { "type": "Point", "coordinates": [ 132.043233289999989, 34.09164438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市装束町1丁目8-16" }, "geometry": { "type": "Point", "coordinates": [ 132.23170979, 34.19581108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市大字通津2369-1" }, "geometry": { "type": "Point", "coordinates": [ 132.20753634, 34.07183077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市南岩国町1丁目16-16" }, "geometry": { "type": "Point", "coordinates": [ 132.203776260000012, 34.13398086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市由宇町中央1丁目3-7" }, "geometry": { "type": "Point", "coordinates": [ 132.21293076, 34.04551693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡上関町大字長島524-2" }, "geometry": { "type": "Point", "coordinates": [ 132.11145008, 33.83123864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字麻郷3428-1" }, "geometry": { "type": "Point", "coordinates": [ 132.05092792, 33.92673031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿東生雲中194-1" }, "geometry": { "type": "Point", "coordinates": [ 131.60109727, 34.38134887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿東地福下412-7" }, "geometry": { "type": "Point", "coordinates": [ 131.62607719, 34.34077042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市宮野上84-1" }, "geometry": { "type": "Point", "coordinates": [ 131.509757979999989, 34.20338566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市江崎和井田2675-1" }, "geometry": { "type": "Point", "coordinates": [ 131.36744951, 34.05847321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷字向河内2132" }, "geometry": { "type": "Point", "coordinates": [ 131.41290981, 34.12786219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内矢田字島田386-1" }, "geometry": { "type": "Point", "coordinates": [ 131.50845053, 34.15384283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市陶1244-1" }, "geometry": { "type": "Point", "coordinates": [ 131.43809106, 34.08619867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市呼坂598-1" }, "geometry": { "type": "Point", "coordinates": [ 131.9631397, 34.05078653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新宿通3丁目25" }, "geometry": { "type": "Point", "coordinates": [ 131.79951663, 34.06157313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市入船町4-1" }, "geometry": { "type": "Point", "coordinates": [ 131.79837792, 34.05476816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市樋口字三反田1825-1" }, "geometry": { "type": "Point", "coordinates": [ 131.99130402, 34.07562575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字江崎397-2" }, "geometry": { "type": "Point", "coordinates": [ 131.66117108, 34.64408797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市秋芳町嘉万2917" }, "geometry": { "type": "Point", "coordinates": [ 131.260431180000012, 34.26724123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市駅南町3-8" }, "geometry": { "type": "Point", "coordinates": [ 131.567044509999988, 34.05200522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字佐野台ケ原" }, "geometry": { "type": "Point", "coordinates": [ 131.51026359, 34.05428925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字大崎夕荷無17-18" }, "geometry": { "type": "Point", "coordinates": [ 131.549683390000013, 34.06226249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字田島528-1" }, "geometry": { "type": "Point", "coordinates": [ 131.554210219999987, 34.02353816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市八王子2丁目5-4" }, "geometry": { "type": "Point", "coordinates": [ 131.56496726, 34.05745165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市新庄15-1" }, "geometry": { "type": "Point", "coordinates": [ 132.093942919999989, 33.97038515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市神代4107-1" }, "geometry": { "type": "Point", "coordinates": [ 132.19017605, 33.96854381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字伊保庄555-4" }, "geometry": { "type": "Point", "coordinates": [ 132.1255902, 33.91576438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市南町4丁目1-30" }, "geometry": { "type": "Point", "coordinates": [ 132.10703285, 33.96328047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市菊川町下岡枝201" }, "geometry": { "type": "Point", "coordinates": [ 131.03445015, 34.12341971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島西山町2−10−25" }, "geometry": { "type": "Point", "coordinates": [ 130.88808651, 33.94341414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊浦町大字川棚1480−44" }, "geometry": { "type": "Point", "coordinates": [ 130.92712382, 34.16406794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市牛野谷町1-31-8" }, "geometry": { "type": "Point", "coordinates": [ 132.19078135, 34.15380604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市立石町1−5−52" }, "geometry": { "type": "Point", "coordinates": [ 132.22993833000001, 34.17828232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮住吉３丁目７−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.95712118, 33.99544863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市松屋東町２−２−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.06420817, 34.04715055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字埴生１６６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.09751383, 34.0368371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市若山２−５−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.722147510000013, 34.0780853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市三隅下１５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.23244752, 34.36734997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町北分中吉友２７５３" }, "geometry": { "type": "Point", "coordinates": [ 131.20839688, 34.21199098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市佐野字自力１３９１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51068081, 34.04818227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市新市沖５−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.11842113, 33.96291839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市亀浦２−３３０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.28431468, 33.94256468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市際波１３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.220371699999987, 33.99923361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西宇部南４−１１−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.21855795, 34.00290328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字車地字山崎３９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.29339581, 34.05997968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市朝日町６−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.24650513, 33.95730684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東岐波１０５４−３" }, "geometry": { "type": "Point", "coordinates": [ 131.34608137, 33.98947701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東須恵五反田７９０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.206789789999988, 33.98837318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市王司南町１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.01348748, 34.03228136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市梶栗町３−１−１６" }, "geometry": { "type": "Point", "coordinates": [ 130.920617709999988, 34.01647737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市観音崎町１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.93675719, 33.95220562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市元町２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.92497925, 33.96608095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市秋根西町１−５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.94773809, 34.00856987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字福江５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.91418399, 34.04085061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府松原町２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.99073574, 33.99336078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市彦島江の浦町３−９−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.91312051, 33.93009661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町大字中村２１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.0739376, 34.18858131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊田町大字矢田４２９−３" }, "geometry": { "type": "Point", "coordinates": [ 131.07355762, 34.19784107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町大字粟野４１０８" }, "geometry": { "type": "Point", "coordinates": [ 130.97115999, 34.35311847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字笠戸島６９７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.85079959, 33.9542683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字生野屋字丸橋４０−６" }, "geometry": { "type": "Point", "coordinates": [ 131.89064543, 34.03544461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市美里町２−１７−３５" }, "geometry": { "type": "Point", "coordinates": [ 131.86167863, 34.02646701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市関戸４６５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.179466, 34.18110517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦見３−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.198090549999989, 34.16481941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町下須通１９４" }, "geometry": { "type": "Point", "coordinates": [ 132.010481340000013, 34.09088717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市麻里布町５−１３−６" }, "geometry": { "type": "Point", "coordinates": [ 132.22187514, 34.17431961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字平生町長浜５３６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.06392559, 33.93780252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江５−２７−３４" }, "geometry": { "type": "Point", "coordinates": [ 131.92184795, 33.97223443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿知須４５３２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35359322, 34.00757479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市吉敷下東３−４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.445006479999989, 34.15871281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市桜畠４−２８７８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.5018354, 34.19618213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡下郷矢足２２２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39328, 34.09848622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡大江町２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.402578620000014, 34.09436554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市赤妻町２−７" }, "geometry": { "type": "Point", "coordinates": [ 131.45026847, 34.16885864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地船路９５７" }, "geometry": { "type": "Point", "coordinates": [ 131.65417666, 34.23815501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市稲荷町１０−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.17807231, 33.98408424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市郡３０４１−４" }, "geometry": { "type": "Point", "coordinates": [ 131.14675195, 34.02395579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市郡渡場" }, "geometry": { "type": "Point", "coordinates": [ 131.14518306, 34.02027902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市厚狭４６４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.170513449999987, 34.05344921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市山川７９６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.15215543, 34.05736035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市南竜王町１２−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.174895600000013, 33.96427716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市日の出２−１０−５" }, "geometry": { "type": "Point", "coordinates": [ 131.17916976, 34.00681985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新宿通５−９９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.80155998, 34.06447144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市中央町１−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.76563259, 34.07167484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市夜市２９５５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.70781618, 34.07804243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町小松字南町８８３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.19152213000001, 33.9394068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市深川湯本湯本２５２７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.174179869999989, 34.33359017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川１９３１" }, "geometry": { "type": "Point", "coordinates": [ 131.1818812, 34.36915187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市日置上古市６０１９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.1025836, 34.38494692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷伊上大江３６" }, "geometry": { "type": "Point", "coordinates": [ 131.038244060000011, 34.36775798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市油谷新別名９６５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.05936650000001, 34.37256472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字土原字川島沖田４８８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40473444, 34.40875144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市椿町３３８２" }, "geometry": { "type": "Point", "coordinates": [ 131.40116045, 34.39703048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市伊佐町伊佐広下２８６３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.2439071, 34.17359259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市秋芳町秋吉銭石１００８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.30362197, 34.22146984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市秋芳町別府１７１７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.249470120000012, 34.25160792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分２９９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.20889137, 34.16795012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市佐野１３８５−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.511985900000013, 34.0476511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字高井２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.556696390000013, 34.06653145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字佐野字峠下４１６−４" }, "geometry": { "type": "Point", "coordinates": [ 131.51152051, 34.0522675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字田島３１８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.54806646, 34.02287646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市大字奈美１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60594433, 34.12589739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字伊陸字大垣内５８９１−７" }, "geometry": { "type": "Point", "coordinates": [ 132.10773613, 34.02822312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市切山２８１−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.92711954, 34.0322489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市恩田町２−２８−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.26592061, 33.94319106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市妻崎開作１３" }, "geometry": { "type": "Point", "coordinates": [ 131.21637966, 33.97759042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市上町１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.24085745, 33.95802982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字東岐波３７９８−４" }, "geometry": { "type": "Point", "coordinates": [ 131.34047769, 33.98271916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市東岐波新出２０９３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.346738710000011, 33.99149789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府才川２−４７３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.00593815, 34.02380864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市中島町２４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.859526319999986, 34.01098501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字平生村６５１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.075729450000011, 33.94418181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江１−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.92936072, 33.97017764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市中央１丁目３番２３号" }, "geometry": { "type": "Point", "coordinates": [ 131.950150580000013, 33.95578582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市朝田１８０８−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.42530018, 34.13830674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市遠石３−５−５７" }, "geometry": { "type": "Point", "coordinates": [ 131.82580893, 34.03755391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分坪見１５８−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.21545802, 34.16721306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市新田７８４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.564767429999989, 34.03192868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市美和町１−４９" }, "geometry": { "type": "Point", "coordinates": [ 131.57965281, 34.05623136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市沼2-6-8" }, "geometry": { "type": "Point", "coordinates": [ 131.264407479999988, 33.95875536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市西岐波浜田1552" }, "geometry": { "type": "Point", "coordinates": [ 131.31605771, 33.9610746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市後田町5-9-7" }, "geometry": { "type": "Point", "coordinates": [ 130.93169343, 33.97191814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市清末鞍馬3-6-28" }, "geometry": { "type": "Point", "coordinates": [ 131.02755446, 34.06374649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市川中豊町2-7-8" }, "geometry": { "type": "Point", "coordinates": [ 130.934571369999986, 33.99674751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市山田四郎丸103-5" }, "geometry": { "type": "Point", "coordinates": [ 131.89970139, 34.0325518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字西豊井1518-1" }, "geometry": { "type": "Point", "coordinates": [ 131.86502785, 34.01864358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市黒川赤崎3771-1" }, "geometry": { "type": "Point", "coordinates": [ 131.43513809, 34.1366056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市西高泊ワカリ660-5" }, "geometry": { "type": "Point", "coordinates": [ 131.17564568, 34.00648137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市呼坂749-13" }, "geometry": { "type": "Point", "coordinates": [ 131.95807287, 34.04655804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市住吉町2-8" }, "geometry": { "type": "Point", "coordinates": [ 131.8024638, 34.06487375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市泉原町3-2-2" }, "geometry": { "type": "Point", "coordinates": [ 131.82080547000001, 34.05502089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字小松原1237-5" }, "geometry": { "type": "Point", "coordinates": [ 131.99292967, 34.0358265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市野村3丁目20番5号" }, "geometry": { "type": "Point", "coordinates": [ 131.7805443, 34.06435512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市和田米光273-2" }, "geometry": { "type": "Point", "coordinates": [ 131.72489618, 34.13827785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分1270-2" }, "geometry": { "type": "Point", "coordinates": [ 131.21127223, 34.17998281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市高倉2-10-41" }, "geometry": { "type": "Point", "coordinates": [ 131.55409656, 34.05260647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市寿町6-48" }, "geometry": { "type": "Point", "coordinates": [ 131.5628415, 34.04994576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市八王子2丁目3-3" }, "geometry": { "type": "Point", "coordinates": [ 131.566874109999986, 34.05748864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市大字柳井字岩鼻4701-1" }, "geometry": { "type": "Point", "coordinates": [ 132.10140547, 33.9755518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮東町２−２７９" }, "geometry": { "type": "Point", "coordinates": [ 130.962700070000011, 34.00022898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市川中豊町１−１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.93837743, 33.99930095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市東大和町１−１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.9229417, 33.94729211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市幡生町１−６−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.93827865, 33.97897244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町府谷１７２３" }, "geometry": { "type": "Point", "coordinates": [ 131.97924992, 34.26917187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市中央３丁目６−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.180172660000011, 33.97774313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市日の出４丁目６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18630202, 34.00555459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市梅園町３−５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.80598734, 34.05872228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎４２１１" }, "geometry": { "type": "Point", "coordinates": [ 131.19821434, 34.38804909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川昼田１８５７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18265739, 34.36695633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市日置上切板５９８４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.09957283, 34.38539658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市伊倉１４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.93779987, 34.00159577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字末武中1159-1" }, "geometry": { "type": "Point", "coordinates": [ 131.845227419999986, 34.02888023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市南岩国町3-11-6" }, "geometry": { "type": "Point", "coordinates": [ 132.199177639999988, 34.12797457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷２２９６−５４" }, "geometry": { "type": "Point", "coordinates": [ 131.41061391, 34.12086831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市港町２−１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.2486704, 33.94502363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市桑山２-１０-２９" }, "geometry": { "type": "Point", "coordinates": [ 131.55834536, 34.0460453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市小月茶屋２−３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.028992140000014, 34.0678972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市阿東生雲東分４４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.57649072000001, 34.30290006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市麻里布町４−１９−８" }, "geometry": { "type": "Point", "coordinates": [ 132.21870715, 34.17290688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦町広瀬７８７７" }, "geometry": { "type": "Point", "coordinates": [ 131.96303679, 34.26398313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市貴船町４丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.93685559, 33.96897942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市新宿通２−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.80100514, 34.05859824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市長府才川1丁目438-3" }, "geometry": { "type": "Point", "coordinates": [ 131.00845419, 34.02668822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市武久町２−１４−８" }, "geometry": { "type": "Point", "coordinates": [ 130.9203439, 33.97725581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市装束町５−３−３０" }, "geometry": { "type": "Point", "coordinates": [ 132.23143198, 34.19761096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県柳井市大字余田２３２９" }, "geometry": { "type": "Point", "coordinates": [ 132.07287374, 33.97038469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市大字平田１１１" }, "geometry": { "type": "Point", "coordinates": [ 131.85182136, 34.01424276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市小郡上郷２２９６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.408189130000011, 34.12699481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市吉敷下東２−１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.44691419, 34.16134104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市旭通り２−９−６３" }, "geometry": { "type": "Point", "coordinates": [ 131.47582402, 34.16893242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県宇部市相生町７−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.24604353, 33.95413317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市長府浜浦町３３−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.982306599999987, 33.9822876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市幡生本町２０−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.925282439999989, 33.97679758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市王喜本町４−４−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.04797013000001, 34.06695371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県長門市東深川１８５６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.183256840000013, 34.36725254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県萩市大字椿３２６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41802304, 34.38976735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県萩市大字椿２３２７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40093787, 34.39293511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市長府野久留米町６−４１" }, "geometry": { "type": "Point", "coordinates": [ 130.978965960000011, 33.99068245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山陽小野田市東高泊１５６１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.172731270000014, 33.99781354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県柳井市南町４−２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.109332239999986, 33.96275869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市車町２−１４−２６" }, "geometry": { "type": "Point", "coordinates": [ 132.2211448, 34.15714204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市彦島老町３−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.91383799, 33.94625416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市芝中町１１−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.257453950000013, 33.94474086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字中野開作４１５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.21629095, 33.98522915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字東岐波１３８１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.34849399, 33.99721953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字湯野４６４９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.674527790000013, 34.0886787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市秋穂二島１８２９" }, "geometry": { "type": "Point", "coordinates": [ 131.41884697, 34.03984494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮町４丁目５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.95145747, 33.99483784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字沖宇部６２５−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.27110706, 33.93068555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市幡生町１丁目５−９" }, "geometry": { "type": "Point", "coordinates": [ 130.93652599, 33.97904027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大和町１丁目１３−９" }, "geometry": { "type": "Point", "coordinates": [ 130.91807276, 33.94566388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市大字吉田地方２３９６" }, "geometry": { "type": "Point", "coordinates": [ 131.07986989, 34.09261843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市安岡駅前１丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 130.91531907000001, 34.02495106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市一の宮卸本町７−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.95039408, 33.98819939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字湯野小串原４２３３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.676351829999987, 34.09352667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市竹崎町４丁目６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.926950369999986, 33.94840469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎１０８４−４" }, "geometry": { "type": "Point", "coordinates": [ 131.20104333, 34.38831429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市俵山３７９４−３" }, "geometry": { "type": "Point", "coordinates": [ 131.11780055, 34.28471187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市伊保庄近長下５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.125729549999988, 33.91479248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市北浜２−５" }, "geometry": { "type": "Point", "coordinates": [ 132.11424441, 33.96418306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県美祢市大嶺町東分３４６６" }, "geometry": { "type": "Point", "coordinates": [ 131.20229525, 34.16591661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県大島郡周防大島町大字小松開作１０１５−９" }, "geometry": { "type": "Point", "coordinates": [ 132.18860353, 33.92900146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町下久原１６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.048796610000011, 34.09264118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市周東町下久原中市１２９３−５" }, "geometry": { "type": "Point", "coordinates": [ 132.04743273, 34.08867035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡上関町大字室津６７１" }, "geometry": { "type": "Point", "coordinates": [ 132.11725952, 33.83617737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市新港町４丁目１８−３２" }, "geometry": { "type": "Point", "coordinates": [ 132.230079710000012, 34.19034494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字西豊井汐見町" }, "geometry": { "type": "Point", "coordinates": [ 131.861775810000012, 34.00509778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字西豊井元町東１３６８−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.866561749999988, 34.00733562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎３０２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.19309832, 34.37605589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市錦見６丁目１３−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.19444593, 34.16474917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市土生１０３−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.10357208, 34.14912549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市藤生町１丁目２９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.19958526, 34.11211069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市保津町２丁目３−３０" }, "geometry": { "type": "Point", "coordinates": [ 132.20936601, 34.08562434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県光市浅江１３３７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.92826767, 33.98200118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市嘉川赤坂１３４" }, "geometry": { "type": "Point", "coordinates": [ 131.38464972, 34.08124747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市琴芝町１丁目１−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.24924870000001, 33.95660321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字妻崎開作８１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.20374541000001, 33.97722692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山陽小野田市大字東高泊２３１５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.19190179, 34.00655229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字下田布施２２７−８" }, "geometry": { "type": "Point", "coordinates": [ 132.056528390000011, 33.95366949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市小郡上郷２５１１" }, "geometry": { "type": "Point", "coordinates": [ 131.403140439999987, 34.11974788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字東須恵２５９０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.194249109999987, 33.97509224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市細江新町３−４７" }, "geometry": { "type": "Point", "coordinates": [ 130.928203, 33.94901473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字吉田町５１" }, "geometry": { "type": "Point", "coordinates": [ 131.40323149, 34.41583683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県柳井市南町７丁目８−２" }, "geometry": { "type": "Point", "coordinates": [ 132.098663609999988, 33.96344167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市尾津町２丁目２０−３６" }, "geometry": { "type": "Point", "coordinates": [ 132.20868409, 34.13861246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市文京台３丁目３２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.22967771, 33.98400454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県防府市鐘紡町７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.588384139999988, 34.04793755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市西深川板持３２４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.176983689999986, 34.36129599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字栗屋８２９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.83488983, 34.0207735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市大内御堀２６０１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.481517169999989, 34.14813889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎４２８６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.20393845000001, 34.39359304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県萩市大字弥富上８９７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.6199779, 34.55447341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市若山２丁目４−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.720880099999988, 34.07866719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市秋穂東６７３５" }, "geometry": { "type": "Point", "coordinates": [ 131.433026180000013, 34.01417657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市政所３丁目６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.77204973, 34.07163251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市日置上古市" }, "geometry": { "type": "Point", "coordinates": [ 131.10295677, 34.38507563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字東吉部大棚３３９０" }, "geometry": { "type": "Point", "coordinates": [ 131.280574230000013, 34.12192437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町大字波野２２０４−６" }, "geometry": { "type": "Point", "coordinates": [ 132.05680279, 33.96041588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字平生町１９３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.07428072, 33.93901358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字八代２１９０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.938263009999986, 34.08761723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県山口市徳地柚木１７１９" }, "geometry": { "type": "Point", "coordinates": [ 131.720107610000014, 34.34301671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下関市豊北町神田上江尻下１３６０" }, "geometry": { "type": "Point", "coordinates": [ 130.88802517, 34.29188746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市三隅下浅田２３６９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.22103841, 34.37019892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市石観音町１−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.482323439999988, 34.18365307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市藤生町１丁目２０−４" }, "geometry": { "type": "Point", "coordinates": [ 132.19888631, 34.11326438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市上田中町１丁目１７−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.93911254, 33.96838014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市大手町３丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.87211939, 34.01553502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県柳井市柳井１５７４−４５" }, "geometry": { "type": "Point", "coordinates": [ 132.12669485, 33.95653196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市長崎町１丁目１０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.92286883, 33.95790122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市彦島江の浦町９丁目１−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.9184254, 33.93010555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県光市室積４丁目１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.970362779999988, 33.93079568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市西松原１丁目４−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.79780014, 34.06410892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市小郡上郷新町西３１３９−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.39485830000001, 34.11154024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市伊崎町１丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.91857321, 33.95349214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県防府市八王子２丁目２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.56746472, 34.05729354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市彦島老町３丁目２−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.911914849999988, 33.94529497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市大字末武上高橋８６５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.86585582, 34.03991864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市宮島町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.48034008, 34.16763266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市山手町３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.92606077, 33.95867149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市宮野上１３７" }, "geometry": { "type": "Point", "coordinates": [ 131.51243552, 34.20555215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市稗田西町１０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.92562737, 33.99842113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市山手町４丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 132.20493453, 34.16090052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市元町１丁目８−７" }, "geometry": { "type": "Point", "coordinates": [ 132.22570259, 34.16907216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市幡生本町６−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.927661949999987, 33.97856928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市錦見７丁目２２−２４" }, "geometry": { "type": "Point", "coordinates": [ 132.18771922, 34.16106369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市美里町３丁目１４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.86195643, 34.02333675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市潮音町５丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 131.84807444, 34.02048931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下松市葉山２丁目９０４−９" }, "geometry": { "type": "Point", "coordinates": [ 131.90391352, 34.0233148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市長府松原町４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.98993912, 33.99379218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市上新地町１丁目７−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.92126109, 33.96023916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県柳井市天神１７−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.114284559999987, 33.96518078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県柳井市中央２丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 132.107782140000012, 33.96740224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山陽小野田市大字東高泊横土手２３６７" }, "geometry": { "type": "Point", "coordinates": [ 131.17329792000001, 33.99629149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県光市千坊台２丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.96818214000001, 33.94663261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市上新地町３丁目４−６" }, "geometry": { "type": "Point", "coordinates": [ 130.91877802, 33.95823254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県光市中村町２０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.918753, 33.97664005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県光市浅江３丁目２４−２６" }, "geometry": { "type": "Point", "coordinates": [ 131.921640450000012, 33.97345253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市入船町５−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.79792519, 34.05562917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県宇部市西琴芝２丁目１０−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.253515209999989, 33.9555387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県宇部市東梶返１丁目１０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.27177124, 33.9549359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県萩市大字土原３区３８３−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.40583559, 34.4155453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県宇部市中央町３丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 131.24119932, 33.9540914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市嘉川５０１３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.37658101, 34.0747481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市泉都町１２−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.46253719, 34.16506864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市楠乃５丁目９−８" }, "geometry": { "type": "Point", "coordinates": [ 130.9737858, 33.9988039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県防府市新田７６９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.56368142, 34.03085934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県下関市安岡本町２丁目１１−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.911294160000011, 34.02937644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市五月町６−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.83012818, 34.0375624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県防府市大字大崎居合１７６５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.53422239, 34.05667829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市小郡下郷２３２２−７" }, "geometry": { "type": "Point", "coordinates": [ 131.39210719, 34.09352673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市小郡下郷２２５２" }, "geometry": { "type": "Point", "coordinates": [ 131.39410138, 34.09730688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県大島郡周防大島町大字東安下庄和戸２８２２−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.282126229999989, 33.90122027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市温田２丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 131.743062439999989, 34.07147645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市古泉１丁目１１−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.7653559, 34.06713556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県大島郡周防大島町大字久賀１１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.267954370000012, 33.94696624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市美和町渋前６３１" }, "geometry": { "type": "Point", "coordinates": [ 132.10328886, 34.22504597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県岩国市周東町上久原下久宗６０５−６" }, "geometry": { "type": "Point", "coordinates": [ 132.06284822, 34.08321564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県熊毛郡上関町大字室津１０９４" }, "geometry": { "type": "Point", "coordinates": [ 132.1222913, 33.83502259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山口市阿知須中村区３３４７" }, "geometry": { "type": "Point", "coordinates": [ 131.360395399999987, 34.00827149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山陽小野田市大字郡火薬２０７４" }, "geometry": { "type": "Point", "coordinates": [ 131.153334660000013, 34.04144185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市豊浦町川棚４０６４" }, "geometry": { "type": "Point", "coordinates": [ 130.925931, 34.15446778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県周南市宮の前２丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.76294747, 34.07219621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市豊浦町川棚６８４０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.92759501, 34.14570733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県萩市大字須佐本町上４２９１" }, "geometry": { "type": "Point", "coordinates": [ 131.60524104000001, 34.61515284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県萩市大字明木１２７７" }, "geometry": { "type": "Point", "coordinates": [ 131.38190626, 34.30344799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県柳井市新庄１５６５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.08123977, 33.97059322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県岩国市御庄３丁目１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.152014150000014, 34.17127654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下松市大字東豊井新町１３０３−３４" }, "geometry": { "type": "Point", "coordinates": [ 131.86722996, 34.0068096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県萩市大字椿東３１００" }, "geometry": { "type": "Point", "coordinates": [ 131.40741157, 34.42058641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県萩市大字浜崎町１区２６３" }, "geometry": { "type": "Point", "coordinates": [ 131.40095376, 34.41885318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県周南市沖見町３丁目１２" }, "geometry": { "type": "Point", "coordinates": [ 131.79771935, 34.06168014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県防府市岸津１丁目９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59371984, 34.054738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県防府市駅南町９−４３" }, "geometry": { "type": "Point", "coordinates": [ 131.56697513, 34.05138822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県岩国市新港町４丁目６−２４" }, "geometry": { "type": "Point", "coordinates": [ 132.23044644, 34.18848957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山陽小野田市千代町１丁目５−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.17923217, 33.98325637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山陽小野田市日の出３丁目１６−７" }, "geometry": { "type": "Point", "coordinates": [ 131.18049971, 34.00746395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県光市島田２丁目１５−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.933299080000012, 33.9716627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県周南市政所１丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 131.77132468, 34.07380454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県周南市三笹町７−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.78630981, 34.06318643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市秋根東町１０−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.95354215, 34.00964643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県防府市三田尻１丁目１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.574741530000011, 34.04623773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県周南市千代田町７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.80061656, 34.05262122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山口市吉敷中東２丁目１２−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.44169778, 34.1664765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県美祢市美東町真名東２区４６４−３" }, "geometry": { "type": "Point", "coordinates": [ 131.35538397, 34.15756728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県岩国市周東町下久原小川１６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.047288290000012, 34.0937586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県萩市大字浜崎町１３２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.40215196, 34.42112702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県宇部市南浜町２丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 131.233841539999986, 33.96482635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市伊崎町２丁目３−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.91637080000001, 33.95405566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市岬之町１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.93508137, 33.95139605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市壇之浦町２−７" }, "geometry": { "type": "Point", "coordinates": [ 130.951185829999986, 33.96125474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市新地西町７−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.91928356, 33.95679937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県下関市長崎町１丁目２−９" }, "geometry": { "type": "Point", "coordinates": [ 130.92383877, 33.95659113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県宇部市亀浦５丁目３−４０" }, "geometry": { "type": "Point", "coordinates": [ 131.28283583000001, 33.93870741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県宇部市新町１２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.24365552, 33.94852437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県宇部市寿町２丁目５−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.250726680000014, 33.95225015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山口県山口市中河原７" }, "geometry": { "type": "Point", "coordinates": [ 131.47794493, 34.17988713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市仙崎４２１２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.19810566000001, 34.38844608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県長門市東深川字西新開１４９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.19763531000001, 34.38793229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市川上白石６９８−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.278998910000013, 34.00022415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市大字中野開作字壱ノ割７０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.218787350000014, 33.99210161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡平生町大字平生町589-1外" }, "geometry": { "type": "Point", "coordinates": [ 132.069631890000011, 33.94217392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県宇部市上宇部中尾２−１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.265704840000012, 33.96652272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字山田字四郎丸111-4" }, "geometry": { "type": "Point", "coordinates": [ 131.898748680000011, 34.03190788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県下松市大字末武中字引地１３８５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.85200024, 34.03566708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市玖珂町市頭１０１０−６" }, "geometry": { "type": "Point", "coordinates": [ 132.08610869, 34.09618496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県岩国市平田3-532-1" }, "geometry": { "type": "Point", "coordinates": [ 132.187227869999987, 34.14138521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県熊毛郡田布施町725-7" }, "geometry": { "type": "Point", "coordinates": [ 132.04640453, 33.95624636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市大字徳山字土越６７５０−７" }, "geometry": { "type": "Point", "coordinates": [ 131.80764366, 34.06269966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山口県周南市中須南２６３９-８" }, "geometry": { "type": "Point", "coordinates": [ 131.91870393, 34.11366794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県宇部市厚南区第三原３８４０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.19320607, 33.96035932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県光市大字浅江字潮音寺２４００−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.920467620000011, 33.98176728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県山口市大字佐山字村山７４７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.32849062, 34.03193285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市大字久米字鳥越１１４０−４" }, "geometry": { "type": "Point", "coordinates": [ 131.8423325, 34.02851359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県周南市大字大河内垰２１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.93114922, 34.03079664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県長門市仙崎堤尻２９５" }, "geometry": { "type": "Point", "coordinates": [ 131.19246017, 34.37481799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県長門市油谷久富字松崎４８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.0788571, 34.3823594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県美祢市伊佐町字西台４５９１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.22192496, 34.16745644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県美祢市大嶺町東分前田４１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.209398209999989, 34.17037641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県防府市大字植松字土手附７２" }, "geometry": { "type": "Point", "coordinates": [ 131.541325379999989, 34.0522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山口県防府市大字新田字西中ノ町１６６" }, "geometry": { "type": "Point", "coordinates": [ 131.574085599999989, 34.03664739 ] } }
+
+]
+}

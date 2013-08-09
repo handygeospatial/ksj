@@ -1,0 +1,1132 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡東洋町大字河内字向山１４２４−２１" }, "geometry": { "type": "Point", "coordinates": [ 134.29101703, 33.54106621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡東洋町野根大谷口丙４６７の２" }, "geometry": { "type": "Point", "coordinates": [ 134.25255525, 33.51282995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡奈半利町港町乙４７９４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.017465789999989, 33.4239463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡北川村野友横田１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.04668772, 33.45331541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市赤野乙１１１３" }, "geometry": { "type": "Point", "coordinates": [ 133.83201599, 33.51676174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市赤野字浜田乙３０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.82931826, 33.51640472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町１４６４" }, "geometry": { "type": "Point", "coordinates": [ 133.4303626, 33.54826233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町駅前１４６９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.43158664, 33.54822172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町枝川１１３３" }, "geometry": { "type": "Point", "coordinates": [ 133.45419815, 33.55149643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町神谷７３８" }, "geometry": { "type": "Point", "coordinates": [ 133.387587989999986, 33.55308231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町西野２２０６番１" }, "geometry": { "type": "Point", "coordinates": [ 133.69658285, 33.5581957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市物部町岡ノ内２３９４" }, "geometry": { "type": "Point", "coordinates": [ 133.94203642, 33.72165576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町下呉地２４２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.168427650000012, 33.27359401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町瀬里字庵免８５−８" }, "geometry": { "type": "Point", "coordinates": [ 132.98399838, 33.18106212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡津野町力石イタバシ２７９５" }, "geometry": { "type": "Point", "coordinates": [ 133.02788708, 33.39445677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町田野々９９３" }, "geometry": { "type": "Point", "coordinates": [ 132.94166476, 33.4309461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市伊勢崎町１２番８号" }, "geometry": { "type": "Point", "coordinates": [ 133.52889281, 33.57016289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良乙３６７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.61277578, 33.56511371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市葛島４−１−６" }, "geometry": { "type": "Point", "coordinates": [ 133.5718017, 33.55610561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市若松町１２−９" }, "geometry": { "type": "Point", "coordinates": [ 133.56404476, 33.55190523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市城山町６１" }, "geometry": { "type": "Point", "coordinates": [ 133.514867689999988, 33.55016392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田１２２２" }, "geometry": { "type": "Point", "coordinates": [ 133.59249182, 33.52133773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田字鉄砲山４２１９" }, "geometry": { "type": "Point", "coordinates": [ 133.57452942, 33.51252155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市瀬戸南町２丁目９−２５" }, "geometry": { "type": "Point", "coordinates": [ 133.54124323, 33.50476297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津字恵美寿甲８４１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.60772723, 33.57538369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市南河ノ瀬町７０" }, "geometry": { "type": "Point", "coordinates": [ 133.52460252, 33.54552053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市南金田３−３８" }, "geometry": { "type": "Point", "coordinates": [ 133.55675946, 33.5652929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市福井扇町１１９４" }, "geometry": { "type": "Point", "coordinates": [ 133.50826222, 33.56913735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市北金田３−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.55541464, 33.56690002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市本町４−２−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.53277574, 33.55719734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市本町５−６−４４" }, "geometry": { "type": "Point", "coordinates": [ 133.53176345, 33.5576732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市薊野北町２−１１−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.55518966, 33.57906521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市右山元町３−７５０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.942546889999988, 32.98118383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市西土佐大宮１５７８" }, "geometry": { "type": "Point", "coordinates": [ 132.74051266, 33.14213395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市中村大橋通２−１７" }, "geometry": { "type": "Point", "coordinates": [ 132.93028364, 32.99114555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市羽根町乙１３７４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.05727146000001, 33.3689429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市佐喜浜町４０４０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.22121342, 33.42041223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市室津１８０８" }, "geometry": { "type": "Point", "coordinates": [ 134.15714831, 33.29265623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛字ツユ田１６２６" }, "geometry": { "type": "Point", "coordinates": [ 132.718453540000013, 32.93407879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市原町２−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.28990714, 33.39703958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町東土居シモゴミ７５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76154588, 33.79848057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡本山町下関１４２６" }, "geometry": { "type": "Point", "coordinates": [ 133.61991597, 33.76764414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市家俊１２３２−５" }, "geometry": { "type": "Point", "coordinates": [ 133.34601844, 33.46087375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市左右山３４２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.638736419999987, 33.60622533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市上末松４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.65918722, 33.58830547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市浜改田２２５７" }, "geometry": { "type": "Point", "coordinates": [ 133.6467058, 33.53186575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市片山３９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.64512559, 33.55781853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡田野町字下椽の下１４７７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.00641779, 33.42973593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡東洋町甲浦片谷南山６０９−９" }, "geometry": { "type": "Point", "coordinates": [ 134.30456747, 33.54990119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡馬路村影４０１−２" }, "geometry": { "type": "Point", "coordinates": [ 134.04875598000001, 33.55177069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡馬路村魚梁瀬８３４" }, "geometry": { "type": "Point", "coordinates": [ 134.110421550000012, 33.61465945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市矢の丸２−４−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.90374247, 33.50253069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町大内８０３" }, "geometry": { "type": "Point", "coordinates": [ 133.42712623, 33.53055155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町土居甲６９７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.16587573000001, 33.60650601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市香我美町岸本ウの丸７５５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.74027435, 33.5391174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市香我美町山北１２７９" }, "geometry": { "type": "Point", "coordinates": [ 133.74231917, 33.57889882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市夜須町手結山６６１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76521449, 33.52187711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市夜須町坪井３４８" }, "geometry": { "type": "Point", "coordinates": [ 133.75390287, 33.53524404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町中ノ村１３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.72173516, 33.56071542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町東野その丸９９１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.70316951, 33.56101598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市香北町橋川野中西１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.75247891, 33.64180421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市物部町大栃１１１４−５" }, "geometry": { "type": "Point", "coordinates": [ 133.87562496000001, 33.69856546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町越知甲１８７４" }, "geometry": { "type": "Point", "coordinates": [ 133.258556520000013, 33.52777249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町加茂２８４６" }, "geometry": { "type": "Point", "coordinates": [ 133.32418506, 33.50462951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町十川６０番地" }, "geometry": { "type": "Point", "coordinates": [ 132.85716881, 33.23455739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町昭和６５５" }, "geometry": { "type": "Point", "coordinates": [ 132.89441159, 33.22157601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町新開町１２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.12868562, 33.2084527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町大正２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.974565039999987, 33.19397302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町大正３５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.97239332, 33.18442718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町大正北ノ川１７６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.043411670000012, 33.18651408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町本堂８５４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.188826479999989, 33.22395592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡中土佐町久礼６６６８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.226039469999989, 33.32852586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡中土佐町上の加江２６３２" }, "geometry": { "type": "Point", "coordinates": [ 133.240392250000014, 33.27799902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村下分３３２" }, "geometry": { "type": "Point", "coordinates": [ 133.381910979999986, 33.53701074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町川西路２３１７" }, "geometry": { "type": "Point", "coordinates": [ 132.92484567, 33.39265543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市一宮西町１−２−８" }, "geometry": { "type": "Point", "coordinates": [ 133.56749746, 33.58257889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市横浜東町２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.54567683, 33.52292482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良乙１０３９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.59555154, 33.56136601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良法師次郎乙７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.602070559999987, 33.56367432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市鏡小浜１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.47109203, 33.59777391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市高須字長場江塩田南ノ丸３１０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.57724878, 33.56536487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市上町２−３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.523290980000013, 33.55759064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津乙３３" }, "geometry": { "type": "Point", "coordinates": [ 133.602801809999988, 33.57272564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津甲簿ヶ原１２８９−４" }, "geometry": { "type": "Point", "coordinates": [ 133.61961331, 33.57717536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市池字堀越１４２７−７" }, "geometry": { "type": "Point", "coordinates": [ 133.60097921, 33.52427758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市東城山町１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.5176266, 33.55027534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市南宝永町１６−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.55444596000001, 33.55622661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市福井町１３８６−５" }, "geometry": { "type": "Point", "coordinates": [ 133.503506570000013, 33.56725142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市北本町３丁目４−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.54978015, 33.565628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市万々３５３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.516942269999987, 33.57473998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市駅前町１６−１７" }, "geometry": { "type": "Point", "coordinates": [ 132.94367994000001, 32.98168414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市下田１４０９" }, "geometry": { "type": "Point", "coordinates": [ 132.98567436, 32.9458169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市西土佐江川崎２２８１" }, "geometry": { "type": "Point", "coordinates": [ 132.78877404, 33.17403346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市吉良川町甲２３１５" }, "geometry": { "type": "Point", "coordinates": [ 134.09820126, 33.33143817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市吉良川町甲３９４７−１９１" }, "geometry": { "type": "Point", "coordinates": [ 134.09661631, 33.33223431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市吉良川町西ノ宮乙５２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.09148339, 33.33466638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市元甲２７６２−４９" }, "geometry": { "type": "Point", "coordinates": [ 134.131901629999987, 33.2988627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市佐喜浜町１２０１" }, "geometry": { "type": "Point", "coordinates": [ 134.2095042, 33.39241976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市室戸岬町字平三津１８９４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.18569186, 33.29533071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市浮津１番町７９" }, "geometry": { "type": "Point", "coordinates": [ 134.14615293, 33.29175313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市幸町８−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.72451651, 32.9350321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市山奈町山田１３４４" }, "geometry": { "type": "Point", "coordinates": [ 132.813500620000013, 32.96598076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市小筑紫町小筑紫２０８" }, "geometry": { "type": "Point", "coordinates": [ 132.722911290000013, 32.88097314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡本山町本山９１−５" }, "geometry": { "type": "Point", "coordinates": [ 133.59669159, 33.75553251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐郡土佐町地蔵寺２４７５" }, "geometry": { "type": "Point", "coordinates": [ 133.505462099999988, 33.70968896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市宇佐町宇佐１７３８" }, "geometry": { "type": "Point", "coordinates": [ 133.442706930000014, 33.45010294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町丙１６" }, "geometry": { "type": "Point", "coordinates": [ 133.42941313, 33.4975259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市旭町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.96135196, 32.77970767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市以布利字重次５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.96225271, 32.80020827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市下ノ加江５２４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.944532259999988, 32.87424838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市下川口字浜田１２９６" }, "geometry": { "type": "Point", "coordinates": [ 132.84815276, 32.78318582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市三崎浦２−４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.87915242, 32.79089897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市三崎浦４丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.87605908, 32.79105084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市足摺岬６５８−９" }, "geometry": { "type": "Point", "coordinates": [ 133.00907483, 32.72606191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市大岐８８６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.94665243, 32.8181334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市植野２１９" }, "geometry": { "type": "Point", "coordinates": [ 133.640882260000012, 33.62077606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市田村字榎田乙２１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.659435910000013, 33.56450548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町佐賀中川原２９８２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.105243120000011, 33.07683233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町入野３３２３" }, "geometry": { "type": "Point", "coordinates": [ 133.015498220000012, 33.03251341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町弘見２１１４−６" }, "geometry": { "type": "Point", "coordinates": [ 132.708538299999987, 32.84407608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡安田町安田１７９０" }, "geometry": { "type": "Point", "coordinates": [ 133.98186438, 33.43770979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡安田町唐浜６２" }, "geometry": { "type": "Point", "coordinates": [ 133.95979085, 33.44729036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡奈半利町乙１３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.0188288, 33.42676945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市矢ノ丸１−６−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.90905769, 33.50183839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町１６７８" }, "geometry": { "type": "Point", "coordinates": [ 133.430136549999986, 33.54823853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町上八川甲１９１２−６" }, "geometry": { "type": "Point", "coordinates": [ 133.339477820000013, 33.64561673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町森２６９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.12683762, 33.53797471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市夜須町坪井４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.751441879999987, 33.5363473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町甲２１５０" }, "geometry": { "type": "Point", "coordinates": [ 133.248249109999989, 33.53011736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町上甲１９１２−６" }, "geometry": { "type": "Point", "coordinates": [ 133.30359385, 33.5003902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町松原３８９" }, "geometry": { "type": "Point", "coordinates": [ 132.97247037, 33.31680432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町梼原東１４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.92770471, 33.39240667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町六丁１９６番地" }, "geometry": { "type": "Point", "coordinates": [ 132.8736841, 33.42919475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市はりまや町１−１３−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.54667168, 33.55958988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市一宮南町１丁目１２−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.56509927, 33.58076051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市桜馬場１０番地２" }, "geometry": { "type": "Point", "coordinates": [ 133.52539371, 33.56332633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市桟橋通６丁目８−２５" }, "geometry": { "type": "Point", "coordinates": [ 133.55854260000001, 33.53968716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市若草南町３７２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.48838466, 33.53933283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田新築４３４６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56695604, 33.51863912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津乙１２１２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.604291530000012, 33.57471511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津乙２５９３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.58105403, 33.56684243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市朝倉戉１３８４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.47590803, 33.53110017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市宝永町６−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.55483467, 33.56108715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市北新田町１８番２５号" }, "geometry": { "type": "Point", "coordinates": [ 133.553137310000011, 33.55108277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市間崎字堂ノ前１２８３" }, "geometry": { "type": "Point", "coordinates": [ 132.97336367, 32.94142108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市大用３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.961422809999988, 33.10336055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市中村大橋通り６−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.93726114, 32.99087935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市楠島１８６２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.89081318, 32.977833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市字南行道甲２３２２" }, "geometry": { "type": "Point", "coordinates": [ 134.11257587, 33.29543794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市西崎町６−８" }, "geometry": { "type": "Point", "coordinates": [ 133.29102223000001, 33.4118008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町穴内１４" }, "geometry": { "type": "Point", "coordinates": [ 133.69888981, 33.78611696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町甲１８４１" }, "geometry": { "type": "Point", "coordinates": [ 133.42253435, 33.49563245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市元町８−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.958042619999986, 32.77929209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市明見字五台山８０６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.62849709, 33.56752251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町浦尻１" }, "geometry": { "type": "Point", "coordinates": [ 132.683616480000012, 32.79611263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町弘見２１７０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.709209609999988, 32.84466035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町姫ノ井１４００" }, "geometry": { "type": "Point", "coordinates": [ 132.73702549, 32.79952283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡安田町正弘６９４−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0016779, 33.48196279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡芸西村西分甲５７７３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.80354825, 33.528279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡奈半利町乙１８２９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0233019, 33.42456347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡北川村野友甲８３０" }, "geometry": { "type": "Point", "coordinates": [ 134.03864626, 33.44622282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市穴内乙８１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.861064699999986, 33.50571668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市幸町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.90166254, 33.50319966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市川北甲６８５２" }, "geometry": { "type": "Point", "coordinates": [ 133.92529747, 33.5016847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市土居１７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.90735934, 33.52067022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市入河内６０３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.95822118000001, 33.55623831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町下八川山王乙４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.29893536, 33.60656611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町枝川１３０１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.45644239, 33.55186883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町清水下分１０００" }, "geometry": { "type": "Point", "coordinates": [ 133.33921344, 33.67724427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡吾川村大崎１２２" }, "geometry": { "type": "Point", "coordinates": [ 133.1689595, 33.57486643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡春野町西分５１２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.49232178, 33.50236858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡香我美町下分８２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.74135105, 33.56612762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡香北町韮生野８７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.78963749, 33.65169281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡土佐山田町百石町２−２−４８" }, "geometry": { "type": "Point", "coordinates": [ 133.69888717, 33.6096258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡物部村大栃３３２８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.872048580000012, 33.69405697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡野市町大谷１８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.69998468, 33.56680245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡窪川町興津４０６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.20115532, 33.17258796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡窪川町古市町２−４２" }, "geometry": { "type": "Point", "coordinates": [ 133.13861043, 33.20978801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町永野１７１９−４" }, "geometry": { "type": "Point", "coordinates": [ 133.30510365, 33.4901077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町甲１７５７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.28486941, 33.50388237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町黒原４０２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.27890303, 33.54578843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町中組８５−1" }, "geometry": { "type": "Point", "coordinates": [ 133.284574920000011, 33.47740234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町十和川口３７４" }, "geometry": { "type": "Point", "coordinates": [ 132.846196889999987, 33.23038871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡大野見村吉野８２７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.13844619, 33.33461098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡東津野村力石２８８７" }, "geometry": { "type": "Point", "coordinates": [ 133.02592746, 33.39264419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡梼原町梼原１６２３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.926786639999989, 33.39374663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村本郷木屋の沖２３３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.372203219999989, 33.53387929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村本村６２−８" }, "geometry": { "type": "Point", "coordinates": [ 133.340472690000013, 33.56217946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良乙１６７１" }, "geometry": { "type": "Point", "coordinates": [ 133.60741825, 33.55911555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市五台山５０１５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.57203529, 33.54254758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田3843-1" }, "geometry": { "type": "Point", "coordinates": [ 133.585269509999989, 33.51572979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市中秦泉寺５２" }, "geometry": { "type": "Point", "coordinates": [ 133.53693743, 33.57966736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市土佐山１２２" }, "geometry": { "type": "Point", "coordinates": [ 133.52819453, 33.63499306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市右山五月町７−３８" }, "geometry": { "type": "Point", "coordinates": [ 132.9402138, 32.98730779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市岩田字大用寺１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.92678131, 33.00449262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市国見５８１" }, "geometry": { "type": "Point", "coordinates": [ 132.88491287, 32.97778461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市西土佐村江川崎１５３−４" }, "geometry": { "type": "Point", "coordinates": [ 132.79049869, 33.17788244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市蕨岡甲３０８" }, "geometry": { "type": "Point", "coordinates": [ 132.94525536, 33.04385764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市羽根町甲６４６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.06570624, 33.36016798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市橋上町橋上９９０" }, "geometry": { "type": "Point", "coordinates": [ 132.769102229999987, 32.98470297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛中央７丁目８−２１" }, "geometry": { "type": "Point", "coordinates": [ 132.726037600000012, 32.93463438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市小筑紫町小筑紫１０３" }, "geometry": { "type": "Point", "coordinates": [ 132.721937020000013, 32.88227952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市平田町戸内３５３８" }, "geometry": { "type": "Point", "coordinates": [ 132.79689342, 32.95339421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市浦の内灰方６−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.42910468, 33.4384936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市浦の内東分１１９" }, "geometry": { "type": "Point", "coordinates": [ 133.36534724, 33.42839047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市吾井郷乙８５５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.2961314, 33.4279712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市多ノ郷甲３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.28334021, 33.40928515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町黒石３５０" }, "geometry": { "type": "Point", "coordinates": [ 133.72680208, 33.78597674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町東土居１７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.75926922, 33.79740316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡本山町本山838-1" }, "geometry": { "type": "Point", "coordinates": [ 133.58223375, 33.75618912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐郡大川村小松２８−５" }, "geometry": { "type": "Point", "coordinates": [ 133.467480669999986, 33.78381887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐郡土佐町土居２８４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.535256370000013, 33.73656643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市新居字吉田前５１２０" }, "geometry": { "type": "Point", "coordinates": [ 133.46427721, 33.45912126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市波介４３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.39882799, 33.47567442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市北地６２３" }, "geometry": { "type": "Point", "coordinates": [ 133.38125155, 33.48701587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市用石４８６" }, "geometry": { "type": "Point", "coordinates": [ 133.441870849999987, 33.49028843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市竜串１−１７" }, "geometry": { "type": "Point", "coordinates": [ 132.87330646, 32.79017724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市下末松１６９−４" }, "geometry": { "type": "Point", "coordinates": [ 133.65148202, 33.59118639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市十市１８３３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.62274575, 33.52716538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市田村若宮２０４４−５" }, "geometry": { "type": "Point", "coordinates": [ 133.667448009999987, 33.56288034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町上川口１６５１" }, "geometry": { "type": "Point", "coordinates": [ 133.05449031, 33.03987812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町田野浦６７９" }, "geometry": { "type": "Point", "coordinates": [ 133.00138938, 32.99357442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町入野２０９８" }, "geometry": { "type": "Point", "coordinates": [ 133.01055236, 33.02510913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡三原村来栖野３４６" }, "geometry": { "type": "Point", "coordinates": [ 132.847631619999987, 32.90542409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町弘見田中ノ前" }, "geometry": { "type": "Point", "coordinates": [ 132.70739529, 32.8425316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市赤岡町西沢1895-8" }, "geometry": { "type": "Point", "coordinates": [ 133.71987551, 33.54756421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町榊山町4-10" }, "geometry": { "type": "Point", "coordinates": [ 133.1379801, 33.21064134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町仁井田窪田丸718-2" }, "geometry": { "type": "Point", "coordinates": [ 133.16203631, 33.24772348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡中土佐町久礼6652-1" }, "geometry": { "type": "Point", "coordinates": [ 133.225674379999987, 33.32924688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市伊勢崎町8-26" }, "geometry": { "type": "Point", "coordinates": [ 133.53089977, 33.57021427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市鴨部2016-19" }, "geometry": { "type": "Point", "coordinates": [ 133.50764271, 33.54951243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市桟橋通5丁目6-11" }, "geometry": { "type": "Point", "coordinates": [ 133.55130111, 33.53906533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市相生町1-14" }, "geometry": { "type": "Point", "coordinates": [ 133.54439124000001, 33.56525302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市大深浦178-1" }, "geometry": { "type": "Point", "coordinates": [ 132.693153349999989, 32.93071765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市中央2丁目8-20" }, "geometry": { "type": "Point", "coordinates": [ 132.7297043, 32.93841619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市片島8-23" }, "geometry": { "type": "Point", "coordinates": [ 132.69853174, 32.92142633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市下分甲字宮岡甲672" }, "geometry": { "type": "Point", "coordinates": [ 133.26230808, 33.39232325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市泉町1.-3" }, "geometry": { "type": "Point", "coordinates": [ 133.28249066, 33.39260575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐郡土佐町田井字鳥井1004-1" }, "geometry": { "type": "Point", "coordinates": [ 133.56637433, 33.74702291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市宇佐町宇佐2160" }, "geometry": { "type": "Point", "coordinates": [ 133.44431411, 33.45634149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市岡豊町蒲原車ヶ峠387-2" }, "geometry": { "type": "Point", "coordinates": [ 133.592164059999988, 33.59411132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市立田1244" }, "geometry": { "type": "Point", "coordinates": [ 133.67369351, 33.56754849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町西野１５３６−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.68648547, 33.56491317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市土佐山田町西本町１−２−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.68284259, 33.60399788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡中土佐町大野見奈路472" }, "geometry": { "type": "Point", "coordinates": [ 133.137458040000013, 33.33789386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡津野町新土居375-1" }, "geometry": { "type": "Point", "coordinates": [ 133.228933680000011, 33.43309991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市東石立町４８-１８" }, "geometry": { "type": "Point", "coordinates": [ 133.52330264, 33.55264227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡芸西村西分甲２５６１" }, "geometry": { "type": "Point", "coordinates": [ 133.798104560000013, 33.51908896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市津久茂町１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.89077955, 33.50223116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市本町２−６−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.90696064, 33.4997157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町１４６９−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.43219624, 33.54836806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡春野町東諸木１２９５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.53374567, 33.4836131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市土佐山田町繁藤１４" }, "geometry": { "type": "Point", "coordinates": [ 133.686733339999989, 33.67965209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町越知甲１６０３" }, "geometry": { "type": "Point", "coordinates": [ 133.25470379, 33.53045837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町金上野１２８１" }, "geometry": { "type": "Point", "coordinates": [ 133.14287507, 33.20073794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町仁井田字岩ノ本１２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.16110283, 33.24429359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町平串３０５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.151018130000011, 33.23204211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町本堂４１５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.18516154, 33.22208966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市鏡大河内４００−２" }, "geometry": { "type": "Point", "coordinates": [ 133.473610689999987, 33.58595883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市高須東町１番５号" }, "geometry": { "type": "Point", "coordinates": [ 133.58918236, 33.55826712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市桟橋通１−１１−３" }, "geometry": { "type": "Point", "coordinates": [ 133.5456514, 33.55042693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市若松町６−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.56000526, 33.5543697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市寿町５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.53438676, 33.56608305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市升形１−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.528982969999987, 33.55857104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田字築地１６４９" }, "geometry": { "type": "Point", "coordinates": [ 133.57342098, 33.51477362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市朝倉戊７８０−５" }, "geometry": { "type": "Point", "coordinates": [ 133.48436443, 33.53597502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市比島町４−１−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.54794279, 33.57221137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市北金田町１−１９" }, "geometry": { "type": "Point", "coordinates": [ 133.55514842, 33.56586712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市古津賀１６１９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.95032032, 32.98336256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛５５１２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71198859, 32.9315916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛７０８" }, "geometry": { "type": "Point", "coordinates": [ 132.72504812, 32.9350969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛上宮崎２１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.72797135, 32.93463781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市平田町戸内１２５９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.792135800000011, 32.95628219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市浜町２−１−７" }, "geometry": { "type": "Point", "coordinates": [ 133.289571990000013, 33.38886239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町杉６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.66481536, 33.75663233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡本山町本山６２９" }, "geometry": { "type": "Point", "coordinates": [ 133.58694262, 33.75902459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市岡豊町小蓮５００番地１２" }, "geometry": { "type": "Point", "coordinates": [ 133.6118931, 33.59721188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市左右山東タヤスバ４２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.6411747, 33.61193979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市篠原１７８３" }, "geometry": { "type": "Point", "coordinates": [ 133.63773844, 33.57667254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市小籠８５５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.63006836, 33.57745708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市大埆甲１４４３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.6479462, 33.56773563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市片山１５２６" }, "geometry": { "type": "Point", "coordinates": [ 133.64428505, 33.5506496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡三原村宮の川１４４５" }, "geometry": { "type": "Point", "coordinates": [ 132.84257259, 32.91867423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町高藪２２４−８" }, "geometry": { "type": "Point", "coordinates": [ 133.34884673, 33.78231714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町池ノ内３３２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.454206129999989, 33.53573983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町大崎２７７" }, "geometry": { "type": "Point", "coordinates": [ 133.172453960000013, 33.57540889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町長者乙６４７６" }, "geometry": { "type": "Point", "coordinates": [ 133.13305811, 33.50179922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町田村８８" }, "geometry": { "type": "Point", "coordinates": [ 133.16066067, 33.59063522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町越知甲２０４７" }, "geometry": { "type": "Point", "coordinates": [ 133.25041597, 33.53235707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町乙２１６４" }, "geometry": { "type": "Point", "coordinates": [ 133.28308021, 33.50686484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町丙３６４９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.27986042, 33.50964181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町七里乙２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.12884392, 33.25764879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡津野町大野４５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.16969598, 33.44113415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村岩目地６７２" }, "geometry": { "type": "Point", "coordinates": [ 133.33602396, 33.52582478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村本郷８７８−８" }, "geometry": { "type": "Point", "coordinates": [ 133.36165435, 33.53345916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市はりまや町３−２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.5428661, 33.56328717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市越前町２−９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.523232299999989, 33.56150897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市葛島１−１０−６９" }, "geometry": { "type": "Point", "coordinates": [ 133.57337719, 33.55858444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市弘化台１９−３９" }, "geometry": { "type": "Point", "coordinates": [ 133.564714869999989, 33.54935963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市桟橋通４−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 133.5501884, 33.54492836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町西分３２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.49003794, 33.49771821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町内ノ谷７９５−６" }, "geometry": { "type": "Point", "coordinates": [ 133.52139734, 33.51102386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市朝倉丙１５９３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.477265210000013, 33.55241935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市鳥越１５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.492383389999986, 33.56268342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市南御座５１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56404774, 33.56508003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市薊野４８９−４" }, "geometry": { "type": "Point", "coordinates": [ 133.556003, 33.60045127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市具同２９１０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.91543722, 32.97880698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市具同５２７９" }, "geometry": { "type": "Point", "coordinates": [ 132.90764175000001, 32.98145882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市中村東町１−５−２７" }, "geometry": { "type": "Point", "coordinates": [ 132.93832282, 32.99311401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市蕨岡甲９２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.9395015, 33.03898215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市室戸岬町７３９８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.19757382, 33.33379053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市平田町戸内１７４４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.7955594, 32.95786122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市大間本町１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.28593758, 33.40454375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町高須１７０" }, "geometry": { "type": "Point", "coordinates": [ 133.664317610000012, 33.765289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市宇佐町宇佐３１５９−７９" }, "geometry": { "type": "Point", "coordinates": [ 133.44534199, 33.45159826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町乙３３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.42745797, 33.50184021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市市野々７４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.33527791, 33.45123516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市越前町２−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.94993931, 32.7806631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市下ノ加江２８０６−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.95025322, 32.86496415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市下の加江５３６−５" }, "geometry": { "type": "Point", "coordinates": [ 132.94469189, 32.87567908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市物部" }, "geometry": { "type": "Point", "coordinates": [ 133.67237272, 33.55006756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市明見９３３" }, "geometry": { "type": "Point", "coordinates": [ 133.631459369999988, 33.56696799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町入野１１６５−７" }, "geometry": { "type": "Point", "coordinates": [ 133.01103006, 33.02690255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町浮鞭３５７０−２" }, "geometry": { "type": "Point", "coordinates": [ 133.02999803, 33.03494065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡芸西村和食甲２８２−９" }, "geometry": { "type": "Point", "coordinates": [ 133.810123159999989, 33.51912617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市下山字飛渡１５８０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.93863191, 33.48462423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市赤岡町１５５２" }, "geometry": { "type": "Point", "coordinates": [ 133.72020353, 33.54608161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良乙５６７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.60733492, 33.56576255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市鴨部字長畑８３３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.50124865, 33.54481795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市曙町１−２−２５" }, "geometry": { "type": "Point", "coordinates": [ 133.49401247, 33.55229389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市仁井田字新ノ端３６３４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.56752327, 33.52809393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市長浜７５７" }, "geometry": { "type": "Point", "coordinates": [ 133.54527145, 33.50294027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町甲１８７９" }, "geometry": { "type": "Point", "coordinates": [ 133.42361786, 33.49570835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市廿枝古市１２４５" }, "geometry": { "type": "Point", "coordinates": [ 133.64601951, 33.59499886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町枝川3205-1" }, "geometry": { "type": "Point", "coordinates": [ 133.464813740000011, 33.5584954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町天王南5-2-3" }, "geometry": { "type": "Point", "coordinates": [ 133.44895539, 33.53118284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町弘岡中813-1" }, "geometry": { "type": "Point", "coordinates": [ 133.46910306, 33.50813384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市中村大橋通7-13-10" }, "geometry": { "type": "Point", "coordinates": [ 132.94105549, 32.99004587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市浦ノ内西分1064-1" }, "geometry": { "type": "Point", "coordinates": [ 133.34661259, 33.41719887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市岡豊町大字小蓮字大谷1210-1" }, "geometry": { "type": "Point", "coordinates": [ 133.615542979999987, 33.60201516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡芸西村和食甲２４４" }, "geometry": { "type": "Point", "coordinates": [ 133.81203933, 33.51907906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町波川近見５５０" }, "geometry": { "type": "Point", "coordinates": [ 133.411655990000014, 33.54620762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市吉川町吉原１２９０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69603319, 33.54106485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町甲４５４" }, "geometry": { "type": "Point", "coordinates": [ 133.30060314, 33.50042258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町古市町１１−２４" }, "geometry": { "type": "Point", "coordinates": [ 133.14289803, 33.20624419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡津野町姫野々３８４" }, "geometry": { "type": "Point", "coordinates": [ 133.21674685, 33.43848483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市一宮東町５丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 133.57780094, 33.58921699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市上町１丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 133.52712642, 33.5561341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市瀬戸１丁目２−８７" }, "geometry": { "type": "Point", "coordinates": [ 133.545640529999986, 33.51445188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市北本町３丁目１０−３６" }, "geometry": { "type": "Point", "coordinates": [ 133.55104051, 33.56605591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市本宮町２２３−５" }, "geometry": { "type": "Point", "coordinates": [ 133.49925178, 33.55553176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市薊野北町１丁目９番３５号" }, "geometry": { "type": "Point", "coordinates": [ 133.55436708, 33.57899079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市西土佐江川崎２０６番地" }, "geometry": { "type": "Point", "coordinates": [ 132.78907313, 33.17641289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市有岡１１３９" }, "geometry": { "type": "Point", "coordinates": [ 132.83411741, 32.9637634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市幸町１−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.723438359999989, 32.93627451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛１３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71509827, 32.92952771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市浦ノ内東分１６８" }, "geometry": { "type": "Point", "coordinates": [ 133.36318813, 33.42666806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市大間東町６−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.289123679999989, 33.40937875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町立野２８０" }, "geometry": { "type": "Point", "coordinates": [ 133.78034478, 33.79172779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市宇佐町宇佐１７５３" }, "geometry": { "type": "Point", "coordinates": [ 133.444148399999989, 33.45119118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市宇佐町宇佐２８４０−４" }, "geometry": { "type": "Point", "coordinates": [ 133.43559253, 33.43914648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町甲２０１６−３" }, "geometry": { "type": "Point", "coordinates": [ 133.42485273, 33.49580486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市福井４２７" }, "geometry": { "type": "Point", "coordinates": [ 133.512316199999987, 33.56337542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市塩屋崎町2-13-11" }, "geometry": { "type": "Point", "coordinates": [ 133.53856564, 33.54849086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市布師田3948-2" }, "geometry": { "type": "Point", "coordinates": [ 133.570310510000013, 33.57223346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市横浜西町50-10" }, "geometry": { "type": "Point", "coordinates": [ 133.54483245, 33.5172164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町弘岡下３４２７-１" }, "geometry": { "type": "Point", "coordinates": [ 133.47403251, 33.5164605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市東秦泉寺117-1" }, "geometry": { "type": "Point", "coordinates": [ 133.549492500000014, 33.57846582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町越知甲２１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.250050890000011, 33.53049514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市萩町１−７−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.55282044, 33.54599486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市北本町３−４−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.54991565, 33.56544762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市一宮２８２６" }, "geometry": { "type": "Point", "coordinates": [ 133.58436135, 33.594046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県室戸市領家６２９" }, "geometry": { "type": "Point", "coordinates": [ 134.170201780000014, 33.29372274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高岡郡四万十町榊山町１０−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.13852036, 33.21514917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県宿毛市和田３５７" }, "geometry": { "type": "Point", "coordinates": [ 132.75225855, 32.94505633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県宿毛市和田３９９１" }, "geometry": { "type": "Point", "coordinates": [ 132.7401367, 32.94021082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県四万十市古津賀２５５８" }, "geometry": { "type": "Point", "coordinates": [ 132.96478818, 32.99534806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市中の島２−７５" }, "geometry": { "type": "Point", "coordinates": [ 133.55901447, 33.55323941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市五台山４９８３" }, "geometry": { "type": "Point", "coordinates": [ 133.57469185, 33.54024295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市五台山４９９２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.57057579, 33.53709544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市仁井田３６３６−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.56669014, 33.53363245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県南国市物部６２０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.679656810000012, 33.55985673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県南国市明見８０３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.6286634, 33.56706677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県長岡郡本山町本山９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.59899262, 33.7559988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県四万十市井沢９２１" }, "geometry": { "type": "Point", "coordinates": [ 132.9697775, 32.97790234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県須崎市多ノ郷甲５５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.28999495, 33.40864633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市百石町４丁目６−４" }, "geometry": { "type": "Point", "coordinates": [ 133.547018400000013, 33.5431906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市南御座２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56126702, 33.56495392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市本町２丁目２−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.53773168, 33.55891426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市針木本町９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.475260530000014, 33.53538104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市布師田３０１７−４" }, "geometry": { "type": "Point", "coordinates": [ 133.58065517, 33.57389493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市浮津４８−５" }, "geometry": { "type": "Point", "coordinates": [ 134.15346098, 33.2914525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市佐喜浜町１７０４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20529848000001, 33.39588512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市羽根町乙１０７２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.060967010000013, 33.36532221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市室津２４０３" }, "geometry": { "type": "Point", "coordinates": [ 134.15092736, 33.28938039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市穴内甲５２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.85161446, 33.50696377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市朝倉西町２丁目１２−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.480247, 33.53782148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市旭町２丁目３８" }, "geometry": { "type": "Point", "coordinates": [ 133.50952418, 33.55569864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市薊野東町３−１６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.56177575000001, 33.58202449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市加賀野井１丁目１１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.52817006, 33.57904341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市上町３丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.52222959, 33.55699778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市五台山２７５０" }, "geometry": { "type": "Point", "coordinates": [ 133.58784208, 33.5432289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸市港町２丁目３−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.912111509999988, 33.5006672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町西野２５４４−４" }, "geometry": { "type": "Point", "coordinates": [ 133.7007457, 33.55834628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡中土佐町上ノ加江４２８３" }, "geometry": { "type": "Point", "coordinates": [ 133.240353699999986, 33.30888071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡芸西村和食甲２６１４" }, "geometry": { "type": "Point", "coordinates": [ 133.81062658, 33.52587522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市土佐山田町植１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67639172, 33.61907924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市土佐山田町栄町７−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.67466583, 33.6016939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市土佐山田町栄町５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.67871808000001, 33.60290458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市竜串２４−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.867146530000014, 32.78957932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香南市野市町西野１８９８" }, "geometry": { "type": "Point", "coordinates": [ 133.69481905, 33.55759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美市物部町大栃１４６２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.87840811, 33.69840091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県長岡郡大豊町馬瀬４５４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.689411979999988, 33.69827842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町内ノ谷７６９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.5241447, 33.51188341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町弘岡上８３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.46074905, 33.50478278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町弘岡上３６６" }, "geometry": { "type": "Point", "coordinates": [ 133.45953357, 33.50479886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡仁淀川町名野川９０" }, "geometry": { "type": "Point", "coordinates": [ 133.133722229999989, 33.5599273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町小川東津賀才２０６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.3045243, 33.63206161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市川登３７３６" }, "geometry": { "type": "Point", "coordinates": [ 132.87219792, 33.0339389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町甲７８−４" }, "geometry": { "type": "Point", "coordinates": [ 133.44358705, 33.49440525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市蓮池２７３５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.404838790000014, 33.49233023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市蓮池２９１４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.403371639999989, 33.49244129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市押岡１４０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.301909380000012, 33.40498316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市新町２丁目６−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.293785719999988, 33.38913167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市中町１丁目６−２４" }, "geometry": { "type": "Point", "coordinates": [ 133.28333754, 33.38849254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市古津賀４丁目１" }, "geometry": { "type": "Point", "coordinates": [ 132.951667359999988, 32.98285754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市下田１９０４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.99124975, 32.94133748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市宿毛５３７６−６" }, "geometry": { "type": "Point", "coordinates": [ 132.70704099, 32.92929783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐清水市下ノ加江２７９−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.951134520000011, 32.86776933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県吾川郡いの町下八川甲６３５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.30130096, 33.62452549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市具同２２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.919819960000012, 32.98153118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市春野町芳原４８３０" }, "geometry": { "type": "Point", "coordinates": [ 133.515499729999988, 33.5037833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市高須２丁目１９−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.59080509, 33.55938569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県安芸郡安田町大字唐浜２３７６−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.96670832, 33.44196393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市古津賀３丁目４４" }, "geometry": { "type": "Point", "coordinates": [ 132.95699417, 32.98441953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県室戸市室津２６６４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.147345730000012, 33.28769819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県宿毛市平田町戸内１２５５−２" }, "geometry": { "type": "Point", "coordinates": [ 132.79190356, 32.95648743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市高岡町甲４１４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.43793252, 33.49685747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市田村甲５３４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67064352, 33.56226175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市大津乙２１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.589765449999987, 33.56979498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡越知町越知甲３１３２" }, "geometry": { "type": "Point", "coordinates": [ 133.25602715, 33.52928176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町榊山町６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.14004232, 33.21093695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町床鍋１１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.171767820000014, 33.29232195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡四万十町本堂４２８−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.18478138, 33.22139747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡檮原町下西の川９３８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.89228298, 33.37941525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡津野町芳生野乙１０５８" }, "geometry": { "type": "Point", "coordinates": [ 133.019094630000012, 33.44829813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村下分１１５６" }, "geometry": { "type": "Point", "coordinates": [ 133.38929811, 33.5396667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡黒潮町佐賀８４０−８" }, "geometry": { "type": "Point", "coordinates": [ 133.10572038, 33.07908044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町大字姫ノ井１１２３" }, "geometry": { "type": "Point", "coordinates": [ 132.7357517, 32.79994687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県幡多郡大月町大字弘見１３７６−３" }, "geometry": { "type": "Point", "coordinates": [ 132.71269319000001, 32.84799471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県四万十市西土佐口屋内１５０−４" }, "geometry": { "type": "Point", "coordinates": [ 132.803313229999986, 33.09605815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県土佐市鷹ノ巣１７１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.34275845, 33.45425098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村下分１８８７−６" }, "geometry": { "type": "Point", "coordinates": [ 133.39469875, 33.54057717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡日高村岩目地８−５" }, "geometry": { "type": "Point", "coordinates": [ 133.330498150000011, 33.52168597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市万々４７３−９" }, "geometry": { "type": "Point", "coordinates": [ 133.515505280000013, 33.57684765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県土佐市家俊１０９８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.34719432, 33.46236967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県須崎市新町１丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.29181067, 33.38974042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県四万十市中村一条通５丁目４−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.939315240000013, 32.99130619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県安芸市染井町９−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.891834280000012, 33.50255022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県南国市里改田３６５" }, "geometry": { "type": "Point", "coordinates": [ 133.638626359999989, 33.54993387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県香南市赤岡町一本松１３３０" }, "geometry": { "type": "Point", "coordinates": [ 133.72176993, 33.54392123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県香南市赤岡町横町４８６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.7215477, 33.54300922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県香美市土佐山田町西本町１丁目５−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.684508920000013, 33.60622039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市本宮町２７５" }, "geometry": { "type": "Point", "coordinates": [ 133.50116032, 33.5554472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県宿毛市中央２丁目６−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.73052045, 32.93956583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県宿毛市中央７丁目２−３４" }, "geometry": { "type": "Point", "coordinates": [ 132.7255217, 32.93705593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県土佐清水市天神町６−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.955233029999988, 32.7804578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市南川添１６−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.56350737, 33.57039861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市梅ノ辻８−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.5432758, 33.55369211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市旭町１丁目１１２" }, "geometry": { "type": "Point", "coordinates": [ 133.51368194, 33.55691589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市旭駅前町４" }, "geometry": { "type": "Point", "coordinates": [ 133.508875210000014, 33.55738908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市愛宕町２丁目１９−５" }, "geometry": { "type": "Point", "coordinates": [ 133.53653094, 33.56857727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市五台山４９８８" }, "geometry": { "type": "Point", "coordinates": [ 133.5717395, 33.53727937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市桜井町１丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.547715939999989, 33.56258124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市桟橋通５丁目５−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.551968789999989, 33.53894342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市はりまや町２丁目１１−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.54564954, 33.56074804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市東城山町１９０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.51652224, 33.54886699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市二葉町１７−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.55657265, 33.555525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市鴨部高町６−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.49669153, 33.55198583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市鴨部高町１４０−２" }, "geometry": { "type": "Point", "coordinates": [ 133.49824859, 33.55232423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市介良乙７３１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.605090679999989, 33.56528759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市神田７８０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.50942264, 33.54514608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高岡郡四万十町根元原６９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.14034729, 33.21877511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高岡郡越知町越知甲２０５５" }, "geometry": { "type": "Point", "coordinates": [ 133.25100139, 33.53234693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県吾川郡いの町駅南町１４２８" }, "geometry": { "type": "Point", "coordinates": [ 133.43043603000001, 33.54707383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県南国市後免町１丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 133.6442137, 33.5768611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市比島町３丁目１８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.550073880000014, 33.57185792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市神田２１４１−２４" }, "geometry": { "type": "Point", "coordinates": [ 133.518238200000013, 33.54228172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県土佐市高岡町乙１７５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.42547488, 33.49741854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市神田８４３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.512541019999986, 33.5454928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市石立町７５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.51670503, 33.55395363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市朝倉横町２０−９−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.49563710000001, 33.54468034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡越知町越知甲２２７６" }, "geometry": { "type": "Point", "coordinates": [ 133.24817669, 33.53149416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡津野町芳生野甲２５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.0241907, 33.39395902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡佐川町甲１１０６" }, "geometry": { "type": "Point", "coordinates": [ 133.29661185, 33.49927121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡佐川町甲１７８６中本" }, "geometry": { "type": "Point", "coordinates": [ 133.28452206, 33.50488882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県吾川郡仁淀川町土居甲９４０" }, "geometry": { "type": "Point", "coordinates": [ 133.171301480000011, 33.60851091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県吾川郡いの町３１８３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.44967854, 33.53318559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県須崎市栄町１０−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.28180104, 33.39043814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡越知町越知甲３１６１" }, "geometry": { "type": "Point", "coordinates": [ 133.25831459, 33.5268644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡四万十町大正４５１" }, "geometry": { "type": "Point", "coordinates": [ 132.97372305, 33.19916896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市中の島２−８９" }, "geometry": { "type": "Point", "coordinates": [ 133.557759589999989, 33.55370756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡四万十町茂串町１１−８" }, "geometry": { "type": "Point", "coordinates": [ 133.13278233, 33.20915821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県幡多郡三原村大字柚ノ木５９７" }, "geometry": { "type": "Point", "coordinates": [ 132.83515132, 32.90638993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高岡郡津野町杉ノ川甲４０" }, "geometry": { "type": "Point", "coordinates": [ 133.15915346, 33.43898484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐郡土佐町田井７６７" }, "geometry": { "type": "Point", "coordinates": [ 133.55214264, 33.74978164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐市宇佐町宇佐１９４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.44400109, 33.45209838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県宿毛市片島１１−３９" }, "geometry": { "type": "Point", "coordinates": [ 132.69540421, 32.92317517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県宿毛市高砂８−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.70338078, 32.92584452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県宿毛市山奈町山田１３６４−３" }, "geometry": { "type": "Point", "coordinates": [ 132.813262540000011, 32.96699146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐郡土佐町田井１１８２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.562119740000014, 33.74613849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県宿毛市片島６−１５" }, "geometry": { "type": "Point", "coordinates": [ 132.701078419999988, 32.9242502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸郡奈半利町乙３７６５−３" }, "geometry": { "type": "Point", "coordinates": [ 134.02711847, 33.43507628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県四万十市具同６２０４" }, "geometry": { "type": "Point", "coordinates": [ 132.90590737, 32.98143996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県四万十市右山五月町１５−７" }, "geometry": { "type": "Point", "coordinates": [ 132.940404269999988, 32.98632608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県宿毛市桜町１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.7265296, 32.93855773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県長岡郡大豊町連火３１０" }, "geometry": { "type": "Point", "coordinates": [ 133.755917, 33.79943313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県香南市野市町大谷９１６" }, "geometry": { "type": "Point", "coordinates": [ 133.70130765, 33.56855261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県香美市土佐山田町東本町４丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.690869780000014, 33.60731266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県香美市土佐山田町西本町４丁目１−２１" }, "geometry": { "type": "Point", "coordinates": [ 133.68111219, 33.60428478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県香南市香我美町上分５７４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.747180789999987, 33.56459566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐清水市下川口９６１−３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.84049303, 32.78482939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐清水市本町２−６" }, "geometry": { "type": "Point", "coordinates": [ 132.956378480000012, 32.77806522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸郡安田町大字安田１８７８" }, "geometry": { "type": "Point", "coordinates": [ 133.98227938, 33.43930079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸郡奈半利町乙１３１３−６" }, "geometry": { "type": "Point", "coordinates": [ 134.018471580000011, 33.42667165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県室戸市吉良川町乙２９７４" }, "geometry": { "type": "Point", "coordinates": [ 134.08743929, 33.33701125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県香美市土佐山田町西本町２丁目４−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.6828036, 33.60594832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市長浜４０５０" }, "geometry": { "type": "Point", "coordinates": [ 133.5431633, 33.49349704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県南国市稲生９３３−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.61329613, 33.54460985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県南国市駅前町２丁目４−８７" }, "geometry": { "type": "Point", "coordinates": [ 133.64738705, 33.57979254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市潮新町１丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.54759757, 33.5535544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県室戸市浮津８０７" }, "geometry": { "type": "Point", "coordinates": [ 134.14939494, 33.29060204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸市染井町３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.89788074, 33.50224021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸市庄之芝町８−３１" }, "geometry": { "type": "Point", "coordinates": [ 133.89817459, 33.50218749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県室戸市浮津７６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.15088701, 33.29056455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県室戸市浮津一番町２２２−４" }, "geometry": { "type": "Point", "coordinates": [ 134.14442094, 33.29104776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県南国市里改田１１１４" }, "geometry": { "type": "Point", "coordinates": [ 133.63970695, 33.5466734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市横浜１５３１" }, "geometry": { "type": "Point", "coordinates": [ 133.53793471, 33.52073862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市丸ノ内１丁目５−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.52772144, 33.55892877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市二葉町９−３３" }, "geometry": { "type": "Point", "coordinates": [ 133.55642395000001, 33.55710119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市長浜６３９" }, "geometry": { "type": "Point", "coordinates": [ 133.54460185, 33.50031578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県須崎市上分丙１７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.2375634, 33.40069132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県須崎市吾井郷乙４４９" }, "geometry": { "type": "Point", "coordinates": [ 133.29043181, 33.43216923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐市高岡町乙３２７９" }, "geometry": { "type": "Point", "coordinates": [ 133.428877269999987, 33.50287619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐市宇佐町宇佐１９７１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.44490116, 33.45241929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸市本町２丁目１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.90764191, 33.49894283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐市宇佐町宇佐７５３" }, "geometry": { "type": "Point", "coordinates": [ 133.439230509999987, 33.4480754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県安芸市矢ノ丸１丁目８−９" }, "geometry": { "type": "Point", "coordinates": [ 133.90957931, 33.50148047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県土佐市家俊１０９６" }, "geometry": { "type": "Point", "coordinates": [ 133.34679589000001, 33.46281548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市北本町１丁目９−３１" }, "geometry": { "type": "Point", "coordinates": [ 133.54223314, 33.56573621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "高知県高知市帯屋町２丁目７−４" }, "geometry": { "type": "Point", "coordinates": [ 133.534553499999987, 33.55990049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県須崎市上分丙３３５" }, "geometry": { "type": "Point", "coordinates": [ 133.23921736, 33.41072222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県香美郡土佐山田町神母ノ木４８７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.715495370000014, 33.61649263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高知市介良仙国乙815-5" }, "geometry": { "type": "Point", "coordinates": [ 133.60090573, 33.56370691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県南国市明見字杖の間々825-4" }, "geometry": { "type": "Point", "coordinates": [ 133.62690389, 33.56751313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県安芸市川北新甲１６３１" }, "geometry": { "type": "Point", "coordinates": [ 133.920238970000014, 33.49636262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高岡郡四万十町東大奈路字丸山５１３" }, "geometry": { "type": "Point", "coordinates": [ 133.148001169999986, 33.2297661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市春野町弘岡下３６００−１" }, "geometry": { "type": "Point", "coordinates": [ 133.469448699999987, 33.50818145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高知市仁井田新築４５８６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56642598, 33.52043285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県四万十市具同北相ノ沢６２００−４" }, "geometry": { "type": "Point", "coordinates": [ 132.90576133, 32.98123736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県土佐清水市加久見８７６" }, "geometry": { "type": "Point", "coordinates": [ 132.93878844, 32.78738182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "高知県高岡郡佐川町東組１２５３−５二の部" }, "geometry": { "type": "Point", "coordinates": [ 133.284733390000014, 33.47790585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "高知県高岡郡佐川町東組１２８０−６斗賀野駅前" }, "geometry": { "type": "Point", "coordinates": [ 133.28544813, 33.4758814 ] } }
+
+]
+}

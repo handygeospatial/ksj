@@ -1,0 +1,1432 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市五津合町小字大田１" }, "geometry": { "type": "Point", "coordinates": [ 135.42231335, 35.36823282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市幸通り１８−２０" }, "geometry": { "type": "Point", "coordinates": [ 135.24900155, 35.30197625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市宇治１−１１６" }, "geometry": { "type": "Point", "coordinates": [ 135.79903176, 34.88751815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市小倉町春日森１９" }, "geometry": { "type": "Point", "coordinates": [ 135.78338018, 34.90150203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市大久保町北之山３３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7714724, 34.87370319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市菟道谷下り４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80925671, 34.89918007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市篠町馬堀広道３−９" }, "geometry": { "type": "Point", "coordinates": [ 135.60255049, 35.00713374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町田井向野１６" }, "geometry": { "type": "Point", "coordinates": [ 135.73680122, 34.87968527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市今福荒木野９５６" }, "geometry": { "type": "Point", "coordinates": [ 135.18721689, 35.51531405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市波路小字松下３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.20886819, 35.54207014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市丹後町間人３０５" }, "geometry": { "type": "Point", "coordinates": [ 135.098591629999987, 35.72867883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市丹後町上野４" }, "geometry": { "type": "Point", "coordinates": [ 135.16757245, 35.75163898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町掛津３４" }, "geometry": { "type": "Point", "coordinates": [ 135.05310117, 35.69677649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町網野１７９" }, "geometry": { "type": "Point", "coordinates": [ 135.02795283, 35.67640348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区花園木辻南町４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.723127760000011, 35.01970555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北下中町下河原１" }, "geometry": { "type": "Point", "coordinates": [ 135.63768808, 35.19256949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北周山泓１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.63496078, 35.15172101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区太秦下角田町１８" }, "geometry": { "type": "Point", "coordinates": [ 135.71638514, 35.00933232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区太秦北路町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70019259, 35.02116692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区太秦和泉式部町１３−８" }, "geometry": { "type": "Point", "coordinates": [ 135.713134450000013, 35.01709036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区梅ヶ畑畑町７" }, "geometry": { "type": "Point", "coordinates": [ 135.69213739, 35.03737386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区西七条東八反田町２３" }, "geometry": { "type": "Point", "coordinates": [ 135.739083959999988, 34.99254526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区一乗寺築田町９０" }, "geometry": { "type": "Point", "coordinates": [ 135.791519459999989, 35.0399487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区勧修寺閑林寺９１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.81226901, 34.95628944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区栗栖野打越町３９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.80738478, 34.97185802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区大塚野溝町８６" }, "geometry": { "type": "Point", "coordinates": [ 135.82703174, 34.98239994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区椥辻東浦町４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81607248, 34.97571985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区今小路通七本松西入末之口町４４８−５" }, "geometry": { "type": "Point", "coordinates": [ 135.73862642, 35.02891443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区上善寺町１" }, "geometry": { "type": "Point", "coordinates": [ 135.7420999, 35.03037836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区山田中吉見町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69313614, 34.98183191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区河原町丸太町西入ル" }, "geometry": { "type": "Point", "coordinates": [ 135.76758731000001, 35.01759165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区御池通御幸町大文字３５４" }, "geometry": { "type": "Point", "coordinates": [ 135.766359670000014, 35.01054989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院西ノ庄東屋敷町２０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.72884903, 34.98424432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世中久世町３−５１" }, "geometry": { "type": "Point", "coordinates": [ 135.716946369999988, 34.96069653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽菅田町２" }, "geometry": { "type": "Point", "coordinates": [ 135.74629241, 34.97301103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽苗代町４８" }, "geometry": { "type": "Point", "coordinates": [ 135.75889734, 34.97039215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽南柳長町６２" }, "geometry": { "type": "Point", "coordinates": [ 135.744843659999987, 34.93433481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区向島丸町１５" }, "geometry": { "type": "Point", "coordinates": [ 135.77388443000001, 34.92190028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草馬谷町２０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78885933, 34.95585805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区竹田中川原町８０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76098317, 34.95986364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区片原町３００−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.75695109, 34.93305396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫野下鳥田町５７番地の１" }, "geometry": { "type": "Point", "coordinates": [ 135.75198372, 35.04286965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区小山下内河原町１１５" }, "geometry": { "type": "Point", "coordinates": [ 135.76198374, 35.04347305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田小字大林２７−５" }, "geometry": { "type": "Point", "coordinates": [ 135.76235083, 34.85396821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田築留５４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79295301, 34.85034806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町須知小字天神４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.42617522, 35.15906595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町大字中小字平田３５" }, "geometry": { "type": "Point", "coordinates": [ 135.91001792, 34.80239023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市日吉町胡麻佃２-1" }, "geometry": { "type": "Point", "coordinates": [ 135.48365175, 35.1888411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町静原森ケ下３５" }, "geometry": { "type": "Point", "coordinates": [ 135.55494914, 35.27857828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡南山３８番地" }, "geometry": { "type": "Point", "coordinates": [ 135.70527844, 34.85279226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市美濃山出口１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71323371, 34.8449132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市公文名小字八丁東５３７" }, "geometry": { "type": "Point", "coordinates": [ 135.32868889, 35.43640222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市溝尻中町２１−７" }, "geometry": { "type": "Point", "coordinates": [ 135.405130320000012, 35.46883819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市大波下小字島田９６３" }, "geometry": { "type": "Point", "coordinates": [ 135.40605617, 35.49856878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市中田村中４１４" }, "geometry": { "type": "Point", "coordinates": [ 135.39813025, 35.5173944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市三和町菟原下１４７" }, "geometry": { "type": "Point", "coordinates": [ 135.25528179, 35.19965347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市大江町川守土地区画整理事業５−２街区１２３４５" }, "geometry": { "type": "Point", "coordinates": [ 135.14789224, 35.39180264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市猪崎１３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.12938069, 35.30833158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市夜久野町額田１２９２" }, "geometry": { "type": "Point", "coordinates": [ 135.00234726, 35.32030828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市和久市町２１５" }, "geometry": { "type": "Point", "coordinates": [ 135.1137382, 35.30871356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡伊根町字本庄上１１９１" }, "geometry": { "type": "Point", "coordinates": [ 135.25319835, 35.72098843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町岩滝２３０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.15219112, 35.56369848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町幾地１８１０" }, "geometry": { "type": "Point", "coordinates": [ 135.08694318, 35.53122429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町石川ヨコグロ９５５" }, "geometry": { "type": "Point", "coordinates": [ 135.12612925, 35.53743135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市大島町２０番地" }, "geometry": { "type": "Point", "coordinates": [ 135.21975412, 35.30478533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市大島町二反目２７−４" }, "geometry": { "type": "Point", "coordinates": [ 135.22449608, 35.30414295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市味方町石風呂１０" }, "geometry": { "type": "Point", "coordinates": [ 135.26781284, 35.30010386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市有岡町橋詰１２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.2614546, 35.3189169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市宇治下居３９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80076466, 34.88249376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市大久保町大竹５８" }, "geometry": { "type": "Point", "coordinates": [ 135.777717740000014, 34.86924872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府乙訓郡大山崎町字大山崎小字鏡田４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.687829990000012, 34.89577134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市安町野野神３１−５" }, "geometry": { "type": "Point", "coordinates": [ 135.57189939, 35.01368316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市余部町蚊又１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.55653224, 35.01330238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市余部町塞又８１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.560374239999987, 35.02155454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町市田東観世１４３−５" }, "geometry": { "type": "Point", "coordinates": [ 135.76324613, 34.89153654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町森大内１８０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.745034370000013, 34.89785492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町田井新荒見３３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.73967683, 34.88329951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市字波路６５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.20464589, 35.53809373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市上司５０４" }, "geometry": { "type": "Point", "coordinates": [ 135.2334483, 35.54827083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市須津小字金得浜１９７４" }, "geometry": { "type": "Point", "coordinates": [ 135.15931601, 35.55226799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市鶴賀２０６０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.19813034, 35.53573239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市日置１２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.22159972, 35.60443031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町多茂の木３−７７" }, "geometry": { "type": "Point", "coordinates": [ 134.892809699999987, 35.60141638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市大宮町字河辺小字塚手尻７０８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.08975252, 35.59621235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町字杉谷６２７" }, "geometry": { "type": "Point", "coordinates": [ 135.06810273, 35.62743341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町菅１０８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.0617421, 35.61374115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市草内小字一ノ坪１７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.78506374, 34.81905653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市田辺小字深田１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77001216, 34.81529822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北下中町２５−４" }, "geometry": { "type": "Point", "coordinates": [ 135.639172980000012, 35.19550894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北周山町森ノ下１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.63553887, 35.14865898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北塔町３８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.65963345, 35.17915419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区嵯峨新宮町１０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.68639106, 35.02116749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院月双町１" }, "geometry": { "type": "Point", "coordinates": [ 135.720043980000014, 34.99965935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院月双町７８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71996786, 34.99761172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院高田町２８" }, "geometry": { "type": "Point", "coordinates": [ 135.732604400000014, 34.9976258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区河原町通七条上る住吉町３５６" }, "geometry": { "type": "Point", "coordinates": [ 135.76397014, 34.99027191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区間之町通五条下る大津町１" }, "geometry": { "type": "Point", "coordinates": [ 135.76171894, 34.99586496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区東堀川通下魚の棚下る鎌屋町２９" }, "geometry": { "type": "Point", "coordinates": [ 135.75271339, 34.98802516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区田中上大久保町１" }, "geometry": { "type": "Point", "coordinates": [ 135.7827719, 35.03716667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区勧修寺東金ヶ崎町２７" }, "geometry": { "type": "Point", "coordinates": [ 135.808561520000012, 34.96705375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区勧修寺風呂尻町１３８" }, "geometry": { "type": "Point", "coordinates": [ 135.80960477, 34.95994121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区竹鼻堂ノ前町２２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.81730303, 34.98691499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区堀川通上立売下ル山名町８１３" }, "geometry": { "type": "Point", "coordinates": [ 135.75152473, 35.03138954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区桂西滝川町６１番地" }, "geometry": { "type": "Point", "coordinates": [ 135.71213982, 34.97850489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区川島野田町２４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70080415000001, 34.9734232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区大原野灰方町６８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.67169822, 34.95325707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区大枝東新林町２丁目９" }, "geometry": { "type": "Point", "coordinates": [ 135.675298, 34.96841762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区西ノ京藤ノ木町１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.72538849, 35.01558508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院蒔絵町２５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.7382471, 34.96595082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院西ノ茶屋町４６" }, "geometry": { "type": "Point", "coordinates": [ 135.72642199, 34.97137491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院嶋野間詰町５２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.734157149999987, 34.96032578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区九条通西大路角" }, "geometry": { "type": "Point", "coordinates": [ 135.73321748, 34.97838105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽中河原５７−６" }, "geometry": { "type": "Point", "coordinates": [ 135.74536919, 34.95759554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽北花名町１４" }, "geometry": { "type": "Point", "coordinates": [ 135.74610658, 34.96579651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区羽束師菱川２１２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.71642882, 34.93062791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽広長町１５" }, "geometry": { "type": "Point", "coordinates": [ 135.74471046, 34.93304922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草加賀屋敷町６−４" }, "geometry": { "type": "Point", "coordinates": [ 135.75838592, 34.94981381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区竹田東小屋ノ内町７６" }, "geometry": { "type": "Point", "coordinates": [ 135.749700319999988, 34.95129927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市鶏冠井町西金村４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.71663605, 34.94277729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市寺戸町新田２５−７" }, "geometry": { "type": "Point", "coordinates": [ 135.70046126, 34.95632714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田金尾１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76338912, 34.8463812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町才原舟戸３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.3476372, 35.27449159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町水原六ノ坪２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.315725109999988, 35.18843602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町本庄今福１５−２" }, "geometry": { "type": "Point", "coordinates": [ 135.399996969999989, 35.25941396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡笠置町大字笠置小字西通１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.936923830000012, 34.76190104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町菅井６１０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.79373974, 34.75178474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町大字乾谷小字三本木２８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.77281815, 34.73194471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町釜塚生水１９" }, "geometry": { "type": "Point", "coordinates": [ 135.90437477, 34.79599188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市粟生川久保７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.679326519999989, 34.93911873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市今里更ノ町４４" }, "geometry": { "type": "Point", "coordinates": [ 135.69144633, 34.93989726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市神足３丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.697688950000014, 34.92116367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市日吉町胡麻土橋４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.46511175, 35.19672825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市日吉町殿田前田４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.50426643, 35.15314578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町静原桧ノ浦７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.55263075, 35.27614501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町大野森の上４８−４" }, "geometry": { "type": "Point", "coordinates": [ 135.51153611, 35.27764123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町北桜ヶ谷口１１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.62836832, 35.31113723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市下奈良新下１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7296471, 34.87043756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡一ノ坪１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.713313, 34.8583373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市美濃山出口４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.7127671, 34.8449783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字丸田ヒシリ６５２−６" }, "geometry": { "type": "Point", "coordinates": [ 135.27860684, 35.46493479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字十倉ズエノ下２０７" }, "geometry": { "type": "Point", "coordinates": [ 135.33021878, 35.41992193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字浜５６３" }, "geometry": { "type": "Point", "coordinates": [ 135.39622585, 35.47338819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市田中町２１−５" }, "geometry": { "type": "Point", "coordinates": [ 135.42014541, 35.48109918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市福来小字坪の内９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.346797040000013, 35.4450155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市雲原小字中島１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.07998344, 35.42178652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市岩崎小字水落１６２" }, "geometry": { "type": "Point", "coordinates": [ 135.18598637, 35.26449688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市荒河狭間４−３" }, "geometry": { "type": "Point", "coordinates": [ 135.10071356, 35.32605161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市大江町蓼原４０８" }, "geometry": { "type": "Point", "coordinates": [ 135.14041056, 35.3831665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市堀小字草木２３２６" }, "geometry": { "type": "Point", "coordinates": [ 135.13576307, 35.29226315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市末広町５−１９" }, "geometry": { "type": "Point", "coordinates": [ 135.11604717, 35.29990741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市夜久野町小倉小字出張１２６２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.93435825, 35.33327694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市山城町北河原畑岡９２１" }, "geometry": { "type": "Point", "coordinates": [ 135.80931216, 34.76419784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市相楽姫子４７−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.796492120000011, 34.73649169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字加悦５８７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.10434704, 35.50497389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字算所小字田中３７０" }, "geometry": { "type": "Point", "coordinates": [ 135.09556344, 35.51046075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字石川５９４" }, "geometry": { "type": "Point", "coordinates": [ 135.12195839, 35.53285246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市宮代町門ノ前１５-１" }, "geometry": { "type": "Point", "coordinates": [ 135.24328743, 35.30196874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市上杉町石子２-３" }, "geometry": { "type": "Point", "coordinates": [ 135.31156324, 35.34957296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市青野町高田７５" }, "geometry": { "type": "Point", "coordinates": [ 135.26206855, 35.30539267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市物部町南車田６-１" }, "geometry": { "type": "Point", "coordinates": [ 135.2204788, 35.35079909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市神明宮東１７-２" }, "geometry": { "type": "Point", "coordinates": [ 135.79117764, 34.88069126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市木幡御園町２" }, "geometry": { "type": "Point", "coordinates": [ 135.79874515, 34.9327393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市槇島町１８-４１" }, "geometry": { "type": "Point", "coordinates": [ 135.78379256, 34.91097832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府乙訓郡大山崎町下植野山王前１２" }, "geometry": { "type": "Point", "coordinates": [ 135.70019727, 34.90712947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市篠町王子下上牧７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.61003066, 34.99906234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町字野村小字村東８８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74292953, 34.88746009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町大字森小字川端８３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74360044, 34.89558931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市字大島小字沖島１" }, "geometry": { "type": "Point", "coordinates": [ 135.2628532, 35.66103204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市須津小字湫ノ谷２５５２" }, "geometry": { "type": "Point", "coordinates": [ 135.165058429999988, 35.55825678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市中津８０６" }, "geometry": { "type": "Point", "coordinates": [ 135.23413477, 35.55255365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市鶴賀２０６２-８" }, "geometry": { "type": "Point", "coordinates": [ 135.19895814, 35.53665878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市白柏１３３５" }, "geometry": { "type": "Point", "coordinates": [ 135.19037687, 35.54027086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市由良３１９６" }, "geometry": { "type": "Point", "coordinates": [ 135.27813411, 35.52084052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町佐野３４" }, "geometry": { "type": "Point", "coordinates": [ 134.963246, 35.58228462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町栃谷１４-１" }, "geometry": { "type": "Point", "coordinates": [ 134.903172790000013, 35.59991856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町湊宮１６６４" }, "geometry": { "type": "Point", "coordinates": [ 134.91119068, 35.64340139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町新町１５２７-１" }, "geometry": { "type": "Point", "coordinates": [ 135.080345599999987, 35.60821226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市三山木小字荒木５" }, "geometry": { "type": "Point", "coordinates": [ 135.7809741, 34.80209601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市大字薪岸ノ下１-４" }, "geometry": { "type": "Point", "coordinates": [ 135.76241629, 34.82380587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院安塚町２５" }, "geometry": { "type": "Point", "coordinates": [ 135.722365239999988, 35.00330591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西京極殿田町２４" }, "geometry": { "type": "Point", "coordinates": [ 135.718060509999987, 34.98398275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区五条通堀川西入ル" }, "geometry": { "type": "Point", "coordinates": [ 135.75095158, 34.99600601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区四条通り油小路東入る傘鉾町４４" }, "geometry": { "type": "Point", "coordinates": [ 135.75428419, 35.00397749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区七条通間之町東人材木町" }, "geometry": { "type": "Point", "coordinates": [ 135.76226974, 34.98947799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区七条通堀川西入ル八百屋町１" }, "geometry": { "type": "Point", "coordinates": [ 135.75222838, 34.98898486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区西七条掛越町６４" }, "geometry": { "type": "Point", "coordinates": [ 135.73259624, 34.99248792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区西木屋町通五条下ル南橋詰町４９２" }, "geometry": { "type": "Point", "coordinates": [ 135.76704516, 34.99548171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区岩倉中町３９２" }, "geometry": { "type": "Point", "coordinates": [ 135.7893898, 35.07355985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区岩倉南三宅町６１" }, "geometry": { "type": "Point", "coordinates": [ 135.78977758, 35.06420423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区高野泉町１７-３" }, "geometry": { "type": "Point", "coordinates": [ 135.78522428, 35.0479148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区浄土寺馬場町１１-２" }, "geometry": { "type": "Point", "coordinates": [ 135.79229045, 35.02472603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区小野西浦町４８" }, "geometry": { "type": "Point", "coordinates": [ 135.8125425, 34.95925734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区西野山射庭ノ上町２８２" }, "geometry": { "type": "Point", "coordinates": [ 135.79843731, 34.97222968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区西野楳元町１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.801340149999987, 34.98179385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区東野中井上町１３-２９" }, "geometry": { "type": "Point", "coordinates": [ 135.82196516, 34.98107061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区西堀川元誓願寺晴明町" }, "geometry": { "type": "Point", "coordinates": [ 135.75168456, 35.02825705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区桂市ノ前町２３" }, "geometry": { "type": "Point", "coordinates": [ 135.70700394, 34.97812163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区山田車塚町５-９" }, "geometry": { "type": "Point", "coordinates": [ 135.693332700000013, 34.98286992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世中久世町３−７６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71696687, 34.96016612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽北花名町１-１" }, "geometry": { "type": "Point", "coordinates": [ 135.746082480000013, 34.96649849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽広長町３６" }, "geometry": { "type": "Point", "coordinates": [ 135.74464365, 34.93198802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区治部町５０-５" }, "geometry": { "type": "Point", "coordinates": [ 135.751860670000013, 34.93966771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草町通町２５" }, "geometry": { "type": "Point", "coordinates": [ 135.76852083, 34.96085353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫竹東栗栖町３５-３" }, "geometry": { "type": "Point", "coordinates": [ 135.744811770000013, 35.04942939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫竹東桃ノ本町３５" }, "geometry": { "type": "Point", "coordinates": [ 135.751822510000011, 35.04768136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市寺戸町八反田９" }, "geometry": { "type": "Point", "coordinates": [ 135.70105344000001, 34.96412466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市上植野町南淀井８-５" }, "geometry": { "type": "Point", "coordinates": [ 135.71300285, 34.93104111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市奈島長尾４-１" }, "geometry": { "type": "Point", "coordinates": [ 135.794056250000011, 34.8264398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市平川浜道裏４１-８" }, "geometry": { "type": "Point", "coordinates": [ 135.76245312, 34.86739732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町蒲生伏拝１２−５" }, "geometry": { "type": "Point", "coordinates": [ 135.425676079999988, 35.16137091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町橋爪小字大野６５-１" }, "geometry": { "type": "Point", "coordinates": [ 135.38140281, 35.17938874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡笠置町市場３３" }, "geometry": { "type": "Point", "coordinates": [ 135.93642746, 34.75703678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町山田金堀１６-２" }, "geometry": { "type": "Point", "coordinates": [ 135.776970229999989, 34.73339169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町原山小瀬谷５３-１" }, "geometry": { "type": "Point", "coordinates": [ 135.91491613, 34.8088948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町杣田小字平松１" }, "geometry": { "type": "Point", "coordinates": [ 135.89621741, 34.79038243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綴喜郡井手町大字井手小字扇町６-２" }, "geometry": { "type": "Point", "coordinates": [ 135.80333735, 34.79592546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綴喜郡宇治田原町荒木小字西出２" }, "geometry": { "type": "Point", "coordinates": [ 135.85747393, 34.85292519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市園部町河原町４号２９-１" }, "geometry": { "type": "Point", "coordinates": [ 135.46789044, 35.11153664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市八木町八木大狩代１６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.52695408, 35.07310613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市男山松里１３-１６" }, "geometry": { "type": "Point", "coordinates": [ 135.69768842, 34.85588999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡源氏垣外２８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7064312, 34.880337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市引土６８-３" }, "geometry": { "type": "Point", "coordinates": [ 135.328741439999988, 35.43893482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字下福井小字大野辺９０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.31649976, 35.45023937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市上安久小字洲崎６５１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.32551116, 35.45599242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市浜小字浜４７２-１" }, "geometry": { "type": "Point", "coordinates": [ 135.397422299999988, 35.47521736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市北吸７２９" }, "geometry": { "type": "Point", "coordinates": [ 135.38796374, 35.47263633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市榎原惣ノ貝１３６５-１" }, "geometry": { "type": "Point", "coordinates": [ 135.068402139999989, 35.28676175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字荒河小字声田和９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.099040589999987, 35.32495425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市長田野町２丁目３９-１" }, "geometry": { "type": "Point", "coordinates": [ 135.159699210000014, 35.28472847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市北本町４０５" }, "geometry": { "type": "Point", "coordinates": [ 135.119433390000012, 35.30212737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市牧小字立原１０４" }, "geometry": { "type": "Point", "coordinates": [ 135.099560849999989, 35.33779004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市堀三白２４８９-１" }, "geometry": { "type": "Point", "coordinates": [ 135.1343043, 35.29502837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市夜久野町日置１１０４" }, "geometry": { "type": "Point", "coordinates": [ 134.958948209999988, 35.32538222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市井平尾北置堤２１" }, "geometry": { "type": "Point", "coordinates": [ 135.87348644, 34.76857413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市高田小字大木屋１８" }, "geometry": { "type": "Point", "coordinates": [ 135.86086727, 34.73036127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市相楽小字川ノ尻７４-１" }, "geometry": { "type": "Point", "coordinates": [ 135.80184551, 34.73664064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市木津馬場南２５" }, "geometry": { "type": "Point", "coordinates": [ 135.8219086, 34.72933745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字石川１３３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.13105596, 35.53995089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区樫原秤谷町２７" }, "geometry": { "type": "Point", "coordinates": [ 135.684308820000012, 34.97228321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市曽我部町南條中浦竹９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.553234159999988, 35.00078026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市大井町並河２−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.552820950000012, 35.03179613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市馬路町上脇田６" }, "geometry": { "type": "Point", "coordinates": [ 135.56464448, 35.05767147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市本梅町井出井根口４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.486713759999986, 35.01180112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町浦明１２７５" }, "geometry": { "type": "Point", "coordinates": [ 134.9266915, 35.62861235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市久美浜町島畑上田２５３" }, "geometry": { "type": "Point", "coordinates": [ 134.929772320000012, 35.58895584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市大宮町谷内１０１７" }, "geometry": { "type": "Point", "coordinates": [ 135.09677886, 35.57108881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町下岡東トンダ２８１" }, "geometry": { "type": "Point", "coordinates": [ 135.02683608000001, 35.66919921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市弥栄町和田野四ツ町１３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.08652783, 35.66994075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡園部町宍人流田３４-1" }, "geometry": { "type": "Point", "coordinates": [ 135.43858739, 35.07517217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡瑞穂町字和田小字垣内３６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.37257793, 35.18305761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡丹波町字水戸小字庄の下５−５" }, "geometry": { "type": "Point", "coordinates": [ 135.426264190000012, 35.14308438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡日吉町字保野田小字島田２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.49647486, 35.17220679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡八木町字西田小字金井畠１９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.5383211, 35.07326802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綴喜郡宇治田原町大字立川小字宮ノ本２２" }, "geometry": { "type": "Point", "coordinates": [ 135.86599583, 34.85491099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府天田郡三和町芦渕字大平谷２１０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.22453145, 35.231036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府天田郡夜久野町字高内小字中田２７９" }, "geometry": { "type": "Point", "coordinates": [ 134.95469327, 35.32660955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字新庄小字砂川２６５" }, "geometry": { "type": "Point", "coordinates": [ 135.099951260000012, 35.30333246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡野田川町字石川７８０" }, "geometry": { "type": "Point", "coordinates": [ 135.12332122, 35.53516672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市青野町西ノ後33-5" }, "geometry": { "type": "Point", "coordinates": [ 135.25753746, 35.30335312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市槇島町島前1" }, "geometry": { "type": "Point", "coordinates": [ 135.79284306, 34.89929576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市篠町広田2-11-8" }, "geometry": { "type": "Point", "coordinates": [ 135.59573172, 35.00291742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市西別院町神地向日前25" }, "geometry": { "type": "Point", "coordinates": [ 135.49682968, 34.94234326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市千代川町千原2丁目3-8" }, "geometry": { "type": "Point", "coordinates": [ 135.54565362, 35.05071917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町森中内51-2" }, "geometry": { "type": "Point", "coordinates": [ 135.743534970000013, 34.89924501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市大宮町善王寺973" }, "geometry": { "type": "Point", "coordinates": [ 135.083128359999989, 35.5960222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区花園藪ノ下町3" }, "geometry": { "type": "Point", "coordinates": [ 135.72443446, 35.01958639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院西貝川町32-1" }, "geometry": { "type": "Point", "coordinates": [ 135.71566726, 35.00333611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西京極東池田町1-1" }, "geometry": { "type": "Point", "coordinates": [ 135.72006836, 34.99217052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区中堂寺北町42-3" }, "geometry": { "type": "Point", "coordinates": [ 135.73958201, 34.99683686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨高木町36" }, "geometry": { "type": "Point", "coordinates": [ 135.776689549999986, 35.04441571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区山端川岸町34-2" }, "geometry": { "type": "Point", "coordinates": [ 135.79032665, 35.05266495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区大原大長瀬町193" }, "geometry": { "type": "Point", "coordinates": [ 135.82795654, 35.11634838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区室町今出川築山南半町104" }, "geometry": { "type": "Point", "coordinates": [ 135.75777835, 35.02943983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区桂上野東町65" }, "geometry": { "type": "Point", "coordinates": [ 135.70272, 34.9934481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区大枝沓掛町13-201" }, "geometry": { "type": "Point", "coordinates": [ 135.667833550000012, 34.97410618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区西ノ京北壺井町48" }, "geometry": { "type": "Point", "coordinates": [ 135.731552310000012, 35.0157868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院前田町23-1" }, "geometry": { "type": "Point", "coordinates": [ 135.73552684, 34.9692835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区西九条森本町37" }, "geometry": { "type": "Point", "coordinates": [ 135.74926757, 34.97176126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区東九条南松ノ木町4" }, "geometry": { "type": "Point", "coordinates": [ 135.76410815, 34.97525574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区中島中道町116" }, "geometry": { "type": "Point", "coordinates": [ 135.745580960000012, 34.94686895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区桃山町丹後10" }, "geometry": { "type": "Point", "coordinates": [ 135.78454914, 34.9315384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区北寝小屋町34番地" }, "geometry": { "type": "Point", "coordinates": [ 135.75099691, 34.93887005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区出雲路俵町16" }, "geometry": { "type": "Point", "coordinates": [ 135.76577366, 35.03744436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市寺戸町瓜生19" }, "geometry": { "type": "Point", "coordinates": [ 135.709175710000011, 34.95702784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市物集女町五ノ坪19" }, "geometry": { "type": "Point", "coordinates": [ 135.698307410000012, 34.96445057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田大畔54-8" }, "geometry": { "type": "Point", "coordinates": [ 135.76505282, 34.84696392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市奈島字中島8-1" }, "geometry": { "type": "Point", "coordinates": [ 135.79353591, 34.82875425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町水戸白次郎12" }, "geometry": { "type": "Point", "coordinates": [ 135.42687483, 35.13543792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市馬場六ノ坪13" }, "geometry": { "type": "Point", "coordinates": [ 135.711333090000011, 34.92676003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綴喜郡井手町大字井手橋本2-4" }, "geometry": { "type": "Point", "coordinates": [ 135.802929979999988, 34.79720688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市八木町室河原中塚町27-1" }, "geometry": { "type": "Point", "coordinates": [ 135.49271191, 35.09909867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町安掛風呂ノ元12-3" }, "geometry": { "type": "Point", "coordinates": [ 135.58785243, 35.27739197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市戸津正ノ竹33-1" }, "geometry": { "type": "Point", "coordinates": [ 135.72083132, 34.86350488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市美濃山ヒル塚43-1" }, "geometry": { "type": "Point", "coordinates": [ 135.71180695000001, 34.85718477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字志高10" }, "geometry": { "type": "Point", "coordinates": [ 135.25653595, 35.43930062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字野花子字三取669-94" }, "geometry": { "type": "Point", "coordinates": [ 135.07871669, 35.33243072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市問屋町61" }, "geometry": { "type": "Point", "coordinates": [ 135.11012113000001, 35.3099894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市山城町椿井鳥井41-1" }, "geometry": { "type": "Point", "coordinates": [ 135.812744220000013, 34.75788959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市新庄町八田古2-1" }, "geometry": { "type": "Point", "coordinates": [ 135.216207, 35.3394645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町大字下津屋小字川原103" }, "geometry": { "type": "Point", "coordinates": [ 135.741568199999989, 34.8770595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町島津96−14" }, "geometry": { "type": "Point", "coordinates": [ 135.0444392, 35.68208947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院西貝川町86" }, "geometry": { "type": "Point", "coordinates": [ 135.71641444, 35.00050303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区上賀茂御薗口町56" }, "geometry": { "type": "Point", "coordinates": [ 135.75164127, 35.05741993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区大宮西総門口町21−2" }, "geometry": { "type": "Point", "coordinates": [ 135.74389077, 35.05791848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市市辺西川原1−14" }, "geometry": { "type": "Point", "coordinates": [ 135.8062529, 34.82276467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町桝谷71−2" }, "geometry": { "type": "Point", "coordinates": [ 135.41878968, 35.24835708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区高辻通堀川東入ﾙ西高辻町198" }, "geometry": { "type": "Point", "coordinates": [ 135.752476980000012, 34.99995475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世東土川町５３‐１" }, "geometry": { "type": "Point", "coordinates": [ 135.7171686, 34.94740042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田垣内後４８" }, "geometry": { "type": "Point", "coordinates": [ 135.77769086, 34.85651409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市岡町２０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.241089679999988, 35.30187255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府乙訓郡大山崎町下植野五条本１０" }, "geometry": { "type": "Point", "coordinates": [ 135.69753732, 34.90557533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町東一口小字帳場７６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.74406375, 34.90909077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市長江９３６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.25651689, 35.65395349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市丹後町間人２１１９" }, "geometry": { "type": "Point", "coordinates": [ 135.093683449999986, 35.73525878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町杉谷前田６５４" }, "geometry": { "type": "Point", "coordinates": [ 135.06488264, 35.62670336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町網野１６９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.02854903, 35.67604097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区常盤村ノ内町１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.70864813, 35.0195789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区梅津後藤町４−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.70262388, 35.00339165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区花脊大布施町１６３" }, "geometry": { "type": "Point", "coordinates": [ 135.77520186000001, 35.20721768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区上高野車地町１５０" }, "geometry": { "type": "Point", "coordinates": [ 135.79198388, 35.06210332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区八瀬近衛町１９９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.8168447, 35.08336817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区音羽山等地４０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.82760099, 34.98643958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区御陵大津畑町２４" }, "geometry": { "type": "Point", "coordinates": [ 135.81349407, 34.9900138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区上花山久保町７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79700143, 34.98262251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区西野山射庭ノ上町６７−４" }, "geometry": { "type": "Point", "coordinates": [ 135.79567207, 34.97315227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区上御霊前町４１１" }, "geometry": { "type": "Point", "coordinates": [ 135.759583139999989, 35.03654677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市東山区東大路五条上ル梅林町５６３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.776292399999988, 34.995629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区九条町森本町２７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.749350529999987, 34.97302073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽石橋町２８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.74591586, 34.95916552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区横大路下三栖城ノ前町２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74899688, 34.92681618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区横大路西海道３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72709562, 34.91596222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽平塚町３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.744844449999988, 34.93632834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草西浦町４−３７" }, "geometry": { "type": "Point", "coordinates": [ 135.76813729, 34.96241403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区醍醐合場町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.81119695000001, 34.94198278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡山城町上狛小野日向１" }, "geometry": { "type": "Point", "coordinates": [ 135.81854789, 34.74957608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町菱田小アツイ７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78779318, 34.78393384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町湯船小岩倉４２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.95004115, 34.83175031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市長岡３−８−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.69328771, 34.9320536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市下奈良蜻蛉尻９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.72746783, 34.8676903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市喜多小仲多６０２" }, "geometry": { "type": "Point", "coordinates": [ 135.31034578, 35.45816163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市福来小土井の内１９９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.35240112, 35.4487692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市北田辺１２６" }, "geometry": { "type": "Point", "coordinates": [ 135.329047120000013, 35.44890159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市北浜町１２−５" }, "geometry": { "type": "Point", "coordinates": [ 135.39758271, 35.46675925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市新庄岡安１２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.10513067, 35.30396169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市大江町河守３４６" }, "geometry": { "type": "Point", "coordinates": [ 135.144939810000011, 35.38830021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市萩原小字冷田４９６" }, "geometry": { "type": "Point", "coordinates": [ 135.21741266, 35.24268105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市夜久野町額田１３５５" }, "geometry": { "type": "Point", "coordinates": [ 134.99945675, 35.32006476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市加茂町兎並小字西の坊５８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.870936949999987, 34.75490288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡伊根町菅野１５８９" }, "geometry": { "type": "Point", "coordinates": [ 135.249900700000012, 35.70334693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡伊根町本庄上１２３２" }, "geometry": { "type": "Point", "coordinates": [ 135.253290670000013, 35.72196907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡加悦町算所１０４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.09442356, 35.50799864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字弓木コツジガキ" }, "geometry": { "type": "Point", "coordinates": [ 135.142947819999989, 35.56117546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町上山田" }, "geometry": { "type": "Point", "coordinates": [ 135.112529529999989, 35.53787371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町佐山東代６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.75465548, 34.87517506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市字溝尻５１２" }, "geometry": { "type": "Point", "coordinates": [ 135.1869183, 35.57914176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市字杉末１０５８−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.1876163, 35.54905591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市大宮町河辺３１７８" }, "geometry": { "type": "Point", "coordinates": [ 135.08690059, 35.59996316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町杉谷６４２" }, "geometry": { "type": "Point", "coordinates": [ 135.06649617, 35.6272234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町網野１０３４" }, "geometry": { "type": "Point", "coordinates": [ 135.030432889999986, 35.67941028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市山手中央４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.725168059999987, 34.83263182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市薪名松１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.757979010000014, 34.82878166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区嵯峨広沢御所ノ内町３６" }, "geometry": { "type": "Point", "coordinates": [ 135.68834862, 35.02082205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院日照町１２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.723891470000012, 35.00322889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区七条御所ノ内中町５２" }, "geometry": { "type": "Point", "coordinates": [ 135.7322494, 34.9856155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区岡崎円勝寺町８５" }, "geometry": { "type": "Point", "coordinates": [ 135.78295158, 35.01160995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨梁田町３６" }, "geometry": { "type": "Point", "coordinates": [ 135.77091266, 35.04958696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区吉田泉殿町４" }, "geometry": { "type": "Point", "coordinates": [ 135.77782686, 35.02857379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区修学院大林町１３" }, "geometry": { "type": "Point", "coordinates": [ 135.791715470000014, 35.04797107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区西野山階町１２" }, "geometry": { "type": "Point", "coordinates": [ 135.81044293, 34.9816667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区河原町通今出川下る大宮町３２６" }, "geometry": { "type": "Point", "coordinates": [ 135.76926677, 35.02814237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区丸太町通千本東入中務町９３１" }, "geometry": { "type": "Point", "coordinates": [ 135.74588599, 35.01792777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区今出川通智恵光院西入西北小路町２３３" }, "geometry": { "type": "Point", "coordinates": [ 135.74621387, 35.02961981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区上桂三ノ宮町３４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.696826570000013, 34.98568869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区西ノ京樋ノ口町３５" }, "geometry": { "type": "Point", "coordinates": [ 135.73543629, 35.01071139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世中久世町３−１０６" }, "geometry": { "type": "Point", "coordinates": [ 135.71665177, 34.95806686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽西芹川町１" }, "geometry": { "type": "Point", "coordinates": [ 135.74558302, 34.94363477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区石田大受町８２" }, "geometry": { "type": "Point", "coordinates": [ 135.80522278, 34.94131803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区北野紅梅町４８" }, "geometry": { "type": "Point", "coordinates": [ 135.731137780000012, 35.02941718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田小字袋尻１９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.780847630000011, 34.85237493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市平川広田７８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76204388, 34.86258862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市今里５−１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.68608566, 34.93667529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市天神４−３−５" }, "geometry": { "type": "Point", "coordinates": [ 135.687849129999989, 34.92619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市園部町美園町７号１４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.47518025, 35.10965399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市美山町鶴ケ岡川合新田２３" }, "geometry": { "type": "Point", "coordinates": [ 135.55697813, 35.31716182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡三反長３１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.706379739999988, 34.86488708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字森５１１−５" }, "geometry": { "type": "Point", "coordinates": [ 135.38935619, 35.46161742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市北田辺１２２−２" }, "geometry": { "type": "Point", "coordinates": [ 135.32982098, 35.45095732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市三俣５０" }, "geometry": { "type": "Point", "coordinates": [ 135.203235729999989, 35.25565253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市大江町北有路１９０８" }, "geometry": { "type": "Point", "coordinates": [ 135.179466319999989, 35.39223363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町加悦５９２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.10365037, 35.50518511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町男山９６５" }, "geometry": { "type": "Point", "coordinates": [ 135.168846839999986, 35.57374643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市伊勢田町中の田６１" }, "geometry": { "type": "Point", "coordinates": [ 135.77073338, 34.88701107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市宇治２−７８−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.79592101, 34.88441844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市小倉山１０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78280239, 34.89120914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市槙島町十一４５" }, "geometry": { "type": "Point", "coordinates": [ 135.78356847, 34.9089878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市木幡南端４０−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.801308189999986, 34.91794434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市莵道西隼上り３−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.806577979999986, 34.90480808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市下矢田町３−３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.57789598, 35.00828359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市荒塚町鍛冶ケ嶋１１−６" }, "geometry": { "type": "Point", "coordinates": [ 135.57556517, 35.01385843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市篠町王子門田２７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.616450789999988, 34.99584634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市大井町並河２丁目２９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.556727380000012, 35.02663044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町森村東２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74370256, 34.89207723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市河原神谷７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77747681, 34.81959693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院寿町４１" }, "geometry": { "type": "Point", "coordinates": [ 135.7302559, 34.99628222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区西院上今田町１５−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.7314825, 35.00811083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区太秦帷子ケ辻町３５−８" }, "geometry": { "type": "Point", "coordinates": [ 135.70071621, 35.01492675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区梅津段町８" }, "geometry": { "type": "Point", "coordinates": [ 135.70597582, 35.00377507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区五条大宮西入南川" }, "geometry": { "type": "Point", "coordinates": [ 135.74812577, 34.9960037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区西七条ノ北東野町１００" }, "geometry": { "type": "Point", "coordinates": [ 135.738884969999987, 34.98961244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区油小路塩小路角" }, "geometry": { "type": "Point", "coordinates": [ 135.75371997, 34.98736278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区岡崎東天王町４１" }, "geometry": { "type": "Point", "coordinates": [ 135.790429890000013, 35.01681504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨宮河町３６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.77108786, 35.03390254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨南野々神町３" }, "geometry": { "type": "Point", "coordinates": [ 135.77029832, 35.05104831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区浄土寺東田町７" }, "geometry": { "type": "Point", "coordinates": [ 135.792015350000014, 35.02599587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区御陵大津畑町２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81422641, 34.99000612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区小山中之川町３" }, "geometry": { "type": "Point", "coordinates": [ 135.82713725, 34.98448748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区西野山階町３０−６" }, "geometry": { "type": "Point", "coordinates": [ 135.80912496, 34.98166979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区川田菱尾田町" }, "geometry": { "type": "Point", "coordinates": [ 135.797900199999987, 34.97781217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区大宅御供田町２４２" }, "geometry": { "type": "Point", "coordinates": [ 135.8137745, 34.96849922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区樫原江ノ本町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.694296, 34.9711593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区松尾大利町８７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.691371010000012, 34.99363467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区上桂前田町５９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70042054000001, 34.98965343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区大枝中山町２−４９" }, "geometry": { "type": "Point", "coordinates": [ 135.67868019, 34.97007201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区錦小路通堀川西入吉野８２９" }, "geometry": { "type": "Point", "coordinates": [ 135.75138075000001, 35.00480581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区壬生御所ノ内町２７−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.743944129999988, 35.00377144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院向田西町２" }, "geometry": { "type": "Point", "coordinates": [ 135.72020733, 34.98423016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院三の宮西町９３" }, "geometry": { "type": "Point", "coordinates": [ 135.72669731, 34.97532728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院蒔絵南町１" }, "geometry": { "type": "Point", "coordinates": [ 135.73708796, 34.9654807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世東土川町１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71714431, 34.94631412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽麻ノ本町２２" }, "geometry": { "type": "Point", "coordinates": [ 135.745859169999989, 34.95662091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区唐橋羅城門町４２" }, "geometry": { "type": "Point", "coordinates": [ 135.74160154, 34.97908277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区東九条南石田町１０６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.76181133, 34.9714078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区横大路貴船町７０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73891999, 34.927255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区下鳥羽澱女町１０２" }, "geometry": { "type": "Point", "coordinates": [ 135.74535516, 34.9352569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区向島善阿弥町５１" }, "geometry": { "type": "Point", "coordinates": [ 135.77034194, 34.92448321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草下横繩町２５" }, "geometry": { "type": "Point", "coordinates": [ 135.768665879999986, 34.96918989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草西浦町５−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.76802518, 34.9575487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区竹田七瀬川町１３８" }, "geometry": { "type": "Point", "coordinates": [ 135.75957344, 34.95194096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区竹田真幡木町６０" }, "geometry": { "type": "Point", "coordinates": [ 135.75248359, 34.95570509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区桃山町西尾２４" }, "geometry": { "type": "Point", "coordinates": [ 135.792213120000014, 34.93530784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区桃山長岡越中北町５０" }, "geometry": { "type": "Point", "coordinates": [ 135.768520349999989, 34.94135088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区納所町５７４" }, "geometry": { "type": "Point", "coordinates": [ 135.71854281, 34.90773474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区葭島金井戸町２１" }, "geometry": { "type": "Point", "coordinates": [ 135.75920295, 34.92479844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区衣笠天神森町２９" }, "geometry": { "type": "Point", "coordinates": [ 135.73288926, 35.03667264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫野西野町６０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.74274238000001, 35.0409531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫野泉堂町１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.741431150000011, 35.04893194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区小山西大野町１" }, "geometry": { "type": "Point", "coordinates": [ 135.7531663, 35.04164395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区大宮西小野堀町７" }, "geometry": { "type": "Point", "coordinates": [ 135.74381419, 35.0568672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市寺戸町西野辺１３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.70047607, 34.94853874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市上植野町吉備寺２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.701525769999989, 34.93405543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府向日市物集女町五ノ坪２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69816296, 34.96403672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市久世南垣内３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.776195980000011, 34.85899058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田高田４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77955659, 34.85422938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市寺田大林２５" }, "geometry": { "type": "Point", "coordinates": [ 135.76189578, 34.85408769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市長池北裏１０８" }, "geometry": { "type": "Point", "coordinates": [ 135.78700683, 34.84329454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府城陽市平川西六反５２" }, "geometry": { "type": "Point", "coordinates": [ 135.76263065, 34.86626492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町乾谷岸の下２７" }, "geometry": { "type": "Point", "coordinates": [ 135.77090568, 34.72984704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町大字北稲八間小字野田−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78829285, 34.76847863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市園部町上木崎町入道３１" }, "geometry": { "type": "Point", "coordinates": [ 135.46845023, 35.11213151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市戸津東代２５−５" }, "geometry": { "type": "Point", "coordinates": [ 135.72493208, 34.8660448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市男山松里１６−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.69619319, 34.85200979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡御幸谷２３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.71190693, 34.85800417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市上安４５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.33864478000001, 35.45051018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市東佳屋野町１８７８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.15971454000001, 35.29724798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市大字木津小字奈良道７０" }, "geometry": { "type": "Point", "coordinates": [ 135.82033388, 34.72703847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡南山城村北大河原北垣内52-1" }, "geometry": { "type": "Point", "coordinates": [ 135.995694179999987, 34.77076806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市欽明台西21-4" }, "geometry": { "type": "Point", "coordinates": [ 135.71818334, 34.83520047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡盛戸92" }, "geometry": { "type": "Point", "coordinates": [ 135.7115597, 34.86362901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市伊勢田町大谷１９" }, "geometry": { "type": "Point", "coordinates": [ 135.78056258, 34.88489133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府乙訓郡大山崎町大山崎小西高田２１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.69031327, 34.90087328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市篠町浄法寺土井３３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.593120739999989, 35.00368946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市千代川町小林北ン田６" }, "geometry": { "type": "Point", "coordinates": [ 135.54601550000001, 35.04278234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市中津１５８" }, "geometry": { "type": "Point", "coordinates": [ 135.23028684, 35.55002691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市鶴賀２１５３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.20110818, 35.53627752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市文珠５１８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.18665285, 35.55480655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宮津市由良１３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.281992120000012, 35.51894626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町小浜小字勝山７７" }, "geometry": { "type": "Point", "coordinates": [ 135.027584960000013, 35.67238625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市弥栄町堤１２８" }, "geometry": { "type": "Point", "coordinates": [ 135.09207161, 35.65144452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区大政所町６９２" }, "geometry": { "type": "Point", "coordinates": [ 135.75940236, 35.00030625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨梅ノ木町４２" }, "geometry": { "type": "Point", "coordinates": [ 135.77052077, 35.04618214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市山科区小野河原町８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81350783, 34.96363283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区今出川町３−３３−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.73431211, 35.027173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区大枝東長町３−６" }, "geometry": { "type": "Point", "coordinates": [ 135.67935609, 34.96990415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区壬生中川町２−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.73752085000001, 35.00812758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区津軽町７６７" }, "geometry": { "type": "Point", "coordinates": [ 135.755694049999988, 35.01047485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区中島秋ノ山町１０８" }, "geometry": { "type": "Point", "coordinates": [ 135.745310429999989, 34.95196084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区桃山羽柴長吉東町８６" }, "geometry": { "type": "Point", "coordinates": [ 135.76755510000001, 34.93535173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区淀際目町３２９" }, "geometry": { "type": "Point", "coordinates": [ 135.71982938, 34.89215892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡笠置町笠置小字西通９４" }, "geometry": { "type": "Point", "coordinates": [ 135.93852161, 34.76027996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府中郡大宮町口大野３８３−７" }, "geometry": { "type": "Point", "coordinates": [ 135.09313946, 35.57971774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府長岡京市開田１−１８−２２" }, "geometry": { "type": "Point", "coordinates": [ 135.69786958, 34.92717001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市八幡清水井９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70259779, 34.87183801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字上安４７−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.35732986, 35.45315124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字浜１５８" }, "geometry": { "type": "Point", "coordinates": [ 135.39581024, 35.47536355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市北田辺１６４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.32844166000001, 35.44692683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市余部下１１４５" }, "geometry": { "type": "Point", "coordinates": [ 135.366870799999987, 35.4762712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市石原７０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.18282693, 35.30162004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市猪野々３６６" }, "geometry": { "type": "Point", "coordinates": [ 135.043061599999987, 35.32509529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市末広町５−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.11545346, 35.29853389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市問屋町１−７" }, "geometry": { "type": "Point", "coordinates": [ 135.10914474, 35.30739526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市夜久野町小倉１４０３" }, "geometry": { "type": "Point", "coordinates": [ 134.9291885, 35.33435801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字四辻７３８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.10034417, 35.52948269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区大宮通仏光寺下ル五坊大宮町96-3" }, "geometry": { "type": "Point", "coordinates": [ 135.74888108, 35.00020732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽南鉾立町２１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.75367988, 34.96904679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区桂浅原町65-2" }, "geometry": { "type": "Point", "coordinates": [ 135.711024830000014, 34.98260507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市八木町八木鹿草１５４" }, "geometry": { "type": "Point", "coordinates": [ 135.5362831, 35.0678742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区宇多野馬場町２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71075066, 35.02872236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府宇治市神明宮西10" }, "geometry": { "type": "Point", "coordinates": [ 135.78860598, 34.87854383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区久我石原町3-43" }, "geometry": { "type": "Point", "coordinates": [ 135.730528920000012, 34.94768071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区西九条池ノ内町９３" }, "geometry": { "type": "Point", "coordinates": [ 135.753425990000011, 34.98325244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区智恵光院通下長者町下ル西辰巳町106-2" }, "geometry": { "type": "Point", "coordinates": [ 135.74690856, 35.02239038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区紫野西蓮台野町73" }, "geometry": { "type": "Point", "coordinates": [ 135.738073140000012, 35.04510732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世上久世町530-24" }, "geometry": { "type": "Point", "coordinates": [ 135.71841414, 34.96753078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市右京区西院六反田町６" }, "geometry": { "type": "Point", "coordinates": [ 135.72411385, 34.99585902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区吉祥院石原堂ノ後町３１" }, "geometry": { "type": "Point", "coordinates": [ 135.72947997, 34.96696697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府長岡京市馬場六の坪１" }, "geometry": { "type": "Point", "coordinates": [ 135.70979154, 34.92649059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区西九条高畠町38" }, "geometry": { "type": "Point", "coordinates": [ 135.74579014, 34.97426379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市末広町１−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.11842198, 35.29913256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区京町10丁目1117-2" }, "geometry": { "type": "Point", "coordinates": [ 135.76569476, 34.94500512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区南浜町２７１" }, "geometry": { "type": "Point", "coordinates": [ 135.75908913, 34.93019954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区西九条森本町６５" }, "geometry": { "type": "Point", "coordinates": [ 135.751573079999986, 34.97308345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府城陽市市辺西川原７８" }, "geometry": { "type": "Point", "coordinates": [ 135.80206634000001, 34.82338042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府宇治市槇島町目川１９７" }, "geometry": { "type": "Point", "coordinates": [ 135.778267449999987, 34.91008945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府福知山市土師宮町１−１７０" }, "geometry": { "type": "Point", "coordinates": [ 135.14060059, 35.29423929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府綴喜郡井手町大字多賀小字西北河原４９" }, "geometry": { "type": "Point", "coordinates": [ 135.79552532, 34.82143614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市右京区西院久保田町６−６" }, "geometry": { "type": "Point", "coordinates": [ 135.72461658, 34.99643953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市山科区西野山階町２０" }, "geometry": { "type": "Point", "coordinates": [ 135.811443989999987, 34.98188426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府木津川市山城町椿井落合２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81124427, 34.76178358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府宇治市大久保町北ノ山２０" }, "geometry": { "type": "Point", "coordinates": [ 135.77235707, 34.87300294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市山科区東野舞台町１" }, "geometry": { "type": "Point", "coordinates": [ 135.81172733, 34.97857515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市伏見区下鳥羽南柳長町７２" }, "geometry": { "type": "Point", "coordinates": [ 135.7444614, 34.93445724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市山科区西野離宮町３６−４" }, "geometry": { "type": "Point", "coordinates": [ 135.81106476, 34.97853631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区吉祥院宮ノ西町３２" }, "geometry": { "type": "Point", "coordinates": [ 135.722664, 34.98209351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区上鳥羽仏現寺町１" }, "geometry": { "type": "Point", "coordinates": [ 135.749389799999989, 34.97109684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区上鳥羽藁田３８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.7514007, 34.96311497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区上鳥羽南鉾立町３０" }, "geometry": { "type": "Point", "coordinates": [ 135.756575450000014, 34.96907841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市中京区西ノ京南上合町５１" }, "geometry": { "type": "Point", "coordinates": [ 135.731585169999988, 35.01420475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市下京区中堂寺櫛笥町１" }, "geometry": { "type": "Point", "coordinates": [ 135.74628701, 34.99692305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市右京区西院六反田町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.72383333, 34.99488688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市中京区西ノ京内畑町３４" }, "geometry": { "type": "Point", "coordinates": [ 135.74104817, 35.01418823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区吉祥院流作町５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.71787179, 34.98250555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区東寺東門前町３６６" }, "geometry": { "type": "Point", "coordinates": [ 135.74996844, 34.98362124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区宇多野馬場町１１−８" }, "geometry": { "type": "Point", "coordinates": [ 135.71196168, 35.02853908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区西九条菅田町１" }, "geometry": { "type": "Point", "coordinates": [ 135.74734096, 34.97348667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区久世上久世町３６９" }, "geometry": { "type": "Point", "coordinates": [ 135.71302884, 34.9644397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京田辺市大住丸山９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.74788887, 34.83009403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区御池烏丸東入仲保利１９１" }, "geometry": { "type": "Point", "coordinates": [ 135.76060465, 35.01112762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市中京区夷川通富小路東入木屋町" }, "geometry": { "type": "Point", "coordinates": [ 135.76541687, 35.0148134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区大宮田尻町９５" }, "geometry": { "type": "Point", "coordinates": [ 135.74786101, 35.05806988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区梅小路頭町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.73904273, 34.98500928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市睦合町在中４７" }, "geometry": { "type": "Point", "coordinates": [ 135.378079719999988, 35.349308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市宮代町前田６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.2464746, 35.30184703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市渕垣町郷久１４" }, "geometry": { "type": "Point", "coordinates": [ 135.29206657, 35.32610135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綾部市十倉名畑町欠戸９−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.34646439, 35.33517957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市追分町薮ノ下８" }, "geometry": { "type": "Point", "coordinates": [ 135.57810283, 35.01617678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字公文名２９２" }, "geometry": { "type": "Point", "coordinates": [ 135.32846254, 35.42871412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字上福井１５２６−６" }, "geometry": { "type": "Point", "coordinates": [ 135.28213502, 35.44813145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市字小倉１４８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.42665581, 35.48056016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市倉梯町２７−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.39728335, 35.46358753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市余部町天神又１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.56577567, 35.01646828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市保津町宮ノ上２０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.58981968, 35.02200828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市東別院町栢原上日影１８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.55750354, 34.9304913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市河原林町河原尻下五丹１９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.57551049, 35.04412009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市安町野々神１８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.57105625, 35.01333589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字一ノ宮６０５" }, "geometry": { "type": "Point", "coordinates": [ 135.050876929999987, 35.36517571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区桃山福島太夫西町９" }, "geometry": { "type": "Point", "coordinates": [ 135.76777952, 34.93780988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草藤森玄蕃町５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77063177, 34.95046406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区久我本町８−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.73063872, 34.94706352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市西京区樫原里ノ垣外町２０" }, "geometry": { "type": "Point", "coordinates": [ 135.69380338, 34.96936647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市土師宮町１丁目９３" }, "geometry": { "type": "Point", "coordinates": [ 135.14104193, 35.2947274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字岩井８４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.09895627, 35.31832869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市吐師松葉１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.794481600000012, 34.7418422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡伊根町字日出２８１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.27534266, 35.67258447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町須知居屋ノ下５−５" }, "geometry": { "type": "Point", "coordinates": [ 135.42831428, 35.15141395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町字男山６０" }, "geometry": { "type": "Point", "coordinates": [ 135.160028829999987, 35.57112808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市左京区下鴨森本町２２−５" }, "geometry": { "type": "Point", "coordinates": [ 135.77124548, 35.03801369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町豊田下川原３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.40813047, 35.17585509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町須知新町８０" }, "geometry": { "type": "Point", "coordinates": [ 135.42672191, 35.15199357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市右京区京北熊田町廣野２３" }, "geometry": { "type": "Point", "coordinates": [ 135.61933446, 35.17215566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市加茂町岡崎出羽１１" }, "geometry": { "type": "Point", "coordinates": [ 135.866125579999988, 34.76498786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府福知山市字篠尾１３７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.11138391, 35.29631417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町浜詰４６−４２" }, "geometry": { "type": "Point", "coordinates": [ 134.966248940000014, 35.66186419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府船井郡京丹波町富田長野４９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.42087122, 35.19860934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市園部町上木崎町年ノ森３" }, "geometry": { "type": "Point", "coordinates": [ 135.459033940000012, 35.11502278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府綴喜郡宇治田原町大字郷之口小字田中１０" }, "geometry": { "type": "Point", "coordinates": [ 135.849594880000012, 34.85301283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府亀岡市安町小屋場６８" }, "geometry": { "type": "Point", "coordinates": [ 135.570605410000013, 35.01386723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市下奈良新下２−２" }, "geometry": { "type": "Point", "coordinates": [ 135.730031020000013, 34.8702614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市南区上鳥羽鴨田２３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.74603363, 34.96323113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡精華町大字南稲八妻小字蔭山３７" }, "geometry": { "type": "Point", "coordinates": [ 135.7834135, 34.75606431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市北区大将軍西町１６７" }, "geometry": { "type": "Point", "coordinates": [ 135.731353789999986, 35.02443613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府久世郡久御山町藤和田村西８−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.72058827, 34.89115897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府木津川市相楽川ノ尻１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80361181, 34.73691202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市伏見区深草神明講谷町２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.78919195, 34.95593123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府南丹市園部町本町３２" }, "geometry": { "type": "Point", "coordinates": [ 135.4724166, 35.11074841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区芦山寺通大宮西入西社町１９６" }, "geometry": { "type": "Point", "coordinates": [ 135.74631876, 35.03521588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市上京区丸太町通寺町東入信富町３２０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.75260218, 35.01716032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府城陽市上津屋境端４５" }, "geometry": { "type": "Point", "coordinates": [ 135.75985874, 34.86635383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京田辺市草内当ノ木１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.79222293, 34.81631438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府船井郡京丹波町橋爪桧山６１" }, "geometry": { "type": "Point", "coordinates": [ 135.375564950000012, 35.17757336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府亀岡市西町２" }, "geometry": { "type": "Point", "coordinates": [ 135.57747217, 35.01224712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府舞鶴市福来問屋町７８５−４８" }, "geometry": { "type": "Point", "coordinates": [ 135.34932346, 35.44288598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府綾部市並松町上番取２３" }, "geometry": { "type": "Point", "coordinates": [ 135.26313105, 35.29599648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府綴喜郡井手町大字井手小字南玉水３６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.80426843, 34.79921967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府舞鶴市字北田辺築地７２" }, "geometry": { "type": "Point", "coordinates": [ 135.33014142, 35.45210953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京田辺市興戸塚ノ本１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.773866410000011, 34.81031139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府宮津市字須津７４９" }, "geometry": { "type": "Point", "coordinates": [ 135.15203442, 35.5509485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府久世郡久御山町田井塔ノ本１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74103423, 34.87973001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府福知山市字堀北小谷ケ丘１９１０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.135578869999989, 35.28765677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府木津川市山城町綺田川久保４" }, "geometry": { "type": "Point", "coordinates": [ 135.809071929999988, 34.78327314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京丹後市網野町網野２０６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.02863765, 35.67917607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府福知山市昭和新町６７" }, "geometry": { "type": "Point", "coordinates": [ 135.116215079999989, 35.3054279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府宇治市小倉町中畑６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.78318927, 34.88914111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区吉祥院石原東之口４４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73193802, 34.96288119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市下京区四条通油小路西入藤本寄町２６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.75316116, 35.00389757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市中京区西ノ京笠殿町５" }, "geometry": { "type": "Point", "coordinates": [ 135.73345165, 35.0156602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市中京区西ノ京南原町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.73343229, 35.01064398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府城陽市久世南垣内１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.775971, 34.85905168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市北区小山下初音町５１" }, "geometry": { "type": "Point", "coordinates": [ 135.75486379, 35.04474481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区猪熊通八条上る戒光寺町１９１" }, "geometry": { "type": "Point", "coordinates": [ 135.75161465, 34.98503239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府舞鶴市字余部下９４１" }, "geometry": { "type": "Point", "coordinates": [ 135.36063438, 35.47924313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市伏見区下油掛町１５５" }, "geometry": { "type": "Point", "coordinates": [ 135.75938764, 34.93156285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市伏見区京町大黒町１１３" }, "geometry": { "type": "Point", "coordinates": [ 135.764939879999986, 34.93479311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府久世郡久御山町森中内５４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.74433590000001, 34.89903889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府八幡市八幡清水井２" }, "geometry": { "type": "Point", "coordinates": [ 135.70298806, 34.87196071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市北区小山初音町３５" }, "geometry": { "type": "Point", "coordinates": [ 135.75477729, 35.04729051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府南丹市園部町宮町５２" }, "geometry": { "type": "Point", "coordinates": [ 135.472220850000014, 35.10936621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府福知山市字岩間１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.146767329999989, 35.27028719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区嵯峨天龍寺角倉町７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.68158609, 35.0147405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区西ノ京池ノ内町１６−９" }, "geometry": { "type": "Point", "coordinates": [ 135.74641444, 35.01083275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区富小路通御池下る松下町１４０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.76515701, 35.0104749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市上京区御前今出川上２北６４１" }, "geometry": { "type": "Point", "coordinates": [ 135.73569256, 35.02816859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区堀川蛸薬師上７５３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.752316330000014, 35.0067812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市北区大将軍一条町１３７" }, "geometry": { "type": "Point", "coordinates": [ 135.72831638, 35.02579228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府南丹市園部町新町２" }, "geometry": { "type": "Point", "coordinates": [ 135.476355149999989, 35.11057355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府宇治市広野町茶屋裏１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.779423009999988, 34.8729835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市伏見区淀新町５６" }, "geometry": { "type": "Point", "coordinates": [ 135.71919807, 34.90220753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市東山区大和町大路通松原下る薬師町２３６−６" }, "geometry": { "type": "Point", "coordinates": [ 135.77217331, 34.99853155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府亀岡市北町４２" }, "geometry": { "type": "Point", "coordinates": [ 135.57672499, 35.01548294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府城陽市寺田今堀７２−２８" }, "geometry": { "type": "Point", "coordinates": [ 135.76498528, 34.85143746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区釜座町丸太町下桝屋１４７" }, "geometry": { "type": "Point", "coordinates": [ 135.755748430000011, 35.00865216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区竹屋町通新町西入指物屋町３７６" }, "geometry": { "type": "Point", "coordinates": [ 135.76266421, 35.0123253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市東山区本町１９丁目３９９" }, "geometry": { "type": "Point", "coordinates": [ 135.771023680000013, 34.97496662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市下京区五条通黒門西入柿本町５９２" }, "geometry": { "type": "Point", "coordinates": [ 135.75017, 34.99688421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区嵯峨北堀町２６" }, "geometry": { "type": "Point", "coordinates": [ 135.68394149, 35.01537933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市南区上鳥羽北島田町１１" }, "geometry": { "type": "Point", "coordinates": [ 135.742662450000012, 34.96675329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府舞鶴市字引土１６４" }, "geometry": { "type": "Point", "coordinates": [ 135.328308639999989, 35.44059887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府舞鶴市字新１６" }, "geometry": { "type": "Point", "coordinates": [ 135.32408641, 35.44894324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府舞鶴市字引土４９" }, "geometry": { "type": "Point", "coordinates": [ 135.32515127, 35.44462722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府綾部市大島町沓田１１" }, "geometry": { "type": "Point", "coordinates": [ 135.232313870000013, 35.30264003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府宇治市木幡内畑２３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79651481, 34.92543934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市南区西九条比永城町１０" }, "geometry": { "type": "Point", "coordinates": [ 135.74932143, 34.97669533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区太秦蜂岡町１４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.70748156, 35.01828181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区太秦樋ノ内町７−６０" }, "geometry": { "type": "Point", "coordinates": [ 135.70620686, 35.00718295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区山ノ内北ノ口町１９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.72070011, 35.00845235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市右京区山ノ内五反田町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7199057, 35.01068119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市伏見区醍醐和泉町５０" }, "geometry": { "type": "Point", "coordinates": [ 135.81547985, 34.94768794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市伏見区深草下川原町４７" }, "geometry": { "type": "Point", "coordinates": [ 135.7621388, 34.96684827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市山科区川田清水焼団地町１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79281301, 34.98032828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市西京区山田出口町３０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.690192849999988, 34.98768396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区西木屋町通四条上る紙屋町３７４" }, "geometry": { "type": "Point", "coordinates": [ 135.77026501, 35.00454763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京丹後市大宮町口大野６４６" }, "geometry": { "type": "Point", "coordinates": [ 135.09223677, 35.58286852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京丹後市網野町浅茂川１７９６" }, "geometry": { "type": "Point", "coordinates": [ 135.02388226, 35.6852153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京丹後市網野町網野２３９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.029499820000012, 35.68084217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府宇治市開町２７−７" }, "geometry": { "type": "Point", "coordinates": [ 135.78125409, 34.88139754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区岩倉三宅町４２５−４" }, "geometry": { "type": "Point", "coordinates": [ 135.793150020000013, 35.06722558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京丹後市網野町下岡８１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.02128823000001, 35.67674119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京丹後市網野町網野１３２７" }, "geometry": { "type": "Point", "coordinates": [ 135.0335565, 35.6794967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府城陽市久世下大谷６−１７６" }, "geometry": { "type": "Point", "coordinates": [ 135.78268323, 34.86550506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京田辺市田辺沓脱６３" }, "geometry": { "type": "Point", "coordinates": [ 135.76629129, 34.81986129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府与謝郡与謝野町字上山田２６０" }, "geometry": { "type": "Point", "coordinates": [ 135.11231781, 35.53720465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府南丹市八木町西田愛染嶋３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.53927059, 35.07229243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府南丹市八木八木本町１" }, "geometry": { "type": "Point", "coordinates": [ 135.5339804, 35.07219468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市南区吉祥院西浦町１２" }, "geometry": { "type": "Point", "coordinates": [ 135.72738526, 34.97281284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府木津川市加茂町井平尾岸之上３１" }, "geometry": { "type": "Point", "coordinates": [ 135.877877610000013, 34.76832316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区上押小路千本東入" }, "geometry": { "type": "Point", "coordinates": [ 135.75139171, 35.01011927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区西ノ京職司町３６" }, "geometry": { "type": "Point", "coordinates": [ 135.743270239999987, 35.01117186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区壬生高樋町６０" }, "geometry": { "type": "Point", "coordinates": [ 135.740262410000014, 35.00139206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市東山区東大路松原上る三丁目下弁天町６９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.77793971, 35.0003534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区西洞院通竹屋町上る田中町１３３" }, "geometry": { "type": "Point", "coordinates": [ 135.75521892, 35.01672156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区姉小路通大宮西入三坊大宮町１２３" }, "geometry": { "type": "Point", "coordinates": [ 135.74877253, 35.00991371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市下京区木屋町通正面下る十禅師町１９６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.765847400000013, 34.99080021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市下京区中堂寺庄ノ内町１−９６" }, "geometry": { "type": "Point", "coordinates": [ 135.738409850000011, 34.9983145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市下京区河原町通正面上る万屋町３２４" }, "geometry": { "type": "Point", "coordinates": [ 135.764424389999988, 34.99072376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市南区唐橋高田町５７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74277924, 34.97960774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府長岡京市梅が丘１丁目７３" }, "geometry": { "type": "Point", "coordinates": [ 135.68867979, 34.91912421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市上京区中立売七本松東入" }, "geometry": { "type": "Point", "coordinates": [ 135.73918432, 35.02601493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市北区大北山原谷乾町８３" }, "geometry": { "type": "Point", "coordinates": [ 135.71718382, 35.04499081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市中京区御幸町通四条上る大日町４１０" }, "geometry": { "type": "Point", "coordinates": [ 135.76658771000001, 35.00464331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市上京区今出川通寺町東入上る一真町７９" }, "geometry": { "type": "Point", "coordinates": [ 135.76834269, 35.02956748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市上京区七本松通一条下る三軒町６５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74032029, 35.02519278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区浄土寺西田町６５" }, "geometry": { "type": "Point", "coordinates": [ 135.79016546, 35.0270124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区田中関田町５１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.7726228, 35.0274927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区田中西高原町３０" }, "geometry": { "type": "Point", "coordinates": [ 135.78584378, 35.03644735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区田中門前町２５" }, "geometry": { "type": "Point", "coordinates": [ 135.778263509999988, 35.02925952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市左京区吉田中阿達町３２−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.776308809999989, 35.02635569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "京都府京都市北区紫野上柏野町２９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.737842629999989, 35.03578613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府八幡市岩田高木４０番地８" }, "geometry": { "type": "Point", "coordinates": [ 135.74477682, 34.85279669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府舞鶴市泉源寺字井根口１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.41412872, 35.48020321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府相楽郡和束町釜塚生水２３" }, "geometry": { "type": "Point", "coordinates": [ 135.90418001, 34.79577616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町新町1566" }, "geometry": { "type": "Point", "coordinates": [ 135.08131222, 35.6070266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町新町1736" }, "geometry": { "type": "Point", "coordinates": [ 135.08220305, 35.60695646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町菅41" }, "geometry": { "type": "Point", "coordinates": [ 135.06075664, 35.61747206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市峰山町丹後765" }, "geometry": { "type": "Point", "coordinates": [ 135.07355225, 35.6243015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市網野町木津158-2" }, "geometry": { "type": "Point", "coordinates": [ 134.96873782, 35.65603521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京丹後市弥栄町溝谷3481-2" }, "geometry": { "type": "Point", "coordinates": [ 135.088397570000012, 35.65915676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府京都市下京区大黒町五条室町角１９５" }, "geometry": { "type": "Point", "coordinates": [ 135.75802876, 34.99587923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "京都府与謝郡与謝野町石川３６５" }, "geometry": { "type": "Point", "coordinates": [ 135.117850550000014, 35.52651097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府亀岡市千代川町川関森ヶ下７７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.54838761, 35.05675106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府宮津市須津小字霞ヶ口２５０４" }, "geometry": { "type": "Point", "coordinates": [ 135.16355803, 35.55675455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京田辺市大字普賢寺小字中島４−９" }, "geometry": { "type": "Point", "coordinates": [ 135.766074300000014, 34.79516894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府京都市南区西九条柳ノ内町４" }, "geometry": { "type": "Point", "coordinates": [ 135.75125039, 34.97374174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府舞鶴市大字長浜小字宮谷８０１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.361393170000014, 35.4874022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "京都府与謝郡与謝野町字石川６４３６" }, "geometry": { "type": "Point", "coordinates": [ 135.11459098, 35.52380861 ] } }
+
+]
+}

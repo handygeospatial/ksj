@@ -1,0 +1,990 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市中川１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.273898370000012, 36.1985248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市国府２−５−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.16626227, 35.9068926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市小松１−７−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.15461258, 35.90545435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市米口町１−９" }, "geometry": { "type": "Point", "coordinates": [ 136.05770686, 35.87851174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町高柳１字１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.26191032, 36.13088886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町木部東２７−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.17829626, 36.17966355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町錦４−２−６３" }, "geometry": { "type": "Point", "coordinates": [ 136.15322605, 36.21414227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市下野田町３４字１番７" }, "geometry": { "type": "Point", "coordinates": [ 136.146712119999989, 35.94701756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市河和田町２６字２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27016214, 35.94742326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市長泉寺町１−１０−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.183589610000013, 35.95216026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市有定町３−５−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.17606901, 35.94763552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町河原市１８−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.94639654, 35.60689144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町佐田４１−２８" }, "geometry": { "type": "Point", "coordinates": [ 135.987548159999989, 35.63309278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町三宅８４号−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.863199040000012, 35.46257496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市滝波町２丁目１１８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.49292114, 36.07390528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市北郷町板東島九字中手頭５７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.42174656, 36.08054105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町西田中２−２０９" }, "geometry": { "type": "Point", "coordinates": [ 136.13714088, 35.97682164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市若葉町３−２０６" }, "geometry": { "type": "Point", "coordinates": [ 136.05153882, 35.62937151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市昭和町１−２２−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.06031973, 35.64434799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町河野糠１０２−８" }, "geometry": { "type": "Point", "coordinates": [ 136.03918832, 35.85090742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市運動公園３丁目１３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.17785569, 36.05629483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市高木中央１−３０１" }, "geometry": { "type": "Point", "coordinates": [ 136.23224894, 36.09248566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市砂子坂町７−９３" }, "geometry": { "type": "Point", "coordinates": [ 136.148369370000012, 36.14484082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市上中町２７字沓掛場１１の１" }, "geometry": { "type": "Point", "coordinates": [ 136.26818914, 36.08316246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町油屋１３−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.16207662, 36.19659344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町江留上緑３２番" }, "geometry": { "type": "Point", "coordinates": [ 136.2195465, 36.1250137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町藤鷲塚５３号１５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.2194596, 36.14504822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市丸山４−７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.18133715, 35.98424005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市丸山町３丁目６番２９号" }, "geometry": { "type": "Point", "coordinates": [ 136.17857582, 35.97969924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市新横江１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.19398134, 35.9427545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市神中町２丁目６の６１" }, "geometry": { "type": "Point", "coordinates": [ 136.192644480000013, 35.97410485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市日の出町１２−８" }, "geometry": { "type": "Point", "coordinates": [ 136.18876931, 35.94033041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市北野町１丁目１４−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.180444310000013, 35.96414116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市柳町４丁目７番１５号" }, "geometry": { "type": "Point", "coordinates": [ 136.19290073, 35.94902999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町佐田３８−８" }, "geometry": { "type": "Point", "coordinates": [ 135.99080232, 35.63325477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市郡町３−４０１" }, "geometry": { "type": "Point", "coordinates": [ 136.49783874, 36.07318325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市昭和町１−１１−５７" }, "geometry": { "type": "Point", "coordinates": [ 136.5043834, 36.05993411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市長山町２丁目８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.50715802, 36.06963702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市駅前町８の１" }, "geometry": { "type": "Point", "coordinates": [ 135.74578501, 35.49314592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市遠敷２０−１−６" }, "geometry": { "type": "Point", "coordinates": [ 135.77226345, 35.48404124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市湯岡１１の１４の３" }, "geometry": { "type": "Point", "coordinates": [ 135.75290931, 35.48979131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町成和字２号１番１２５" }, "geometry": { "type": "Point", "coordinates": [ 135.61290972, 35.48255866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町石山１５−１２−５" }, "geometry": { "type": "Point", "coordinates": [ 135.55912362, 35.44940371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町大島９４−２２" }, "geometry": { "type": "Point", "coordinates": [ 135.63762405, 35.52673126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町名田庄久坂１１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.68530186000001, 35.39986939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市中挟３−８０８" }, "geometry": { "type": "Point", "coordinates": [ 136.49972065, 35.99379537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市中津川３１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.49873571, 36.00066579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町西田中４丁目４０８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.13457182, 35.97373654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町大王丸１４" }, "geometry": { "type": "Point", "coordinates": [ 136.05547891, 35.96120801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町朝日１号１番地" }, "geometry": { "type": "Point", "coordinates": [ 136.13158452, 35.97318652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市金山４６号下神の木５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.02905998, 35.62365525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市元町６番５" }, "geometry": { "type": "Point", "coordinates": [ 136.0742627, 35.65607078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市古田刈１６水掛２０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.06551654, 35.63269731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市中央町１丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.060534350000012, 35.64582192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市蓬来町１６−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.06691056, 35.65802783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市木崎１５−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.04889394, 35.64242196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市木崎５−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.0491643, 35.63797511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市鮎川町１３３−１−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.03050439, 36.09409999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市羽水２−８０３" }, "geometry": { "type": "Point", "coordinates": [ 136.23123132, 36.04078553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市花月１丁目９の３" }, "geometry": { "type": "Point", "coordinates": [ 136.210791910000012, 36.067938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市開発町７号１０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.24706662, 36.08579864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市大溝３−１８−９" }, "geometry": { "type": "Point", "coordinates": [ 136.22089207, 36.20693237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市滝２８−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.25428716, 36.23783252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市三ツ口町７５" }, "geometry": { "type": "Point", "coordinates": [ 136.15790259, 35.88614219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市赤坂町5-1-1" }, "geometry": { "type": "Point", "coordinates": [ 136.24557003000001, 35.94817836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市村国２丁目１０番２０号" }, "geometry": { "type": "Point", "coordinates": [ 136.18191137, 35.90765381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市中新庄町６２−７０" }, "geometry": { "type": "Point", "coordinates": [ 136.2137701, 35.92573293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市塚原町２４字四反田１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.15557636, 35.87108357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市日野美２−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.154615150000012, 35.89860375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市野岡町２１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.248700860000014, 35.9245981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市矢放町１８の３の１" }, "geometry": { "type": "Point", "coordinates": [ 136.18498976, 35.89026272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町松岡渡新田４番５号" }, "geometry": { "type": "Point", "coordinates": [ 136.27872201, 36.10613839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町牧福島１７−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.38794599, 36.08173237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県今立郡池田町稲荷３４−２４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.34354489, 35.89004233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町一本田３１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.26445006, 36.14687794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町下安田６字沢１２番１" }, "geometry": { "type": "Point", "coordinates": [ 136.25992292, 36.12606765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町吉政２１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.25923079, 36.13807048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町今福１２字１２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.26784077, 36.14237584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町山竹田１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.331518030000012, 36.17058994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町北横地２９の５" }, "geometry": { "type": "Point", "coordinates": [ 136.252793059999988, 36.13022412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町新庄２丁目４０２" }, "geometry": { "type": "Point", "coordinates": [ 136.236303389999989, 36.15939864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町東２５−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.221060560000012, 36.18490627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町黒目１８の２５" }, "geometry": { "type": "Point", "coordinates": [ 136.13276228, 36.17408148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町山岸３９字５０番地５" }, "geometry": { "type": "Point", "coordinates": [ 136.136095180000012, 36.19125475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町新保４９−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.144381579999987, 36.20463389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市剣大谷町１４の８" }, "geometry": { "type": "Point", "coordinates": [ 136.166658649999988, 36.12667556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市御幸３丁目３−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.23629885, 36.05472432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市光陽２丁目１８−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.197913160000013, 36.06553562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市高柳町２８−４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.24462044, 36.0987169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市高柳町４４字左来１番８号" }, "geometry": { "type": "Point", "coordinates": [ 136.245363630000014, 36.08849944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市甑谷町２４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.15155758, 35.99865036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市今市町４９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.2059446, 36.01615784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市若杉１丁目２９１５" }, "geometry": { "type": "Point", "coordinates": [ 136.1879606, 36.05702233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市若杉３丁目１７１５" }, "geometry": { "type": "Point", "coordinates": [ 136.18847222, 36.0529871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市春山１丁目２の１" }, "geometry": { "type": "Point", "coordinates": [ 136.21770762, 36.06844679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市上中町５５−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27466913, 36.08754881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市城東４丁目２９−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.24148405, 36.05757919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市新保２丁目５０３番" }, "geometry": { "type": "Point", "coordinates": [ 136.250060069999989, 36.07916909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市深坂町１５の１１" }, "geometry": { "type": "Point", "coordinates": [ 136.11231301, 36.14285033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市真木町１０６の１３" }, "geometry": { "type": "Point", "coordinates": [ 136.19988355000001, 36.00505303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市成和１丁目３３０１番地" }, "geometry": { "type": "Point", "coordinates": [ 136.24518301, 36.05158321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市石盛町１００１番地" }, "geometry": { "type": "Point", "coordinates": [ 136.219124889999989, 36.11793252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市川合鷲塚町１７の２０の１" }, "geometry": { "type": "Point", "coordinates": [ 136.201977199999988, 36.11815855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大森町３４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.12266974, 36.02293218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大森町８６字小羽湯１１" }, "geometry": { "type": "Point", "coordinates": [ 136.133338149999986, 36.0313183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大東１−６−４０" }, "geometry": { "type": "Point", "coordinates": [ 136.25167775, 36.06413446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市町屋町２丁目６の１８" }, "geometry": { "type": "Point", "coordinates": [ 136.2306945, 36.07788592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市東郷二ヶ町３６−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.2737549, 36.01629223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市徳光町４３−２６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.24727435, 36.00735692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市二の宮４丁目４４の１" }, "geometry": { "type": "Point", "coordinates": [ 136.20912608, 36.08735218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市美山町４の１９" }, "geometry": { "type": "Point", "coordinates": [ 136.36208238, 35.99992103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市文京７丁目７番２２号" }, "geometry": { "type": "Point", "coordinates": [ 136.196929579999988, 36.07569201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市毛矢３丁目１−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.21333174, 36.05769906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市木田２丁目２２０５" }, "geometry": { "type": "Point", "coordinates": [ 136.22648904, 36.0452335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市問屋３−１００５" }, "geometry": { "type": "Point", "coordinates": [ 136.253732930000012, 36.05181322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市渕２丁目９１０" }, "geometry": { "type": "Point", "coordinates": [ 136.18823846, 36.04135754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市渕４丁目１９０７" }, "geometry": { "type": "Point", "coordinates": [ 136.181479489999987, 36.04507939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市花乃杜１−３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.21998427, 36.21719029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市市姫５−１−３４" }, "geometry": { "type": "Point", "coordinates": [ 136.230211059999988, 36.20615901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市粟田部町３７−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.24333937, 35.91408047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市家久町５７−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.16291736, 35.93085758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市宮谷町４２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.221483119999988, 35.89127486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市春日野町５８番地８号" }, "geometry": { "type": "Point", "coordinates": [ 136.13740689, 35.85202367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市日野美１丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.154870280000011, 35.90039279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市片屋町５７−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.15613842, 35.91794122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市蓬莱町８−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.167510490000012, 35.90161802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町松岡室３１" }, "geometry": { "type": "Point", "coordinates": [ 136.28829273, 36.08989344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町一本田中２９字７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.26445727, 36.15319928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町羽崎５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.258036980000014, 36.11894205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町南横地２０−４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.25011423, 36.12537802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町山王１丁目４−６０" }, "geometry": { "type": "Point", "coordinates": [ 136.15751659, 36.21077126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町平山５１−３７" }, "geometry": { "type": "Point", "coordinates": [ 136.16642278, 36.23127596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町江留上錦１" }, "geometry": { "type": "Point", "coordinates": [ 136.2189713, 36.12369928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町中庄３９−８" }, "geometry": { "type": "Point", "coordinates": [ 136.20076369, 36.14234397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町布施田新８−２２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.16963519, 36.14724905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市下河端町１４字１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.190213699999987, 35.9661505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市石田上町１２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.15836603, 35.97286127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市長泉寺町２丁目１００３" }, "geometry": { "type": "Point", "coordinates": [ 136.18790558, 35.95623441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市本町２丁目４−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.1838, 35.94638048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町下タ中３４−２９" }, "geometry": { "type": "Point", "coordinates": [ 135.87846986, 35.47951252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町北前川４４号１０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.91026427, 35.55142536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市湯岡第１１号１０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.75245394, 35.48990253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市伏原２１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.74699628, 35.49205338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市牛ヶ原１０１字西向田１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.47418597, 35.99299218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市月美町９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.500425, 35.98573381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市大和町２−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.495845190000011, 35.98325453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市朝日３５−４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.657200460000013, 35.90205954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市横浜２９号高丸" }, "geometry": { "type": "Point", "coordinates": [ 136.10148313, 35.74137472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市元町５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.074487370000014, 35.65630191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市古田刈４８−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.06780437, 35.63193421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市呉竹町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.05666527, 35.64886038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市若葉町一丁目１５３５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.04958038, 35.63363252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市清水２−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.07467743, 35.64881596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市長沢１３号１０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.070073509999986, 35.63643274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町牧谷３９字上駄小屋８" }, "geometry": { "type": "Point", "coordinates": [ 136.20212053, 35.82987976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市栄町１４−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.22491105, 36.10834406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市花堂中２−１９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.213523939999988, 36.0386462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市花堂東１丁目９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.22007621, 36.04237125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市開発町２４字８−９" }, "geometry": { "type": "Point", "coordinates": [ 136.24565528, 36.08245998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市御幸２−８−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.23036811, 36.05628178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市砂子坂町１５−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.15051888, 36.14473209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市三ツ屋町第７号１０番地１" }, "geometry": { "type": "Point", "coordinates": [ 136.19698667, 36.08568525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市主計中町１０−５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.20751887, 36.00050158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市種池１丁目１６１６" }, "geometry": { "type": "Point", "coordinates": [ 136.189660980000014, 36.03676583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市松本４−１２−７" }, "geometry": { "type": "Point", "coordinates": [ 136.21874971, 36.07372729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市新保町１４字１反所１９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.24998538, 36.08585853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市西開発３−２０１" }, "geometry": { "type": "Point", "coordinates": [ 136.23663265, 36.08323626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市石橋町１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.10081087, 36.14493781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市浅水二日町１４２−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.195572590000012, 35.99759013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大宮３−３１１０" }, "geometry": { "type": "Point", "coordinates": [ 136.21408485, 36.08276497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市二の宮２丁目３１−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.22731668, 36.08704469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市板垣４丁目８１３" }, "geometry": { "type": "Point", "coordinates": [ 136.23066585, 36.04500818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市飯塚町８−１３８" }, "geometry": { "type": "Point", "coordinates": [ 136.18467701, 36.06594988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市和田中町縄境１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.25597855, 36.03792167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市国影１５−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.204630040000012, 36.22297527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市菅野７０−１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.23818928, 36.20969728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市国高１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.18451104, 35.90816493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市四郎丸町６５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.169221420000014, 35.86776939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市平出１−１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.16144713, 35.90904184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町谷口19-2" }, "geometry": { "type": "Point", "coordinates": [ 136.336769839999988, 36.09165876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県今立郡池田町菅生２６−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.30747822, 35.85753589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町一本田５-５１" }, "geometry": { "type": "Point", "coordinates": [ 136.26518034, 36.14960797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町下久米田３０−４２" }, "geometry": { "type": "Point", "coordinates": [ 136.29870731, 36.11513218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町上新庄１字−１" }, "geometry": { "type": "Point", "coordinates": [ 136.21968324, 36.16414342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町覚善５字３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.15890778, 36.21938023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町山岸３５字１９−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.14031721, 36.19012536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町松木１９−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.20012126, 36.13819503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市水落町１−１２−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.175786210000012, 35.96202392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市東鯖江４−５−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.19867292, 35.9500251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町井ノ口２７−９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.85005929, 35.46380599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町鳥浜５５−６６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.90153154, 35.55580105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市滝波５−１００７" }, "geometry": { "type": "Point", "coordinates": [ 136.49121807, 36.07472369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市遠敷８−２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77673077, 35.48932723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町名田庄久坂３号７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.68258049, 35.39938699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡高浜町青１７−２８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.508435459999987, 35.48559666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市茜町１８３" }, "geometry": { "type": "Point", "coordinates": [ 136.487483379999986, 35.97050189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市稲郷３７-５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.515369959999987, 35.95344543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市陽明３丁目６０５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.49940332, 35.99175178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町江波８６−４０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.079152459999989, 35.9413728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市莇生野１０４−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.04738964, 35.62860043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町今庄１０−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.19765806, 35.78112034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町東大道１９−５７" }, "geometry": { "type": "Point", "coordinates": [ 136.1931055, 35.83684786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市開発５丁目２１１−２１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23664706, 36.08599455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大土呂２０‐５" }, "geometry": { "type": "Point", "coordinates": [ 136.20943179, 36.00899792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市栂野町２８−８４" }, "geometry": { "type": "Point", "coordinates": [ 136.259475540000011, 36.03342167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市品ヶ瀬町１８−２８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.3612951, 36.00166371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市片粕町２２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.15872631, 36.04903392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市堀の宮１−２１２" }, "geometry": { "type": "Point", "coordinates": [ 136.197412430000014, 36.08163713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市渕４−６０１" }, "geometry": { "type": "Point", "coordinates": [ 136.18465591, 36.04618649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市二面42-17-1" }, "geometry": { "type": "Point", "coordinates": [ 136.194677860000013, 36.22644718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市小野谷町4-3-17" }, "geometry": { "type": "Point", "coordinates": [ 136.18897397, 35.88755823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市村国1丁目8-15" }, "geometry": { "type": "Point", "coordinates": [ 136.18321677, 35.90765385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市塚町218番地" }, "geometry": { "type": "Point", "coordinates": [ 136.19168775, 35.9164861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市白崎町22字惣作9-3" }, "geometry": { "type": "Point", "coordinates": [ 136.15219385, 35.86801895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町東古市12-16" }, "geometry": { "type": "Point", "coordinates": [ 136.32767804, 36.09819904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県今立郡池田町稲荷35-20-5" }, "geometry": { "type": "Point", "coordinates": [ 136.345052, 35.89208719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町下安田26字46-1" }, "geometry": { "type": "Point", "coordinates": [ 136.26008250000001, 36.12416872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町つつじが丘3-5" }, "geometry": { "type": "Point", "coordinates": [ 136.14273774, 36.22094679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市桜町2丁目8-32" }, "geometry": { "type": "Point", "coordinates": [ 136.18016038, 35.94634266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町気山230-10-1" }, "geometry": { "type": "Point", "coordinates": [ 135.91078431, 35.5807293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町能登野奈胡34-37" }, "geometry": { "type": "Point", "coordinates": [ 135.905529550000011, 35.51489856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市遠敷9丁目605" }, "geometry": { "type": "Point", "coordinates": [ 135.77314707, 35.48384636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市千種1-16-43" }, "geometry": { "type": "Point", "coordinates": [ 135.74618586, 35.4983369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町織田85-2" }, "geometry": { "type": "Point", "coordinates": [ 136.05865771, 35.95823803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市松島町29号16番" }, "geometry": { "type": "Point", "coordinates": [ 136.055767949999989, 35.65237943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市鉄輪町2丁目4-13" }, "geometry": { "type": "Point", "coordinates": [ 136.07216863, 35.64518114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市下河北町12字西六反田" }, "geometry": { "type": "Point", "coordinates": [ 136.21623433, 36.02204905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市花月4丁目8-26" }, "geometry": { "type": "Point", "coordinates": [ 136.20543142, 36.06849336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市岩倉町19-5-1" }, "geometry": { "type": "Point", "coordinates": [ 136.25850513, 36.00389425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市若杉2丁目235" }, "geometry": { "type": "Point", "coordinates": [ 136.19068248, 36.0569946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市日之出1丁目14-23" }, "geometry": { "type": "Point", "coordinates": [ 136.22690148, 36.06388351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市高木町55-6-1" }, "geometry": { "type": "Point", "coordinates": [ 136.22927117, 36.0971996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市葛岡町６字１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.19256528, 35.90232528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市野岡町２８" }, "geometry": { "type": "Point", "coordinates": [ 136.248234059999987, 35.92654473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町東古市１６−５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.32371505, 36.09938988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県今立郡池田町谷口" }, "geometry": { "type": "Point", "coordinates": [ 136.35622723, 35.90064841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町三国東４−３−６" }, "geometry": { "type": "Point", "coordinates": [ 136.16298996, 36.20933559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町西長田４１−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.2022839, 36.15558986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡高浜町宮崎７７−８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.54782574, 35.48688018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市東中１０−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.505934919999987, 35.98032255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町高佐１６字黒石１９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.9977331, 35.90449341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡宮崎村江波２４字ツツミタニ" }, "geometry": { "type": "Point", "coordinates": [ 136.065598599999987, 35.94047201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市三島町２−１１−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.0651029, 35.64758687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市花堂南２−１４−３１" }, "geometry": { "type": "Point", "coordinates": [ 136.21036752, 36.03457194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市田原２−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.21369719, 36.07098214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市文京１−２３−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.220423430000011, 36.07816578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市大溝１−１２−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.222464190000011, 36.21339761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市粟田部町７３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23314807, 35.91357127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市新町４−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.154073649999987, 35.90371367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市池ノ上町９４−７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.14485557, 35.88045714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市定友町１２−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.24571305, 35.91722291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県吉田郡永平寺町松岡神明１−１３４" }, "geometry": { "type": "Point", "coordinates": [ 136.30150543, 36.09430014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町羽崎１６−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.25802041, 36.11587791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町末政４−９１" }, "geometry": { "type": "Point", "coordinates": [ 136.28262989000001, 36.1297518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町下兵庫１３１−３−７" }, "geometry": { "type": "Point", "coordinates": [ 136.20012638, 36.16892441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市片山町９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.278693120000014, 35.95205557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市柳町３−５−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.19340899, 35.94323234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市糺町４０−２−４" }, "geometry": { "type": "Point", "coordinates": [ 136.17707993, 35.97510249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町郷市横田１０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.93817139, 35.60404047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町三方３２−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.91078945000001, 35.55673171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市栄町５−１−４８" }, "geometry": { "type": "Point", "coordinates": [ 136.49526475, 36.06777976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市太興寺１０−１６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79655377, 35.47777461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡高浜町薗部３５−８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.559299399999986, 35.48521271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市有明町２１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.50268207, 35.98192078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町内郡１８−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.13245772, 35.97675802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町梅浦５９−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.98365242, 35.95398434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市道口４６号高畑１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.073157509999987, 35.62822947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市白銀町６−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.07247736, 35.64685395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市疋田５号筋違１１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.09638185, 35.60496555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市平和町１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.04927387, 35.64578638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市野神１５−６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.05812733, 35.63755704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町上野７８−７" }, "geometry": { "type": "Point", "coordinates": [ 136.201726290000011, 35.82673493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市月見３−２−４７" }, "geometry": { "type": "Point", "coordinates": [ 136.2097588, 36.04789185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市御幸２−２０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.23403736, 36.056211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市志比口２−２０−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.239668709999989, 36.07275187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市上森田町１−４０２" }, "geometry": { "type": "Point", "coordinates": [ 136.22735733, 36.11325852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市新保町２７−４７" }, "geometry": { "type": "Point", "coordinates": [ 136.24753883, 36.08515985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市仙町３−３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.162586909999987, 36.13135881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大宮３−６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.20955498, 36.08016703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大島町２０" }, "geometry": { "type": "Point", "coordinates": [ 136.207537269999989, 36.03497567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大味町５３−１８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.01513746, 36.04843569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市地蔵堂町１１−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.18935076, 36.08593551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市日之出５−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.234012009999987, 36.06496697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市八重巻中町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.22142405, 36.1039571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市米松２−２４−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.24248323, 36.0690666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市毛矢２−９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.214542709999989, 36.05670313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市和田中３−１０１" }, "geometry": { "type": "Point", "coordinates": [ 136.2509264, 36.04638153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市丸岡町西里丸岡３−３６" }, "geometry": { "type": "Point", "coordinates": [ 136.26613875000001, 36.15304526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町江留下屋敷１１５" }, "geometry": { "type": "Point", "coordinates": [ 136.220706299999989, 36.13013666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市宮前２−３−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.18916266, 35.93283116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市三六町１−６−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.18040652, 35.97203087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市旭町２−６−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.513375020000012, 36.05162111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市元町２−１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.50505051, 36.05565924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市荒土町伊波１８字１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46659453, 36.07876439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市鍬掛７字４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.4798913, 35.97553943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市犬山７字２−４" }, "geometry": { "type": "Point", "coordinates": [ 136.474389409999986, 35.98789805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市春日３−４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.49878608, 35.97683692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市新町２−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.49061647, 35.99205252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市中荒井１−４１０" }, "geometry": { "type": "Point", "coordinates": [ 136.4930731, 35.99074681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市中津川方２０字１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.500745200000011, 36.00191116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市弥生町２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.49825902, 35.98133256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市櫛林１９号" }, "geometry": { "type": "Point", "coordinates": [ 136.04317334000001, 35.62631253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市結城町９−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.0659346, 35.6534205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市古田刈１３−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.066053290000013, 35.63258135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市開発町６字上高田" }, "geometry": { "type": "Point", "coordinates": [ 136.243674919999989, 36.08550873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市春山２−２１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.21271674, 36.0703433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大手２−１２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.22519327, 36.06481666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市白浜町１−７" }, "geometry": { "type": "Point", "coordinates": [ 136.02667661000001, 36.07916528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市別所町１６字１" }, "geometry": { "type": "Point", "coordinates": [ 136.22562517, 36.03173484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市問屋町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.254011170000012, 36.05532982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町能登野36-14" }, "geometry": { "type": "Point", "coordinates": [ 135.904180239999988, 35.51308053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市波松菅谷３" }, "geometry": { "type": "Point", "coordinates": [ 136.20076243, 36.26148775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町北本町３−９−３４" }, "geometry": { "type": "Point", "coordinates": [ 136.14696271, 36.21398656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市中井５０−４８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72451197, 35.46085801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市伏原２８−１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.743981819999988, 35.49048027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大飯郡おおい町本郷１４６号１３" }, "geometry": { "type": "Point", "coordinates": [ 135.62192232000001, 35.48307452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大味町３８" }, "geometry": { "type": "Point", "coordinates": [ 136.016868460000012, 36.04853625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市伏石１３−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57559555, 35.9877313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市鹿谷町本郷４７−６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46470613, 36.0587318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市伏原31-5-2" }, "geometry": { "type": "Point", "coordinates": [ 135.74965283, 35.49030721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市問屋町１−１４６" }, "geometry": { "type": "Point", "coordinates": [ 136.2511461, 36.05673302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市大手町９−２４" }, "geometry": { "type": "Point", "coordinates": [ 135.74542614, 35.49733599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県小浜市駅前町１６−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.75139925, 35.49074324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市小松2丁目14-21" }, "geometry": { "type": "Point", "coordinates": [ 136.15449584000001, 35.90716686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市布施田町5-11" }, "geometry": { "type": "Point", "coordinates": [ 136.15728395, 36.14575579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市高木町１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.223565830000013, 36.09831266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市豊岡１−１４−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.19030258, 36.06969302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市花堂東１−１３−６" }, "geometry": { "type": "Point", "coordinates": [ 136.21900564, 36.04060572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市上中町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.26069623, 36.07950015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県大野市中野町４−１０１" }, "geometry": { "type": "Point", "coordinates": [ 136.49450123, 35.9973752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県越前市村国２−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.17454841, 35.90730362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県鯖江市下司町１９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.17350869, 35.94011285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県敦賀市布田町８３−７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.07164591, 35.64184908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市中井１９−１９" }, "geometry": { "type": "Point", "coordinates": [ 135.708592, 35.45218227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市豊島１丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.22052158, 36.05755354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市日之出２丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.22538511, 36.06169002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市西谷１丁目１５１１" }, "geometry": { "type": "Point", "coordinates": [ 136.207353719999986, 36.03656149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市北四ツ居２丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.242435629999989, 36.066517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市昭和町１丁目５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.062223710000012, 35.64234345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市疋田１３−１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.09804639, 35.603147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市北府２丁目７−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.16676868, 35.91146392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市北町１１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.20330399, 35.90891104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市小松２丁目１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.15892251, 35.90514228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市清水頭町１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.22708431, 35.89073502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市志比口３丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23627291, 36.07232177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県小浜市川崎３丁目２" }, "geometry": { "type": "Point", "coordinates": [ 135.73868649, 35.50303353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県大野市要町１−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.489929350000011, 35.99031368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市沢町１丁目６−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.50012565, 36.06396644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市鹿谷町本郷１７−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.4639818, 36.05238375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市河和田町２０−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.2721354, 35.95115093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市下河端町１５−１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.19061489, 35.96725952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市杉本町１６−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.16825946, 35.98263884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市問屋町２丁目１１７" }, "geometry": { "type": "Point", "coordinates": [ 136.25427504000001, 36.05570202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市江端町３６−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.211435130000012, 36.02673901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市江端町３３−９" }, "geometry": { "type": "Point", "coordinates": [ 136.21182054, 36.02748508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大手２丁目１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.22368228, 36.06508879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市大宮２丁目２０−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.22366219, 36.0820945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町宿１丁目１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.141728949999987, 36.21933108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町郷市１４−１３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.93642992, 35.60435584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市温泉５丁目１８１０" }, "geometry": { "type": "Point", "coordinates": [ 136.192287099999987, 36.22874594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市布目８−６１" }, "geometry": { "type": "Point", "coordinates": [ 136.183881539999987, 36.22277248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市牛ノ谷８−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.28509324, 36.2512761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県あわら市熊坂２６−８" }, "geometry": { "type": "Point", "coordinates": [ 136.28624593, 36.23674035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町江留上錦３" }, "geometry": { "type": "Point", "coordinates": [ 136.219140759999988, 36.12304904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町織田９８−５" }, "geometry": { "type": "Point", "coordinates": [ 136.05611907, 35.95822915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町相田３１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.90874528, 35.52920063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市北府２丁目６−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.16572991000001, 35.91157776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県越前市粟田部町３４−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.24513165, 35.91794537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県敦賀市赤崎４６" }, "geometry": { "type": "Point", "coordinates": [ 136.0865772, 35.68280869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町脇本９−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.181038769999986, 35.84494287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市坂井町下新庄１６−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.22351341000001, 36.16854605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市重立町３０−１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.282474509999986, 36.08495926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県勝山市滝波町１丁目６０２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.49390574, 36.068222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県南条郡南越前町今庄８６−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.201544, 35.77136347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市春江町針原１３−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.19976968, 36.12268767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県丹生郡越前町織田３６−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.057402270000011, 35.96119512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県鯖江市東鯖江２丁目１−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.19468554, 35.94697172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県坂井市三国町北本町１丁目２−４１" }, "geometry": { "type": "Point", "coordinates": [ 136.1510519, 36.21556771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市上北野１丁目１２−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.24990294, 36.06034587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県あわら市田中々１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.19194489, 36.222692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県あわら市下番１９−２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.189501119999989, 36.2068049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市松本２丁目２５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.22585511, 36.07434072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県あわら市吉崎１丁目６２１" }, "geometry": { "type": "Point", "coordinates": [ 136.254270029999986, 36.28829413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県坂井市丸岡町霞町４丁目２８" }, "geometry": { "type": "Point", "coordinates": [ 136.271989889999986, 36.15134425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県坂井市春江町江留上旭６−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.22465865, 36.12660769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市松本３丁目５−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.22147725, 36.07142181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市御幸１丁目１７−９" }, "geometry": { "type": "Point", "coordinates": [ 136.229195940000011, 36.05720385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県坂井市春江町江留上昭和７−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.22442701, 36.12170721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県大野市日吉町２４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.495692240000011, 35.98050456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県大野市元町７−８" }, "geometry": { "type": "Point", "coordinates": [ 136.48957798, 35.98615752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県吉田郡永平寺町松岡春日２丁目５３" }, "geometry": { "type": "Point", "coordinates": [ 136.29767822, 36.09015061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県大野市上野３７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.5408148, 35.99149209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県吉田郡永平寺町松岡葵１丁目５８" }, "geometry": { "type": "Point", "coordinates": [ 136.298294700000014, 36.09366683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県坂井市三国町覚善２−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.16008087, 36.21696715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県吉田郡永平寺町松岡神明１丁目５６" }, "geometry": { "type": "Point", "coordinates": [ 136.302121989999989, 36.09525836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県敦賀市本町１丁目１０−６" }, "geometry": { "type": "Point", "coordinates": [ 136.07278777, 35.65314106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県鯖江市吉江町３−８" }, "geometry": { "type": "Point", "coordinates": [ 136.172627690000013, 35.98711168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県越前市国府２丁目５−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.1662537, 35.90704537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県越前市国府２丁目１２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.166718769999989, 35.90785606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市毛矢２丁目１０−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.213961540000014, 36.05699686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県鯖江市有定町２丁目３−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.176134569999988, 35.94592878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市文京７丁目９−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.195087, 36.07570635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県越前市蓬莱町４−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.16567179, 35.90264283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県越前市押田１丁目１−９" }, "geometry": { "type": "Point", "coordinates": [ 136.18456104, 35.90773444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市花堂中２丁目２８−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.212658979999986, 36.03604227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市足羽１丁目２６−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.207150430000013, 36.06069999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市西方１丁目２−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.23432632, 36.05290729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県三方上中郡若狭町井ノ口３５−２０" }, "geometry": { "type": "Point", "coordinates": [ 135.85473889, 35.46220135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県丹生郡越前町梅浦６９−２８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.983030469999989, 35.95612422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市大宮５丁目１８−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.20612921, 36.08229157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県勝山市鹿谷町発坂１４−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.46515062, 36.06956258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市順化１丁目２４−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.215805249999988, 36.06685775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県小浜市四谷町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.749216139999987, 35.49663435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県鯖江市旭町２丁目３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.18644576, 35.94614563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市月見４丁目３−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.20341316, 36.04799264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市加茂緑苑町６１５" }, "geometry": { "type": "Point", "coordinates": [ 136.19210436, 36.05300622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県敦賀市白銀町９−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.073598370000013, 35.64808109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県坂井市三国町北本町３丁目７−７" }, "geometry": { "type": "Point", "coordinates": [ 136.14703491, 36.21437819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市学園３丁目２−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.19674089, 36.07064291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市今市町６３−１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.20685719, 36.0220023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市志比口１丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 136.23341199, 36.07085237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市乾徳１丁目１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.21094481, 36.07347616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市開発町９−５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.24043923, 36.08444284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市大宮４丁目１−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.209156400000012, 36.08031967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市運動公園１丁目１９０９" }, "geometry": { "type": "Point", "coordinates": [ 136.17940056, 36.05231561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市今市町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.20142207, 36.00822625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市二の宮３丁目２２−９" }, "geometry": { "type": "Point", "coordinates": [ 136.215664479999987, 36.08559653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市三国町滝谷３丁目５−３９" }, "geometry": { "type": "Point", "coordinates": [ 136.142355189999989, 36.21864907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市長泉寺町２丁目９−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.188170179999986, 35.95551102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市姫川２丁目１１−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.170832569999988, 35.89360802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市国府１丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.16830477, 35.90457044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県勝山市栄町４丁目２−４８" }, "geometry": { "type": "Point", "coordinates": [ 136.495942570000011, 36.06438016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市高瀬１丁目１３−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.15548701, 35.89512683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市舟津町４丁目６−３４" }, "geometry": { "type": "Point", "coordinates": [ 136.18165794, 35.9342389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市浅水二日町１３−９" }, "geometry": { "type": "Point", "coordinates": [ 136.1966544, 36.0044137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市三国町北本町４丁目６−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.14807373, 36.21391993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県勝山市栄町１丁目３−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.49722171, 36.06233282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市丸山２丁目４０６" }, "geometry": { "type": "Point", "coordinates": [ 136.24547247000001, 36.0728333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県勝山市本町４丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.49960081, 36.058031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市西開発３丁目２０６" }, "geometry": { "type": "Point", "coordinates": [ 136.235247859999987, 36.08213447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市春江町中庄３５−４１" }, "geometry": { "type": "Point", "coordinates": [ 136.19648331, 36.14314513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市府中１丁目１２−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.16977813, 35.904216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市円山１丁目７０１" }, "geometry": { "type": "Point", "coordinates": [ 136.24609744, 36.07049191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市大手１丁目２−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.22615984, 36.06650815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市上中町１４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.2611267, 36.08150553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市栗森町１５−４２" }, "geometry": { "type": "Point", "coordinates": [ 136.23956829, 36.11653602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市栗森町浜２２５" }, "geometry": { "type": "Point", "coordinates": [ 136.23981569, 36.11556801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市毛矢２丁目１１−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.214402619999987, 36.05587581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市大願寺１丁目４−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.232039719999989, 36.0820482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市福新町７１５" }, "geometry": { "type": "Point", "coordinates": [ 136.1842895, 36.04887407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市足羽１丁目１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.20918914, 36.06113331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市下馬３丁目６０６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.233629979999989, 36.03783417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県大飯郡高浜町宮崎４４−３９" }, "geometry": { "type": "Point", "coordinates": [ 135.553028860000012, 35.49082463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市春江町針原１５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.199965529999986, 36.12527003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市粟田部町３１−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.24155835, 35.91597518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市野岡町２４−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.24829516, 35.92520595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県南条郡南越前町今庄７１−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.199098240000012, 35.77419645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県丹生郡越前町新保１２−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.986705339999986, 35.94995015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県丹生郡越前町梅浦６９−３６" }, "geometry": { "type": "Point", "coordinates": [ 135.98259995, 35.95614087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市宝永４丁目２２−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.2211241, 36.07023248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県三方郡美浜町佐柿３３−２３" }, "geometry": { "type": "Point", "coordinates": [ 135.95903567, 35.60888089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市三国町運動公園１丁目４−７０" }, "geometry": { "type": "Point", "coordinates": [ 136.150738679999989, 36.22654926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県大飯郡高浜町紫水ケ丘１丁目１−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.56605113, 35.48718499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市三国町北本町１丁目８−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.15037627000001, 36.21476712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県丹生郡越前町金谷１８−１６２−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.11245857, 35.96400046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市春江町江留中２９−５−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.21854786, 36.1370074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市花月２丁目１０−９" }, "geometry": { "type": "Point", "coordinates": [ 136.208704329999989, 36.06898892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市安養寺町１４１−２５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.072825060000014, 35.91650266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県勝山市本町３丁目２−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.499281380000014, 36.05833651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県敦賀市桜町４−９" }, "geometry": { "type": "Point", "coordinates": [ 136.072737389999986, 35.65829332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市五分市町２５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.22723248, 35.89595506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市錦町２−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.17202092, 35.90190488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県越前市平出２丁目３−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.16001115, 35.9100786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県小浜市小浜浅間３１" }, "geometry": { "type": "Point", "coordinates": [ 135.73533973, 35.49089277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県小浜市小浜津島１１０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.74241118, 35.50157264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市丸岡町上金屋４−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.30864852, 36.1108287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県大野市元町１２−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.49166524, 35.98425961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県あわら市大溝１丁目８−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.2210259, 36.21273529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市上河端町４１−１３−５" }, "geometry": { "type": "Point", "coordinates": [ 136.20209935, 35.95240631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市上野田町６−４８" }, "geometry": { "type": "Point", "coordinates": [ 136.1513002, 35.94175724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市小泉町１６−４２" }, "geometry": { "type": "Point", "coordinates": [ 136.15674249, 35.96999721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県鯖江市三六町２丁目１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.180170409999988, 35.97269466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県吉田郡永平寺町志比２４−３９" }, "geometry": { "type": "Point", "coordinates": [ 136.35351694, 36.0554871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県坂井市三国町宿２丁目１５−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.13882697, 36.22111442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県福井市松城町４−９" }, "geometry": { "type": "Point", "coordinates": [ 136.23651474, 36.06368752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "福井県大野市本町５−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.488782179999987, 35.98644243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方上中郡若狭町三宅86" }, "geometry": { "type": "Point", "coordinates": [ 135.86198307, 35.46234347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県三方郡美浜町早瀬13-101" }, "geometry": { "type": "Point", "coordinates": [ 135.907094160000014, 35.61832955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市下東郷町登立１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.26439323, 36.0192297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "福井県福井市門前2-906" }, "geometry": { "type": "Point", "coordinates": [ 136.193848620000011, 36.04686663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県勝山市村岡町浄土寺木戸口３５−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.511417380000012, 36.07426629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "福井県福井市八重巻町第１３−３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.22248571, 36.11086526 ] } }
+
+]
+}

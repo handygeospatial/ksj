@@ -1,0 +1,1016 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町東円堂１８１５" }, "geometry": { "type": "Point", "coordinates": [ 136.21966078, 35.15573541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町岡屋１１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.120658959999986, 35.05351136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町西横関３２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.093548520000013, 35.09321313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市江頭町４４３" }, "geometry": { "type": "Point", "coordinates": [ 136.0563026, 35.11327352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市西庄町字筆ノ部１２１６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.1102161, 35.13750332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市中小森町３４３" }, "geometry": { "type": "Point", "coordinates": [ 136.087433940000011, 35.11544392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市中村町７２７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.09207147, 35.13355394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市坊袋２５９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.981445220000012, 35.02212223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市林４８９" }, "geometry": { "type": "Point", "coordinates": [ 136.023678100000012, 35.03060087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市霊仙寺３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.96821506, 35.03905331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市下田中山９２４" }, "geometry": { "type": "Point", "coordinates": [ 136.12717418, 35.03095491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市元町８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.182565110000013, 34.96694295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市信楽町下字牧１４７８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.07567031, 34.90615952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町泉１４５１" }, "geometry": { "type": "Point", "coordinates": [ 136.12656686, 34.98482638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木１２５５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.029539019999987, 35.33457841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市鴨１４７６" }, "geometry": { "type": "Point", "coordinates": [ 136.01746510000001, 35.30961363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町杉山３９０" }, "geometry": { "type": "Point", "coordinates": [ 135.925825550000013, 35.43522109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市大字旭字村東７７７−７" }, "geometry": { "type": "Point", "coordinates": [ 136.04341137, 35.35217204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市大字市場６１０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.91857253, 35.35450715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市立田町２２７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.97631145, 35.09841883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市岡本町丁字南平４６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98145083, 34.99336179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市矢倉２−８" }, "geometry": { "type": "Point", "coordinates": [ 135.95597587, 35.00810434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市におの浜４−７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.88792872, 35.00253456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市一里山１丁目１−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.92380601, 34.98388358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市下阪本５−６−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.8815558, 35.06519554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市葛川梅ノ木町６２" }, "geometry": { "type": "Point", "coordinates": [ 135.87464688, 35.26454768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市秋葉台５−７" }, "geometry": { "type": "Point", "coordinates": [ 135.8852247, 34.99262842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市真野町２−３０−１９" }, "geometry": { "type": "Point", "coordinates": [ 135.92113382, 35.12686891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市大萱５−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.91878022, 34.98900639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市大石中３−２−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.913601449999987, 34.9103759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市田上黒津町２２８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.91684404, 34.94380527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市南郷１−５−８" }, "geometry": { "type": "Point", "coordinates": [ 135.90775837000001, 34.94353784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市北小松" }, "geometry": { "type": "Point", "coordinates": [ 135.974489909999988, 35.25410329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市柳川１−６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.85729923, 35.03094929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市宮部９９９−４" }, "geometry": { "type": "Point", "coordinates": [ 136.27810061, 35.42305625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市高月９６１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.23454055, 35.46971395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市七条町６０２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.314522329999988, 35.38766769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市大字宮部１７５８" }, "geometry": { "type": "Point", "coordinates": [ 136.27327978, 35.42235542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市大字高田６５７" }, "geometry": { "type": "Point", "coordinates": [ 136.24149863, 35.44189649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市大字千田２４５" }, "geometry": { "type": "Point", "coordinates": [ 136.22409384, 35.49646826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡中山町字五反田１５５" }, "geometry": { "type": "Point", "coordinates": [ 136.28087764, 35.392294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡東町９６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.28324557, 35.38238409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市野村町７６０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.31931658, 35.41749893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市今堀町２５２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.19559288, 35.09510908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市中小路町字石倉６０９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.22727466, 35.09777906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市松原町字小屋３２５９番３" }, "geometry": { "type": "Point", "coordinates": [ 136.26312737, 35.28851699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市東沼波町字梨子木７７７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.26164268, 35.24941938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市南川瀬町８００" }, "geometry": { "type": "Point", "coordinates": [ 136.23337566, 35.2200403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市寺倉６１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.310332820000013, 35.32551598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市永原７２７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.039144349999987, 35.08789378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市大篠原入町７４" }, "geometry": { "type": "Point", "coordinates": [ 136.07273115000001, 35.08589371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡西浅井町小山８００" }, "geometry": { "type": "Point", "coordinates": [ 136.13097192, 35.50392236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡木之本町大字木之本１５６２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.22159306, 35.50435976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡余呉町大字坂口字桜内１０６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.21842743, 35.51923424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡余呉町大字坂口字野神山２９９" }, "geometry": { "type": "Point", "coordinates": [ 136.21673297000001, 35.52081044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡余呉町中之郷１６０８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.20660668, 35.54011446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町安部居ガケの下２３１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.238920979999989, 35.04844769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町松尾５１街区の２" }, "geometry": { "type": "Point", "coordinates": [ 136.24413017, 35.01413024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町綾戸３２１" }, "geometry": { "type": "Point", "coordinates": [ 136.13017513, 35.06471509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市千僧供町字木の葉内２５７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.121751679999988, 35.10414529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市鷹飼町南１丁目４番９号" }, "geometry": { "type": "Point", "coordinates": [ 136.10663231, 35.12021682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市東川町１３１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.10642406, 35.10012939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市上鈎１６１" }, "geometry": { "type": "Point", "coordinates": [ 135.99110368, 35.02539987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市大字小柿５−１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.97125383, 35.02383791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市中沢東浦８５の１" }, "geometry": { "type": "Point", "coordinates": [ 135.975051259999987, 35.0283908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡甲良町横関７４４" }, "geometry": { "type": "Point", "coordinates": [ 136.264157149999988, 35.20238901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡甲良町大字長寺５１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.261565960000013, 35.19271607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡甲良町尼子１２２８−５" }, "geometry": { "type": "Point", "coordinates": [ 136.25434869, 35.20954433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町大字敏満寺小字大門３６４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.28327613, 35.21332222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町藤瀬６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.30855254, 35.18690645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町敏満寺字背戸山７０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.283171329999988, 35.21818801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡豊郷町高野瀬６４５" }, "geometry": { "type": "Point", "coordinates": [ 136.22418208, 35.19958923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡豊郷町大字吉田西五位田１４８０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.226782750000012, 35.19026846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市夏見字下宿立８８６" }, "geometry": { "type": "Point", "coordinates": [ 136.093269, 34.99811503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市夏見二ツ橋３５６" }, "geometry": { "type": "Point", "coordinates": [ 136.098491919999987, 34.99441054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市柑子袋字高樋４９０" }, "geometry": { "type": "Point", "coordinates": [ 136.072993340000011, 35.00864633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市石部北１−６−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.06107781, 35.01528428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市大池町１０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.123792400000013, 35.00614369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市信楽町下朝宮３２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.97552313, 34.85380469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町暁３−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.172044840000012, 34.96655238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市マキノ町海津１２９８" }, "geometry": { "type": "Point", "coordinates": [ 136.0732944, 35.46591123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市マキノ町西浜１７４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.06621307, 35.46206357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木３７８" }, "geometry": { "type": "Point", "coordinates": [ 136.022237819999987, 35.32198538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木７６３" }, "geometry": { "type": "Point", "coordinates": [ 136.02536586, 35.33042214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市鵜川２５４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.00861003, 35.27388676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市朽木市場７９４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.91599062, 35.35268733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町今津中沼１−４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.034336239999988, 35.39854708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市勝野字けらが町１２９−１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.01452497, 35.30197714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市新旭町北畑字小家川原９９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.04451673, 35.3472507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市吉身１−１０−６５" }, "geometry": { "type": "Point", "coordinates": [ 135.99874995, 35.0556397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市守山４−１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.99086222, 35.05825035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市播磨田町３７８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.994392119999986, 35.06945989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市木浜町１６４５" }, "geometry": { "type": "Point", "coordinates": [ 135.94987813, 35.10443414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市下笠町市場東１０４８" }, "geometry": { "type": "Point", "coordinates": [ 135.935296709999989, 35.03542944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市上笠２丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.94829232, 35.03072829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市北山田町９３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.930396550000012, 35.02628137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市木川町樋頭３１９" }, "geometry": { "type": "Point", "coordinates": [ 135.943673, 35.02097675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野路１丁目１７−２９" }, "geometry": { "type": "Point", "coordinates": [ 135.948711229999986, 35.000949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市逢坂１丁目１０−８" }, "geometry": { "type": "Point", "coordinates": [ 135.86071716, 35.00217112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市一里山１−１４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.92822723, 34.98596785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市横木１丁目７−４" }, "geometry": { "type": "Point", "coordinates": [ 135.83165632, 34.99206126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市下阪本３−３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.87884311, 35.06033811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市萱野浦２２−６５" }, "geometry": { "type": "Point", "coordinates": [ 135.9092418, 34.98699373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市月輪１−９−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.93525958, 34.99022417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市松山町９−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.86513444, 35.02798892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市瀬田６丁目字篠部７９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.914371030000012, 34.9571631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市大石中２丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 135.912843079999988, 34.90956347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市唐崎１−３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.86984655, 35.04666676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市雄琴２丁目３０番１５号" }, "geometry": { "type": "Point", "coordinates": [ 135.89603467, 35.09595214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市竜が丘１−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.878412739999987, 34.99935675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市加納町字新入道６７３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.29593899, 35.39730144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市三ツ矢元町２２−７" }, "geometry": { "type": "Point", "coordinates": [ 136.26658319, 35.38761559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡中山町１１５５" }, "geometry": { "type": "Point", "coordinates": [ 136.26918595, 35.39097567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡東町２０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.28448008, 35.38608382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市佐野町６００−３" }, "geometry": { "type": "Point", "coordinates": [ 136.172177979999987, 35.17905456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市桜川西町１３０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.188047610000012, 35.06363549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市山上町２０１２" }, "geometry": { "type": "Point", "coordinates": [ 136.2995213, 35.07903258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市寺町神林６２９" }, "geometry": { "type": "Point", "coordinates": [ 136.24960671, 35.08831643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市上岸本町殿俣２０６３" }, "geometry": { "type": "Point", "coordinates": [ 136.23212031, 35.11144802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市八日市東本町１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.20733973, 35.10758078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市八日市東本町３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.20426376, 35.10819753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市北花沢町３９２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.25992786, 35.12983059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市西沼波町字下野々花２５５１" }, "geometry": { "type": "Point", "coordinates": [ 136.26577777, 35.26062358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市大薮町字平田台２４０４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23991915, 35.26106696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市里根町坂ノ下２６９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.26888827, 35.26540075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市下板並北海道６４３" }, "geometry": { "type": "Point", "coordinates": [ 136.36962491, 35.42997616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市長岡１１８７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.36965644, 35.36390478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市野一色３２７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.35829218, 35.39013611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市冨波乙７１２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.031532809999987, 35.0787792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町長野５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.21117748, 35.18235686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市西庄町２６２９" }, "geometry": { "type": "Point", "coordinates": [ 136.107743629999987, 35.13058387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市馬淵町字下司１６８３-３" }, "geometry": { "type": "Point", "coordinates": [ 136.10673859, 35.10110873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市大橋３−１−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.00471459, 35.03458843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市霊仙寺神保４５３-３" }, "geometry": { "type": "Point", "coordinates": [ 135.97328188, 35.03711889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町大字多賀４０５" }, "geometry": { "type": "Point", "coordinates": [ 136.29242229, 35.2236463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町大字敏満寺" }, "geometry": { "type": "Point", "coordinates": [ 136.285355439999989, 35.2188265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市菩提寺１４９１−１４６" }, "geometry": { "type": "Point", "coordinates": [ 136.06535188, 35.03898732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲賀町大原市場１３-１" }, "geometry": { "type": "Point", "coordinates": [ 136.21476117, 34.90030116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市信楽町牧１４０６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.07764601, 34.91050077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町泉字中ノ切４１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.12821519, 34.98544433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町虫生野１１８８" }, "geometry": { "type": "Point", "coordinates": [ 136.15882283, 34.95114692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町日電１−５５" }, "geometry": { "type": "Point", "coordinates": [ 136.16783859, 34.97657106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木１８１-１" }, "geometry": { "type": "Point", "coordinates": [ 136.02484583, 35.32833746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町弘川１５２０-３" }, "geometry": { "type": "Point", "coordinates": [ 136.02332325, 35.40822951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町今津住吉１-５-９" }, "geometry": { "type": "Point", "coordinates": [ 136.03419795, 35.40119039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町日置前８４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.02614997, 35.42321838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市焔魔堂町２４０-１" }, "geometry": { "type": "Point", "coordinates": [ 135.98375349, 35.05054776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市横江町１６７-１" }, "geometry": { "type": "Point", "coordinates": [ 135.970839860000012, 35.05396714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市水保町１３６７-１" }, "geometry": { "type": "Point", "coordinates": [ 135.946988479999987, 35.11748378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市播磨田町字塚越４４０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.993445650000012, 35.07127697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市橋岡町字名林７４-１" }, "geometry": { "type": "Point", "coordinates": [ 135.934868419999987, 35.01144988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市若草１丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.966654330000011, 34.98913201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野村５丁目１-１" }, "geometry": { "type": "Point", "coordinates": [ 135.951271389999988, 35.02835863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野路町小野山２１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.950686749999988, 34.99383975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市別保３丁目２−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.88827887, 34.9873135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市本堅田町３丁目１０−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.91307856, 35.11429536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市和邇今宿字舟木３７５番３" }, "geometry": { "type": "Point", "coordinates": [ 135.925247109999987, 35.15198213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市螢谷７１８-４" }, "geometry": { "type": "Point", "coordinates": [ 135.90402576, 34.970114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市加田町６１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29180822, 35.35813905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市細江町" }, "geometry": { "type": "Point", "coordinates": [ 136.25326848, 35.39862803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市川崎町２７６-１" }, "geometry": { "type": "Point", "coordinates": [ 136.282526710000013, 35.39300718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市内保町" }, "geometry": { "type": "Point", "coordinates": [ 136.30596706, 35.42911952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡東町６２２-３" }, "geometry": { "type": "Point", "coordinates": [ 136.27722182, 35.38152248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市瓜生津町３３３-１" }, "geometry": { "type": "Point", "coordinates": [ 136.250577, 35.08357978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市垣見町１６１１" }, "geometry": { "type": "Point", "coordinates": [ 136.16351409, 35.18314872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市五個荘簗瀬町１８" }, "geometry": { "type": "Point", "coordinates": [ 136.19769032, 35.1626952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市今堀町畦明２３２" }, "geometry": { "type": "Point", "coordinates": [ 136.19604311, 35.09505223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市外町１０街区" }, "geometry": { "type": "Point", "coordinates": [ 136.26629391, 35.26883071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市高宮町雨明１３２０" }, "geometry": { "type": "Point", "coordinates": [ 136.25394635, 35.24372202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市城町１-４-８" }, "geometry": { "type": "Point", "coordinates": [ 136.24742982, 35.27269303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市中藪町字上海瀬６０８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.244563699999986, 35.26668354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市日夏町３７７４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.219830660000014, 35.23054641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市醒井５８４" }, "geometry": { "type": "Point", "coordinates": [ 136.34727408, 35.32798765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市笠山６丁目１５１−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.94803518, 34.97812509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町島川２３７" }, "geometry": { "type": "Point", "coordinates": [ 136.232068410000011, 35.17223011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡余呉町中之郷字高田９７７" }, "geometry": { "type": "Point", "coordinates": [ 136.20561496, 35.54260986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町弓削１６７０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.11444476, 35.08287324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市大中町５７９" }, "geometry": { "type": "Point", "coordinates": [ 136.11827557, 35.1827014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市安養寺八丁目２−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.99686646, 35.02324725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市マキノ町沢１３５３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.03959230000001, 35.46300564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市高島町勝野９４１" }, "geometry": { "type": "Point", "coordinates": [ 136.005101919999987, 35.29941375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町弘川２６０" }, "geometry": { "type": "Point", "coordinates": [ 136.02736102, 35.40836255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市新旭町旭１９６０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.035135, 35.36310879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県滋賀郡大津市木戸１４８５-2" }, "geometry": { "type": "Point", "coordinates": [ 135.915895119999988, 35.19351665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市木浜町１８３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.955244920000013, 35.1046949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市上田上平野町４２８" }, "geometry": { "type": "Point", "coordinates": [ 135.95893704, 34.9606816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市富田町４５０" }, "geometry": { "type": "Point", "coordinates": [ 136.22145733, 35.42475545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市下羽田町１６２" }, "geometry": { "type": "Point", "coordinates": [ 136.146720789999989, 35.09546251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市外町字若松１３８２" }, "geometry": { "type": "Point", "coordinates": [ 136.2086966, 35.10982005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市山上町1321-3" }, "geometry": { "type": "Point", "coordinates": [ 136.30068731, 35.07757724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市市子殿町２４０" }, "geometry": { "type": "Point", "coordinates": [ 136.17803089, 35.05855024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市曽根町１２９９" }, "geometry": { "type": "Point", "coordinates": [ 136.25734024, 35.10002833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市本荘町９２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.18055887, 35.21210393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町大字河原570" }, "geometry": { "type": "Point", "coordinates": [ 136.25119923, 35.01732044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町大字三十坪字野辺1257-2" }, "geometry": { "type": "Point", "coordinates": [ 136.21450062, 35.01770415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市上田町143" }, "geometry": { "type": "Point", "coordinates": [ 136.11912415, 35.10939536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市千僧供町大橋583-4" }, "geometry": { "type": "Point", "coordinates": [ 136.118056560000014, 35.1086879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市多賀町八野町581-1" }, "geometry": { "type": "Point", "coordinates": [ 136.0962434, 35.14208191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市東町57" }, "geometry": { "type": "Point", "coordinates": [ 136.09434006, 35.10799169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市御園801-1" }, "geometry": { "type": "Point", "coordinates": [ 136.02338429, 35.00215718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市綣9丁目1番12号" }, "geometry": { "type": "Point", "coordinates": [ 135.98114136, 35.04283549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市夏見1317-1" }, "geometry": { "type": "Point", "coordinates": [ 136.08843542, 35.00018311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市信楽町江田736" }, "geometry": { "type": "Point", "coordinates": [ 136.049224689999988, 34.86732631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町虫生野中央223" }, "geometry": { "type": "Point", "coordinates": [ 136.15823738, 34.95062655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町本綾野5-16" }, "geometry": { "type": "Point", "coordinates": [ 136.16980306, 34.97622392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市マキノ町野口字樋ノ口1280" }, "geometry": { "type": "Point", "coordinates": [ 136.08815325, 35.49703801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町今津1656-2" }, "geometry": { "type": "Point", "coordinates": [ 136.03397707, 35.40396217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市今津町深清水1070-2" }, "geometry": { "type": "Point", "coordinates": [ 136.02875641, 35.43710224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市勝部町2-4-6" }, "geometry": { "type": "Point", "coordinates": [ 135.98946734, 35.04767721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市衣川1丁目32-31" }, "geometry": { "type": "Point", "coordinates": [ 135.91112038, 35.11264304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市打出浜29-1" }, "geometry": { "type": "Point", "coordinates": [ 135.875207390000014, 35.0057036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市山階町字横枕285" }, "geometry": { "type": "Point", "coordinates": [ 136.28967941, 35.39519494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市神照町会郷918" }, "geometry": { "type": "Point", "coordinates": [ 136.26816426, 35.39296798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市木之本町木之本1941-2" }, "geometry": { "type": "Point", "coordinates": [ 136.22218731000001, 35.50095256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市五個荘石塚町300" }, "geometry": { "type": "Point", "coordinates": [ 136.176378, 35.14179783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市市子松井町160-1" }, "geometry": { "type": "Point", "coordinates": [ 136.18344291, 35.05107834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市妙法寺町713番地" }, "geometry": { "type": "Point", "coordinates": [ 136.226130250000011, 35.09855539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市芹川町字上野401" }, "geometry": { "type": "Point", "coordinates": [ 136.26580689, 35.2625041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市高宮町西川原2063" }, "geometry": { "type": "Point", "coordinates": [ 136.25252328, 35.23614364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市日夏町字天神堂3640" }, "geometry": { "type": "Point", "coordinates": [ 136.21686337, 35.23261714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市高溝192-38" }, "geometry": { "type": "Point", "coordinates": [ 136.294950050000011, 35.34460405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市樋口251-1" }, "geometry": { "type": "Point", "coordinates": [ 136.31996894, 35.32409559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市小篠原836-1" }, "geometry": { "type": "Point", "coordinates": [ 136.030662439999986, 35.06345731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市野洲1464" }, "geometry": { "type": "Point", "coordinates": [ 135.99686169, 35.06424999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市西生来町廻リ戸1613−1" }, "geometry": { "type": "Point", "coordinates": [ 136.1464932, 35.12508016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野村1−25−31" }, "geometry": { "type": "Point", "coordinates": [ 135.95829665, 35.02845934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市真野5−33−31" }, "geometry": { "type": "Point", "coordinates": [ 135.92439668, 35.1332396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町松尾１２０２" }, "geometry": { "type": "Point", "coordinates": [ 136.23890481, 35.01780053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市古川町８４０" }, "geometry": { "type": "Point", "coordinates": [ 136.07088749, 35.10907374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市鷹飼町４０街７画区" }, "geometry": { "type": "Point", "coordinates": [ 136.10741747, 35.13088891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市中村町５０−６" }, "geometry": { "type": "Point", "coordinates": [ 136.09405872, 35.13097694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市牧町１１１９" }, "geometry": { "type": "Point", "coordinates": [ 136.05465798, 35.13372272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市下鈎６１６" }, "geometry": { "type": "Point", "coordinates": [ 135.985325100000011, 35.03001076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市小柿３−５−７" }, "geometry": { "type": "Point", "coordinates": [ 135.976595690000011, 35.02169852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲南町野尻１０１" }, "geometry": { "type": "Point", "coordinates": [ 136.18196404, 34.91450033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町北脇２８１" }, "geometry": { "type": "Point", "coordinates": [ 136.1587845, 34.97989104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町市場１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.25107964, 34.94063471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島郡新旭町饗庭字東３２３" }, "geometry": { "type": "Point", "coordinates": [ 136.0322056, 35.3653435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市幸津川町１３９０" }, "geometry": { "type": "Point", "coordinates": [ 135.98185123, 35.10471999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市下阪本１−２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.87363488, 35.05166905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市真野２−２２−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.91702817, 35.12740754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市真野普門３−３−９" }, "geometry": { "type": "Point", "coordinates": [ 135.90563806, 35.13442908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市晴嵐２堂の前２６０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.896783910000011, 34.98159686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市本堅田３−１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.91285034, 35.11410338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市弥高町１６０" }, "geometry": { "type": "Point", "coordinates": [ 136.27750311, 35.37187253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市栗見新田町４６４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.120792529999989, 35.20504365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡西浅井町塩津浜１４７１" }, "geometry": { "type": "Point", "coordinates": [ 136.16130363, 35.52330924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡安土町常楽寺７５５" }, "geometry": { "type": "Point", "coordinates": [ 136.12945685, 35.14412812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡安土町石寺３７４" }, "geometry": { "type": "Point", "coordinates": [ 136.170800750000012, 35.13700486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市五智町奥野３１５" }, "geometry": { "type": "Point", "coordinates": [ 136.23123161, 35.09532005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市今町９０６" }, "geometry": { "type": "Point", "coordinates": [ 136.17498133, 35.19068246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市小八木町８３７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.25294795, 35.15384407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市八日市清水３丁目２−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.18852475, 35.10798552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市百済寺本町６９０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.2757904, 35.12431326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東浅井郡湖北町郡上１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.26912037, 35.44926058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東浅井郡湖北町山本３４５９" }, "geometry": { "type": "Point", "coordinates": [ 136.211563899999987, 35.44206197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東浅井郡湖北町速水１１４６" }, "geometry": { "type": "Point", "coordinates": [ 136.24070642, 35.44366998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東浅井郡虎姫町唐国２４０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.247940840000012, 35.41662584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市森堂町１１０" }, "geometry": { "type": "Point", "coordinates": [ 136.243099730000012, 35.22845788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市東沼波町１８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.264976170000011, 35.25420906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市彦富町９９７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.18637861, 35.20477015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市顔戸１０１８" }, "geometry": { "type": "Point", "coordinates": [ 136.29806726000001, 35.33824739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市高番３５３−４" }, "geometry": { "type": "Point", "coordinates": [ 136.379510290000013, 35.37785504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市永原７７８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.03999348, 35.08964806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市西河原１０６２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.00932873, 35.10008176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町蚊野大林５８４" }, "geometry": { "type": "Point", "coordinates": [ 136.2620784, 35.1675112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市下豊浦４４５５" }, "geometry": { "type": "Point", "coordinates": [ 136.131931939999987, 35.1504708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市友定町４９４" }, "geometry": { "type": "Point", "coordinates": [ 136.13178584, 35.11839736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市手原２−７−９" }, "geometry": { "type": "Point", "coordinates": [ 136.00118185, 35.02444291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡多賀町多賀１６６０" }, "geometry": { "type": "Point", "coordinates": [ 136.292862969999987, 35.22579785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡豊郷町大町３２３" }, "geometry": { "type": "Point", "coordinates": [ 136.22403488, 35.20395038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲南町野田５８５" }, "geometry": { "type": "Point", "coordinates": [ 136.16603125, 34.9250265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町元町３３７７" }, "geometry": { "type": "Point", "coordinates": [ 136.18215311, 34.96566236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町北脇１８５４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.145182260000013, 34.98245615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町鮎河６６１" }, "geometry": { "type": "Point", "coordinates": [ 136.33907973, 34.95510838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町黒川３１３１" }, "geometry": { "type": "Point", "coordinates": [ 136.328341959999989, 34.92422935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町前野１２７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.26604659, 34.93811293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町南土山８２４" }, "geometry": { "type": "Point", "coordinates": [ 136.27110362, 34.93766022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町南土山字尾巻甲１１２３−５９" }, "geometry": { "type": "Point", "coordinates": [ 136.29248307, 34.91378706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町南土山字尾巻甲１１２９−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.2926792, 34.91545505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町常磐木３５３" }, "geometry": { "type": "Point", "coordinates": [ 136.0171372, 35.33971911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市笠山６丁目字獅子舞谷１４９−６" }, "geometry": { "type": "Point", "coordinates": [ 135.949112570000011, 34.97756424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野路東４−１−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.95519972, 34.99869946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市伊香立向在地町１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.881592930000011, 35.13867331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市皇子が丘３−８−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.861542469999989, 35.02389214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市石山寺４−１５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.90087212, 34.95428884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市高月町高月１７６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.237417279999988, 35.46071664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市三ツ矢元町１８−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.26522022, 35.38607988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市西浅井町塩津中２４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.15598037, 35.53031158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市八幡中山町鳥の前２９７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27896875, 35.39157951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市木之本町川合３６" }, "geometry": { "type": "Point", "coordinates": [ 136.249489250000011, 35.51311519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市東沖野４−２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.2173393, 35.10169233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市八日市上之町８−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.20538137, 35.11309697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市須越町大字石塔９９７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.20641672, 35.25301166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市間田１５５" }, "geometry": { "type": "Point", "coordinates": [ 136.36597498, 35.38508652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町愛知川１２８６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.205945250000013, 35.171877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町松尾菰ノ池９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23840231, 35.02077109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町大字山之上６５１４" }, "geometry": { "type": "Point", "coordinates": [ 136.14278661, 35.04929768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町大字西横関１７３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.09330466, 35.09295628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市加茂町３６９５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.065459909999987, 35.12052759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市鷹飼町５５５" }, "geometry": { "type": "Point", "coordinates": [ 136.10017044, 35.12418889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市上鈎３００−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98931540000001, 35.02430557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市吉永１８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.10625778, 34.99011851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市石部口１−４−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.062975560000012, 35.01400575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲南町竜法師４１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.170907129999989, 34.9222736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市信楽町長野１２９２" }, "geometry": { "type": "Point", "coordinates": [ 136.060541809999989, 34.88058479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町綾野１−４２" }, "geometry": { "type": "Point", "coordinates": [ 136.1715633, 34.97448524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市水口町水口５９６５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.16344202, 34.96674708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木４２５" }, "geometry": { "type": "Point", "coordinates": [ 136.022679180000011, 35.3242955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市勝野１６１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.01264448, 35.29323122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市岡町３３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.00391137, 35.04858665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市下之郷町４０８−４" }, "geometry": { "type": "Point", "coordinates": [ 135.98416608, 35.06872119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市矢島町二ノ坪１４９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.97929861, 35.08611884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市新浜町上屋敷１９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.926185659999987, 34.99961241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市東矢倉２−２４０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.9570999, 35.00733152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市片岡町２３０４" }, "geometry": { "type": "Point", "coordinates": [ 135.94827023, 35.05567474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市木川町４２３" }, "geometry": { "type": "Point", "coordinates": [ 135.94324992, 35.02158341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市野路九丁目９番３号" }, "geometry": { "type": "Point", "coordinates": [ 135.94973979, 34.99405249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市粟津町２−６８" }, "geometry": { "type": "Point", "coordinates": [ 135.89745252, 34.97976717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市月輪２丁目８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.93400506, 34.9889499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市際川２−１８−７" }, "geometry": { "type": "Point", "coordinates": [ 135.86563331, 35.039965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市真野６丁目１７７３" }, "geometry": { "type": "Point", "coordinates": [ 135.92362746, 35.1348392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市島の関９−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.870021439999988, 35.00701258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市浜大津４−２−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.86224984, 35.01273752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市本堅田３−１３−８" }, "geometry": { "type": "Point", "coordinates": [ 135.91473862, 35.1163442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市本堅田５−２３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.917431459999989, 35.1210834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市木の岡町４７−２３" }, "geometry": { "type": "Point", "coordinates": [ 135.88699999, 35.07834545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市木下町１８−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.892358370000011, 34.99921786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市竜が丘４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.88034106, 34.99816309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市和邇今宿８２３" }, "geometry": { "type": "Point", "coordinates": [ 135.92473893, 35.15743704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市加田町５８４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29255908, 35.35789563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市細江町１５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.25415172000001, 35.39850585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市田村町１３９１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27866121, 35.35580187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市五個荘北町屋町２３４" }, "geometry": { "type": "Point", "coordinates": [ 136.18164263, 35.14563959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市幸町８１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.20541008, 35.10768141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市小池町１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.229521369999986, 35.13520422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市東沖野１丁目７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.21245832, 35.10457375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市外町２３１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.26615856, 35.26679198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市犬方町１５７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.245845120000013, 35.23034846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市小泉町梨子の木８６９−４" }, "geometry": { "type": "Point", "coordinates": [ 136.24657527, 35.25361627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市東沼波町沢ノ上１８０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.265539249999989, 35.25443554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市野口町綾戸２８５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.234587330000011, 35.22156305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市一色１５２" }, "geometry": { "type": "Point", "coordinates": [ 136.35827188, 35.33604463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市長久寺８１" }, "geometry": { "type": "Point", "coordinates": [ 136.41950809, 35.34740805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市吉地２丁目１３１０" }, "geometry": { "type": "Point", "coordinates": [ 136.00903702, 35.10441343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市小篠原１２５９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.02578115, 35.06634781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市手原7-7-7" }, "geometry": { "type": "Point", "coordinates": [ 136.0005319, 35.02923137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町愛知川１４６１" }, "geometry": { "type": "Point", "coordinates": [ 136.207425699999988, 35.17458512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡竜王町山之上３２９０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.142810059999988, 35.04929055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市上鈎１６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.99145721, 35.02474913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡豊郷町高野瀬２５６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.22065042, 35.2023595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市三雲１２８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.10661008, 34.98378441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲賀町大久保２２７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.23733668, 34.90704942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲賀町大原市場７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.2162754, 34.89971924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町大野２６０８" }, "geometry": { "type": "Point", "coordinates": [ 136.22479021, 34.95330991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島郡マキノ町沢１３３８" }, "geometry": { "type": "Point", "coordinates": [ 136.037487660000011, 35.46194758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市古高町１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98024962, 35.05174754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市際川３−３２−３２" }, "geometry": { "type": "Point", "coordinates": [ 135.86765523, 35.0430395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市平津１丁目２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.91071546, 34.94696774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市後三条町５２２" }, "geometry": { "type": "Point", "coordinates": [ 136.24745789, 35.26531442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市松原町松中１０９１" }, "geometry": { "type": "Point", "coordinates": [ 136.25470827, 35.29105511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県彦根市八坂町２０３１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.22381366, 35.26619245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市梅ケ原１４１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.290309689999987, 35.30836839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲郡野洲町大字久野部１４２−４" }, "geometry": { "type": "Point", "coordinates": [ 136.02633361, 35.07364638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市三上字大畑１９８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.01518356, 35.05808523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市野洲１４６４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.99740202000001, 35.06411542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市和邇中浜４０５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.924586, 35.16202337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県愛知郡愛荘町香之庄877" }, "geometry": { "type": "Point", "coordinates": [ 136.24701399, 35.15984857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県野洲市小篠原８４４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02934732, 35.06289538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市馬渕町１６７２" }, "geometry": { "type": "Point", "coordinates": [ 136.10857729, 35.1016198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県甲賀市信楽町西３４９−９" }, "geometry": { "type": "Point", "coordinates": [ 136.04121583, 34.87073793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市安曇川町西万木３７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02420057, 35.33223943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市新旭町安井川１３４９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.02785074, 35.34778434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市宮荘町６１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.194862809999989, 35.15698388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市上田町８４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.123281279999986, 35.11085762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市石山寺４−３−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.89555332, 34.95742717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県栗東市林２９４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.019368070000013, 35.0312015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県草津市山寺町１８８" }, "geometry": { "type": "Point", "coordinates": [ 135.99139391, 35.00393802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県草津市笠山５−３−８" }, "geometry": { "type": "Point", "coordinates": [ 135.9501679, 34.98250954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市伊庭町２９１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.159104109999987, 35.17853846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市上大森町１８８１" }, "geometry": { "type": "Point", "coordinates": [ 136.24012344, 35.07679532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市後三条町６３１" }, "geometry": { "type": "Point", "coordinates": [ 136.245690630000013, 35.266947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市平方町３２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27660251, 35.37304028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市西庄町２５８" }, "geometry": { "type": "Point", "coordinates": [ 136.1145243, 35.13100465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市富士見台５−９" }, "geometry": { "type": "Point", "coordinates": [ 135.88844864, 34.98476576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県野洲市三上１２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02205358, 35.05179366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市大谷町１６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.85274073, 34.9961112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県草津市草津３丁目１４−４８" }, "geometry": { "type": "Point", "coordinates": [ 135.96159176, 35.01210411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市甲賀町高野７０８" }, "geometry": { "type": "Point", "coordinates": [ 136.20478988, 34.90694596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町南土山甲８２４" }, "geometry": { "type": "Point", "coordinates": [ 136.272238320000014, 34.938032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市三上７６２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.02933059, 35.05484064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県甲賀市土山町北土山７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.28945422000001, 34.93351292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県野洲市妙光寺１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02845388, 35.05667067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県大津市南比良５２０" }, "geometry": { "type": "Point", "coordinates": [ 135.934958450000011, 35.21995614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市千代町７７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.99759372, 35.04172367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県湖南市石部北４丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.04606603, 35.02276016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県蒲生郡日野町大字里口３７" }, "geometry": { "type": "Point", "coordinates": [ 136.227882529999988, 35.0142728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市安土町下豊浦３７０１" }, "geometry": { "type": "Point", "coordinates": [ 136.13169284, 35.15501854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市垣見町７９３" }, "geometry": { "type": "Point", "coordinates": [ 136.16811962, 35.18064958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市小脇町２３９７" }, "geometry": { "type": "Point", "coordinates": [ 136.185217740000013, 35.10694099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市勝野５７７" }, "geometry": { "type": "Point", "coordinates": [ 136.01331152, 35.29979765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県高島市安曇川町西万木２１９" }, "geometry": { "type": "Point", "coordinates": [ 136.02397133, 35.32617229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県東近江市五個荘竜田町２５４" }, "geometry": { "type": "Point", "coordinates": [ 136.18979744, 35.15244606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市高月町高月１３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.234189109999988, 35.46722905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市寺倉４４５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.311931320000014, 35.32583827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市村木１２１８−５" }, "geometry": { "type": "Point", "coordinates": [ 136.388850960000013, 35.36722632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県米原市上板並７８" }, "geometry": { "type": "Point", "coordinates": [ 136.37066528, 35.43325452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県犬上郡甲良町大字長寺１２１７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.256640260000012, 35.19164483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市高月森本１４５" }, "geometry": { "type": "Point", "coordinates": [ 136.24060198, 35.46621111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市上田町２０２" }, "geometry": { "type": "Point", "coordinates": [ 136.11642921, 35.11131185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県近江八幡市浅小井町６３０" }, "geometry": { "type": "Point", "coordinates": [ 136.11629901, 35.13989728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市西上坂町４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.31174825, 35.40203809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県草津市青地町１３８" }, "geometry": { "type": "Point", "coordinates": [ 135.972403969999988, 35.01171731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市安曇川町五番領１２４" }, "geometry": { "type": "Point", "coordinates": [ 136.01983977, 35.33792489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市勝野１２５４" }, "geometry": { "type": "Point", "coordinates": [ 136.01146555, 35.29716187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市蓮池町６−１９" }, "geometry": { "type": "Point", "coordinates": [ 135.86388405, 35.04541052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市今津町弘川１５９０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.01873681, 35.40719468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県守山市吉身４丁目７−９" }, "geometry": { "type": "Point", "coordinates": [ 135.99823719, 35.06202395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県野洲市永原９９７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.035871140000012, 35.09061307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市中央４丁目９−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.87185008, 35.0054886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県犬上郡多賀町大字多賀４８８" }, "geometry": { "type": "Point", "coordinates": [ 136.29299511, 35.2251633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市今津町弘川１０２７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.02623635, 35.41286183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市マキノ町海津２０８８" }, "geometry": { "type": "Point", "coordinates": [ 136.07852039, 35.46491256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県野洲市北野１丁目２３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.024898040000011, 35.07102514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市北船町８−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.266931230000012, 35.37619234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市三ツ矢元町２２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.2666082, 35.38742761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県甲賀市甲南町寺庄９５６" }, "geometry": { "type": "Point", "coordinates": [ 136.179294629999987, 34.92001908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県蒲生郡日野町大窪１０３１" }, "geometry": { "type": "Point", "coordinates": [ 136.2489229, 35.01149979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市千草町５１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.31262848, 35.41026967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市山階町８６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29130343, 35.39688192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市上田町１２９０−６" }, "geometry": { "type": "Point", "coordinates": [ 136.110172510000012, 35.11698918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市北清水町２４９" }, "geometry": { "type": "Point", "coordinates": [ 136.2183683, 35.14280902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県甲賀市信楽町長野５３５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.0532897, 34.87564894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県守山市守山１丁目８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.99150368, 35.05536455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県大津市際川３丁目１９−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.866763670000012, 35.04233684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市城町２丁目６−５３" }, "geometry": { "type": "Point", "coordinates": [ 136.245845050000014, 35.27627878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市日夏町３６１２" }, "geometry": { "type": "Point", "coordinates": [ 136.21623526, 35.23427136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県長浜市勝町１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.28650423, 35.37671784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市城町１丁目５−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.24578476, 35.27397098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市川瀬馬場町７３５" }, "geometry": { "type": "Point", "coordinates": [ 136.228298669999987, 35.22974239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県湖南市吉永４３３" }, "geometry": { "type": "Point", "coordinates": [ 136.101671939999989, 34.99244873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市鋳物師町８５５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.20066594, 35.03260036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市川合町１６８７" }, "geometry": { "type": "Point", "coordinates": [ 136.17197188, 35.07019055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市五個荘中町２０" }, "geometry": { "type": "Point", "coordinates": [ 136.19852911000001, 35.15969479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市川南町１０７８" }, "geometry": { "type": "Point", "coordinates": [ 136.16405902, 35.20187236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市音羽町７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.10385591, 35.13492629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市御所内町２１７" }, "geometry": { "type": "Point", "coordinates": [ 136.132732940000011, 35.12071199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市玉木町１丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.08699629, 35.13990908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県近江八幡市中小森町３３８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.08783685, 35.11588474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市野口町船岡１−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.16092633, 35.10357518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市八日市町１１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.19837364, 35.11165257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県東近江市八日市町４−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.201209479999989, 35.1131497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県湖南市石部北１丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.06046677, 35.01482599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市室町１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29474031, 35.3769139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市城町２丁目６−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.24499409, 35.27679726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市高宮町２２５３" }, "geometry": { "type": "Point", "coordinates": [ 136.25517448, 35.2325349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市大東町２−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.26180815, 35.27152741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市法士町９７" }, "geometry": { "type": "Point", "coordinates": [ 136.24817521, 35.2268936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県近江八幡市武佐町５２２" }, "geometry": { "type": "Point", "coordinates": [ 136.135533, 35.11642244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市三ツ矢元町１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.26792371, 35.38565352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市南呉服町３−４" }, "geometry": { "type": "Point", "coordinates": [ 136.26419259, 35.38130825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市栄町２丁目１−４１" }, "geometry": { "type": "Point", "coordinates": [ 136.24424878, 35.27441251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市稲枝町３１１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.19272781, 35.20162908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県彦根市稲里町６２" }, "geometry": { "type": "Point", "coordinates": [ 136.20043723, 35.22719672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県東近江市山路町７９４" }, "geometry": { "type": "Point", "coordinates": [ 136.15303024, 35.18431137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県東近江市平柳町１１９０" }, "geometry": { "type": "Point", "coordinates": [ 136.266185900000011, 35.14414034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県犬上郡豊郷町大字四十九院８８４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23319332, 35.20460086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市尊勝寺町２９８" }, "geometry": { "type": "Point", "coordinates": [ 136.284894830000013, 35.44090159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市新旭町１０８" }, "geometry": { "type": "Point", "coordinates": [ 136.24984061, 35.42189474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市木之本町木之本６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.2281355, 35.50638272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県甲賀市信楽町柞原８２７−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.032608689999989, 34.85516656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県甲賀市土山町南土山甲１２１" }, "geometry": { "type": "Point", "coordinates": [ 136.28950727, 34.93174605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県甲賀市甲南町耕心３丁目１０３５−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.16423587, 34.94467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県近江八幡市安土町中屋１６２" }, "geometry": { "type": "Point", "coordinates": [ 136.13395821, 35.13382691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県東近江市五個荘小幡町８１０" }, "geometry": { "type": "Point", "coordinates": [ 136.19752087, 35.15888651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県東近江市五個荘金堂町３５２" }, "geometry": { "type": "Point", "coordinates": [ 136.181486549999988, 35.15573639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県甲賀市甲南町希望ケ丘１丁目７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.17808485, 34.94884874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市今津町今津２０８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.03235842, 35.40354057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県長浜市木之本町木之本１１２１" }, "geometry": { "type": "Point", "coordinates": [ 136.22605242, 35.50384964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県栗東市目川４０８" }, "geometry": { "type": "Point", "coordinates": [ 135.98407763, 35.01765831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県栗東市手原２丁目４−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.999406740000012, 35.02453131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市新旭町旭１０４３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.03705448, 35.35583154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市御幸町５−４" }, "geometry": { "type": "Point", "coordinates": [ 135.86335365, 35.00549673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県野洲市野洲２３０" }, "geometry": { "type": "Point", "coordinates": [ 136.013210969999989, 35.06125501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市新旭町旭１０４６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.036585659999986, 35.35602915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市今津町松陽台１丁目２２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.028692439999986, 35.39768561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市安曇川町西万木１５０" }, "geometry": { "type": "Point", "coordinates": [ 136.02625321, 35.32927032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市石場７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.87578586, 35.00363325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市打出浜５−２９" }, "geometry": { "type": "Point", "coordinates": [ 135.87647745000001, 35.00430821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市錦織３丁目２−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.86088632, 35.02790514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市真野５丁目３４−３４" }, "geometry": { "type": "Point", "coordinates": [ 135.92443348, 35.13405428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市安曇川町西万木１０８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02135633, 35.33400586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県湖南市日枝町４−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.12252816, 35.02705243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県湖南市吉永５０７−９７" }, "geometry": { "type": "Point", "coordinates": [ 136.0991817, 34.98597937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県高島市今津町今津２３０" }, "geometry": { "type": "Point", "coordinates": [ 136.0327945, 35.40319616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県近江八幡市鷹飼町７０２" }, "geometry": { "type": "Point", "coordinates": [ 136.10437764, 35.12346936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "滋賀県大津市栄町２０−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.901777689999989, 34.97492554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県伊香郡木之本町木之本８７４" }, "geometry": { "type": "Point", "coordinates": [ 136.22170839, 35.50334304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県栗東市高野１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.0144684, 35.03074278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県守山市水保町字北川1367-3" }, "geometry": { "type": "Point", "coordinates": [ 135.94611505, 35.11727017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "滋賀県長浜市大字渡岸寺１６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.23392736, 35.47448827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県愛知郡愛荘町長野３８０" }, "geometry": { "type": "Point", "coordinates": [ 136.2133548, 35.1930135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県甲賀市水口町ひのきが丘１２" }, "geometry": { "type": "Point", "coordinates": [ 136.15246018, 34.99397495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県高島市安曇川町常磐木１１０５の３" }, "geometry": { "type": "Point", "coordinates": [ 136.01281941, 35.34241519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "滋賀県彦根市佐和山町山田２０６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.27375163, 35.27778077 ] } }
+
+]
+}

@@ -1,0 +1,1710 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市大字宇野字外面６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.55266047, 35.12013657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市藤原町東禅寺１５２１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.498756680000014, 35.14839096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町阿下喜字舞野２６９３の５" }, "geometry": { "type": "Point", "coordinates": [ 136.52200118, 35.15315981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市久米町６６４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.13251392, 34.75443869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市治田字小谷２６２０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.07587755, 34.7051214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市大内字中切２０２２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.110119950000012, 34.73966245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市平田９１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.21114046, 34.76659199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市宮後町２−１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.70941159, 34.49536745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市御薗町新開字曲り７３番地の１" }, "geometry": { "type": "Point", "coordinates": [ 136.72014034, 34.50903656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市東豊浜町２２４" }, "geometry": { "type": "Point", "coordinates": [ 136.70927137000001, 34.52816342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市楠部町字上村乙１４１" }, "geometry": { "type": "Point", "coordinates": [ 136.7295014, 34.47812656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市八日市場町２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.70111954, 34.49155552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大字筑紫９１７の１" }, "geometry": { "type": "Point", "coordinates": [ 136.60645591, 35.07541686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町鳥取１６０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.58451679, 35.08461677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市萩原町字切山８９番１" }, "geometry": { "type": "Point", "coordinates": [ 136.40119442, 34.84054346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市井戸町５０１３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.09991563, 33.88652273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市井戸町７４３" }, "geometry": { "type": "Point", "coordinates": [ 136.09608739, 33.88949551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市育生町長井４０３" }, "geometry": { "type": "Point", "coordinates": [ 135.979672279999988, 33.9270951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市新鹿町２３６" }, "geometry": { "type": "Point", "coordinates": [ 136.14564452, 33.9265983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市飛鳥町大又１１９３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.1068009, 33.96934179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市有馬町４６２１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.085153780000013, 33.87189218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市小貝須字新堀北１６０２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.69894251, 35.05385691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市小野山東１６３番地の１" }, "geometry": { "type": "Point", "coordinates": [ 136.68055177, 35.06367336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市松ノ木３丁目７番５" }, "geometry": { "type": "Point", "coordinates": [ 136.64194512, 35.0779779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市上野字繁松東ノ割１０１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.67413997, 35.0546767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市八間通り１６番" }, "geometry": { "type": "Point", "coordinates": [ 136.69088797, 35.06699613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町字常磐野１７３５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.508211179999989, 35.01393635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町千草２９９４" }, "geometry": { "type": "Point", "coordinates": [ 136.4977151, 35.03180592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字小島筧越７３４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.52056156, 35.06623512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字当新田字中道５２３-２" }, "geometry": { "type": "Point", "coordinates": [ 136.68614835, 35.029283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡朝日町大字小向３４３" }, "geometry": { "type": "Point", "coordinates": [ 136.671559839999986, 35.03191603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市あかつき台４−８１３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.602635389999989, 35.02837572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市羽津糠塚山４３７９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62990278, 35.00886268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市栄町４−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.6286067, 34.96402338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市高角町字神前左門１０８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56662032, 34.98235081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市室山町字八幡１５４１" }, "geometry": { "type": "Point", "coordinates": [ 136.58019384, 34.95171495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市十七軒町１番２２号" }, "geometry": { "type": "Point", "coordinates": [ 136.620268610000011, 34.96090686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小古曽東３−７−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.58514298, 34.92369224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小生町２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.57454268, 34.97767522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小牧町神崎２６７３−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.5703685, 35.03590893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西村町字下天田２５６４" }, "geometry": { "type": "Point", "coordinates": [ 136.567687549999988, 35.04859574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市大字羽津甲字新田４３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.649599630000012, 34.99312931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市大字塩浜字八幡１１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61569685, 34.92957787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市大字松本字北大谷２０１５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.58129595, 34.97287228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市智積町清水道６２１８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.548228880000011, 34.99205515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市中村町字半谷２２９３−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.61072042, 35.02479914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市天カ須賀３−５−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.67230437, 35.01364361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市東坂部町字大門６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.595711380000012, 34.99228245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市東茂福町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.64722249, 34.99682493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市北納屋町６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.63601972, 34.96622628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市堀木１−４−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.61269102, 34.97273411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市六名町字中山１０８０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52221477, 34.94627367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市船越１４０３−５" }, "geometry": { "type": "Point", "coordinates": [ 136.87198963, 34.27437657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町南張１６７６" }, "geometry": { "type": "Point", "coordinates": [ 136.720784439999989, 34.30566159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町浜島２９９４" }, "geometry": { "type": "Point", "coordinates": [ 136.74677628, 34.29710294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市伊勢寺町立石５８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.47607535, 34.57787454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市下村町字西ノ庄８６２番の４" }, "geometry": { "type": "Point", "coordinates": [ 136.541171960000014, 34.55037601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野中川１０３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.473275269999988, 34.63637506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市幸生町字西沢１１９０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.558776599999987, 34.56516813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市広陽町５番" }, "geometry": { "type": "Point", "coordinates": [ 136.51866995, 34.53802028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市市場庄町長井１３５４" }, "geometry": { "type": "Point", "coordinates": [ 136.51803475, 34.60334265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市船江町字花田６５５−６" }, "geometry": { "type": "Point", "coordinates": [ 136.524179620000012, 34.59186284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大口町９３２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.551021060000011, 34.59985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大黒田町字石川" }, "geometry": { "type": "Point", "coordinates": [ 136.53039056, 34.56898067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大塚町３７４" }, "geometry": { "type": "Point", "coordinates": [ 136.52749211, 34.5876851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市田村町字ひな田４０４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.50994634, 34.55634086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市八太町字小谷４５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54099137, 34.51989017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高町栗野３５６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.25012156, 34.42163437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市猟師町６０９" }, "geometry": { "type": "Point", "coordinates": [ 136.541246089999987, 34.60663499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町上出江３８７の２" }, "geometry": { "type": "Point", "coordinates": [ 136.46579207, 34.46771688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町大字多気６２番地の１１" }, "geometry": { "type": "Point", "coordinates": [ 136.57118875, 34.51593722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町上楠２８５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.47364654, 34.41883233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町斎宮３８１８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62783466, 34.54814251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字行部字西浦９８−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.62784038, 34.57320986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町竹川４５８" }, "geometry": { "type": "Point", "coordinates": [ 136.607194779999986, 34.53761479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市浦村町１４８０" }, "geometry": { "type": "Point", "coordinates": [ 136.893702639999987, 34.44618967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市堅神町１０１８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.81579925, 34.48276713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市相差町１０３０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.90232276, 34.38955842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市相差町１１２７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.90668107, 34.39042467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市鳥羽１丁目２３８３番地の２１" }, "geometry": { "type": "Point", "coordinates": [ 136.84462843, 34.48667154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市鳥羽３−３２−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.84544713, 34.47793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安濃町内多字蓮善田２５１５" }, "geometry": { "type": "Point", "coordinates": [ 136.464590320000013, 34.77313664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一志町井関字垣内田１２０" }, "geometry": { "type": "Point", "coordinates": [ 136.42410618, 34.65278355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一身田上津部田字ヲノ坪１１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.50573929, 34.74512587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市雲出島貫町北浦９１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51957549, 34.65200252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栄町２丁目２１０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.512662619999986, 34.73218088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市丸之内３３番２６号" }, "geometry": { "type": "Point", "coordinates": [ 136.50876033, 34.71860095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居井戸山町字大口８４０−７" }, "geometry": { "type": "Point", "coordinates": [ 136.48925564000001, 34.67484881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居戸木町字北興７８３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.45483156, 34.67992009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真小川町６９９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52830293, 34.77275685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高野尾町４９５２−８" }, "geometry": { "type": "Point", "coordinates": [ 136.47090817, 34.78532947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市神納町３の８" }, "geometry": { "type": "Point", "coordinates": [ 136.48571854, 34.72267668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市大字藤方字中堰東７１６番２" }, "geometry": { "type": "Point", "coordinates": [ 136.51830499, 34.68176239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市大里睦合町４６３" }, "geometry": { "type": "Point", "coordinates": [ 136.48063194, 34.77678552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町上流２６６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.286693320000012, 34.62885994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町南家城字野添８３６の１" }, "geometry": { "type": "Point", "coordinates": [ 136.323279109999987, 34.62795335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町下多気８２６" }, "geometry": { "type": "Point", "coordinates": [ 136.31283481, 34.52787327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町下之川９３７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.34543174, 34.56304883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町竹原２１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.31069455, 34.60221412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町原東里５３６" }, "geometry": { "type": "Point", "coordinates": [ 136.58667624, 34.47894535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町阿曽２２９７の１" }, "geometry": { "type": "Point", "coordinates": [ 136.40855027, 34.33504111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町小川１８８" }, "geometry": { "type": "Point", "coordinates": [ 136.59609185, 34.38932053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町長原" }, "geometry": { "type": "Point", "coordinates": [ 136.57269649, 34.42988868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町村上１１３１の１１" }, "geometry": { "type": "Point", "coordinates": [ 136.500132830000013, 34.2796131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町田曽浦２７９３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.69705044, 34.29442188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町道方１２５１の１" }, "geometry": { "type": "Point", "coordinates": [ 136.580695100000014, 34.29501783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町下市木４４６５−１７２" }, "geometry": { "type": "Point", "coordinates": [ 136.05873857, 33.83281574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町大字神木１９４３の２" }, "geometry": { "type": "Point", "coordinates": [ 136.02894416, 33.86988509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市港町２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.20075413, 34.07463496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市三木里町３６０" }, "geometry": { "type": "Point", "coordinates": [ 136.207199589999988, 33.9992029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市倉ノ谷町２−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.18885814, 34.07631699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市南浦３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.1898429, 34.06752298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区三浦字浜端３２０" }, "geometry": { "type": "Point", "coordinates": [ 136.28111235, 34.16447872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市夏見字下出９５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.103223250000013, 34.61780367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持町原出７７６番地の２" }, "geometry": { "type": "Point", "coordinates": [ 136.11668463, 34.63531766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市伊船町字西境塚１９１６" }, "geometry": { "type": "Point", "coordinates": [ 136.49161616, 34.9259152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市稲生町７９９２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.541237630000012, 34.85041504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市岸岡町字北新田２０６５番の１" }, "geometry": { "type": "Point", "coordinates": [ 136.58942215, 34.84987532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市三日市２−２７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.556002869999986, 34.87752538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市寺家七丁目１７４２番" }, "geometry": { "type": "Point", "coordinates": [ 136.57722623, 34.82586827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市小社町５７３" }, "geometry": { "type": "Point", "coordinates": [ 136.45946224, 34.94863654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市須賀町字桜野２０２４番１" }, "geometry": { "type": "Point", "coordinates": [ 136.58905289, 34.89181046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市道伯町２５５４" }, "geometry": { "type": "Point", "coordinates": [ 136.54242366, 34.86017433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市白子駅前７−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.58835572000001, 34.83703636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市北長太町９９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62993558, 34.89998491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市員弁町楚原１４６１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.56305398, 35.11375666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市員弁町大泉新田４２" }, "geometry": { "type": "Point", "coordinates": [ 136.56563219, 35.11173403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町下平４１１" }, "geometry": { "type": "Point", "coordinates": [ 136.521410159999988, 35.17219578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町大字瀬木字川向４２０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.50933568, 35.15644488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市阿保１４０４" }, "geometry": { "type": "Point", "coordinates": [ 136.17459141, 34.66904515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市依那具１９１０の４" }, "geometry": { "type": "Point", "coordinates": [ 136.13929952, 34.73725973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市荒木字河原５１２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.157735800000012, 34.77182237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市才良１" }, "geometry": { "type": "Point", "coordinates": [ 136.15378526, 34.7125423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市三田９０３−７" }, "geometry": { "type": "Point", "coordinates": [ 136.12407464, 34.78656293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市治田字小谷２７８９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.07724443, 34.70507833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市上野桑町１９３９" }, "geometry": { "type": "Point", "coordinates": [ 136.1326603, 34.7582852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市上野農人町３５２" }, "geometry": { "type": "Point", "coordinates": [ 136.13657631, 34.76845096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市西の沢１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.184835279999987, 34.81067603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市馬場７４" }, "geometry": { "type": "Point", "coordinates": [ 136.17758271, 34.82536843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市白樫字永谷２６１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.08637151, 34.72312715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市平田字下町南裏９３０−６" }, "geometry": { "type": "Point", "coordinates": [ 136.208507200000014, 34.76704138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市野村４４の３" }, "geometry": { "type": "Point", "coordinates": [ 136.23507068, 34.83686021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市河崎２丁目１０の２" }, "geometry": { "type": "Point", "coordinates": [ 136.71375968000001, 34.49345114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市宮川２丁目６の３６" }, "geometry": { "type": "Point", "coordinates": [ 136.68659821, 34.49877654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市佐八町下新畑１７２０−９" }, "geometry": { "type": "Point", "coordinates": [ 136.66412852, 34.46728479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町湯田１５９３" }, "geometry": { "type": "Point", "coordinates": [ 136.65673246, 34.50246224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市大世古１丁目８" }, "geometry": { "type": "Point", "coordinates": [ 136.70243492, 34.49277791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市辻久留２丁目２−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.68701871, 34.48839932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市二見町茶屋１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7763641, 34.50465193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町城山１−２−８" }, "geometry": { "type": "Point", "coordinates": [ 136.60205941000001, 35.09411801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市御幸町２９６" }, "geometry": { "type": "Point", "coordinates": [ 136.44859828, 34.85125278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市川合町２６０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.48885754, 34.8665236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市五郷町寺谷１０３９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.048782929999987, 33.98321445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市新鹿町湊１１５２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.14646396, 33.93102646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市二木島町５８１の１" }, "geometry": { "type": "Point", "coordinates": [ 136.17865803, 33.9422731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市安永１２２２の３" }, "geometry": { "type": "Point", "coordinates": [ 136.67981936000001, 35.04854108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市星川字宇賀９５３" }, "geometry": { "type": "Point", "coordinates": [ 136.63120303, 35.06504612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市多度町香取３０５" }, "geometry": { "type": "Point", "coordinates": [ 136.64755993, 35.13381117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字西方字梅之木戸１５３９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.66646215, 35.07778871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字大仲新田新井水下７５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.60731316, 35.07934541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字東方字福島前７８４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.6836538, 35.0766468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市長島町白鶏２６" }, "geometry": { "type": "Point", "coordinates": [ 136.725746460000011, 35.04687386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市和泉字ホの割５１０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.69189587, 35.04183499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字宿野字神明田２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.529511750000012, 35.00839804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字川北４４９" }, "geometry": { "type": "Point", "coordinates": [ 136.54417937, 35.03058954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町福村９４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.519766909999987, 35.0099858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字豊田３８１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.661161, 35.01432376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市宮東町１−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.624107939999988, 34.94127584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市京町１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.626959449999987, 34.97717774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市采女町字古市場７６１" }, "geometry": { "type": "Point", "coordinates": [ 136.57193202, 34.92796485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市曙町８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62637263, 34.95299927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市昌栄町１１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.625978, 34.95845802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市城山町７−４８" }, "geometry": { "type": "Point", "coordinates": [ 136.632318450000014, 34.98451074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市生桑町桑花１３１" }, "geometry": { "type": "Point", "coordinates": [ 136.60154638, 34.98880144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西富田１６４" }, "geometry": { "type": "Point", "coordinates": [ 136.643416620000011, 35.0126394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市蔵町３の２１" }, "geometry": { "type": "Point", "coordinates": [ 136.63225283, 34.96456826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市東日野１−３−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.596607049999989, 34.95689606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町安乗５４の５" }, "geometry": { "type": "Point", "coordinates": [ 136.89463932000001, 34.35640413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町国府４２３２" }, "geometry": { "type": "Point", "coordinates": [ 136.87193007, 34.33605912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市磯部町恵利原１２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.804807540000013, 34.37540243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市磯部町坂崎小嶋ヶ崎６４４" }, "geometry": { "type": "Point", "coordinates": [ 136.84169542, 34.35260665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市磯部町迫間２５８の１" }, "geometry": { "type": "Point", "coordinates": [ 136.802242439999986, 34.37207237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市垣鼻町７６８" }, "geometry": { "type": "Point", "coordinates": [ 136.539130230000012, 34.56922785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市鎌田町２４４の２" }, "geometry": { "type": "Point", "coordinates": [ 136.53521952, 34.58229115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市鎌田町２４７" }, "geometry": { "type": "Point", "coordinates": [ 136.53444864, 34.58204469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野権現前６８８" }, "geometry": { "type": "Point", "coordinates": [ 136.481211050000013, 34.62104933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野須賀領５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.48454016, 34.61852857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野中川７８７" }, "geometry": { "type": "Point", "coordinates": [ 136.477308959999988, 34.63699936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市久保町１４４９" }, "geometry": { "type": "Point", "coordinates": [ 136.53508413, 34.54717637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市京町１区１３の６" }, "geometry": { "type": "Point", "coordinates": [ 136.53938715000001, 34.57863419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市郷津町字鳥の前１０４の１" }, "geometry": { "type": "Point", "coordinates": [ 136.54774661, 34.58873837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市市場庄字塔田１１８９の２" }, "geometry": { "type": "Point", "coordinates": [ 136.51774967, 34.60819083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市上ノ庄１９８７" }, "geometry": { "type": "Point", "coordinates": [ 136.498405819999988, 34.59797862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市清生町５３９" }, "geometry": { "type": "Point", "coordinates": [ 136.544036979999987, 34.57318139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市川井町字花田５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51412577, 34.57859243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市川井町字深見６５３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.51498016, 34.57732061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市泉町１２７５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.52234087, 34.56635882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市曽原字糀屋８４０" }, "geometry": { "type": "Point", "coordinates": [ 136.51705948, 34.6293225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大津町秀張７２２の４" }, "geometry": { "type": "Point", "coordinates": [ 136.54857186000001, 34.57031818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市中道５１９" }, "geometry": { "type": "Point", "coordinates": [ 136.51595912, 34.62158829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市辻原町１０３７" }, "geometry": { "type": "Point", "coordinates": [ 136.45658728, 34.51426219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高宮前１１０２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.33692484, 34.43372056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高森４８９" }, "geometry": { "type": "Point", "coordinates": [ 136.213152369999989, 34.39093751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯南横野２３１" }, "geometry": { "type": "Point", "coordinates": [ 136.40326903, 34.4724543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯南粥見２３７５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.39608149, 34.45620626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市湊町１８２" }, "geometry": { "type": "Point", "coordinates": [ 136.534375579999988, 34.57301015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町相可１００９の４" }, "geometry": { "type": "Point", "coordinates": [ 136.54183326, 34.50287907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町江馬４０４の１" }, "geometry": { "type": "Point", "coordinates": [ 136.3342139, 34.3627073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町栃原１４５５の２" }, "geometry": { "type": "Point", "coordinates": [ 136.51176573, 34.44374193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字中村字長波賀１２４５" }, "geometry": { "type": "Point", "coordinates": [ 136.61182929, 34.58359752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大淀寺前２４２１" }, "geometry": { "type": "Point", "coordinates": [ 136.65411137000001, 34.56059394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市浦村町１８２６−４０" }, "geometry": { "type": "Point", "coordinates": [ 136.90920656, 34.44839503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市堅神町字ハマ７１１の１" }, "geometry": { "type": "Point", "coordinates": [ 136.81811197, 34.48087202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市鳥羽４−１４−７" }, "geometry": { "type": "Point", "coordinates": [ 136.84514963, 34.47493713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市畔蛸町字コウモリ６８" }, "geometry": { "type": "Point", "coordinates": [ 136.899572299999988, 34.39058161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安濃町内多地内" }, "geometry": { "type": "Point", "coordinates": [ 136.467815230000014, 34.78024715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市雲出伊倉津町長藤５６５の１１" }, "geometry": { "type": "Point", "coordinates": [ 136.531463620000011, 34.66622122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町東千里１７９の１" }, "geometry": { "type": "Point", "coordinates": [ 136.55828336, 34.80156908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市観音寺町字東浦４２９−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.5025944, 34.72515793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居新町２１４５の４" }, "geometry": { "type": "Point", "coordinates": [ 136.48357708, 34.68230897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居新町７９６の３" }, "geometry": { "type": "Point", "coordinates": [ 136.47495483, 34.67245611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居明神町字風早２５９８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.46644727, 34.68307493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市芸濃町椋本７６４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.42576711000001, 34.80809052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高茶屋４丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 136.50645794, 34.66644348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高茶屋小森町字竹縄１９５" }, "geometry": { "type": "Point", "coordinates": [ 136.51647054, 34.66991846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高野尾町１７４６" }, "geometry": { "type": "Point", "coordinates": [ 136.45835677, 34.79875347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市上浜町１−１８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51419163, 34.73716103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市上弁財町９−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.507499779999989, 34.70248923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市大門３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.51379018, 34.71794843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市大里睦合町字南石橋１３８" }, "geometry": { "type": "Point", "coordinates": [ 136.471872350000012, 34.777063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町川口１２１７の４" }, "geometry": { "type": "Point", "coordinates": [ 136.34519151, 34.63954849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町二本木４６７０" }, "geometry": { "type": "Point", "coordinates": [ 136.36116585, 34.66371341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町八対野１０７６" }, "geometry": { "type": "Point", "coordinates": [ 136.32739383, 34.65151601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町太郎生９７７の４" }, "geometry": { "type": "Point", "coordinates": [ 136.190442350000012, 34.5290003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町八知西山６５３" }, "geometry": { "type": "Point", "coordinates": [ 136.2757463, 34.58190662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美里町三郷１の１０" }, "geometry": { "type": "Point", "coordinates": [ 136.38764759, 34.72317394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市片田田中町５" }, "geometry": { "type": "Point", "coordinates": [ 136.44789388, 34.71442626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町字勝田５０４７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.62718937, 34.48586788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町田丸２２６の５" }, "geometry": { "type": "Point", "coordinates": [ 136.633340190000013, 34.49030003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町錦山の神６６８の１" }, "geometry": { "type": "Point", "coordinates": [ 136.393811950000014, 34.22709156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町大内山３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.37103269, 34.28784306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町村山９６８" }, "geometry": { "type": "Point", "coordinates": [ 136.492331259999986, 34.27813219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町阿田和４２１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.03998012, 33.79620141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市大字矢浜字樋ノ口９３３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.19597836, 34.0544968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市朝日町１の１０" }, "geometry": { "type": "Point", "coordinates": [ 136.20125006, 34.07327874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区上里７９６" }, "geometry": { "type": "Point", "coordinates": [ 136.22762705, 34.143544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区船津字小垣１１５４" }, "geometry": { "type": "Point", "coordinates": [ 136.21549035000001, 34.12334121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区相賀３８４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.227454920000014, 34.11002887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区相賀８３０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.22216559, 34.11500597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市つつじが丘北一番町２５６の１" }, "geometry": { "type": "Point", "coordinates": [ 136.12422926, 34.60764477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市夏見７１" }, "geometry": { "type": "Point", "coordinates": [ 136.09941261, 34.61702327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市希央台３−８８" }, "geometry": { "type": "Point", "coordinates": [ 136.1048726, 34.6218174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持原出５１５" }, "geometry": { "type": "Point", "coordinates": [ 136.11321559000001, 34.63214516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持町原出１６１３−７" }, "geometry": { "type": "Point", "coordinates": [ 136.11272953, 34.63900985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市江島本町３６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.59594428, 34.83717287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市算所町字新開１２６６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.54857915, 34.8717201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市若松中１の１１の１６" }, "geometry": { "type": "Point", "coordinates": [ 136.61391061, 34.85707387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市住吉町３の２９の２０" }, "geometry": { "type": "Point", "coordinates": [ 136.53375931, 34.85988664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市庄野町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.522785809999988, 34.87997774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市西条６−８０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56944642, 34.87597378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市東江島町２４の２０" }, "geometry": { "type": "Point", "coordinates": [ 136.59919767, 34.84184057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市東庄内町４０３０の４" }, "geometry": { "type": "Point", "coordinates": [ 136.47860562, 34.90639679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市南玉垣町一色２２５３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.58744804, 34.85972478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市南玉垣町字玉垣６９９２" }, "geometry": { "type": "Point", "coordinates": [ 136.58422295, 34.85636483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市木田町字東口６５５の２" }, "geometry": { "type": "Point", "coordinates": [ 136.570741059999989, 34.89907577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市員弁町笠田新田字五右ェ門田３８３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.55859071, 35.11636345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市大安町石榑東西大野２８１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.52293536, 35.10098009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市阿保西ケ森１７８８" }, "geometry": { "type": "Point", "coordinates": [ 136.184062579999988, 34.665778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市下柘植字馬場５００２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.215781349999986, 34.81711485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市四十九町１１４０" }, "geometry": { "type": "Point", "coordinates": [ 136.13333269, 34.75236915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市西明寺字天王８８８" }, "geometry": { "type": "Point", "coordinates": [ 136.15559509, 34.77185876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市島ヶ原５８７０" }, "geometry": { "type": "Point", "coordinates": [ 136.05593468, 34.76743818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市別府４０９" }, "geometry": { "type": "Point", "coordinates": [ 136.18256885, 34.67237743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市岩渕３丁目５−９" }, "geometry": { "type": "Point", "coordinates": [ 136.71862703, 34.48798517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市御薗町長屋２１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.712561599999987, 34.50818517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町元町１６５３" }, "geometry": { "type": "Point", "coordinates": [ 136.68115534, 34.50221151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市東豊浜町３４９０" }, "geometry": { "type": "Point", "coordinates": [ 136.71215582, 34.53085478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市二見町溝口７５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.76007071, 34.5051351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市川合町字山田１１６２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.472248619999988, 34.87340561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市東御幸町４３" }, "geometry": { "type": "Point", "coordinates": [ 136.45276794, 34.85231094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市井戸町３５８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.093835649999988, 33.88769385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市有馬町５３４８" }, "geometry": { "type": "Point", "coordinates": [ 136.07810057, 33.86313613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市江場６８２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.68575332, 35.04663569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市小貝須字甚石衛門繩３０６" }, "geometry": { "type": "Point", "coordinates": [ 136.69464081000001, 35.04666227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市上深谷部字中井縄５５１" }, "geometry": { "type": "Point", "coordinates": [ 136.65833231, 35.10823069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市多度町福永７１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65440265, 35.14283433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町永井南前野３０９５−２１６" }, "geometry": { "type": "Point", "coordinates": [ 136.53119279, 35.03832627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町宿野字神明田４０３" }, "geometry": { "type": "Point", "coordinates": [ 136.5322062, 35.00300117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町田光７" }, "geometry": { "type": "Point", "coordinates": [ 136.50683945, 35.06956684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡朝日町柿土地区画整理組合１３街区" }, "geometry": { "type": "Point", "coordinates": [ 136.65642514000001, 35.03670386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市久保田１丁目４−３６" }, "geometry": { "type": "Point", "coordinates": [ 136.609873670000013, 34.97349727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市高角町境田２５４１" }, "geometry": { "type": "Point", "coordinates": [ 136.556778259999987, 34.98178785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市采女町春雨３２０７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57276592, 34.91498448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市山田町東山２６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54644302, 34.93757562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市山之一色町字池之谷口地内東名阪自動車道ＳＡ" }, "geometry": { "type": "Point", "coordinates": [ 136.5916058, 35.01845288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市城北６−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.608877119999988, 34.96551807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市新正４丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.61586553, 34.95636182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市川島町字古郷２７８０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.57581, 34.96307484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市大字茂福４３３" }, "geometry": { "type": "Point", "coordinates": [ 136.63387979, 35.00679913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市八王子町２４７５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.56875788, 34.95071688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市野田２−２−４５" }, "geometry": { "type": "Point", "coordinates": [ 136.60893446, 34.98340725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町鵜方１３６４−６" }, "geometry": { "type": "Point", "coordinates": [ 136.8213432, 34.32955468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町神明後１００７−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.82786773, 34.31755107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町立神字東畑３１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.87393966, 34.30435967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市志摩町和具８３８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.81169674, 34.25738927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市大王町波切３９７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.883553549999988, 34.28794198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市駅部田１８９０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52179548, 34.5497308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市駅部田町字七元１０５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.526820969999989, 34.54726289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野町１４０１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.48261455, 34.62673541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高町作滝１０７" }, "geometry": { "type": "Point", "coordinates": [ 136.31817775, 34.43203736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町佐原７８９" }, "geometry": { "type": "Point", "coordinates": [ 136.40730104, 34.39223598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町新田１０１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51282942, 34.44199073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町神瀬１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.49471201, 34.43335584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字新茶屋１１８" }, "geometry": { "type": "Point", "coordinates": [ 136.648409460000011, 34.52646915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居中町８２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46044089, 34.68000638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市渋見町５７８−５２" }, "geometry": { "type": "Point", "coordinates": [ 136.49449723, 34.73524942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市大倉１−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.507443310000014, 34.7008289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町上ノ村４３９" }, "geometry": { "type": "Point", "coordinates": [ 136.33306735, 34.66827549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町原３６６０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.589918829999988, 34.4813643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町永会２１５" }, "geometry": { "type": "Point", "coordinates": [ 136.471710800000011, 34.39226893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町崎２０１８−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.38993478, 34.29696456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町滝原１５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.41463453, 34.35832826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町大久保１４６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.59156678, 34.43666654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町棚橋５７１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6255875, 34.43610607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町長原５３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57508123, 34.42973521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町南中村３７０" }, "geometry": { "type": "Point", "coordinates": [ 136.591314110000013, 34.34008856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町船越２８１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.69021009, 34.34748146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡紀宝町鵜殿７３４" }, "geometry": { "type": "Point", "coordinates": [ 136.00692655, 33.73506053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市中川１７番１号" }, "geometry": { "type": "Point", "coordinates": [ 136.197944799999988, 34.06653357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市末広町４番３７号" }, "geometry": { "type": "Point", "coordinates": [ 136.190132440000014, 34.07807324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区相賀８４３−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.2233683, 34.11309338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区中洲２９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.33692689, 34.20765368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区東長島３９００−１" }, "geometry": { "type": "Point", "coordinates": [ 136.33247714, 34.21050832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持町原出１３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.12029988, 34.63859137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持町里３２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.10740191, 34.64361835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市東町１８１５" }, "geometry": { "type": "Point", "coordinates": [ 136.096114730000011, 34.62978891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市木屋町８１５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.08688586, 34.62256495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市伊船町字下ノ割２２１５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.49349386, 34.91610809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市下大久保町７４７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.53939814, 34.92366997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市下箕田町３−９−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.62649427, 34.87783583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市若松中２丁目１８−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.616034180000014, 34.86084841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市庄野町１０−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.524569899999989, 34.88146087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市道伯町天神下２５８９" }, "geometry": { "type": "Point", "coordinates": [ 136.545406390000011, 34.85889754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市藤原町大字市場６３０" }, "geometry": { "type": "Point", "coordinates": [ 136.488776, 35.17830043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町東村５１-１１" }, "geometry": { "type": "Point", "coordinates": [ 136.51272524, 35.13250436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町麻生田３５７９" }, "geometry": { "type": "Point", "coordinates": [ 136.53799548, 35.13729794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市伊勢路８６-１" }, "geometry": { "type": "Point", "coordinates": [ 136.207939790000012, 34.68188828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市沖４０" }, "geometry": { "type": "Point", "coordinates": [ 136.15319161, 34.715838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市小田町寺井２０１５-１" }, "geometry": { "type": "Point", "coordinates": [ 136.11765872, 34.77425182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市新堂５０" }, "geometry": { "type": "Point", "coordinates": [ 136.210471469999987, 34.82262313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市川合３４５５" }, "geometry": { "type": "Point", "coordinates": [ 136.180708079999988, 34.8228554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市平田６８７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.218046460000011, 34.76385768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市粟野町字大下７０６" }, "geometry": { "type": "Point", "coordinates": [ 136.673835810000014, 34.4877083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市御薗町長屋１０４０-１" }, "geometry": { "type": "Point", "coordinates": [ 136.70964706, 34.5070184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市西豊浜町５３３９" }, "geometry": { "type": "Point", "coordinates": [ 136.69780505, 34.51975845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市村松町字桜本２２５４-１" }, "geometry": { "type": "Point", "coordinates": [ 136.68323597, 34.54810267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市竹ケ鼻船倉２４７-１" }, "geometry": { "type": "Point", "coordinates": [ 136.73454422, 34.50519061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市東大淀町４８５" }, "geometry": { "type": "Point", "coordinates": [ 136.660830229999988, 34.55508961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市川崎町字貢４６７６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.47676298, 34.90320613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名郡木曽岬町大字小林３３３" }, "geometry": { "type": "Point", "coordinates": [ 136.732425119999988, 35.07684842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市額田字惣作３５０" }, "geometry": { "type": "Point", "coordinates": [ 136.64570061, 35.05940662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市多度町小山字林崎１０２" }, "geometry": { "type": "Point", "coordinates": [ 136.64350393, 35.12605944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市長島町又木５１-２" }, "geometry": { "type": "Point", "coordinates": [ 136.70165469, 35.09547601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大強原３１６７" }, "geometry": { "type": "Point", "coordinates": [ 136.533172650000012, 35.02277396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小杉町３２２" }, "geometry": { "type": "Point", "coordinates": [ 136.60430903, 34.98637546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市水沢町２５２５-２" }, "geometry": { "type": "Point", "coordinates": [ 136.483704249999988, 34.97069611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市楠町北五味塚２００１" }, "geometry": { "type": "Point", "coordinates": [ 136.62740101, 34.91686757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市川井町字田中２９８" }, "geometry": { "type": "Point", "coordinates": [ 136.52024014, 34.58411878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市東黒部町天神１" }, "geometry": { "type": "Point", "coordinates": [ 136.58822761, 34.58773289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高町宮前６９７-１" }, "geometry": { "type": "Point", "coordinates": [ 136.33526036, 34.42961705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市豊原町１０７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.580982299999988, 34.54788266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町大字森庄４３２-１" }, "geometry": { "type": "Point", "coordinates": [ 136.57710297, 34.48129001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町朝柄ドンド２９７７-１" }, "geometry": { "type": "Point", "coordinates": [ 136.46297481, 34.46333334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町下真手６９６-３" }, "geometry": { "type": "Point", "coordinates": [ 136.36982888, 34.37971633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字馬之上字寺山３５８" }, "geometry": { "type": "Point", "coordinates": [ 136.62798207, 34.55564364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一志町田尻７４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.436323280000011, 34.65736488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一色町１９１-２" }, "geometry": { "type": "Point", "coordinates": [ 136.4748248, 34.73260396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町大字東千里字縄境２６-１" }, "geometry": { "type": "Point", "coordinates": [ 136.55271726, 34.80315949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町中瀬４３-１" }, "geometry": { "type": "Point", "coordinates": [ 136.53470911, 34.78132897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市芸濃町椋本字墓沢４２６５-１２" }, "geometry": { "type": "Point", "coordinates": [ 136.4369241, 34.8085264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町勝田字平田４９５８-１" }, "geometry": { "type": "Point", "coordinates": [ 136.62135745, 34.48560997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町大内山３６３９" }, "geometry": { "type": "Point", "coordinates": [ 136.36582123, 34.28002788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町大野木２４３８" }, "geometry": { "type": "Point", "coordinates": [ 136.639049050000011, 34.44490806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町麻加江５７４-１" }, "geometry": { "type": "Point", "coordinates": [ 136.559015030000012, 34.43709276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町道方字秋ノ田１３０９-２" }, "geometry": { "type": "Point", "coordinates": [ 136.58021517, 34.29479094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡紀宝町大里字松岡１４３２-１" }, "geometry": { "type": "Point", "coordinates": [ 135.99082944, 33.78095953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町阿田和３３２９-１" }, "geometry": { "type": "Point", "coordinates": [ 136.03165561, 33.77776559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町下市木２５４９-１" }, "geometry": { "type": "Point", "coordinates": [ 136.04770672, 33.82736583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町志原１１９４" }, "geometry": { "type": "Point", "coordinates": [ 136.049546959999986, 33.85185025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町神木１９４３-１" }, "geometry": { "type": "Point", "coordinates": [ 136.02916821, 33.86934038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市夏見96" }, "geometry": { "type": "Point", "coordinates": [ 136.100512540000011, 34.61638399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市地子町１２６８" }, "geometry": { "type": "Point", "coordinates": [ 136.57367579000001, 34.87399284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市佐那具町5-1" }, "geometry": { "type": "Point", "coordinates": [ 136.17879904, 34.80546497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市千歳町野添957" }, "geometry": { "type": "Point", "coordinates": [ 136.16280921, 34.79300897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市柘植町6189" }, "geometry": { "type": "Point", "coordinates": [ 136.25375978, 34.83783593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市緑ケ丘南町4012-7" }, "geometry": { "type": "Point", "coordinates": [ 136.14571758, 34.75634217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町本町129" }, "geometry": { "type": "Point", "coordinates": [ 136.67327705, 34.50437737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市みずほ台1119-26" }, "geometry": { "type": "Point", "coordinates": [ 136.472571820000013, 34.87157835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市関町萩原切山90-2" }, "geometry": { "type": "Point", "coordinates": [ 136.400197530000014, 34.84144787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市多度町下野代617-1" }, "geometry": { "type": "Point", "coordinates": [ 136.652434340000013, 35.11606206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字小貝須字三太縄1293" }, "geometry": { "type": "Point", "coordinates": [ 136.699839379999986, 35.05205195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字大仲新田181-1" }, "geometry": { "type": "Point", "coordinates": [ 136.607667600000013, 35.08331611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字千草字前田8146-4" }, "geometry": { "type": "Point", "coordinates": [ 136.50449196, 35.03450868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字豊田344-3" }, "geometry": { "type": "Point", "coordinates": [ 136.66235254, 35.01501417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字北福崎145-1" }, "geometry": { "type": "Point", "coordinates": [ 136.67693576, 35.02745117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市阿倉川町8-7" }, "geometry": { "type": "Point", "coordinates": [ 136.628247460000011, 34.98429992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市生桑町字神田866-7" }, "geometry": { "type": "Point", "coordinates": [ 136.59894365, 34.98044994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市泊小柳町2211-1" }, "geometry": { "type": "Point", "coordinates": [ 136.601924450000013, 34.94088692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町鵜方1212-4" }, "geometry": { "type": "Point", "coordinates": [ 136.818372649999986, 34.33204525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町甲賀鹿谷3101-4" }, "geometry": { "type": "Point", "coordinates": [ 136.86685993, 34.31108139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市桂瀬町字下川原125-1" }, "geometry": { "type": "Point", "coordinates": [ 136.48873511, 34.54302376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市御麻生薗町本郷" }, "geometry": { "type": "Point", "coordinates": [ 136.50131464, 34.50457687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市小舟江町渋川123" }, "geometry": { "type": "Point", "coordinates": [ 136.51742293, 34.63655418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大塚町字五月田19-5" }, "geometry": { "type": "Point", "coordinates": [ 136.52928628, 34.58682145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市船津町510-2" }, "geometry": { "type": "Point", "coordinates": [ 136.84098909, 34.46247611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安濃町曽根571-4" }, "geometry": { "type": "Point", "coordinates": [ 136.46215458, 34.74976441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居井戸山町16-6" }, "geometry": { "type": "Point", "coordinates": [ 136.48589059, 34.67153945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居新町2852" }, "geometry": { "type": "Point", "coordinates": [ 136.48190097, 34.68286678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真小川町字中沢819" }, "geometry": { "type": "Point", "coordinates": [ 136.52911778, 34.7746709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市戸木町字東羽野5453" }, "geometry": { "type": "Point", "coordinates": [ 136.443247289999988, 34.678746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高茶屋小森町丸田282" }, "geometry": { "type": "Point", "coordinates": [ 136.51895334, 34.67183094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高野尾町1176-2" }, "geometry": { "type": "Point", "coordinates": [ 136.46690264, 34.78859244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市渋見町黒田296-1" }, "geometry": { "type": "Point", "coordinates": [ 136.49085151, 34.73662942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市島崎町306-1" }, "geometry": { "type": "Point", "coordinates": [ 136.519428409999989, 34.7327386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市東丸之内8-8" }, "geometry": { "type": "Point", "coordinates": [ 136.51106564, 34.71496556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町城立220" }, "geometry": { "type": "Point", "coordinates": [ 136.28449002, 34.62715145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市白山町南家城919-3" }, "geometry": { "type": "Point", "coordinates": [ 136.32094052, 34.62479974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市桂ヶ丘1333-1" }, "geometry": { "type": "Point", "coordinates": [ 136.194389199999989, 34.06441683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市大字南浦小川東町4-1" }, "geometry": { "type": "Point", "coordinates": [ 136.19735015, 34.06813303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区島原久保771" }, "geometry": { "type": "Point", "coordinates": [ 136.324424169999986, 34.22088722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市箕曲中村２５" }, "geometry": { "type": "Point", "coordinates": [ 136.085383009999987, 34.61503247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市稲生町2-5-1" }, "geometry": { "type": "Point", "coordinates": [ 136.55765667, 34.83562471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市三日市町字狭間986-1" }, "geometry": { "type": "Point", "coordinates": [ 136.56019708, 34.87555721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市市部下川原482−1" }, "geometry": { "type": "Point", "coordinates": [ 136.14691893, 34.72969161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市桑部中貝戸526−5" }, "geometry": { "type": "Point", "coordinates": [ 136.6555162, 35.0525377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市下村町577" }, "geometry": { "type": "Point", "coordinates": [ 136.54730845, 34.55708632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市射和町548−1" }, "geometry": { "type": "Point", "coordinates": [ 136.54004366, 34.50955713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市田村町字東高戸367−1" }, "geometry": { "type": "Point", "coordinates": [ 136.50710906, 34.5538923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯高町森538" }, "geometry": { "type": "Point", "coordinates": [ 136.21343385, 34.39073776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市立田町255" }, "geometry": { "type": "Point", "coordinates": [ 136.56910222, 34.55983204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真中山町92−1" }, "geometry": { "type": "Point", "coordinates": [ 136.52351882, 34.75677796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市香良洲町1703-1" }, "geometry": { "type": "Point", "coordinates": [ 136.53944205, 34.64883271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市寿町5−7" }, "geometry": { "type": "Point", "coordinates": [ 136.514172480000013, 34.71434003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市藤方南八木田1063−2" }, "geometry": { "type": "Point", "coordinates": [ 136.516862839999988, 34.68689072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡紀宝町鵜殿1443-6" }, "geometry": { "type": "Point", "coordinates": [ 136.01355039, 33.73486585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市二見町溝口207-3" }, "geometry": { "type": "Point", "coordinates": [ 136.757206489999987, 34.50575081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字増田字下忽作５１６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.64801977, 35.05873968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町豊田一色３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67197644, 35.02648029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市楠町南五味塚1242" }, "geometry": { "type": "Point", "coordinates": [ 136.631945980000012, 34.90932831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町鵜方392-4" }, "geometry": { "type": "Point", "coordinates": [ 136.812777680000011, 34.34594366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市磯山４−３−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.57386741, 34.82004224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市北勢町阿下喜字下北田２１１４" }, "geometry": { "type": "Point", "coordinates": [ 136.52061244, 35.15366482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市千歳２９３" }, "geometry": { "type": "Point", "coordinates": [ 136.15887053, 34.79650216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市河崎２−１８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.714541200000014, 34.49590458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町元町６８５" }, "geometry": { "type": "Point", "coordinates": [ 136.675196879999987, 34.50641152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市上地町字芝切４１９３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65918509, 34.49242739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市川端町２０５" }, "geometry": { "type": "Point", "coordinates": [ 136.68242988, 34.49272653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大木字六把野３９６５" }, "geometry": { "type": "Point", "coordinates": [ 136.579889220000013, 35.08897509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市関町新所町１３６６" }, "geometry": { "type": "Point", "coordinates": [ 136.383757980000013, 34.85513498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市川合町字山田１１９４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.47192963, 34.8697789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名郡長島町殿名字下知田８５０" }, "geometry": { "type": "Point", "coordinates": [ 136.70771217, 35.10150376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市新矢田２−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.68481082, 35.06046518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市星川７８７" }, "geometry": { "type": "Point", "coordinates": [ 136.626849130000011, 35.06763893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市西汰上弥平田４９８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.67180299, 35.08836551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市高角町字境田２５６２" }, "geometry": { "type": "Point", "coordinates": [ 136.55828071, 34.98031789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市新正２−１９２" }, "geometry": { "type": "Point", "coordinates": [ 136.61703842, 34.95712663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市日永西３−５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.59536115, 34.95152478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩郡阿児町立神" }, "geometry": { "type": "Point", "coordinates": [ 136.862074009999986, 34.30036908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市磯部町恵利原下広２４７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.791320500000012, 34.38874356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市大王町波切３２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.8849823, 34.28107921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市駅部田町１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.526932280000011, 34.56066473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市久保町１８７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.537692060000012, 34.56110881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市荒木町大下２１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54494073, 34.59152016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市山室町字松本２５８６−８" }, "geometry": { "type": "Point", "coordinates": [ 136.528551990000011, 34.53704956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市田村町あいまど３８９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.509316829999989, 34.55533352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町佐伯中１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51899386, 34.50164533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市国崎町３２２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.92436734, 34.41348227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市畔蛸町イマメ原７８" }, "geometry": { "type": "Point", "coordinates": [ 136.89735812, 34.39211834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居明神町風早２６１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46947033, 34.68276845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市幸町３１−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.50576464, 34.70846384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市新町３−４−６" }, "geometry": { "type": "Point", "coordinates": [ 136.49049607, 34.72053349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市結馬１１２" }, "geometry": { "type": "Point", "coordinates": [ 136.073766979999988, 34.60913441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市稲生４−２０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.56508942, 34.83787629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市西条１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57455976, 34.8808706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市道伯５−２３−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.547761759999986, 34.86361648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市道伯町１８９０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.554433390000014, 34.85928635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市大安町平塚尼ケ谷８９２" }, "geometry": { "type": "Point", "coordinates": [ 136.541161140000014, 35.10051499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市大安町門前１７６" }, "geometry": { "type": "Point", "coordinates": [ 136.561582390000012, 35.07739769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市恵美須町１６０６" }, "geometry": { "type": "Point", "coordinates": [ 136.13168804, 34.7617015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市山出１９６５" }, "geometry": { "type": "Point", "coordinates": [ 136.12073749000001, 34.72322206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市西明寺６９０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.14746592, 34.77127543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市川東１５３" }, "geometry": { "type": "Point", "coordinates": [ 136.20341836, 34.80400015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市柘植町５７６２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.25676313, 34.83970226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市白樫永谷２５８７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.08455536, 34.72375955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市平野中川原５０４" }, "geometry": { "type": "Point", "coordinates": [ 136.13019798, 34.776207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市宇治浦田２−１７−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.723489300000011, 34.46866515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市御薗町長屋２１６９" }, "geometry": { "type": "Point", "coordinates": [ 136.714276, 34.50828363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小木町出淵６８８" }, "geometry": { "type": "Point", "coordinates": [ 136.72891277, 34.50613813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市船江３−１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.715651400000013, 34.49889117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市大湊町９５８" }, "geometry": { "type": "Point", "coordinates": [ 136.74535545, 34.52484022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市藤里町７１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.709177509999989, 34.47886671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市関町木崎７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.39932915, 34.84946902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市太岡寺町１１７７" }, "geometry": { "type": "Point", "coordinates": [ 136.417557390000013, 34.85923473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市北鹿島町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.46329254, 34.8507784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市和田町７２８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.485657120000013, 34.86086285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市萱町７５" }, "geometry": { "type": "Point", "coordinates": [ 136.6910715, 35.05676388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市上野２−９５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.66801522, 35.05882194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市星見ケ丘２−１０５" }, "geometry": { "type": "Point", "coordinates": [ 136.63336001, 35.0772739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字江場７１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.687655869999986, 35.04564158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字小貝須１５６５" }, "geometry": { "type": "Point", "coordinates": [ 136.700668, 35.05299374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市中央町４−７" }, "geometry": { "type": "Point", "coordinates": [ 136.68593296, 35.06265198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市和泉２２８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.68623883, 35.04368176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町永井７１９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.53400161, 35.05178873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町潤田６５０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51541913, 35.01920531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字田口新田８０１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.519364599999989, 35.0887026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町高松鯨松１５８１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.673429449999986, 35.00943814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町高松字天神１６" }, "geometry": { "type": "Point", "coordinates": [ 136.664031349999988, 35.01709821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市河原田町１２９８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.605489440000014, 34.91395987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市萱生町８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.607648970000014, 35.03723625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市高角町中川原２２７６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.55263739, 34.98714008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市桜町５７０３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.523535790000011, 34.99064155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市三栄町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.62238499, 34.96460647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市山之一色町１４９１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.594033560000014, 35.01938318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小古曽東２−７−７０" }, "geometry": { "type": "Point", "coordinates": [ 136.593995369999988, 34.92847618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市小林町１９１２" }, "geometry": { "type": "Point", "coordinates": [ 136.55005509, 34.95506749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市城西町４−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.60659949, 34.96307579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市新正１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.619222619999988, 34.96047032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西伊倉町１−４０" }, "geometry": { "type": "Point", "coordinates": [ 136.60413116, 34.97531123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西坂部町４７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.591708509999989, 34.99429654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市川原町３１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63070296, 34.97484304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市大矢知町１０５７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.637007219999987, 35.01907524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市白須賀３−６−８" }, "geometry": { "type": "Point", "coordinates": [ 136.645992189999987, 34.99529764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市釆女町２９９９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56295463, 34.91438915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市浜旭町５" }, "geometry": { "type": "Point", "coordinates": [ 136.625267009999988, 34.93007967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市富州原町２８−６" }, "geometry": { "type": "Point", "coordinates": [ 136.65914987, 35.01192528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市北山町３８７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.58780253, 35.04204049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市阿児町鵜方１３５５−６" }, "geometry": { "type": "Point", "coordinates": [ 136.82009297, 34.32980027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市磯部町穴川１１５４" }, "geometry": { "type": "Point", "coordinates": [ 136.81267286, 34.35792543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市志摩町片田１７８８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.84300986, 34.2614253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市上川町３８４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.55765147, 34.55118005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市田村町六才４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51282201, 34.55745556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町仁田７０１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54766111, 34.49259986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町丹生星ヶ谷４４２１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.50802245, 34.45778542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町片野１０４５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.456463250000013, 34.47272462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安東町２２１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46412507, 34.74702646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安濃町浄土寺１４８６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.459067620000013, 34.7509158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市雲出長常町１３４９−１０７" }, "geometry": { "type": "Point", "coordinates": [ 136.526927550000011, 34.67438769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町東千里２８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.55360552, 34.80282247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市丸之内２４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.50603851, 34.71668734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市榊原町５１５９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.369330569999988, 34.70714975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市寿町２１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.51509281, 34.71668757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市庄田町２０８２−９" }, "geometry": { "type": "Point", "coordinates": [ 136.42667841, 34.67686991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市垂水２５７２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.490847159999987, 34.69105164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市垂水２８６７−６" }, "geometry": { "type": "Point", "coordinates": [ 136.49796063, 34.69514271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市垂水６０３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51022455, 34.69212069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市殿村３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.464941399999987, 34.71983079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町石名原６３９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.23842212, 34.51298769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市本町２３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.50867716, 34.71082736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市本町３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51181569, 34.70977204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町錦４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.39399469, 34.22608551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町五ケ所浦前田２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7015901, 34.34918595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡紀宝町井田１８９９−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.0227588, 33.75356958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町阿田和６２７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.04587075, 33.81001674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市港町１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.20108335, 34.07436199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区矢口浦３６８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.267741910000012, 34.12933622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区長島１１５９" }, "geometry": { "type": "Point", "coordinates": [ 136.33482249, 34.19806898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区長島１６７０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.32635677, 34.19772097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町紀伊長島区東長島９６６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.33543253, 34.21304722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市東田原７１４" }, "geometry": { "type": "Point", "coordinates": [ 136.110832859999988, 34.66596469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市名張市蔵持町原出８２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.11813851, 34.63607486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市花川町１８５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51586174, 34.92949359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市御薗町字新五郎７４９−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.52846417, 34.82667778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市算所２−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.54689743, 34.87425926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市若松東２−９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.61894224, 34.8638926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市住吉町６７５７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.53806021, 34.84844872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市庄野羽山３−７−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.52252544000001, 34.87327546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市上野町１３３" }, "geometry": { "type": "Point", "coordinates": [ 136.54142271, 34.89068828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市椿一宮町１５８２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.49695112, 34.94916087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市南玉垣町北箱塚２９７５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.58940035, 34.85520619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市長太旭町３−８−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.626154789999987, 34.89227296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市長沢町新沢１８３５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.48684767, 34.92973099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市丸之内19-23" }, "geometry": { "type": "Point", "coordinates": [ 136.507416909999989, 34.71572745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市平野中川原４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.12843512, 34.77504461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市川崎町４７０１" }, "geometry": { "type": "Point", "coordinates": [ 136.47639604, 34.90250392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市東御幸町３２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.45428622, 34.85273048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名郡多度町柚井城之腰２４８" }, "geometry": { "type": "Point", "coordinates": [ 136.64527153, 35.14258954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市新西方３丁目１３０番" }, "geometry": { "type": "Point", "coordinates": [ 136.65762812, 35.07548829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市相川町６８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.684680390000011, 35.05798022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字蓮花寺１６２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6440084, 35.06713574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市芳ヶ崎１２９２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61989979, 35.07317991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字神森字屋之門４０−５" }, "geometry": { "type": "Point", "coordinates": [ 136.535176080000014, 35.00188976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市河原田町字相名１５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59743928, 34.91426704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西坂部町３８１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59009336, 34.9962607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市尾平町新平川原１６９８" }, "geometry": { "type": "Point", "coordinates": [ 136.588490760000013, 34.97671549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市六呂見６２９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61553559, 34.93422328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市大王町波切４４７７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.88067296, 34.28146522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町塩屋菅田５１１−３１" }, "geometry": { "type": "Point", "coordinates": [ 136.75985552, 34.30930246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市清生町５４１番地−５" }, "geometry": { "type": "Point", "coordinates": [ 136.543782099999987, 34.57363788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市飯南町横野１９０" }, "geometry": { "type": "Point", "coordinates": [ 136.40500724, 34.47322298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市挽木町３８５番の２０" }, "geometry": { "type": "Point", "coordinates": [ 136.53774195, 34.57201874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市末広町２丁目１７９番地" }, "geometry": { "type": "Point", "coordinates": [ 136.541399969999986, 34.57682428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市安楽島町１４１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.852230459999987, 34.46737222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一身田豊野６１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.514889899999986, 34.76076757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市芸濃町萩野字上田野３３５３" }, "geometry": { "type": "Point", "coordinates": [ 136.44490047, 34.80322706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市鳥居町２５９番地" }, "geometry": { "type": "Point", "coordinates": [ 136.50566346, 34.72742144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市本町６番１０号" }, "geometry": { "type": "Point", "coordinates": [ 136.50809848, 34.70897372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町字下市木４５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.055314360000011, 33.82594723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市上八町１５０４番地" }, "geometry": { "type": "Point", "coordinates": [ 136.09064031, 34.62580302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市西原町２６４５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.11688983, 34.65290028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市磯山３−１３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.5701503, 34.81571796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市岸岡町１９５８−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.590007320000012, 34.85010544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市住吉３丁目１番３８号" }, "geometry": { "type": "Point", "coordinates": [ 136.53500741, 34.86419334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市神戸１丁目１６番１０号" }, "geometry": { "type": "Point", "coordinates": [ 136.58486826, 34.87950688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市神戸９丁目８２４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.58473659, 34.88363988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市下友生2888" }, "geometry": { "type": "Point", "coordinates": [ 136.14800985, 34.7547067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市西明寺891-1" }, "geometry": { "type": "Point", "coordinates": [ 136.15581155000001, 34.7714975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市東日野町94-1" }, "geometry": { "type": "Point", "coordinates": [ 136.59588039, 34.95560167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市嬉野中川新町4-220" }, "geometry": { "type": "Point", "coordinates": [ 136.47977155, 34.63107685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大黒田町城ノ前528番2" }, "geometry": { "type": "Point", "coordinates": [ 136.52412099, 34.56356336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大石町794-1" }, "geometry": { "type": "Point", "coordinates": [ 136.41962801, 34.4775969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一身田大古曽689" }, "geometry": { "type": "Point", "coordinates": [ 136.49531162, 34.75639083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市蔵持町里3249" }, "geometry": { "type": "Point", "coordinates": [ 136.1077474, 34.64328879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市村松町明野１３５５−９" }, "geometry": { "type": "Point", "coordinates": [ 136.67853557, 34.53440928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市中島２−１−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.6899017, 34.49318475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市長島町松ケ島１０２" }, "geometry": { "type": "Point", "coordinates": [ 136.70095444, 35.08843255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町杉谷２３６３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.49662441000001, 35.04864957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡朝日町縄生５３５" }, "geometry": { "type": "Point", "coordinates": [ 136.67174691, 35.03886352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市山之一色町字穴田５４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60020117, 35.00557601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市中浜田町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.618715189999989, 34.96129251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩郡阿児町国府上野３５６６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.8867214, 34.35089083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町迫子４６２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.77659098, 34.31565364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町栃原田久保１０４１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.5018566, 34.43888166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町金剛坂７７６−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.60517535, 34.53201901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鳥羽市鳥羽町４−１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.845369440000013, 34.47695731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡大紀町崎２５６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.40673757, 34.30111995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市東田原１３７９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.112086409999989, 34.66331442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市須賀町巽縄１４６８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.59816319, 34.88581201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市下村町５８４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54802468, 34.55642871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市下村町1080-5" }, "geometry": { "type": "Point", "coordinates": [ 136.54983, 34.55543211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市西条８−８" }, "geometry": { "type": "Point", "coordinates": [ 136.56285402, 34.87560841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市日永５−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.60233313, 34.94216473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市西条９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.563075309999988, 34.8751272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市日永４９９２-４" }, "geometry": { "type": "Point", "coordinates": [ 136.59102409, 34.95178961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市西別所３７１-５" }, "geometry": { "type": "Point", "coordinates": [ 136.661883890000013, 35.05818198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市城山3-13-34" }, "geometry": { "type": "Point", "coordinates": [ 136.50342407, 34.67938282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市神戸8-33-30" }, "geometry": { "type": "Point", "coordinates": [ 136.58393722, 34.88722289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字田口新田６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.51825673, 35.0867546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市中冨田町637" }, "geometry": { "type": "Point", "coordinates": [ 136.50848059, 34.87700407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真町屋町352-2" }, "geometry": { "type": "Point", "coordinates": [ 136.52222495, 34.75188168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市川尻町貝下６０４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.606614330000014, 34.93024997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市小下町7-38" }, "geometry": { "type": "Point", "coordinates": [ 136.47199124, 34.85257133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市別名5-1-8" }, "geometry": { "type": "Point", "coordinates": [ 136.63174561, 34.99450963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市遊木町３３" }, "geometry": { "type": "Point", "coordinates": [ 136.17270577, 33.9262471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市日永西２丁目３８６４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59469979, 34.95249828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市新正３−１１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.62101596, 34.95501592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県桑名市大字和泉５２４" }, "geometry": { "type": "Point", "coordinates": [ 136.69073515, 35.04210859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市大字大井手２−５−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.59173483, 34.97452407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市安塚町１３５０−１９４" }, "geometry": { "type": "Point", "coordinates": [ 136.56955751000001, 34.8634833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県亀山市椿世町５４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46996715, 34.86690289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市末広町１０−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.52547739, 34.71958739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市雲出長常町九ノ割１２５５−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.52578179, 34.65279029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市高茶屋７−５−５２" }, "geometry": { "type": "Point", "coordinates": [ 136.498027979999989, 34.67254534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊勢市神久２−１−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.720962859999986, 34.48918902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊勢市中須町６２０" }, "geometry": { "type": "Point", "coordinates": [ 136.67932325000001, 34.49257091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県熊野市木ノ本町１１８２" }, "geometry": { "type": "Point", "coordinates": [ 136.10316083, 33.89788051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊賀市上野茅町２７０６" }, "geometry": { "type": "Point", "coordinates": [ 136.13611823, 34.76206825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県志摩市阿児町鵜方２９４４" }, "geometry": { "type": "Point", "coordinates": [ 136.840576059999989, 34.32712705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県いなべ市北勢町麻生田１２７２" }, "geometry": { "type": "Point", "coordinates": [ 136.5424554, 35.12659099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市桜町久保２１４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.54157514, 34.99845673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市本町１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.5112436, 34.70806121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市富田一色町６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.65936068, 35.00548905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市西村町２５６９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.56613827000001, 35.04847586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真町屋町４７６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52088541, 34.74915596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栗真小川町４１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52617182, 34.76682695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市観音寺町７９９−１０４" }, "geometry": { "type": "Point", "coordinates": [ 136.499469549999986, 34.73823309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一身田町４８２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.507626140000013, 34.76351881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市高茶屋４丁目３６−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.504213740000012, 34.66670169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大口町" }, "geometry": { "type": "Point", "coordinates": [ 136.55970696, 34.60878145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市西之庄町８０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.52330391000001, 34.57992834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市末広町１丁目２２６" }, "geometry": { "type": "Point", "coordinates": [ 136.541376140000011, 34.57604355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市下村町１１８０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54872659, 34.5529992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市笹川町２２０５" }, "geometry": { "type": "Point", "coordinates": [ 136.48502346, 34.53562926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市大世古１丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.703012089999987, 34.49437339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市浦口２丁目１６−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.693762529999987, 34.49158236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市鹿間町３２６" }, "geometry": { "type": "Point", "coordinates": [ 136.530959, 34.92805846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市羽津山町４−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.624956700000013, 34.98930533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市神久４丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.720258910000013, 34.49418517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市黒瀬町４６０" }, "geometry": { "type": "Point", "coordinates": [ 136.73185804, 34.49786528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市船江町１３９０" }, "geometry": { "type": "Point", "coordinates": [ 136.52280134, 34.59283145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市日野町７０４" }, "geometry": { "type": "Point", "coordinates": [ 136.533689439999989, 34.57500994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市井田川町５３９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.49076173, 34.86813903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市西玉垣町１５３２" }, "geometry": { "type": "Point", "coordinates": [ 136.58655628, 34.86230279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市平田２丁目６−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.53595232, 34.87426556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字大仲新田２３６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.6098198, 35.08268559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市東黒部町７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.58969325000001, 34.59103104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市瀬古口２１９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.08852543, 34.61510222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字矢田４０６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.67127051, 35.05876862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県名張市すずらん台西１番町３４１" }, "geometry": { "type": "Point", "coordinates": [ 136.15182439, 34.6452462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市庄野町２−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.52125773, 34.87963521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市小野町３９４" }, "geometry": { "type": "Point", "coordinates": [ 136.40782077, 34.8534809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市紀和町板屋１３６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.91316726, 33.87626588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町大字上野７８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.98080246, 33.8481567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市志摩町片田４１８６" }, "geometry": { "type": "Point", "coordinates": [ 136.8349733, 34.25509975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町浜島１１３９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.7525661, 34.30230741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県志摩市浜島町浜島１１５６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.75357545, 34.30419483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市阿保７７３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.175113040000014, 34.66518422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市上阿波１０６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.28455961, 34.76837612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡度会町棚橋" }, "geometry": { "type": "Point", "coordinates": [ 136.62439052, 34.43357165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市久米町１２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52000929, 34.60222172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市美杉町奥津９１３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.269369399999988, 34.51178569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大字六把野新田５２２" }, "geometry": { "type": "Point", "coordinates": [ 136.59946642, 35.07828527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市中納屋町９−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.63595293, 34.96419747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県尾鷲市桂ヶ丘８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.195826219999987, 34.06270346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町栃原１３４１" }, "geometry": { "type": "Point", "coordinates": [ 136.508886350000012, 34.43731437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市栄町４丁目２５４" }, "geometry": { "type": "Point", "coordinates": [ 136.5137953, 34.73630059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町明野１８６９" }, "geometry": { "type": "Point", "coordinates": [ 136.66693759, 34.51710203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市楠町小倉１６１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63724984000001, 34.92507008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県北牟婁郡紀北町海山区島勝浦３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29631192, 34.11134025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字南福崎３１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.680651469999987, 35.0182458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡朝日町大字小向６５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.67223995, 35.02990603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町影重１１１３" }, "geometry": { "type": "Point", "coordinates": [ 136.53889647, 34.77811493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町大字菰野３９２６" }, "geometry": { "type": "Point", "coordinates": [ 136.493806830000011, 35.01290082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大字六把野新田２８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.59085754, 35.081786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大字長深３９０" }, "geometry": { "type": "Point", "coordinates": [ 136.586651350000011, 35.06226142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町大字中上５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.597954460000011, 35.05917758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県いなべ市大安町宇賀６６５−９" }, "geometry": { "type": "Point", "coordinates": [ 136.50250657, 35.09048948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市久居寺町１２３２" }, "geometry": { "type": "Point", "coordinates": [ 136.47365081, 34.67675821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市飛鳥町野口３７８" }, "geometry": { "type": "Point", "coordinates": [ 136.076391480000012, 33.94775419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町下楠５３８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.48137748, 34.41999261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市有馬町５６５５" }, "geometry": { "type": "Point", "coordinates": [ 136.080319620000012, 33.86603682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町村山８２２" }, "geometry": { "type": "Point", "coordinates": [ 136.49762474, 34.27802397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町河内１１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51090488, 34.27953001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町船越７３４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.68370891, 34.34629216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町五ヶ所浦３９２０" }, "geometry": { "type": "Point", "coordinates": [ 136.702136270000011, 34.34916028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡南伊勢町五ヶ所浦６５２−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.695169459999988, 34.34896174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県度会郡玉城町井倉１１４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.64335803, 34.5112406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡大台町粟生３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.466985029999989, 34.41599102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市一志町波瀬２１９５" }, "geometry": { "type": "Point", "coordinates": [ 136.392363890000013, 34.62534965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市安濃町安部３７９" }, "geometry": { "type": "Point", "coordinates": [ 136.42832866, 34.75794643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市服部町１８８２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.13523575, 34.77949327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市上野町１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53644624, 34.89037449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市河原田町１７６０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.605324, 34.91343572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字高松１５４８" }, "geometry": { "type": "Point", "coordinates": [ 136.674893340000011, 35.01092561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字金剛坂１１２４" }, "geometry": { "type": "Point", "coordinates": [ 136.604425350000014, 34.53308212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町仁田７２５" }, "geometry": { "type": "Point", "coordinates": [ 136.54932381, 34.49396574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字額田５５２−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.63837799, 35.0612269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県松阪市大黒田町２２２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.527601190000013, 34.56605503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市上之庄２３６" }, "geometry": { "type": "Point", "coordinates": [ 136.12246183, 34.73957012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県南牟婁郡御浜町大字下市木４６４６−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.06007298, 33.83534195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県亀山市下庄町９５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.482655670000014, 34.82222103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡川越町大字当新田４６８" }, "geometry": { "type": "Point", "coordinates": [ 136.68543385000001, 35.027776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市河芸町中別保１００" }, "geometry": { "type": "Point", "coordinates": [ 136.54255491, 34.78730845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県熊野市久生屋町５７４" }, "geometry": { "type": "Point", "coordinates": [ 136.06827814, 33.86115851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県四日市市天カ須賀４丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 136.67087774, 35.01463607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市木興町５１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.12385185, 34.76325969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡多気町三疋田２９１−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.52111588, 34.50160941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市桜橋２丁目２０２" }, "geometry": { "type": "Point", "coordinates": [ 136.518125340000012, 34.73315679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市西丸之内１８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.50324999, 34.71721494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市若松東３丁目１８−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.622305790000013, 34.86861996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市江島本町２３−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.59465549, 34.83541472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市一身田町５４９" }, "geometry": { "type": "Point", "coordinates": [ 136.50560676, 34.75906911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市住吉１丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 136.54025482, 34.86468498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市南玉垣町７０８５" }, "geometry": { "type": "Point", "coordinates": [ 136.58854481, 34.85571498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市北玉垣町８８８" }, "geometry": { "type": "Point", "coordinates": [ 136.589050289999989, 34.86540001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市神戸６丁目４−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.57682877, 34.88237239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊勢市宮後２丁目１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.71084436000001, 34.49428249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県松阪市垣鼻町１２８６" }, "geometry": { "type": "Point", "coordinates": [ 136.54169203, 34.56304319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊勢市辻久留１丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.689574810000011, 34.49037733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県松阪市垣鼻町７６３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53939871, 34.56852842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県松阪市黒田町８３" }, "geometry": { "type": "Point", "coordinates": [ 136.52770116, 34.5686936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県松阪市幸生町１１８２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.5578966, 34.56559695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県桑名市中央町２丁目７３" }, "geometry": { "type": "Point", "coordinates": [ 136.68313598, 35.06322128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県桑名市大字安永９２０" }, "geometry": { "type": "Point", "coordinates": [ 136.68156969, 35.05129472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市東新町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.634518859999986, 34.97426061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市東新町４−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.636847390000014, 34.97323629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市山田町７６５" }, "geometry": { "type": "Point", "coordinates": [ 136.53922248, 34.93512453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県桑名市大字江場５−５０５" }, "geometry": { "type": "Point", "coordinates": [ 136.69586829, 35.05646128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県三重郡川越町大字高松葭野１５３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.672657070000014, 35.01753972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県三重郡菰野町大字下村１７００−４" }, "geometry": { "type": "Point", "coordinates": [ 136.539705590000011, 35.02248341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県津市久居中町３３６−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.46932001, 34.6813884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県志摩市阿児町安乗５７５−９" }, "geometry": { "type": "Point", "coordinates": [ 136.90031481, 34.36078456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市若松東２丁目１２−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.620217129999986, 34.86430649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県尾鷲市九鬼町７８３" }, "geometry": { "type": "Point", "coordinates": [ 136.24950496, 34.01722246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県尾鷲市泉町１７−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.179867879999989, 34.06853515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県名張市東町１６８５" }, "geometry": { "type": "Point", "coordinates": [ 136.09430751, 34.62737709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県名張市松崎町１４７０" }, "geometry": { "type": "Point", "coordinates": [ 136.089864619999986, 34.62266717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市尾上町７−６" }, "geometry": { "type": "Point", "coordinates": [ 136.63511736000001, 34.96049346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊勢市岡本１丁目１５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.7114415, 34.48484767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県桑名市伝馬町５８" }, "geometry": { "type": "Point", "coordinates": [ 136.6909937, 35.05811929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県桑名市三ツ矢橋１３" }, "geometry": { "type": "Point", "coordinates": [ 136.68326886, 35.05871264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市三ツ谷町１０−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.62880046, 34.98363469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊勢市辻久留１丁目１２−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.690434970000013, 34.49000745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県松阪市川井町２６４６" }, "geometry": { "type": "Point", "coordinates": [ 136.521553899999986, 34.58484445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市中部１０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62682615, 34.96886716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市青葉町８００−６２" }, "geometry": { "type": "Point", "coordinates": [ 136.58207306, 34.9723701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市大井手２丁目４−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.59336799, 34.97415468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県桑名市大字矢田１７８" }, "geometry": { "type": "Point", "coordinates": [ 136.679019720000014, 35.06244624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市稲葉町２−７" }, "geometry": { "type": "Point", "coordinates": [ 136.63864478, 34.96223775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊賀市上野桑町１４２６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.134721320000011, 34.7565271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市千歳町１−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.63625341, 34.95964052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊賀市平野東町４３" }, "geometry": { "type": "Point", "coordinates": [ 136.13761226, 34.77117019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県鈴鹿市神戸３丁目６−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.58300354, 34.87670713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県多気郡大台町佐原５１６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.41271039, 34.39555377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊賀市上野赤坂町２９７" }, "geometry": { "type": "Point", "coordinates": [ 136.134895879999988, 34.7686313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市生桑町８４８−８" }, "geometry": { "type": "Point", "coordinates": [ 136.59818972, 34.97960142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊賀市上野鉄砲町２３６９" }, "geometry": { "type": "Point", "coordinates": [ 136.128396259999988, 34.76167397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊勢市神社港２９５−５４" }, "geometry": { "type": "Point", "coordinates": [ 136.733916310000012, 34.51132236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県名張市平尾３０７９−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.0973998, 34.61937058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊賀市ゆめが丘１丁目３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.151931710000014, 34.74042642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県津市一志町高野１５６２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.42857315, 34.66529064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県多気郡明和町大字斎宮３７９９−８" }, "geometry": { "type": "Point", "coordinates": [ 136.62849254, 34.54367376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市楠町南五味塚９０７" }, "geometry": { "type": "Point", "coordinates": [ 136.63217719, 34.90885048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県鳥羽市浦村町４１６−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.87594596, 34.4380175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県鳥羽市答志町２９４" }, "geometry": { "type": "Point", "coordinates": [ 136.90270755, 34.52990127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県鳥羽市桃取町１８１" }, "geometry": { "type": "Point", "coordinates": [ 136.8537173, 34.51302614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県津市河芸町一色２５９５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.542934190000011, 34.78062981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県三重郡菰野町大字菰野１０３９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.51859245, 35.01084934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市楠町吉崎３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64129856, 34.91621424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県志摩市浜島町浜島２９５６" }, "geometry": { "type": "Point", "coordinates": [ 136.74767795, 34.29621417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県松阪市殿村町７７８" }, "geometry": { "type": "Point", "coordinates": [ 136.499466469999987, 34.57476917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県津市南丸之内１−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.50336954, 34.71324853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県津市東丸之内８−６" }, "geometry": { "type": "Point", "coordinates": [ 136.511212840000013, 34.71495168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県松阪市大津町６４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.548452020000013, 34.56849184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県四日市市京町４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.62973956, 34.97594131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県志摩市阿児町国府２８０５" }, "geometry": { "type": "Point", "coordinates": [ 136.87483336, 34.33951955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県北牟婁郡紀北町海山区引本浦２６９" }, "geometry": { "type": "Point", "coordinates": [ 136.23905, 34.10565726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県伊勢市楠部町６７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.72283324, 34.4843501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県松阪市殿村町７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.4991772, 34.57460094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "三重県北牟婁郡紀北町紀伊長島区長島１１８９−８２" }, "geometry": { "type": "Point", "coordinates": [ 136.33647468, 34.20108972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県員弁郡東員町六把野新田新起１３２３" }, "geometry": { "type": "Point", "coordinates": [ 136.599109559999988, 35.08591993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県三重郡菰野町宿野字神明田258-1" }, "geometry": { "type": "Point", "coordinates": [ 136.52987884, 35.0082157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊賀市西明寺大字天王９３４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.155975829999988, 34.7721912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市住吉４−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.53345162, 34.8610632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県伊勢市小俣町元町６０８" }, "geometry": { "type": "Point", "coordinates": [ 136.67507971, 34.50656749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市雲出島貫町７８２番地の１" }, "geometry": { "type": "Point", "coordinates": [ 136.52010908, 34.65244965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名郡木曾岬町栄356" }, "geometry": { "type": "Point", "coordinates": [ 136.74639685, 35.0670644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市多度町香取字高割288" }, "geometry": { "type": "Point", "coordinates": [ 136.64758576, 35.1347413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県桑名市大字江場字中縄９２９の１" }, "geometry": { "type": "Point", "coordinates": [ 136.6891889, 35.05189196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県多気郡明和町大字蓑村８４２-１" }, "geometry": { "type": "Point", "coordinates": [ 136.63048314, 34.51937391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県津市乙部2058" }, "geometry": { "type": "Point", "coordinates": [ 136.51596867, 34.72088167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "三重県鈴鹿市寺家町５−１９−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.579470570000012, 34.82756559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県いなべ市北勢町別名２２３" }, "geometry": { "type": "Point", "coordinates": [ 136.518259660000012, 35.14143334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県伊勢市鹿海町字圓坊１４４３" }, "geometry": { "type": "Point", "coordinates": [ 136.74093768, 34.48905317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県三重郡川越町大字当新田６２３" }, "geometry": { "type": "Point", "coordinates": [ 136.68716706, 35.02893089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市垂坂町１３９７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.612176229999989, 35.01420098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市釆女町春雨３２１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.571985039999987, 34.91487984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県松阪市大口町字新地１５１０−８" }, "geometry": { "type": "Point", "coordinates": [ 136.554509630000013, 34.60804561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県度会郡大紀町滝原９２４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.418326040000011, 34.36578166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県尾鷲市大字南浦字矢ノ川長尾１９８７" }, "geometry": { "type": "Point", "coordinates": [ 136.19620858, 34.04792957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県名張市八幡１２３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.10288499, 34.64657464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県鈴鹿市河田町７８９" }, "geometry": { "type": "Point", "coordinates": [ 136.5717943, 34.89526423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "三重県四日市市羽津町２８２７" }, "geometry": { "type": "Point", "coordinates": [ 136.64535121, 34.98731837 ] } }
+
+]
+}

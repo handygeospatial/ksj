@@ -1,0 +1,1358 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市亀沢９５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.75253788, 32.0383152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市愛宕町２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.66945992, 32.56940283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市昭和町１−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67632336, 32.5865274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市大貫町２−１０８０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65347667, 32.57523066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市大字川内名７０１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.692591779999987, 32.68539479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市中町１−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.66669403, 32.58207403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市方財町９５" }, "geometry": { "type": "Point", "coordinates": [ 131.70416848, 32.58522711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町川水流卯１８０１" }, "geometry": { "type": "Point", "coordinates": [ 131.51483642, 32.57222188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町八峡午４０８−２１２" }, "geometry": { "type": "Point", "coordinates": [ 131.48907831, 32.60611572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市祇園町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41119864, 31.92574832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市宮田町６番１２号" }, "geometry": { "type": "Point", "coordinates": [ 131.42532746, 31.91284838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市熊野字新生蓮寺９１２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.443507360000012, 31.82260865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市源藤町葉山１８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.410430670000011, 31.88628854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市高岡町大字下倉永９１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.3465175, 31.94320157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町下那珂３５０７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.47295595, 32.00894791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市新別府町江口８８２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.45254885, 31.92403417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市青島２丁目１番１１号" }, "geometry": { "type": "Point", "coordinates": [ 131.46659058, 31.8032337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚竹下５１５" }, "geometry": { "type": "Point", "coordinates": [ 131.399637899999988, 31.92519771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町宮田２９２６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39485445, 31.9147579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大和町９２" }, "geometry": { "type": "Point", "coordinates": [ 131.43606607000001, 31.9191327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田吉１１５−７" }, "geometry": { "type": "Point", "coordinates": [ 131.42921231, 31.87762343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市矢の先町１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41584635000001, 31.93949915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南１７７０２−２７" }, "geometry": { "type": "Point", "coordinates": [ 131.526656229999986, 32.19077255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野４３９−７" }, "geometry": { "type": "Point", "coordinates": [ 130.97200271, 31.99543392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町三田井１７３２−６０" }, "geometry": { "type": "Point", "coordinates": [ 131.30769718, 32.7166726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字岩戸１３６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.348044570000013, 32.72974251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町大字七折３４４４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.389586619999989, 32.65296489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町八戸２０９６" }, "geometry": { "type": "Point", "coordinates": [ 131.431265489999987, 32.61955358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市右松１９５２−３" }, "geometry": { "type": "Point", "coordinates": [ 131.40474583, 32.09795784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市御舟町２丁目７１" }, "geometry": { "type": "Point", "coordinates": [ 131.403080960000011, 32.10829605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市平郡宮ノ下５６０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.37286981, 32.08952258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町桜木８３６" }, "geometry": { "type": "Point", "coordinates": [ 131.1163718, 31.78876183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町５７２１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.08851743, 31.76222305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市平江町３８−９" }, "geometry": { "type": "Point", "coordinates": [ 131.062265059999987, 31.73669071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡諸塚村大字家代字古川４５７０−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.34153577, 32.50541642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡椎葉村大字下福良１７３６−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.16361722, 32.47190847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町西郷区田代５０２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.42585276, 32.43934826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町南郷区大字神門１０００−３" }, "geometry": { "type": "Point", "coordinates": [ 131.329064749999986, 32.3874672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町北郷区宇納間２１５の３番地" }, "geometry": { "type": "Point", "coordinates": [ 131.44329391, 32.50422081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町大字加草字丸山２３２８−９" }, "geometry": { "type": "Point", "coordinates": [ 131.66045735, 32.48438343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字本庄２０５５番地８" }, "geometry": { "type": "Point", "coordinates": [ 131.336406399999987, 31.98766989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市亀崎東４−２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.63901406, 32.43713361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市財光寺字沖の原１０４３" }, "geometry": { "type": "Point", "coordinates": [ 131.633927160000013, 32.40794123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大王町１丁目４０番" }, "geometry": { "type": "Point", "coordinates": [ 131.62954874, 32.4427367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字富高９９６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.61798793, 32.41694729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市鶴町２−１１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.63066765, 32.42560164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市東郷町山陰丙３９４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51240102, 32.39193454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市日知屋古田町６０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65429398, 32.42385943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市日知屋字前畑１６５８７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.64541091000001, 32.42728468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市美々津町清水ケ谷２２５０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.598855140000012, 32.32454095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市平岩元市４２５" }, "geometry": { "type": "Point", "coordinates": [ 131.6302267, 32.37102647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市平岩字内見鳥８６６７番１" }, "geometry": { "type": "Point", "coordinates": [ 131.62771048, 32.38917052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市北町２丁目１番" }, "geometry": { "type": "Point", "coordinates": [ 131.62635949, 32.43168587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市西弁分５−２−５" }, "geometry": { "type": "Point", "coordinates": [ 131.371857, 31.59370052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市永山９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.80545002, 32.05159801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市原田３３７０" }, "geometry": { "type": "Point", "coordinates": [ 130.864000620000013, 32.04888875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市杉水流５２５" }, "geometry": { "type": "Point", "coordinates": [ 130.886134059999989, 32.04565164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字永山１０２０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.80612978, 32.05061572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字原田１５４" }, "geometry": { "type": "Point", "coordinates": [ 130.870677590000014, 32.04738215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字向江字岩次２９６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.77366242, 32.04987266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市末永９４８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.8320395, 32.02273844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市伊形町５００８−イ" }, "geometry": { "type": "Point", "coordinates": [ 131.671849970000011, 32.53334717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市稲葉崎４−２０６６" }, "geometry": { "type": "Point", "coordinates": [ 131.68307249, 32.61038236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市高千穂通２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.667675300000013, 32.58660002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市若葉町１−２８６３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.66667709, 32.55083595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市小峯町７４７８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.61704527, 32.57874764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市土々呂町６−１０８０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.67671088, 32.50829289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市日の出町１−７−５" }, "geometry": { "type": "Point", "coordinates": [ 131.67598041, 32.58890171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市平原町５−１４９２−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.67689864, 32.54941983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北浦町古江字浜松原２３６２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.82165697, 32.70581415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北浦町三川内４８４９" }, "geometry": { "type": "Point", "coordinates": [ 131.793713849999989, 32.76387665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北川町長井５１３８" }, "geometry": { "type": "Point", "coordinates": [ 131.69916905, 32.67358427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市恒久３−２０−４" }, "geometry": { "type": "Point", "coordinates": [ 131.43128127, 31.89342406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市港２−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.45648703, 31.90882408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町下田島９０４６" }, "geometry": { "type": "Point", "coordinates": [ 131.47011475, 32.03357966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町下那珂字仁王作３９７−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.47702429, 32.00404061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町上田島新城町１９３５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.43553771, 32.04930604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市上田島８１１７" }, "geometry": { "type": "Point", "coordinates": [ 131.42410494, 32.05176223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市新別府町山宮９６８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4515826, 31.92183563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町今泉甲２６２８−７" }, "geometry": { "type": "Point", "coordinates": [ 131.36821215, 31.85844326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町木原５５３７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.39926449, 31.84373247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市青葉町９４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.43561882, 31.92177919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大橋２−２１６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.41079198, 31.92194568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字瓜生野１６９９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39133467, 31.96341685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字広原４０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.43955313, 31.98752444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字恒久１５２５" }, "geometry": { "type": "Point", "coordinates": [ 131.42281312, 31.88851877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字恒久南３−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.43044722, 31.89125154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町原ノ前１６１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39705593, 31.92109082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大坪町寺山大迫３１５４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.39702254, 31.91028699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大島町畑ケ田１１０７" }, "geometry": { "type": "Point", "coordinates": [ 131.4401047, 31.93882665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市池内町金丸１６１８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41294847, 31.96888755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田代町８５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4471254, 31.90280977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町乙３１１８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.2807118, 31.83302415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市浮田字犬ノ馬場３１３８−イ" }, "geometry": { "type": "Point", "coordinates": [ 131.37975426, 31.927972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市福島町３−１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.40754026, 31.90744922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市柳丸町１６２−３" }, "geometry": { "type": "Point", "coordinates": [ 131.43715669, 31.92529113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市市木２００７" }, "geometry": { "type": "Point", "coordinates": [ 131.344914499999987, 31.46406184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市西方７２６２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.22075317, 31.45818401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市西方８９７１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.221548969999986, 31.46513465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方６７１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.225809770000012, 31.46052463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市都井２１８５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.30580841, 31.39653935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋３２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52057251, 32.12499273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋４２５４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.522281029999988, 32.1299208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋４７３３" }, "geometry": { "type": "Point", "coordinates": [ 131.52245855000001, 32.12718512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町南高鍋字蓑江１１０１" }, "geometry": { "type": "Point", "coordinates": [ 131.512617080000012, 32.12230068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町北高鍋１２６０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.51242951, 32.12717097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町北高鍋字上畑田１１７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.5070714, 32.13504231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町下富田３５９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.482086829999986, 32.05885755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字上富田字関木元２９１５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.477523420000011, 32.05587498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字日置１６１０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.501289390000011, 32.07572102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡西米良村村所４５−７" }, "geometry": { "type": "Point", "coordinates": [ 131.15558145, 32.22575423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町川南８６７３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.548434820000011, 32.23368001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南１３８８２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52375914000001, 32.18760839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南１９７５５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.53994046, 32.21890413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南字西原１７６９９−５" }, "geometry": { "type": "Point", "coordinates": [ 131.52033927, 32.17610244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字平田１３４３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.531358430000012, 32.20445582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北１０６１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.552332369999988, 32.25061407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北境ヶ谷１４７９２−３" }, "geometry": { "type": "Point", "coordinates": [ 131.56466074, 32.2704879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野１３４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96898062, 31.9881933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野１５８１" }, "geometry": { "type": "Point", "coordinates": [ 130.97218608, 31.99487842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野４６１９" }, "geometry": { "type": "Point", "coordinates": [ 130.97356958, 31.97630736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野売子木５８４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96288973, 32.00050424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市水流迫字松原２３９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.99957418, 31.9830266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市堤三本松２２８８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.000952610000013, 31.97163878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市東方８７" }, "geometry": { "type": "Point", "coordinates": [ 131.005722100000014, 32.00993716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市南西方２−７" }, "geometry": { "type": "Point", "coordinates": [ 130.96029759000001, 31.99556913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市野尻町三ヶ野山１３７２−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07243316, 31.97103228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡五ヶ瀬町鞍岡７２４２" }, "geometry": { "type": "Point", "coordinates": [ 131.158284970000011, 32.67250461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡五ヶ瀬町大字桑野内３１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.21595353, 32.72074292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字三田井７２９−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.30946398, 32.70819694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町七折字平底１２２３０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.36494805000001, 32.67582187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町七折中村道下３４３９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.3913969, 32.64992512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町西麓４２７" }, "geometry": { "type": "Point", "coordinates": [ 131.00617681, 31.92865078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町西麓５６９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.99403202, 31.9254351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市三宅２４８２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.39595764, 32.09427723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市都於郡町５６８７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.37871672, 32.05632477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市穂北字堂の前２６７５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.39193832, 32.13309262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市安久町５９４７" }, "geometry": { "type": "Point", "coordinates": [ 131.083414479999988, 31.68854432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市横市町８７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.02755615, 31.74833918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市下川東３−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.07555126, 31.74457878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市丸谷町４５４−６" }, "geometry": { "type": "Point", "coordinates": [ 131.0632712, 31.81776368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市金田町２０１１" }, "geometry": { "type": "Point", "coordinates": [ 131.07935081, 31.77031893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町石山３２３５−８" }, "geometry": { "type": "Point", "coordinates": [ 131.129775560000013, 31.84302747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町穂満坊３１９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.12581577, 31.81077708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町有水３４２４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.1399994, 31.85585387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高木町４７９７−５" }, "geometry": { "type": "Point", "coordinates": [ 131.10471678, 31.78279246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高野町３７７４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.94770413, 31.81002702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町中霧島３１６６" }, "geometry": { "type": "Point", "coordinates": [ 131.051900280000012, 31.78786478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町中霧島３１７１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.053113059999987, 31.78774308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山之口町花木２２７９" }, "geometry": { "type": "Point", "coordinates": [ 131.154038789999987, 31.78460165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市志比田町５３３６−７" }, "geometry": { "type": "Point", "coordinates": [ 131.05811816, 31.73809355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市祝吉１−２２−９" }, "geometry": { "type": "Point", "coordinates": [ 131.083116280000013, 31.73922915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市庄内町８６７８" }, "geometry": { "type": "Point", "coordinates": [ 131.020239620000012, 31.77046719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市早水町３７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.10040374, 31.73407778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市早水町４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.09018354, 31.73323788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市中原町７−５" }, "geometry": { "type": "Point", "coordinates": [ 131.07339715, 31.72561782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町６３５８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.086563180000013, 31.76110006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市姫城町２２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.063067069999988, 31.71571889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡諸塚村家代４３３７−５" }, "geometry": { "type": "Point", "coordinates": [ 131.333095609999987, 32.50810024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町西郷区田代６０８１−４" }, "geometry": { "type": "Point", "coordinates": [ 131.44175569, 32.43838945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町南郷区神門黒草１１６１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.326788810000011, 32.39346057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町加草３丁目１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.664270460000012, 32.49022733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町本庄６７６５" }, "geometry": { "type": "Point", "coordinates": [ 131.31526961, 31.99102237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町本庄字森ノ下１１６２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.33656634, 31.99784301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市塩見坂の下１１４９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.600405810000012, 32.41183174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市鶴町２−４−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.631167119999986, 32.42614891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市日知屋１４８２２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.637842049999989, 32.44885645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市日知屋１６４６４−８" }, "geometry": { "type": "Point", "coordinates": [ 131.6417382, 32.42701316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市春日町１３−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.40439102, 31.5881605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市上平野町２−４−９" }, "geometry": { "type": "Point", "coordinates": [ 131.386231220000013, 31.59680778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字下方１５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.36836535, 31.56563294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字宮浦３３６４" }, "geometry": { "type": "Point", "coordinates": [ 131.45974189, 31.64821032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字酒谷乙４９５３−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.30714039, 31.6178582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字酒谷甲４５８７" }, "geometry": { "type": "Point", "coordinates": [ 131.24833684, 31.63900274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町榎原甲１３９−３" }, "geometry": { "type": "Point", "coordinates": [ 131.30730552, 31.53568359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町中村乙７０５１−６４１" }, "geometry": { "type": "Point", "coordinates": [ 131.374389400000013, 31.5213302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市北郷町郷之原乙２０７１" }, "geometry": { "type": "Point", "coordinates": [ 131.374059069999987, 31.67635089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市飫肥１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35840583, 31.62558521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町樺山４２６０" }, "geometry": { "type": "Point", "coordinates": [ 131.116268670000011, 31.73724021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町宮村２９７２" }, "geometry": { "type": "Point", "coordinates": [ 131.101475459999989, 31.7273161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字蓼池３６０８−８" }, "geometry": { "type": "Point", "coordinates": [ 131.11555543, 31.76217629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字上江８４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.860461140000012, 32.03166455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市伊形町５１７８−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.673579460000013, 32.53163745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市幸町３−１４４" }, "geometry": { "type": "Point", "coordinates": [ 131.670980500000013, 32.58997209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市松橋１−１３−９" }, "geometry": { "type": "Point", "coordinates": [ 131.416760939999989, 31.91164481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町加納１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39421413, 31.87147098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字鏡洲３９１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40354772, 31.82905231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字恒久７３７" }, "geometry": { "type": "Point", "coordinates": [ 131.426613769999989, 31.8838401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字内海５４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.46926513, 31.74121914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字本郷北方４０５７−１１８" }, "geometry": { "type": "Point", "coordinates": [ 131.42636447000001, 31.8676187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方７３０９−８" }, "geometry": { "type": "Point", "coordinates": [ 131.22507633, 31.4605775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町三田井６４６７" }, "geometry": { "type": "Point", "coordinates": [ 131.314710459999986, 32.70503205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町大字石山４４" }, "geometry": { "type": "Point", "coordinates": [ 131.12823934, 31.81654792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町６００３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.09020808, 31.76727764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市戸高２−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.37605792, 31.59883824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字東弁分甲１１０６" }, "geometry": { "type": "Point", "coordinates": [ 131.38994372, 31.62955583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市中平野１−３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.38898522, 31.59370036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町中村乙５８４" }, "geometry": { "type": "Point", "coordinates": [ 131.37516582, 31.53069802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市小田字松原９１９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.82325764, 32.05020535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字浦１５６２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.763105200000012, 32.04303069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市塩浜町１５３６" }, "geometry": { "type": "Point", "coordinates": [ 131.67868554, 32.54306485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市富美山町５３３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.662602389999989, 32.59924617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市花ケ島町観音免９６０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.43533983, 31.95586431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市吉村町井手ノ中甲８４０−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.44663781, 31.92100208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市橘通東５-１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.424204769999989, 31.92010755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市京塚１丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.41285233, 31.89694635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市恒久字小橋４５６３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.41514031, 31.89155298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市恒久字草場９５８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.42783248, 31.88022595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大橋２丁目１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41100161, 31.92047928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字島之内字境田６３７８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.44747301000001, 31.98210764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町甲６２１８−４" }, "geometry": { "type": "Point", "coordinates": [ 131.33582843, 31.83910814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市東大淀１丁目１３９" }, "geometry": { "type": "Point", "coordinates": [ 131.42475714, 31.89873398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市日ノ出町１番地" }, "geometry": { "type": "Point", "coordinates": [ 131.44710812, 31.90725096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方７１６" }, "geometry": { "type": "Point", "coordinates": [ 131.236433580000011, 31.49913026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字都井宮農前２１１０−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.30658205, 31.39613533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町北高鍋４６３３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.5218272, 32.12826368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町上富田３２７５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.483349260000011, 32.06031292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町川北１４８４６-７" }, "geometry": { "type": "Point", "coordinates": [ 131.56245899000001, 32.26740062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字細野４６３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.97563777, 31.97532879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市吉尾町８３０番１" }, "geometry": { "type": "Point", "coordinates": [ 131.079956079999988, 31.75383349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町四家１６０６-２" }, "geometry": { "type": "Point", "coordinates": [ 131.18190334, 31.91189525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町穂満坊８１０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.125265430000013, 31.80270164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都原町７４１５" }, "geometry": { "type": "Point", "coordinates": [ 131.04521773, 31.73495738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市平塚町４１９６" }, "geometry": { "type": "Point", "coordinates": [ 131.022131089999988, 31.70343023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市財光寺字池１７２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.62999942, 32.39986591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町潟上１７０−９" }, "geometry": { "type": "Point", "coordinates": [ 131.36957211, 31.52017994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町中村乙２４６０" }, "geometry": { "type": "Point", "coordinates": [ 131.38137917, 31.54103545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４５４７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.117507499999988, 31.73003377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字栗下１３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.81153842, 32.04730039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字原田３３７６−７" }, "geometry": { "type": "Point", "coordinates": [ 130.86552136, 32.04827993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字向江字古川１４４" }, "geometry": { "type": "Point", "coordinates": [ 130.77565198, 32.05324405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市粟野名町１５０６" }, "geometry": { "type": "Point", "coordinates": [ 131.6819883, 32.59986175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市松山町１２２１-１２２" }, "geometry": { "type": "Point", "coordinates": [ 131.63875416, 32.58333615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市大武町３８-２" }, "geometry": { "type": "Point", "coordinates": [ 131.692822510000013, 32.59665607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町川水流卯１６４７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.51671798000001, 32.56745226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎郡清武町大字船引２１７-２" }, "geometry": { "type": "Point", "coordinates": [ 131.388441910000012, 31.85646915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市花ヶ島町大原２３５３" }, "geometry": { "type": "Point", "coordinates": [ 131.431860050000012, 31.93812827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市高岡町五町９６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.30133794, 31.95838371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町松小路８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.476466460000012, 32.02299352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町東上那珂１４８３０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.42968629, 32.02919304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字熊野字正蓮寺４６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.436445459999987, 31.82792801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字郡司分次田木前７５９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.409475179999987, 31.85442331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字跡江字仲西３４６４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.37944202, 31.93375913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町乙９３５９" }, "geometry": { "type": "Point", "coordinates": [ 131.29769194, 31.83710454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字串間１４５２" }, "geometry": { "type": "Point", "coordinates": [ 131.24405152, 31.48358845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字大平５８０９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.23802679, 31.52573432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字奈留６６９３-５" }, "geometry": { "type": "Point", "coordinates": [ 131.25009101, 31.51110928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字北方７２５３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.23827902, 31.45686018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字上江字高月１２６５-３、４" }, "geometry": { "type": "Point", "coordinates": [ 131.50322649, 32.12688711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋８６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.50920621, 32.13466367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字上富田７５２６" }, "geometry": { "type": "Point", "coordinates": [ 131.49029977, 32.07024703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字新田１６３９３-４" }, "geometry": { "type": "Point", "coordinates": [ 131.4467912, 32.10071789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡西米良村大字村所１０３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.15667872, 32.22626186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南１３５７５-１" }, "geometry": { "type": "Point", "coordinates": [ 131.52766795, 32.19644715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町川南２００１６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.543116739999988, 32.22356293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北５４３８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.55617866, 32.25874218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡木城町大字高城４１２６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.470523680000014, 32.1609445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字細野１３２１" }, "geometry": { "type": "Point", "coordinates": [ 130.96908129, 31.99089267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字真方８１４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.98257045, 32.00115946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字堤字金鳥居３０４５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.99745891, 31.97951849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字北西方１２７２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.92240845, 32.00972231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡五ヶ瀬町大字三ヶ所２１４１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.20117312, 32.6807463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字河内中河内７５-２" }, "geometry": { "type": "Point", "coordinates": [ 131.25392255, 32.77449253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字岩戸６３４８-２" }, "geometry": { "type": "Point", "coordinates": [ 131.350791109999989, 32.73047019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字三田井１６７-７" }, "geometry": { "type": "Point", "coordinates": [ 131.31067085, 32.71585201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字上野４１８４-４" }, "geometry": { "type": "Point", "coordinates": [ 131.29881365, 32.76012984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町大字七折９０２０-４" }, "geometry": { "type": "Point", "coordinates": [ 131.38245176, 32.66333828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町西麓５５５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.99687767, 31.9262912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町大字三ヶ野山１７２７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.05702388, 31.9768257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町大字紙屋１８３４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.17748271, 31.96178631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町大字東麓１０６３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.09278591, 31.96202841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字三宅字下鶴9402番1" }, "geometry": { "type": "Point", "coordinates": [ 131.40251593, 32.10261281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字藤田井添１０８３" }, "geometry": { "type": "Point", "coordinates": [ 131.364284809999987, 32.07259894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市下川東４-５８７２-１" }, "geometry": { "type": "Point", "coordinates": [ 131.077512180000014, 31.74838267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町江平７１３-８" }, "geometry": { "type": "Point", "coordinates": [ 131.09107938, 31.8889531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町大牟田１３０８-３" }, "geometry": { "type": "Point", "coordinates": [ 131.07100707, 31.87115757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町石山字川原田３０２９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.13046384, 31.84799449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町大井手２６４７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.13422184, 31.80051747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高野町３０７４-1" }, "geometry": { "type": "Point", "coordinates": [ 130.95191978, 31.81091972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町山田２７７９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.03541958, 31.80275243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町山田４３０１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.0418032, 31.81634414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山之口町花木２００３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.1544093, 31.77988886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市庄内町８６７７" }, "geometry": { "type": "Point", "coordinates": [ 131.02071817, 31.76991636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上水流町２４５２-１" }, "geometry": { "type": "Point", "coordinates": [ 131.09545716, 31.81555514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市早鈴町１３９７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.074717670000013, 31.71292173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市太郎坊町１９２８-1" }, "geometry": { "type": "Point", "coordinates": [ 131.09231358, 31.77918734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市南鷹尾町１９１６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.042039069999987, 31.71875797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市梅北１２２３６" }, "geometry": { "type": "Point", "coordinates": [ 131.05927813, 31.67860222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡綾町大字南俣３２７-３" }, "geometry": { "type": "Point", "coordinates": [ 131.255854559999989, 31.99843505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字三名１３９５-１、１３９６-１、１３９７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.34363088, 32.00312293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字南俣大坪2697-12703、2704" }, "geometry": { "type": "Point", "coordinates": [ 131.29269156, 32.03440999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字本庄４４６１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.32595737, 31.98880397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市吾田東２-５-２０" }, "geometry": { "type": "Point", "coordinates": [ 131.3833712, 31.60759535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字宮浦字鳥越２４３４" }, "geometry": { "type": "Point", "coordinates": [ 131.45038865, 31.66969073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字楠原下耕整２９０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.345077620000012, 31.62484363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字毛吉田１０１８" }, "geometry": { "type": "Point", "coordinates": [ 131.34523112, 31.5662965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町中村乙６５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.369423829999988, 31.53422106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４４５７-２" }, "geometry": { "type": "Point", "coordinates": [ 131.12262381, 31.73274495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字蓼池３６３４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.113692609999987, 31.76203187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市愛宕町3丁目4571" }, "geometry": { "type": "Point", "coordinates": [ 131.67010466, 32.56781357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市出北5丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.683931, 32.57583826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市昭和町2丁目53-3" }, "geometry": { "type": "Point", "coordinates": [ 131.67672965, 32.58837571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市橘通西5丁目5-27" }, "geometry": { "type": "Point", "coordinates": [ 131.42405668, 31.92159192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市高岡町浦之名4301-1" }, "geometry": { "type": "Point", "coordinates": [ 131.27242621, 31.95066124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市新別府町堂ノ前810-1" }, "geometry": { "type": "Point", "coordinates": [ 131.45311296, 31.92586862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町加納乙136" }, "geometry": { "type": "Point", "coordinates": [ 131.408487, 31.88237953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字瓜生野字上野2190" }, "geometry": { "type": "Point", "coordinates": [ 131.38689091, 31.96844102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町乙7245-7" }, "geometry": { "type": "Point", "coordinates": [ 131.29162187, 31.83697071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方5733-4" }, "geometry": { "type": "Point", "coordinates": [ 131.23108382, 31.4634147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字奈留字園田5282" }, "geometry": { "type": "Point", "coordinates": [ 131.24693263, 31.51181573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字新田8224-15" }, "geometry": { "type": "Point", "coordinates": [ 131.44190777, 32.07234634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字日置1595-2" }, "geometry": { "type": "Point", "coordinates": [ 131.50063995, 32.07546808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市真方445-1" }, "geometry": { "type": "Point", "coordinates": [ 130.98705851, 31.99115119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市北西方字橋谷2942-2" }, "geometry": { "type": "Point", "coordinates": [ 130.90861768, 32.03363338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町縄瀬1678" }, "geometry": { "type": "Point", "coordinates": [ 131.085564299999987, 31.85660728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町穂満坊635" }, "geometry": { "type": "Point", "coordinates": [ 131.12319541, 31.7987018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町有水114-4" }, "geometry": { "type": "Point", "coordinates": [ 131.13841697, 31.85441158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山之口町花木2306-6" }, "geometry": { "type": "Point", "coordinates": [ 131.15416883, 31.78660075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山之口町山之口3108" }, "geometry": { "type": "Point", "coordinates": [ 131.16445933, 31.80004574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字本庄967-2" }, "geometry": { "type": "Point", "coordinates": [ 131.35171248, 31.9890482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字財光寺沖の原958-2" }, "geometry": { "type": "Point", "coordinates": [ 131.63077411, 32.40873812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市吾田東10丁目8-6" }, "geometry": { "type": "Point", "coordinates": [ 131.376699589999987, 31.6152605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市安賀多町4−1−1" }, "geometry": { "type": "Point", "coordinates": [ 131.66869404, 32.57347876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市大瀬町1−7−3" }, "geometry": { "type": "Point", "coordinates": [ 131.66568161, 32.57482633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市別府町3166−1" }, "geometry": { "type": "Point", "coordinates": [ 131.68395708, 32.5706655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町新町2−2−6" }, "geometry": { "type": "Point", "coordinates": [ 131.39666397, 31.85499386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町水流5153−6" }, "geometry": { "type": "Point", "coordinates": [ 131.401337360000014, 31.91194337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町中須４丁目６" }, "geometry": { "type": "Point", "coordinates": [ 131.64993042, 32.46982436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市原田２２９８−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.869971959999987, 32.03239105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市杉水流砂吐８１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.87365731, 32.04576205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字上江字妙見８２８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.85751542, 32.0304878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市塩浜町４−１７１７" }, "geometry": { "type": "Point", "coordinates": [ 131.67418823, 32.53876238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市貝の畑２９１５" }, "geometry": { "type": "Point", "coordinates": [ 131.59545047, 32.56962744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市塩路字江良の上２８４１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.46930205000001, 31.97458612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市学園木花台１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.41919212, 31.83154334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市橘通東５−４−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.42532638, 31.92375416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市月見ケ丘６" }, "geometry": { "type": "Point", "coordinates": [ 131.411165899999986, 31.8800517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市恒久本郷北方字大丸４６" }, "geometry": { "type": "Point", "coordinates": [ 131.431588729999987, 31.87264098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町西原１３０１" }, "geometry": { "type": "Point", "coordinates": [ 131.39444525, 31.921598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大坪西２丁目６２０８番地" }, "geometry": { "type": "Point", "coordinates": [ 131.399902379999986, 31.89617197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町甲３０６４" }, "geometry": { "type": "Point", "coordinates": [ 131.29949574, 31.83162861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市平和が丘北町３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.415383850000012, 31.96005892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町川北４８０２" }, "geometry": { "type": "Point", "coordinates": [ 131.555581569999987, 32.25370369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市仲町愛宕下７１" }, "geometry": { "type": "Point", "coordinates": [ 130.98040619, 31.99454399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町三田井６３３２−５" }, "geometry": { "type": "Point", "coordinates": [ 131.319845210000011, 32.70527244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町三ケ野３０３１" }, "geometry": { "type": "Point", "coordinates": [ 131.030220070000013, 31.97301183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町東麓２３３４" }, "geometry": { "type": "Point", "coordinates": [ 131.10011963, 31.95865912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市妻１２３９" }, "geometry": { "type": "Point", "coordinates": [ 131.40344689, 32.10704815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市花繰町２０−７" }, "geometry": { "type": "Point", "coordinates": [ 131.086991399999988, 31.72635133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市吉尾町６２０９" }, "geometry": { "type": "Point", "coordinates": [ 131.08383179, 31.75814342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市郡元町３２４３" }, "geometry": { "type": "Point", "coordinates": [ 131.09146883, 31.74336223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市甲斐元町１４−４２" }, "geometry": { "type": "Point", "coordinates": [ 131.061090799999988, 31.71598764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高城町有水３４２３" }, "geometry": { "type": "Point", "coordinates": [ 131.13862348, 31.85533322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町山田３８９０" }, "geometry": { "type": "Point", "coordinates": [ 131.03971166, 31.81622518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市志比田町３７６１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.05192716, 31.7317703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市志比田町５６１３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.061433419999986, 31.74538295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上長飯町６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.08284966, 31.71916479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市前田町８−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.06923838, 31.72880916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市早水町２９−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.09830711, 31.73409538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市大王町１０６７" }, "geometry": { "type": "Point", "coordinates": [ 131.06230918, 31.73005399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町５９２８" }, "geometry": { "type": "Point", "coordinates": [ 131.088815399999987, 31.76389513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町７０３６番地" }, "geometry": { "type": "Point", "coordinates": [ 131.103367279999986, 31.76940029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都北町７６８２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.09649672, 31.77137241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市梅北町２３５２" }, "geometry": { "type": "Point", "coordinates": [ 131.05987277, 31.68354925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市北原町１１０６" }, "geometry": { "type": "Point", "coordinates": [ 131.0746695, 31.73281265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡椎葉村下福良１７７９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.15817132, 32.46715204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡東郷町下三ケ１９８８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.39945359, 32.33721313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡綾町南俣３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.256758459999986, 31.998477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡綾町入野３４９３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.26694353, 31.99952444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県南那珂郡北郷町郷之原" }, "geometry": { "type": "Point", "coordinates": [ 131.37547508, 31.67779771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市吉野方６４５" }, "geometry": { "type": "Point", "coordinates": [ 131.328571899999986, 31.62648308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市星倉２−１−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.367255879999988, 31.62761469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市萩之嶺宮田道越５０４８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.329485760000011, 31.56065381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市風田字浜山下の切３５" }, "geometry": { "type": "Point", "coordinates": [ 131.418582570000012, 31.60677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４５１４" }, "geometry": { "type": "Point", "coordinates": [ 131.1211671, 31.73237108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町蓼池" }, "geometry": { "type": "Point", "coordinates": [ 131.118516160000013, 31.76434616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市原田３２０３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.86538373, 32.04278274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市高千穂通５−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.66501488, 32.58577839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市大貫町３−３０４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65857591, 32.57740375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市浜町５０８４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.68104969, 32.56052809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市平原町２−１４５４" }, "geometry": { "type": "Point", "coordinates": [ 131.675482030000012, 32.55050301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町川水流卯６８０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.524986039999987, 32.56281287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市下北方町井手下南１８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.421263180000011, 31.94427805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市橘通り西４−２−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.42319623, 31.91797421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市高岡町花見２０９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.323317800000012, 31.94644941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町下田島２０１１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.47677126, 32.01827219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市新別府町堂前８４６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.45338386, 31.92490446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市神宮東３−１−８" }, "geometry": { "type": "Point", "coordinates": [ 131.429778309999989, 31.93688901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大工３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.408789250000012, 31.91560852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字新名爪１３１−８" }, "geometry": { "type": "Point", "coordinates": [ 131.440016750000012, 31.97292039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町京園３１８６" }, "geometry": { "type": "Point", "coordinates": [ 131.398898370000012, 31.91210208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大島町前田３５９" }, "geometry": { "type": "Point", "coordinates": [ 131.44163974, 31.9445287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町甲２８２５−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.300182330000013, 31.83662912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市東大淀２−１−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.42369695, 31.89711592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市浮城町１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4372148, 31.93138257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市木原４６０７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40670056, 31.84306411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町蚊口浦５５０７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52661744, 32.11828385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北５１０６" }, "geometry": { "type": "Point", "coordinates": [ 131.55970679, 32.2608258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野１２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96816112, 31.99625454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市大字堤２９９７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.99512107000001, 31.98253951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字下三財３３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35885708, 32.06189769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市花繰町１５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.084644489999988, 31.72598864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町前田２３６９" }, "geometry": { "type": "Point", "coordinates": [ 131.04266071, 31.90436572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町大牟田１１５９" }, "geometry": { "type": "Point", "coordinates": [ 131.07060478, 31.87236263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山之口町富吉３５８１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.13646638, 31.77054852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市西町３７４１" }, "geometry": { "type": "Point", "coordinates": [ 131.0536018, 31.7195352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市平江町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.06807471, 31.73195305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡綾町大字南俣６４５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.253342159999988, 31.99843524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字竹田８２４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.29074798, 31.99770457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字本庄４８６８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.31974883, 31.99045053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市財光寺１８０９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.62925966, 32.39568461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市園田１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.39840432, 31.59061629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市上平野町１−６−７" }, "geometry": { "type": "Point", "coordinates": [ 131.383710330000014, 31.59892114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市星倉３−８−８" }, "geometry": { "type": "Point", "coordinates": [ 131.369148349999989, 31.62405625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市萩町１２" }, "geometry": { "type": "Point", "coordinates": [ 131.67145713, 32.59076232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市平原町５−１５０５−５" }, "geometry": { "type": "Point", "coordinates": [ 131.67749361, 32.54576334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字本郷南方字石原１９７６１" }, "geometry": { "type": "Point", "coordinates": [ 131.43498244, 31.85457428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字原田乙2734-88" }, "geometry": { "type": "Point", "coordinates": [ 130.867588180000013, 32.03566785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市出北3-15-10" }, "geometry": { "type": "Point", "coordinates": [ 131.683320110000011, 32.5739105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市松山町1221-165" }, "geometry": { "type": "Point", "coordinates": [ 131.639065789999989, 32.58346281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市浜砂1-107-4" }, "geometry": { "type": "Point", "coordinates": [ 131.68288067, 32.57845557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町角田丑368" }, "geometry": { "type": "Point", "coordinates": [ 131.547849469999989, 32.5621036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎郡清武町加納甲2733-1" }, "geometry": { "type": "Point", "coordinates": [ 131.39260772, 31.86888249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市旭1-6-22" }, "geometry": { "type": "Point", "coordinates": [ 131.42756911, 31.90825629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市下北方二反五畝5389-3" }, "geometry": { "type": "Point", "coordinates": [ 131.40613742, 31.9486132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市吉村町長田甲2371-1" }, "geometry": { "type": "Point", "coordinates": [ 131.44709826, 31.91110625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市源藤町字源藤866-5" }, "geometry": { "type": "Point", "coordinates": [ 131.40936002, 31.88585011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市広原234-1" }, "geometry": { "type": "Point", "coordinates": [ 131.43946584, 31.9958199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市山崎町上原1110-1" }, "geometry": { "type": "Point", "coordinates": [ 131.46269824, 31.95594355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字新名爪字二月田1730-1" }, "geometry": { "type": "Point", "coordinates": [ 131.43914476, 31.97369625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字本郷南方字辻原4013" }, "geometry": { "type": "Point", "coordinates": [ 131.43229899, 31.86503624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町地蔵田4694" }, "geometry": { "type": "Point", "coordinates": [ 131.39286956, 31.90732762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市谷川町3-100-1" }, "geometry": { "type": "Point", "coordinates": [ 131.411872429999988, 31.90413778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町乙9379" }, "geometry": { "type": "Point", "coordinates": [ 131.29840199, 31.83734391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字上江8175" }, "geometry": { "type": "Point", "coordinates": [ 131.504474679999987, 32.134084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南12751" }, "geometry": { "type": "Point", "coordinates": [ 131.53520634, 32.21004548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡木城町大字椎木4059" }, "geometry": { "type": "Point", "coordinates": [ 131.46690565, 32.15787382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字右松字三反田2191-1" }, "geometry": { "type": "Point", "coordinates": [ 131.39977141, 32.09924114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町西栄町4-48" }, "geometry": { "type": "Point", "coordinates": [ 131.645459280000011, 32.47987646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町大字加草1015" }, "geometry": { "type": "Point", "coordinates": [ 131.667124910000013, 32.4874556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町東栄町2-5-15" }, "geometry": { "type": "Point", "coordinates": [ 131.6510203, 32.47789097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町宮王丸袴田657" }, "geometry": { "type": "Point", "coordinates": [ 131.34581646, 31.99032992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東諸県郡国富町大字伊左生53番地" }, "geometry": { "type": "Point", "coordinates": [ 131.33933037, 32.01639408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市亀崎西1-66" }, "geometry": { "type": "Point", "coordinates": [ 131.6278208, 32.43723964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市曽根江良町4-43" }, "geometry": { "type": "Point", "coordinates": [ 131.642055090000014, 32.42124307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字財光寺字沖ノ下3149-1" }, "geometry": { "type": "Point", "coordinates": [ 131.62564789000001, 32.40561153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市本町15-11" }, "geometry": { "type": "Point", "coordinates": [ 131.62658592, 32.42301104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字戸高1丁目2-5" }, "geometry": { "type": "Point", "coordinates": [ 131.37819747, 31.60089006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市小田３６８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.81489023, 32.04550787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市上江６５９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.86484288, 32.02946627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市熊野江町２４５４−３７" }, "geometry": { "type": "Point", "coordinates": [ 131.78194369, 32.67587163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北浦町古江２４０２" }, "geometry": { "type": "Point", "coordinates": [ 131.820746390000011, 32.70588852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市丸山２−３１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.42134352, 31.93012405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市橘通東３−８−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.42464408, 31.91409626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市宮脇町９２" }, "geometry": { "type": "Point", "coordinates": [ 131.43631222, 31.91532243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市江平東２−１−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.4270927, 31.92927024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町上田島１８５９" }, "geometry": { "type": "Point", "coordinates": [ 131.43208422, 32.05010118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市新別府町上和田１３３９" }, "geometry": { "type": "Point", "coordinates": [ 131.45683957, 31.92072508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大塚町横立１３７９" }, "geometry": { "type": "Point", "coordinates": [ 131.39265088, 31.9219007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大島町前田３３３" }, "geometry": { "type": "Point", "coordinates": [ 131.441002270000013, 31.94373876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市島之内５８０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.46165624, 31.99523708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市東大淀２−１５０" }, "geometry": { "type": "Point", "coordinates": [ 131.420428859999987, 31.89407719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市本郷北方３５７０" }, "geometry": { "type": "Point", "coordinates": [ 131.42259367, 31.86974205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町川南銀座" }, "geometry": { "type": "Point", "coordinates": [ 131.5079777, 32.23206368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町平田１６８０" }, "geometry": { "type": "Point", "coordinates": [ 131.52910076, 32.19981937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野１７２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.97793804, 31.9961131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町七折３２１０" }, "geometry": { "type": "Point", "coordinates": [ 131.392010269999986, 32.64813106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町広原" }, "geometry": { "type": "Point", "coordinates": [ 130.98753721, 31.9599628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡野尻町三ケ野山１５９９" }, "geometry": { "type": "Point", "coordinates": [ 131.0638092, 31.97764234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市吉之元町４７９" }, "geometry": { "type": "Point", "coordinates": [ 130.90707138, 31.83553287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市久保原町３−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.03407594, 31.71882444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上町１街区１４号" }, "geometry": { "type": "Point", "coordinates": [ 131.06096287, 31.72145372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡東郷町山陰乙９９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.54892286, 32.39283335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡東郷町大字山陰１４９０" }, "geometry": { "type": "Point", "coordinates": [ 131.550847659999988, 32.39310005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町北郷区宇納間５８" }, "geometry": { "type": "Point", "coordinates": [ 131.442258259999988, 32.50240974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町宮村１７７５" }, "geometry": { "type": "Point", "coordinates": [ 131.121204049999989, 31.70982874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市千町５２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.080111570000014, 31.73873957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字小松６７２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40070939, 31.93819102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市郡司分字五反田９８９２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.41830273, 31.86589585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋４７８８−５" }, "geometry": { "type": "Point", "coordinates": [ 131.521052809999986, 32.12629484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市上平野町2-14-1" }, "geometry": { "type": "Point", "coordinates": [ 131.38798122, 31.59494807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町西郷区田代８２７５" }, "geometry": { "type": "Point", "coordinates": [ 131.43351381, 32.45650325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市清武町加納2-10-2" }, "geometry": { "type": "Point", "coordinates": [ 131.39880693, 31.87315869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市別府町４４４５-２" }, "geometry": { "type": "Point", "coordinates": [ 131.68138391, 32.56327471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市南花ヶ島町１８５" }, "geometry": { "type": "Point", "coordinates": [ 131.42994205, 31.94040744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大堂津３−８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.38161815, 31.55675788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋８１５" }, "geometry": { "type": "Point", "coordinates": [ 131.50982568, 32.13405113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市野地町1丁目4153番地7" }, "geometry": { "type": "Point", "coordinates": [ 131.64282834, 32.57365834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市安賀多町4丁目4番6号" }, "geometry": { "type": "Point", "coordinates": [ 131.668586370000014, 32.5723412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市牟田町27街区12" }, "geometry": { "type": "Point", "coordinates": [ 131.061061810000012, 31.72888954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市川原崎町484-1" }, "geometry": { "type": "Point", "coordinates": [ 131.67731502, 32.59570728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市鷹尾５丁目１−５１" }, "geometry": { "type": "Point", "coordinates": [ 131.03788336, 31.72440049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市亀崎西１−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.627201789999987, 32.43927636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町新田４７９８" }, "geometry": { "type": "Point", "coordinates": [ 131.45410325, 32.06700402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県延岡市別府町３５７２" }, "geometry": { "type": "Point", "coordinates": [ 131.683564100000012, 32.56739919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県都城市平江町３８−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.062785420000012, 31.73699799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県日南市瀬貝２−１−４８" }, "geometry": { "type": "Point", "coordinates": [ 131.40106517000001, 31.59363831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市祇園２−５８" }, "geometry": { "type": "Point", "coordinates": [ 131.41092161, 31.92914763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市佐土原町下田島１２２１９−８３" }, "geometry": { "type": "Point", "coordinates": [ 131.46920075, 32.03597928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県延岡市昭和町３−２７" }, "geometry": { "type": "Point", "coordinates": [ 131.685327, 32.58954761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県東臼杵郡門川町加草３−３６" }, "geometry": { "type": "Point", "coordinates": [ 131.664023250000014, 32.49183552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県西都市御舟町１−８８" }, "geometry": { "type": "Point", "coordinates": [ 131.40304957, 32.11051447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県東臼杵郡門川町大字門川尾末１０８３６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.63641135, 32.49350633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県児湯郡高鍋町南高鍋６３０８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.52856029, 32.11535006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市小戸町９２−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.454288279999986, 31.9028715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県都城市平江町２２−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.06941459, 31.73576646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町大字西麓１３０７" }, "geometry": { "type": "Point", "coordinates": [ 131.01258686, 31.92959987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字三宅２９５０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.399250310000014, 32.09719626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方１４７６９" }, "geometry": { "type": "Point", "coordinates": [ 131.20837554, 31.4548065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字西方７２９５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.221536429999986, 31.45868117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字岡富８６７" }, "geometry": { "type": "Point", "coordinates": [ 131.411599, 32.07727314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字尾八重４１０−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.26421744000001, 32.21828856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字調殿１０５５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.41222033, 32.11244651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市美々津町１２８１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.590155610000011, 32.31579011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字水流３８３" }, "geometry": { "type": "Point", "coordinates": [ 130.7656107, 32.05403605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市田野町甲２９８８" }, "geometry": { "type": "Point", "coordinates": [ 131.303913419999986, 31.83660821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市佐土原町東上那珂１５９００" }, "geometry": { "type": "Point", "coordinates": [ 131.42955971, 32.03029727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市右松２０７１" }, "geometry": { "type": "Point", "coordinates": [ 131.40423306, 32.10368459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野８４" }, "geometry": { "type": "Point", "coordinates": [ 130.98058669, 31.99408968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市浜町３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67962914, 32.55682856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市今町２丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.36120164, 31.6304781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字風田３８２５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.421791899999988, 31.61270441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大字平山２２８５" }, "geometry": { "type": "Point", "coordinates": [ 131.41350502, 31.59935187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市岩崎２丁目２−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.39896549, 31.58873864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市星倉４８４０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.371621760000011, 31.61728889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市細野１１" }, "geometry": { "type": "Point", "coordinates": [ 130.98278387, 31.99175697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字串間１４７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.242847930000011, 31.48215408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市真方１７６５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.98277736, 32.00536632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市南西方７７４８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.917772649999989, 31.97923721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市南西方３６２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.920011280000011, 32.00747207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市新生町１丁目１１３" }, "geometry": { "type": "Point", "coordinates": [ 131.631158770000013, 32.41974979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字平岩５３９" }, "geometry": { "type": "Point", "coordinates": [ 131.62649811, 32.36774569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字財光寺３７６−８" }, "geometry": { "type": "Point", "coordinates": [ 131.634154919999986, 32.41204806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市南郷町中村甲１２９９" }, "geometry": { "type": "Point", "coordinates": [ 131.36399265, 31.54981012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市大堂津３丁目１１−７" }, "geometry": { "type": "Point", "coordinates": [ 131.38133606, 31.5569488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字三田井１０２５" }, "geometry": { "type": "Point", "coordinates": [ 131.30228732, 32.70585536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市北郷町郷之原１５３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.37457841, 31.68963155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡美郷町南郷区上渡川６１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.25054391, 32.34557092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町川水流卯１３６４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.52332999, 32.5608022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町滝下未３８−７" }, "geometry": { "type": "Point", "coordinates": [ 131.46652813, 32.60749556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北川町川内名１０５１９−６２" }, "geometry": { "type": "Point", "coordinates": [ 131.57720927, 32.71713138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡諸塚村大字家代２６３９−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.330571600000013, 32.51003581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡椎葉村大字不土野１０５８" }, "geometry": { "type": "Point", "coordinates": [ 131.07512977, 32.49095526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町南町３丁目１８" }, "geometry": { "type": "Point", "coordinates": [ 131.64530807, 32.45792484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字三田井６３１６−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.31987501, 32.70463108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北山末１６９９６" }, "geometry": { "type": "Point", "coordinates": [ 131.577394379999987, 32.29429611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡五ヶ瀬町大字鞍岡１４７３−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.15918026, 32.65200708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡五ケ瀬町大字三ヶ所２１５２" }, "geometry": { "type": "Point", "coordinates": [ 131.20146272, 32.6800841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市北方町藤の木酉１２９４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51826791, 32.5999098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上長飯町４４−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.08991659, 31.71550336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町大字後川内２６６９" }, "geometry": { "type": "Point", "coordinates": [ 131.06929943, 31.92450595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市土々呂町３丁目６４９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.68258678, 32.51365268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市吾田東４丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.37685774, 31.60882293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡高千穂町大字上野２６８" }, "geometry": { "type": "Point", "coordinates": [ 131.2982016, 32.75544038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市須木下田７４０" }, "geometry": { "type": "Point", "coordinates": [ 131.07961334, 32.06711232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市安久町６０６０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07764307, 31.69994705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４０７３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.127351479999987, 31.73332823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４５２１" }, "geometry": { "type": "Point", "coordinates": [ 131.11656188, 31.73220612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町山田３０６４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.046655390000012, 31.80052313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市山田町山田９６５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.008642, 31.81692206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町縄瀬２８２８" }, "geometry": { "type": "Point", "coordinates": [ 131.11128055, 31.86112064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県東臼杵郡門川町加草２丁目１３２" }, "geometry": { "type": "Point", "coordinates": [ 131.66266223, 32.49426581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町大字広原１０６７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.984248330000014, 31.96221274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市高岡町浦之名２８８７" }, "geometry": { "type": "Point", "coordinates": [ 131.26908544, 31.95146883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡高鍋町大字北高鍋４４８０" }, "geometry": { "type": "Point", "coordinates": [ 131.51511109, 32.13150082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町富田南１丁目１１１" }, "geometry": { "type": "Point", "coordinates": [ 131.48908717, 32.06483246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字三納代１９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.497271540000014, 32.07491279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡木城町大字石河内３９６−４" }, "geometry": { "type": "Point", "coordinates": [ 131.41425465, 32.21952343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北４８１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.55628201, 32.25536401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北名貫６３１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.5495713, 32.24487218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町大字蒲牟田３９５８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.981608740000013, 31.91004659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市川島町２９６６" }, "geometry": { "type": "Point", "coordinates": [ 131.69396934, 32.61578746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市小松原町１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.0706084, 31.73524389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市波島２丁目１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.44792695000001, 31.93789778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市花ケ島町笹原２３１０" }, "geometry": { "type": "Point", "coordinates": [ 131.431708609999987, 31.94024156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市吉村町平塚１８７５" }, "geometry": { "type": "Point", "coordinates": [ 131.4398089, 31.92044955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市港東１丁目１１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.459840969999988, 31.89738486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市岩満町３８９−３" }, "geometry": { "type": "Point", "coordinates": [ 131.08828053, 31.83757877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字塩路２９０３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4723488, 31.98259208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市菓子野町１０２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.05478519, 31.78440442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市祇園１丁目１１７" }, "geometry": { "type": "Point", "coordinates": [ 131.411366539999989, 31.92736545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市栄町４６７２−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.07838959, 31.7348337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市庄内町７９５０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.013099219999987, 31.77095512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高木町４３４３" }, "geometry": { "type": "Point", "coordinates": [ 131.10670214000001, 31.79150471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市松元町３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.05421077, 31.72240889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市丸谷町４５８−５" }, "geometry": { "type": "Point", "coordinates": [ 131.06198559, 31.81553917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市安久町５９１９" }, "geometry": { "type": "Point", "coordinates": [ 131.083664, 31.69109079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市乙房町３８６−４" }, "geometry": { "type": "Point", "coordinates": [ 131.05688017, 31.76154255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字島之内１０２１４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.45967749, 31.97212358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市旭ケ丘２丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.681522519999987, 32.52895878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市青島２丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.46737879, 31.80249853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市阿波岐原町宝財２４１３" }, "geometry": { "type": "Point", "coordinates": [ 131.45512009, 31.93307303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市南西方６７６１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.89816801, 32.01253366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市平江町５−９" }, "geometry": { "type": "Point", "coordinates": [ 131.06828696, 31.73313612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市下長飯町１９５１" }, "geometry": { "type": "Point", "coordinates": [ 131.05958231, 31.70777943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字浮田３１１７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.37750215, 31.92856083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県串間市大字串間１１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.2486874, 31.49387781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市早鈴町２０８１" }, "geometry": { "type": "Point", "coordinates": [ 131.0750643, 31.71366733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市志比田町５８３５−６" }, "geometry": { "type": "Point", "coordinates": [ 131.057189920000013, 31.743549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市千町４３５１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.08865914, 31.73752756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市西小路１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.66097937, 32.57253153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上水流町２３５２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.09606826000001, 31.81142231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字小松１２０３−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.40249974, 31.93345533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市花ケ島町小無田６７０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.43752694, 31.95956805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市一万城町２９−３１" }, "geometry": { "type": "Point", "coordinates": [ 131.0911879, 31.72185904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市右松６９２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.410502580000013, 32.09091096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県えびの市大字杉水流１０５" }, "geometry": { "type": "Point", "coordinates": [ 130.87741151, 32.04585158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市上長飯町２４１６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.08572077, 31.71234332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市堤２９２３−６" }, "geometry": { "type": "Point", "coordinates": [ 130.990938089999986, 31.98550967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字島之内永池９２１７−５８" }, "geometry": { "type": "Point", "coordinates": [ 131.45455972, 31.97761693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字芳士３７６５−５" }, "geometry": { "type": "Point", "coordinates": [ 131.4576333, 31.96576909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市鷹尾１丁目３８９２" }, "geometry": { "type": "Point", "coordinates": [ 131.04758375, 31.72705074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字山田３７７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.354794, 32.05351848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大字新名爪１４１" }, "geometry": { "type": "Point", "coordinates": [ 131.44050381, 31.97461435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市永江町１丁目８５" }, "geometry": { "type": "Point", "coordinates": [ 131.64026614, 32.42599934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市平原町５丁目１４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67735083, 32.55096202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市大字財光寺１００６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.631974320000012, 32.4087744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県小林市須木下田１２４５" }, "geometry": { "type": "Point", "coordinates": [ 131.07490003, 32.07330637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市大島町前田３１２" }, "geometry": { "type": "Point", "coordinates": [ 131.44074741, 31.9426991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県北諸県郡三股町大字樺山４７１７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.110024720000013, 31.73311619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市都原町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.04015788000001, 31.7393568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市下北方町常盤元９９７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4259176, 31.94208914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市広島２丁目５−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.42853754, 31.9156775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県えびの市大字向江７４２" }, "geometry": { "type": "Point", "coordinates": [ 130.7638026, 32.05009754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市中村東２丁目９−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.4199444, 31.90006798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県日向市大字日知屋古田町１１２" }, "geometry": { "type": "Point", "coordinates": [ 131.65051559, 32.42264985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県延岡市粟野名町１９４８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.684518340000011, 32.59644149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市松山１丁目７−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.42649357, 31.9078201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県都城市甲斐元町１−２９" }, "geometry": { "type": "Point", "coordinates": [ 131.06121575, 31.71742361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県小林市三ケ野山３８６９−６" }, "geometry": { "type": "Point", "coordinates": [ 131.05514599, 31.97331246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市日ノ出町１５６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.45252727, 31.90637382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市佐土原町下田島９８５３−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.47626609, 32.02471832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県日向市美々津町３３５６" }, "geometry": { "type": "Point", "coordinates": [ 131.61156756, 32.33558644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県小林市細野１９２０" }, "geometry": { "type": "Point", "coordinates": [ 130.978889689999988, 31.99139553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県延岡市鯛名町７２９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.698103519999989, 32.50644678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県延岡市島浦町７４１" }, "geometry": { "type": "Point", "coordinates": [ 131.81419105, 32.66605802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県延岡市小野町７−８" }, "geometry": { "type": "Point", "coordinates": [ 131.65128918, 32.55407677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市田野町甲１０５３２" }, "geometry": { "type": "Point", "coordinates": [ 131.293743619999987, 31.81949796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県延岡市平原町５丁目１４９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.677826290000013, 32.55059199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県東諸県郡国富町大字深年３８１２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.29088504, 32.0223901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県都城市菖蒲原町２１−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.08404421, 31.73097856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県日南市今町２丁目８−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.36255087, 31.63146824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県東諸県郡国富町大字本庄１７４２−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.33748508, 31.98968241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市高岡町内山２８５３" }, "geometry": { "type": "Point", "coordinates": [ 131.29977187, 31.95836699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市花ケ島町鴨ノ丸８２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.43640222, 31.95450447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県都城市牟田町１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.06164322, 31.72637266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市出来島町４９" }, "geometry": { "type": "Point", "coordinates": [ 131.43708164, 31.90247171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県都城市上川東１丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.07223101, 31.73809968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市橘通東３丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 131.424032399999987, 31.91484962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県宮崎市末広１丁目７−４" }, "geometry": { "type": "Point", "coordinates": [ 131.41753304, 31.91163308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡新富町大字新田８２１０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.44357628, 32.07225757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西諸県郡高原町大字西麓３２５３" }, "geometry": { "type": "Point", "coordinates": [ 131.02041132, 31.93573232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡川南町大字川南１３６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52538257, 32.19693559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮崎県児湯郡都農町大字川北駅通４７５７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.55846333, 32.25555071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県児湯郡都農町大字川北駅通４６０２" }, "geometry": { "type": "Point", "coordinates": [ 131.55896701, 32.2543462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県えびの市大字大明司１０２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.828552300000013, 32.05004755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市小松前田２６９１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.38417651, 31.92738046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市大字赤江字飛江田１８０３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.44052661, 31.88002156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県宮崎市大字赤江字飛江田８７８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.441747490000012, 31.8829386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県串間市大字西方仮屋下５６２７" }, "geometry": { "type": "Point", "coordinates": [ 131.226752979999986, 31.46334634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県串間市大字南方紺屋園４９１" }, "geometry": { "type": "Point", "coordinates": [ 131.23528708, 31.45908844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県児湯郡川南町大字川南１３６７６" }, "geometry": { "type": "Point", "coordinates": [ 131.52639432, 32.19334197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県小林市大字北西方１６５−２（種子田）" }, "geometry": { "type": "Point", "coordinates": [ 130.959022409999989, 32.00461803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県西臼杵郡高千穂町三田井上原６５０９" }, "geometry": { "type": "Point", "coordinates": [ 131.314361960000014, 32.70460079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県都城市今町９０６９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.04281294, 31.700855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県日向市大字日知屋字亀川１７３３０" }, "geometry": { "type": "Point", "coordinates": [ 131.636247020000013, 32.43211357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮崎県日南市大字隈谷字川北１７８８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.37116899, 31.58183184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県延岡市中川原２−４９２０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.67278083, 32.59568644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市跡江宮の馬場８５０−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.39354688, 31.94921203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西臼杵郡日之影町大字岩井川３３７８-２" }, "geometry": { "type": "Point", "coordinates": [ 131.384815769999989, 32.65456296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字清水字溝下１６０９-８" }, "geometry": { "type": "Point", "coordinates": [ 131.383783670000014, 32.09598407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県西都市大字南方土木手３３７４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.396136750000011, 32.12779583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県都城市高崎町大字大牟田字高坂上１９２３−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.07261972, 31.87076743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日南市郷之原乙２１５５" }, "geometry": { "type": "Point", "coordinates": [ 131.37155475, 31.67272935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県日向市日知屋古田町61-1" }, "geometry": { "type": "Point", "coordinates": [ 131.653275290000011, 32.424873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮崎県宮崎市下北方町垣下１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.42114497, 31.94311188 ] } }
+
+]
+}

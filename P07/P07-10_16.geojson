@@ -1,0 +1,1170 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市牛島新町４−４" }, "geometry": { "type": "Point", "coordinates": [ 137.21801012, 36.70271133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市梅沢町３丁目１８" }, "geometry": { "type": "Point", "coordinates": [ 137.22126154, 36.68318356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市越前町１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.210402179999988, 36.68933817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市大泉東町１丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.22975559, 36.68367826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市大島２丁目７１０" }, "geometry": { "type": "Point", "coordinates": [ 137.27153135, 36.67186672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市掛尾町４０２" }, "geometry": { "type": "Point", "coordinates": [ 137.20974653, 36.66513576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市掛尾町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.21417309, 36.6616391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市問屋町１丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 137.24837858, 36.70293431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市北代江先２３５３" }, "geometry": { "type": "Point", "coordinates": [ 137.17880674, 36.72934044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市久郷６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.179734380000014, 36.68202631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市窪本町１７−２９" }, "geometry": { "type": "Point", "coordinates": [ 137.227367390000012, 36.70174222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市公文名４−９" }, "geometry": { "type": "Point", "coordinates": [ 137.236529499999989, 36.67726066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市呉羽町６４４４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.16729636, 36.71139815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市呉羽町６４７１" }, "geometry": { "type": "Point", "coordinates": [ 137.16669427, 36.71212805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市呉羽町３０２３" }, "geometry": { "type": "Point", "coordinates": [ 137.16262748, 36.71370854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市黒崎１７０" }, "geometry": { "type": "Point", "coordinates": [ 137.21020409, 36.65537054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市清水元町６−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.23073739, 36.68613355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市清水町３丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.22399803, 36.68856915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下新町２９−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.21684185, 36.70899641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下堀９" }, "geometry": { "type": "Point", "coordinates": [ 137.22541707, 36.66299194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄町銀座１８４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.25865266, 36.70793381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市城村１" }, "geometry": { "type": "Point", "coordinates": [ 137.26408618, 36.64428104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市宝町１丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 137.210400420000013, 36.70058338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市宝町２丁目１−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.20874079, 36.69958485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市館出町１丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23047265, 36.69434618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市田中町５丁目４−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.24469457, 36.69582536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市茶屋町新長割２５" }, "geometry": { "type": "Point", "coordinates": [ 137.178896189999989, 36.70913195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市天正寺１０７８" }, "geometry": { "type": "Point", "coordinates": [ 137.25106288, 36.68571456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市天正寺１０５７" }, "geometry": { "type": "Point", "coordinates": [ 137.25163114, 36.68510442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市栃谷３４３" }, "geometry": { "type": "Point", "coordinates": [ 137.13605227, 36.69389356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市豊田町１丁目２７５" }, "geometry": { "type": "Point", "coordinates": [ 137.23454608, 36.72418434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市豊田町１丁目４−３９" }, "geometry": { "type": "Point", "coordinates": [ 137.23381361, 36.72016775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市豊田町２丁目６−２５" }, "geometry": { "type": "Point", "coordinates": [ 137.237428490000013, 36.7237554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中老田１０８２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.13080349, 36.69688167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中川原１３７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25336195, 36.67503327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中島１丁目７−７" }, "geometry": { "type": "Point", "coordinates": [ 137.225081350000011, 36.72578684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中野新町２丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 137.21594671, 36.6821499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新根塚３丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20715511, 36.67903401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市西長江４丁目８−２２" }, "geometry": { "type": "Point", "coordinates": [ 137.237360990000013, 36.68776141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市蜷川２５３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.20925932, 36.64644388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市布市６５２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23629939, 36.64290615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市布瀬町１丁目８−２１" }, "geometry": { "type": "Point", "coordinates": [ 137.20224334, 36.6828444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市根塚町２０３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.206818410000011, 36.67388754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市畑中５４４１" }, "geometry": { "type": "Point", "coordinates": [ 137.197738679999986, 36.70373041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八町７７２６" }, "geometry": { "type": "Point", "coordinates": [ 137.18340637, 36.73074872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市花園町３丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 137.21069318, 36.68074073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市東町１丁目２−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.22528813, 36.69277398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市東町１丁目４−２１" }, "geometry": { "type": "Point", "coordinates": [ 137.22661255, 36.69305468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市二口町５丁目９−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.201677389999986, 36.66697644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷２４１３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.149847310000013, 36.71996954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷町３区２０−６" }, "geometry": { "type": "Point", "coordinates": [ 137.24063292, 36.65783956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷町５区７５−８" }, "geometry": { "type": "Point", "coordinates": [ 137.23816105, 36.66104954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷町５１" }, "geometry": { "type": "Point", "coordinates": [ 137.230703479999988, 36.66804491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本町６−１７" }, "geometry": { "type": "Point", "coordinates": [ 137.21603432, 36.69197333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市町袋４２４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.276744979999989, 36.73322031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市町村３７６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.25900894, 36.67476614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市町村８６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.26249316, 36.67367471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋市江３８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.31442249, 36.75573835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋市田袋１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.29253218, 36.72704956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋沖１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.28754765, 36.71798361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋小出９６６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.31892192, 36.7390047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋小出１２８４" }, "geometry": { "type": "Point", "coordinates": [ 137.311833900000011, 36.73629084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市水橋中村町５１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.30975988, 36.75496363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市向川原町２−３" }, "geometry": { "type": "Point", "coordinates": [ 137.221953750000011, 36.69203249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市安野屋町２丁目５−６" }, "geometry": { "type": "Point", "coordinates": [ 137.20361121, 36.692296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市山室１８０" }, "geometry": { "type": "Point", "coordinates": [ 137.23961624, 36.67682404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市山室１５４" }, "geometry": { "type": "Point", "coordinates": [ 137.24055494000001, 36.67679302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市山室３８２" }, "geometry": { "type": "Point", "coordinates": [ 137.23957822, 36.67195858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市四方荒屋２６００" }, "geometry": { "type": "Point", "coordinates": [ 137.20111907, 36.74965297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市四方北窪２５５８" }, "geometry": { "type": "Point", "coordinates": [ 137.19781919, 36.7552059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市吉岡６６４" }, "geometry": { "type": "Point", "coordinates": [ 137.23194934, 36.63035033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄銀座３丁目１−５６" }, "geometry": { "type": "Point", "coordinates": [ 137.25928559, 36.71320466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷中部１４３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.14862578, 36.72616239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市上野新町２−５４" }, "geometry": { "type": "Point", "coordinates": [ 137.22629182, 36.73560489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市豊田本町２丁目１５−２５" }, "geometry": { "type": "Point", "coordinates": [ 137.23522082, 36.72476941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市今泉西部町３−１２" }, "geometry": { "type": "Point", "coordinates": [ 137.21027343, 36.67159546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市赤祖父５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.02323413, 36.72962052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市赤祖父４７４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.0197614, 36.73025868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市明野町２−９" }, "geometry": { "type": "Point", "coordinates": [ 137.01600217, 36.75601391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市江尻３５１" }, "geometry": { "type": "Point", "coordinates": [ 137.02956525, 36.76081991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市太田１２２８" }, "geometry": { "type": "Point", "coordinates": [ 137.01620545, 36.82169327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市荻布２３３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.033966310000011, 36.76486377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市御馬出町７２" }, "geometry": { "type": "Point", "coordinates": [ 137.00830208, 36.74574417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市上四屋１−３５" }, "geometry": { "type": "Point", "coordinates": [ 137.00614178, 36.75795865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市川原町５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.00826378, 36.74984779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市北島若富町１９０" }, "geometry": { "type": "Point", "coordinates": [ 136.983395550000012, 36.74063092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市京田６６２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.01510299, 36.72658482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市佐野１２０２" }, "geometry": { "type": "Point", "coordinates": [ 137.00072161, 36.72898148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市佐野上佐野１５０１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.99172352, 36.71681523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市佐野佐野新町９６３" }, "geometry": { "type": "Point", "coordinates": [ 136.99733196, 36.72583252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市柴野内島１０２７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.96144892, 36.73037012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市宝来町９０８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9500236, 36.72091171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市昭和町３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.002834799999988, 36.7524574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市宝町１−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.02496647000001, 36.75612543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市上渡４０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.96003278, 36.72899188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市醍醐醍醐夏住１５６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.94848685, 36.68408806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市戸出町４丁目１５３６" }, "geometry": { "type": "Point", "coordinates": [ 136.9742309, 36.68562096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市戸出町４丁目１６７５" }, "geometry": { "type": "Point", "coordinates": [ 136.97576224, 36.68160538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市内免２丁目８−２５" }, "geometry": { "type": "Point", "coordinates": [ 137.010709, 36.75635275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市中川園町７−２３" }, "geometry": { "type": "Point", "coordinates": [ 137.03123106000001, 36.74876554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市中曽根５０５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.07328214, 36.77154128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市中田中田東町１５５７" }, "geometry": { "type": "Point", "coordinates": [ 137.02477714, 36.68237749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市能町飛田９７６" }, "geometry": { "type": "Point", "coordinates": [ 137.048428589999986, 36.77002167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市野村７７４" }, "geometry": { "type": "Point", "coordinates": [ 137.037452480000013, 36.74897141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市野村６０６" }, "geometry": { "type": "Point", "coordinates": [ 137.03827826, 36.74482711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市蓮美町４−５１" }, "geometry": { "type": "Point", "coordinates": [ 137.007219740000011, 36.73857793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市博労本町３−４０" }, "geometry": { "type": "Point", "coordinates": [ 137.00034252, 36.74279538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市姫野３９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.08705766, 36.76848404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市姫野４３１" }, "geometry": { "type": "Point", "coordinates": [ 137.08748495, 36.7751421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市伏木一宮２丁目９−５" }, "geometry": { "type": "Point", "coordinates": [ 137.05116064, 36.79984061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市伏木錦町８−２８" }, "geometry": { "type": "Point", "coordinates": [ 137.0598612, 36.79453268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市伏木東一宮７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.05082722, 36.79554505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市伏木矢田５−５６" }, "geometry": { "type": "Point", "coordinates": [ 137.043319770000011, 36.78270951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市二塚７９０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.00890892000001, 36.71520956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市本丸町８−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.02000415, 36.75153203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市宮田町１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.995778449999989, 36.74962918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市美幸町１丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.99859867, 36.75441138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市美幸町１丁目２７２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9993993, 36.75587055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市美幸町２丁目１−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.99837363, 36.75403712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市美幸町２丁目１−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.998108519999988, 36.75365061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市四屋７２１" }, "geometry": { "type": "Point", "coordinates": [ 137.00413637, 36.76009785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市米島４４６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.03914111, 36.77485441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市六家１２０９" }, "geometry": { "type": "Point", "coordinates": [ 136.974647, 36.73723276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市草岡町２丁目１０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.134435849999988, 36.76726833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市七美中野６３" }, "geometry": { "type": "Point", "coordinates": [ 137.134901140000011, 36.76105367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市善光寺１３−２２" }, "geometry": { "type": "Point", "coordinates": [ 137.07632254, 36.7769944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市高木３１０" }, "geometry": { "type": "Point", "coordinates": [ 137.085352300000011, 36.74346503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市作道６７５−７" }, "geometry": { "type": "Point", "coordinates": [ 137.08798542, 36.76259004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市作道２３４" }, "geometry": { "type": "Point", "coordinates": [ 137.089046630000013, 36.75991848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市作道中不湖７０１" }, "geometry": { "type": "Point", "coordinates": [ 137.087862910000013, 36.76283864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市作道５７５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.09004017, 36.74921075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市相木１０１１" }, "geometry": { "type": "Point", "coordinates": [ 137.41270898, 36.82138168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市上村木２丁目１５−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.41342717, 36.82386523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市川縁１１０５−５" }, "geometry": { "type": "Point", "coordinates": [ 137.398442030000012, 36.79975328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市北鬼江１７０５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40324641, 36.82887051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉島５３８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.419069189999988, 36.8312338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉島５９５" }, "geometry": { "type": "Point", "coordinates": [ 137.41527199, 36.82625903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市末広町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.39848477000001, 36.81918434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市住吉１０５７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40293872, 36.80635484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市友道８９１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40971703, 36.81556511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市友道１００８" }, "geometry": { "type": "Point", "coordinates": [ 137.40887856, 36.81389901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市双葉町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.39828229, 36.81709396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市仏田１３１４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.41789356000001, 36.83911107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市本江１１１８" }, "geometry": { "type": "Point", "coordinates": [ 137.410324550000013, 36.81665454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市阿尾７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.98458711, 36.87703835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市大野１０４２" }, "geometry": { "type": "Point", "coordinates": [ 136.953013449999986, 36.86150455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市加納１７９−５" }, "geometry": { "type": "Point", "coordinates": [ 136.97566304, 36.87038966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市上泉６２" }, "geometry": { "type": "Point", "coordinates": [ 136.99463573, 36.82049309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市窪８４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.98379061, 36.84175497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市窪４７３" }, "geometry": { "type": "Point", "coordinates": [ 136.99056909, 36.83315407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市窪５１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.99096282, 36.83435361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市窪６４７" }, "geometry": { "type": "Point", "coordinates": [ 136.98770792, 36.83840616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市幸町７−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.98184627, 36.85874419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市幸町２２−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.97867052, 36.85783644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市堀田２２０" }, "geometry": { "type": "Point", "coordinates": [ 136.9730872, 36.81370629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市柳田９８７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.99491158, 36.82734692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上梅沢４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.34743692, 36.74690758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上小泉４８３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.34580598, 36.75488111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上小泉３５" }, "geometry": { "type": "Point", "coordinates": [ 137.355899240000014, 36.76019187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市河端町１３７" }, "geometry": { "type": "Point", "coordinates": [ 137.335905309999987, 36.76141072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市栗山松ケ窪４７８" }, "geometry": { "type": "Point", "coordinates": [ 137.39903905, 36.76972571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市神家町２０９" }, "geometry": { "type": "Point", "coordinates": [ 137.3383891, 36.76364517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市杉本３００３" }, "geometry": { "type": "Point", "coordinates": [ 137.39215287, 36.76057076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市中村３２７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.383173989999989, 36.78578704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市柳原７９−５" }, "geometry": { "type": "Point", "coordinates": [ 137.35997859, 36.76427671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市生地中区２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.419526, 36.88874908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市荻生６６６０" }, "geometry": { "type": "Point", "coordinates": [ 137.45738391, 36.87392298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市荻生大門８７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.46551087, 36.88793494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市荻生９７０" }, "geometry": { "type": "Point", "coordinates": [ 137.4751435, 36.88698388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市沓掛１７９２" }, "geometry": { "type": "Point", "coordinates": [ 137.46772777000001, 36.89480734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市若栗４２１０" }, "geometry": { "type": "Point", "coordinates": [ 137.48356557, 36.87309854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市田家新７６２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.43781103, 36.85189701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市中新４８４" }, "geometry": { "type": "Point", "coordinates": [ 137.42970359, 36.88711077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市石田大島４３３１−５" }, "geometry": { "type": "Point", "coordinates": [ 137.41423461, 36.8629307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市前沢２８３０" }, "geometry": { "type": "Point", "coordinates": [ 137.44319746, 36.85934535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市三日市紅屋１２７８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.446840290000011, 36.87133418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市三日市２１１７−３" }, "geometry": { "type": "Point", "coordinates": [ 137.45614262, 36.87110953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市吉田１１６０" }, "geometry": { "type": "Point", "coordinates": [ 137.42015733, 36.89825863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市若栗５４０−２" }, "geometry": { "type": "Point", "coordinates": [ 137.5029673, 36.88003751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市栄町６−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.96182742, 36.64893258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市新富町６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.94683853, 36.64011693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市十年明７７" }, "geometry": { "type": "Point", "coordinates": [ 136.96527992, 36.65238466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市高波１５１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.93884512, 36.66960613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市高道３３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9660228, 36.6366433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市太郎丸２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.96009171, 36.62279212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市広上町９−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.9472577, 36.63151556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市浅地浄土寺" }, "geometry": { "type": "Point", "coordinates": [ 136.872366160000013, 36.62639608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市岡２２５" }, "geometry": { "type": "Point", "coordinates": [ 136.90299396, 36.69293126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市小矢部町４−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.87107767, 36.67534662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市五社３８１" }, "geometry": { "type": "Point", "coordinates": [ 136.91579551, 36.6809998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市清水３５１５" }, "geometry": { "type": "Point", "coordinates": [ 136.90480696, 36.62331852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市新西３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.894623059999986, 36.62912252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市新西４０１" }, "geometry": { "type": "Point", "coordinates": [ 136.8958102, 36.62821453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市芹川２７" }, "geometry": { "type": "Point", "coordinates": [ 136.8992539, 36.69015945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市津沢６４２" }, "geometry": { "type": "Point", "coordinates": [ 136.898834380000011, 36.62119645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市津沢１丁目１" }, "geometry": { "type": "Point", "coordinates": [ 136.89756162, 36.62399581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市野端１０８" }, "geometry": { "type": "Point", "coordinates": [ 136.85879512, 36.66916689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市埴生３５８" }, "geometry": { "type": "Point", "coordinates": [ 136.855910310000013, 36.66544253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市平桜１２９３" }, "geometry": { "type": "Point", "coordinates": [ 136.851375929999989, 36.63222969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市本町３−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.86797206, 36.67443551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下大久保２０６１" }, "geometry": { "type": "Point", "coordinates": [ 137.208960929999989, 36.60294497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市上大久保１３４６−５" }, "geometry": { "type": "Point", "coordinates": [ 137.20357647, 36.59541352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下大久保３６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20540308, 36.61512285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下大久保２５３０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.203998930000012, 36.60615719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下大久保８−３２４５" }, "geometry": { "type": "Point", "coordinates": [ 137.20462276, 36.61286269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市長附２３９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20580042, 36.58301797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市西大沢２５７−２" }, "geometry": { "type": "Point", "coordinates": [ 137.20886933, 36.5746323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中滝３４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.294707960000011, 36.61087779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中番２４８" }, "geometry": { "type": "Point", "coordinates": [ 137.28736365, 36.61725635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡舟橋村舟橋５７−３" }, "geometry": { "type": "Point", "coordinates": [ 137.31625086, 36.70259592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町上経田４丁目８" }, "geometry": { "type": "Point", "coordinates": [ 137.34729324, 36.70474328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町湯上野１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.37021188, 36.69784399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町正印１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.3420355, 36.69831312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町稗田２−５" }, "geometry": { "type": "Point", "coordinates": [ 137.35541816, 36.69656135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町法音寺１２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.354106519999988, 36.70005686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町森尻７９−３" }, "geometry": { "type": "Point", "coordinates": [ 137.3571781, 36.72356938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町芦峅寺６１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.37894938, 36.57514042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町坂井沢２０" }, "geometry": { "type": "Point", "coordinates": [ 137.31905533, 36.65301259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町沢端８０４" }, "geometry": { "type": "Point", "coordinates": [ 137.328302009999987, 36.68028351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町鉾ノ木１６５" }, "geometry": { "type": "Point", "coordinates": [ 137.29456904, 36.69649826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町前沢２３０２" }, "geometry": { "type": "Point", "coordinates": [ 137.30742784, 36.66381947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町宮路８６" }, "geometry": { "type": "Point", "coordinates": [ 137.3211028, 36.60672706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町米沢３３" }, "geometry": { "type": "Point", "coordinates": [ 137.31936264, 36.66432986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町米沢８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.31957232, 36.66968172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市宇奈月温泉５５２８" }, "geometry": { "type": "Point", "coordinates": [ 137.58032257, 36.8159427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町青木１３２６" }, "geometry": { "type": "Point", "coordinates": [ 137.48714969, 36.92413619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町荒又６０" }, "geometry": { "type": "Point", "coordinates": [ 137.52423015, 36.94427522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町上野７２５５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.49964795, 36.92995803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町上野２６２６−３" }, "geometry": { "type": "Point", "coordinates": [ 137.49664854, 36.92758824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町上飯野５６７" }, "geometry": { "type": "Point", "coordinates": [ 137.4712654, 36.90604181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町東狐１５２８" }, "geometry": { "type": "Point", "coordinates": [ 137.47297827, 36.912368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町東狐１７４２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.47240323, 36.90986535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町道古２６４" }, "geometry": { "type": "Point", "coordinates": [ 137.47558766, 36.91629829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町入膳３５０５" }, "geometry": { "type": "Point", "coordinates": [ 137.504106080000014, 36.9337074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町舟見１６７２" }, "geometry": { "type": "Point", "coordinates": [ 137.552727119999986, 36.88300465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町舟見４５７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.54882534, 36.89294315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町泊８１４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.56314151, 36.95901178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町平柳２４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.55840759, 36.9470562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町道下９１５" }, "geometry": { "type": "Point", "coordinates": [ 137.56218254, 36.94764748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町平柳４３８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.55535708, 36.94676181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八尾町井田５６０６" }, "geometry": { "type": "Point", "coordinates": [ 137.14932094, 36.59499272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八尾町井田新１０" }, "geometry": { "type": "Point", "coordinates": [ 137.14501125000001, 36.60595817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八尾町井田新１２８１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.14475865, 36.59035458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八尾町大杉２９４−４" }, "geometry": { "type": "Point", "coordinates": [ 137.16053145, 36.60763895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市八尾町下新町１１２" }, "geometry": { "type": "Point", "coordinates": [ 137.141308110000011, 36.58385018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町板倉６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.16825451, 36.65613532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町板倉４１３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.16545317, 36.6595102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町下轡田７６８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.180282979999987, 36.66564386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町下轡田１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.17316281, 36.66142458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町下邑８０" }, "geometry": { "type": "Point", "coordinates": [ 137.1305341, 36.65722675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町萩島向島２４４８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.178221259999987, 36.62988686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町萩島２６２３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.1786579, 36.63048346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町羽根９１９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.1412329, 36.65749927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町速星７４０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.15994108000001, 36.65875752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町速星５３５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.16182892, 36.66427366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市山田中村前田３０９３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.083018149999987, 36.59179834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市猪谷７７０" }, "geometry": { "type": "Point", "coordinates": [ 137.2369033, 36.47375996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市楡原７２２" }, "geometry": { "type": "Point", "coordinates": [ 137.23152277, 36.53238485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市黒河新１４５５−９" }, "geometry": { "type": "Point", "coordinates": [ 137.11521324, 36.69708308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市橋下条８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.07853587, 36.69662363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市橋下条１９５５" }, "geometry": { "type": "Point", "coordinates": [ 137.08036368, 36.70864951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市橋下条２８" }, "geometry": { "type": "Point", "coordinates": [ 137.0769846, 36.6969306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市三ケ２７７３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.09157853, 36.71429913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市三ケ一番町４０６３" }, "geometry": { "type": "Point", "coordinates": [ 137.09173164, 36.72156271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市三ケ１２９８" }, "geometry": { "type": "Point", "coordinates": [ 137.08692151, 36.72350052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市小杉白石８２８" }, "geometry": { "type": "Point", "coordinates": [ 137.12836053, 36.72655056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市小杉白石８９３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.13024434, 36.72616618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市塚越１８５３" }, "geometry": { "type": "Point", "coordinates": [ 137.117921810000013, 36.69715593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市戸破神明６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.11940346, 36.71772896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市戸破加茂１６２０" }, "geometry": { "type": "Point", "coordinates": [ 137.09747586, 36.71367041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市戸破中央通り２丁目３３４０" }, "geometry": { "type": "Point", "coordinates": [ 137.10107749, 36.71949028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市戸破１６７３" }, "geometry": { "type": "Point", "coordinates": [ 137.09570961, 36.71424819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市小泉２００−１" }, "geometry": { "type": "Point", "coordinates": [ 137.034173259999989, 36.70813485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市大門１０５" }, "geometry": { "type": "Point", "coordinates": [ 137.050821, 36.73246004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市布目沢２３３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.04914716, 36.70459714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市広上９０２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.029808050000014, 36.70930554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市二口２８" }, "geometry": { "type": "Point", "coordinates": [ 137.063929800000011, 36.72627217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市二口２３２３" }, "geometry": { "type": "Point", "coordinates": [ 137.048785869999989, 36.72525725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市白石９３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.141936249999986, 36.72625905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市赤井２０" }, "geometry": { "type": "Point", "coordinates": [ 137.06977065, 36.73206092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市赤井３８８" }, "geometry": { "type": "Point", "coordinates": [ 137.06725842, 36.72398851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市小島９００" }, "geometry": { "type": "Point", "coordinates": [ 137.057546839999986, 36.73761375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市小島３９３１" }, "geometry": { "type": "Point", "coordinates": [ 137.05972657, 36.73603375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市若杉１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.05172614, 36.74165855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市金戸２６７" }, "geometry": { "type": "Point", "coordinates": [ 136.89511334, 36.51664823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南礪市野田３４３" }, "geometry": { "type": "Point", "coordinates": [ 136.89934548, 36.52292922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市野田１１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.89953191, 36.52112548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市細木１９２" }, "geometry": { "type": "Point", "coordinates": [ 136.896494960000012, 36.52512785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市細木１２６" }, "geometry": { "type": "Point", "coordinates": [ 136.89458704, 36.5258192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市西赤尾町１５６" }, "geometry": { "type": "Point", "coordinates": [ 136.87238599, 36.38362123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市利賀村坂上３０７" }, "geometry": { "type": "Point", "coordinates": [ 137.00372909, 36.42152319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市庄川町金屋２９７１" }, "geometry": { "type": "Point", "coordinates": [ 136.98291938, 36.5726298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市井波６１０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.971171309999988, 36.56658542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市岩屋４６１" }, "geometry": { "type": "Point", "coordinates": [ 136.965658960000013, 36.58338595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市久保１８１" }, "geometry": { "type": "Point", "coordinates": [ 136.93302759, 36.5484899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市宮後１８０" }, "geometry": { "type": "Point", "coordinates": [ 136.92768608, 36.54400096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市高儀１３４" }, "geometry": { "type": "Point", "coordinates": [ 136.93361058, 36.60435592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市野新４１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9372718, 36.5822742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市二日町２１６０" }, "geometry": { "type": "Point", "coordinates": [ 136.915980170000012, 36.59758793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市二日町１９１８" }, "geometry": { "type": "Point", "coordinates": [ 136.92724314, 36.59822868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市やかた６８" }, "geometry": { "type": "Point", "coordinates": [ 136.919640179999988, 36.5910233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市やかた１３８" }, "geometry": { "type": "Point", "coordinates": [ 136.91893015, 36.58910099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市福光１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.872200420000013, 36.56241996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市福光７７" }, "geometry": { "type": "Point", "coordinates": [ 136.874208079999988, 36.56174505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市遊部７７０" }, "geometry": { "type": "Point", "coordinates": [ 136.88536399, 36.56536748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市荒木１４２１" }, "geometry": { "type": "Point", "coordinates": [ 136.87614403, 36.55689595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市田中７９３" }, "geometry": { "type": "Point", "coordinates": [ 136.88111487, 36.56090374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市吉江中１１９８" }, "geometry": { "type": "Point", "coordinates": [ 136.89247513, 36.57340528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市福岡町下蓑新３２７" }, "geometry": { "type": "Point", "coordinates": [ 136.93000049, 36.70921289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市福岡町本領７６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9171014, 36.70175742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市福岡町福岡新４６" }, "geometry": { "type": "Point", "coordinates": [ 136.937060730000013, 36.71236222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市下梨２０４５" }, "geometry": { "type": "Point", "coordinates": [ 136.94817297, 36.43292727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市窪新町１１−４６" }, "geometry": { "type": "Point", "coordinates": [ 137.22913037, 36.70488378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町月山１９４１" }, "geometry": { "type": "Point", "coordinates": [ 137.54554275000001, 36.94607216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市四ツ葉町１０" }, "geometry": { "type": "Point", "coordinates": [ 137.230036790000014, 36.70736182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町速星７８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.16746909, 36.65934485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市下伏間江３８３" }, "geometry": { "type": "Point", "coordinates": [ 137.01628256, 36.72591281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市天正寺１０１０" }, "geometry": { "type": "Point", "coordinates": [ 137.25103608, 36.68792583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市野村１６４１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.044065859999989, 36.75985039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市豊田町１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 137.23326923, 36.7244629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市諏訪川原１丁目１２−７" }, "geometry": { "type": "Point", "coordinates": [ 137.205444300000011, 36.69255986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下赤江町２丁目７−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.23259692, 36.71532404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市熊野町４−３" }, "geometry": { "type": "Point", "coordinates": [ 137.01702746, 36.76119291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中川原５−７" }, "geometry": { "type": "Point", "coordinates": [ 137.24629052, 36.67621529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市野村野村東町３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.03329505, 36.74781173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町下轡田１６５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.169530689999988, 36.6630327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町平柳２５６" }, "geometry": { "type": "Point", "coordinates": [ 137.55380188, 36.94675001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市牛島新町９−９" }, "geometry": { "type": "Point", "coordinates": [ 137.21763643, 36.70217921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市天正寺２８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25088741, 36.67973246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町入膳４５３５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.50647192, 36.93614852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市岩屋４９５" }, "geometry": { "type": "Point", "coordinates": [ 136.96579133, 36.58141733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市宝来町９４７" }, "geometry": { "type": "Point", "coordinates": [ 136.946626009999989, 36.71841778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市五本榎５−２" }, "geometry": { "type": "Point", "coordinates": [ 137.259883730000013, 36.71592747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市開１３２７" }, "geometry": { "type": "Point", "coordinates": [ 137.26026995, 36.6816572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市三室荒屋１８０" }, "geometry": { "type": "Point", "coordinates": [ 137.295024250000012, 36.61121353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市呉羽町６４４１" }, "geometry": { "type": "Point", "coordinates": [ 137.1673379, 36.7107574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市北川５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.968422940000011, 36.56862668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市奥田本町２−２８" }, "geometry": { "type": "Point", "coordinates": [ 137.22254089, 36.7139458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市魚躬１２５０" }, "geometry": { "type": "Point", "coordinates": [ 137.315790490000012, 36.75591053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市戸出町３丁目１−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.9804361, 36.68728223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市佐野８７１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.991486, 36.73020554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市長慶寺５６９−２" }, "geometry": { "type": "Point", "coordinates": [ 137.000705079999989, 36.77190343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市下堀２８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.224292530000014, 36.66208372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市北島千保島３６８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.98933301, 36.74383524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市城東１丁目９０４−６" }, "geometry": { "type": "Point", "coordinates": [ 137.02950744, 36.74576593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町塚原４６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.185422609999989, 36.66687646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市藤木１８４３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.268032940000012, 36.68393353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市六家１７１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.97714961, 36.73815555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市羽根２７８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.18568159, 36.67915587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市本開発４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.0822728, 36.72473617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市十二町島９３" }, "geometry": { "type": "Point", "coordinates": [ 136.98747801, 36.70560228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市窪６８６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.986207470000011, 36.83921146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市掛尾町１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.214536220000014, 36.66289473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市荒俣１５６１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.427526449999988, 36.9135763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市高木東１８３" }, "geometry": { "type": "Point", "coordinates": [ 137.16481219, 36.72793772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市前沢１５８１" }, "geometry": { "type": "Point", "coordinates": [ 137.44907687, 36.86414189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市三日市９４６" }, "geometry": { "type": "Point", "coordinates": [ 137.443507899999986, 36.87443049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市二上町１１９４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.005059890000013, 36.77684682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉野５９０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40309783, 36.78553744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市大掛１７６−２６" }, "geometry": { "type": "Point", "coordinates": [ 137.3911398, 36.77678748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市荻生７７６３−３" }, "geometry": { "type": "Point", "coordinates": [ 137.46252375, 36.88320981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市上大久保１９８５−１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.204722589999989, 36.59229799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市戸出伊勢領２５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.97750183, 36.68957887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市月岡町６丁目７１１" }, "geometry": { "type": "Point", "coordinates": [ 137.24246258, 36.63563484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市三日市３３０７" }, "geometry": { "type": "Point", "coordinates": [ 137.44841254, 36.87388452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市本郷東部９２" }, "geometry": { "type": "Point", "coordinates": [ 137.14970021, 36.7245409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市古沢５０４−３" }, "geometry": { "type": "Point", "coordinates": [ 137.14147157, 36.69213097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上小泉２１７９−３" }, "geometry": { "type": "Point", "coordinates": [ 137.35156269, 36.75733972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市太郎丸本町３丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.211118950000014, 36.67619955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市千原崎１丁目６−３３" }, "geometry": { "type": "Point", "coordinates": [ 137.22713069, 36.74577638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉島１１０６" }, "geometry": { "type": "Point", "coordinates": [ 137.416778889999989, 36.83049474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市婦中町下轡田８００−１" }, "geometry": { "type": "Point", "coordinates": [ 137.1773485, 36.66375926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄銀座３丁目７−７" }, "geometry": { "type": "Point", "coordinates": [ 137.25880808, 36.71355217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市扇町１丁目１−２９" }, "geometry": { "type": "Point", "coordinates": [ 136.99261648, 36.74474656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄本町２丁目９−６７" }, "geometry": { "type": "Point", "coordinates": [ 137.2593939, 36.7031628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市金代３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.257971590000011, 36.68940275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上島２６７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.34243268, 36.75323408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市橋下条１５１４−３" }, "geometry": { "type": "Point", "coordinates": [ 137.08362627, 36.71661585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市黒河２０２７" }, "geometry": { "type": "Point", "coordinates": [ 137.11372692, 36.70174575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市芹川３９５６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.88919349, 36.68167655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市呉羽町２１５１" }, "geometry": { "type": "Point", "coordinates": [ 137.16019841, 36.71540234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市赤祖父７０１" }, "geometry": { "type": "Point", "coordinates": [ 137.01937007, 36.7298787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市安養寺５１２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20931812, 36.63117887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市上島２１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.34886053, 36.74724049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市豊町１丁目１７−９" }, "geometry": { "type": "Point", "coordinates": [ 136.95601402, 36.63102174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市飯野１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25019827, 36.72104892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉島１丁目６−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.41148098, 36.82791505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市東海老坂大坪７７４" }, "geometry": { "type": "Point", "coordinates": [ 136.99968789, 36.78149937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市中曽根３６街区" }, "geometry": { "type": "Point", "coordinates": [ 137.07822468, 36.76894447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中田１丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 137.244712349999986, 36.75060399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市中島１丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.22548735, 36.72917789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市千代１４５−１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.970589710000013, 36.65981721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市相木８４８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.41756147000001, 36.82040408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市栄町５−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.96053919, 36.64721623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市戸久４６８２" }, "geometry": { "type": "Point", "coordinates": [ 136.87443131, 36.62743872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市辰巳町２丁目７−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.22155113, 36.68604167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄町４丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25299568, 36.69619399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市太郎丸西町２丁目５−６" }, "geometry": { "type": "Point", "coordinates": [ 137.21052131, 36.67501669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市黒瀬１３３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.2016533, 36.66356656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市となみ町３１５" }, "geometry": { "type": "Point", "coordinates": [ 136.95910784, 36.63905156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県小矢部市岩武東島1053" }, "geometry": { "type": "Point", "coordinates": [ 136.895706319999988, 36.61962739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町法音寺9" }, "geometry": { "type": "Point", "coordinates": [ 137.36568766, 36.70294388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市太郎丸１−３−８" }, "geometry": { "type": "Point", "coordinates": [ 136.95701157, 36.6346884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県滑川市稲泉１１４８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.35969538, 36.75724055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町法音寺吉田１−３" }, "geometry": { "type": "Point", "coordinates": [ 137.36276034, 36.69919417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市住吉５４１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40436305, 36.80604129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市五福５３７０−２" }, "geometry": { "type": "Point", "coordinates": [ 137.196194279999986, 36.70383031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市新庄本町２−８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25932569, 36.70774717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡朝日町大家庄307" }, "geometry": { "type": "Point", "coordinates": [ 137.544452510000013, 36.92885448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町一宿583" }, "geometry": { "type": "Point", "coordinates": [ 137.50670342, 36.89861243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県下新川郡入善町青木1182" }, "geometry": { "type": "Point", "coordinates": [ 137.481238029999986, 36.92515981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市吉島953-1" }, "geometry": { "type": "Point", "coordinates": [ 137.418964429999988, 36.83337775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市東町21-30" }, "geometry": { "type": "Point", "coordinates": [ 137.41642171, 36.85480442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市下麻生1225-3" }, "geometry": { "type": "Point", "coordinates": [ 137.02136785, 36.68636487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県黒部市宇奈月町大橋割7080-1" }, "geometry": { "type": "Point", "coordinates": [ 137.512885180000012, 36.87296705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市三ヶ980" }, "geometry": { "type": "Point", "coordinates": [ 137.09510174, 36.72473742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡上市町法音寺2-2" }, "geometry": { "type": "Point", "coordinates": [ 137.35658034, 36.69942068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県中新川郡立山町前沢2436" }, "geometry": { "type": "Point", "coordinates": [ 137.31256547000001, 36.66377299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県砺波市五郎丸1071-5" }, "geometry": { "type": "Point", "coordinates": [ 136.9653453, 36.61324448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市荒木990" }, "geometry": { "type": "Point", "coordinates": [ 136.87566708, 36.55072069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市柴田屋30" }, "geometry": { "type": "Point", "coordinates": [ 136.91565645, 36.59009381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県南砺市利賀村百瀬川157" }, "geometry": { "type": "Point", "coordinates": [ 137.04115551000001, 36.45286463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市鞍川106" }, "geometry": { "type": "Point", "coordinates": [ 136.974046249999986, 36.85693146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市朝日丘3890-6" }, "geometry": { "type": "Point", "coordinates": [ 136.98082209, 36.84536724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県魚津市湯上字上楽前２７２８−９" }, "geometry": { "type": "Point", "coordinates": [ 137.419189780000011, 36.79741538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県高岡市下麻生１２９３の１" }, "geometry": { "type": "Point", "coordinates": [ 137.01961556, 36.68517663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市上赤江町二丁目字東条割１１６９" }, "geometry": { "type": "Point", "coordinates": [ 137.232140609999988, 36.71373694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市沖塚原７４８" }, "geometry": { "type": "Point", "coordinates": [ 137.06950075, 36.75580284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市北高木１４−６" }, "geometry": { "type": "Point", "coordinates": [ 137.073330270000014, 36.74539952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県射水市稲積313-1" }, "geometry": { "type": "Point", "coordinates": [ 137.10982126, 36.74117331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県氷見市触坂２３９" }, "geometry": { "type": "Point", "coordinates": [ 136.889403429999987, 36.83237777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市赤田７７２" }, "geometry": { "type": "Point", "coordinates": [ 137.21402759, 36.65646269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市赤田７３３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.21428028, 36.65365447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市赤田９４４−３" }, "geometry": { "type": "Point", "coordinates": [ 137.21003794, 36.65701425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市安養寺６５８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20833047, 36.6304186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市石金２丁目１−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.233135260000012, 36.68822859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市石坂新７６０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.20171959000001, 36.71535709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市今泉３４９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.210614170000014, 36.67019595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "富山県富山市蜷川１１５" }, "geometry": { "type": "Point", "coordinates": [ 137.209878690000011, 36.64701222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市千石町２−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.995638, 36.74756885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市立野１０７４" }, "geometry": { "type": "Point", "coordinates": [ 136.963551130000013, 36.72595719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市東上関４８８" }, "geometry": { "type": "Point", "coordinates": [ 137.01334732, 36.73356212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市戸出町２丁目７−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.980739410000012, 36.6841504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市内免２丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 137.008580740000014, 36.75263658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市内免２丁目２−５８" }, "geometry": { "type": "Point", "coordinates": [ 137.008452010000013, 36.75285575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市中田中田南町２８６１−６" }, "geometry": { "type": "Point", "coordinates": [ 137.0194448, 36.68000784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市野村４３２" }, "geometry": { "type": "Point", "coordinates": [ 137.03505779, 36.74658288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市博労町１−２９" }, "geometry": { "type": "Point", "coordinates": [ 137.006152930000013, 36.74482584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市東下関３−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.01901002, 36.74297747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市福田六家１３２" }, "geometry": { "type": "Point", "coordinates": [ 136.97096192, 36.7400322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市伏木東一宮２６−３１" }, "geometry": { "type": "Point", "coordinates": [ 137.05256719, 36.79771643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市本町２−３４" }, "geometry": { "type": "Point", "coordinates": [ 137.016834929999987, 36.7494877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市横田町１丁目４−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.00151071, 36.7489824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市横田町２丁目３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.99711961, 36.74791577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市蓮花寺４１０" }, "geometry": { "type": "Point", "coordinates": [ 137.0400697, 36.73703373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市和田和田西町５１０" }, "geometry": { "type": "Point", "coordinates": [ 136.9873379, 36.74145225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市宝来町１９３" }, "geometry": { "type": "Point", "coordinates": [ 136.95134187, 36.72261673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市庄川本町７−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.074431, 36.78474125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市立町１５−５" }, "geometry": { "type": "Point", "coordinates": [ 137.09015236, 36.77950038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市中央町２５−８" }, "geometry": { "type": "Point", "coordinates": [ 137.085496369999987, 36.77734626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市殿村１３０" }, "geometry": { "type": "Point", "coordinates": [ 137.091257469999988, 36.74664449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市朴木１０６" }, "geometry": { "type": "Point", "coordinates": [ 137.080323170000014, 36.76228719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県魚津市上村木１丁目２２−７" }, "geometry": { "type": "Point", "coordinates": [ 137.40912358, 36.82262507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県魚津市新金屋２丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.40728433000001, 36.82195373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県魚津市新金屋２丁目４−２３" }, "geometry": { "type": "Point", "coordinates": [ 137.407215760000014, 36.82074836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県氷見市窪１２８７" }, "geometry": { "type": "Point", "coordinates": [ 136.98936437, 36.84007505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県氷見市比美町９−４" }, "geometry": { "type": "Point", "coordinates": [ 136.98747701, 36.85836119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県氷見市薮田１０２１" }, "geometry": { "type": "Point", "coordinates": [ 136.9977766, 36.88961252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県滑川市中川原７３" }, "geometry": { "type": "Point", "coordinates": [ 137.34756239, 36.77003504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県滑川市辰野１９−３" }, "geometry": { "type": "Point", "coordinates": [ 137.35400228, 36.76910495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県黒部市中野８０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.43371919, 36.86258375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県砺波市表町５−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.95367019, 36.63735717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県砺波市新明１２" }, "geometry": { "type": "Point", "coordinates": [ 136.982157550000011, 36.61760523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県小矢部市中央町２−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.86768103, 36.67761474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上大久保２１９０" }, "geometry": { "type": "Point", "coordinates": [ 137.20751427, 36.58039849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡上市町江又１−１２" }, "geometry": { "type": "Point", "coordinates": [ 137.34760544, 36.71105004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡上市町上中町１４" }, "geometry": { "type": "Point", "coordinates": [ 137.36541431, 36.70578789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡上市町熊野町４０−２" }, "geometry": { "type": "Point", "coordinates": [ 137.361749159999988, 36.70468522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡上市町東町８２" }, "geometry": { "type": "Point", "coordinates": [ 137.36858454, 36.70427711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡立山町米沢１" }, "geometry": { "type": "Point", "coordinates": [ 137.32084182, 36.66244012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市八尾町上新町２７６５" }, "geometry": { "type": "Point", "coordinates": [ 137.13153803, 36.57582584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市八尾町福島１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.140525419999989, 36.58813796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市八尾町東町１９５９" }, "geometry": { "type": "Point", "coordinates": [ 137.137106960000011, 36.57685352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市婦中町速星８６４" }, "geometry": { "type": "Point", "coordinates": [ 137.1629728, 36.6605262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市三ケ上新町７７８" }, "geometry": { "type": "Point", "coordinates": [ 137.08978489, 36.72584452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市三ケ田町９２３" }, "geometry": { "type": "Point", "coordinates": [ 137.097606180000014, 36.7245135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市戸破６３２" }, "geometry": { "type": "Point", "coordinates": [ 137.11845012, 36.71825993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市戸破末永町３４５０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.108874750000012, 36.7222677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市大門１０" }, "geometry": { "type": "Point", "coordinates": [ 137.05051266000001, 36.73383139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市井波３０９８" }, "geometry": { "type": "Point", "coordinates": [ 136.97124581, 36.56033648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市井波１６２８" }, "geometry": { "type": "Point", "coordinates": [ 136.976580829999989, 36.56631306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市北川１８３３" }, "geometry": { "type": "Point", "coordinates": [ 136.97189839, 36.561813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市福野１１７５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.92648374, 36.5925031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市福光６９１０" }, "geometry": { "type": "Point", "coordinates": [ 136.872330190000014, 36.55982352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市福光１６３２" }, "geometry": { "type": "Point", "coordinates": [ 136.86685386, 36.5617664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市福光新町６８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.872158469999988, 36.55627425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市福光５７９０" }, "geometry": { "type": "Point", "coordinates": [ 136.8712013, 36.55421185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市福岡町下蓑２２８１" }, "geometry": { "type": "Point", "coordinates": [ 136.93329115, 36.7104205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市福岡町三日市２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9353309, 36.73101365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県中新川郡立山町榎４８" }, "geometry": { "type": "Point", "coordinates": [ 137.31831911, 36.6566824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市緑町７−３" }, "geometry": { "type": "Point", "coordinates": [ 137.08280584, 36.77503274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市放生津町７−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.085318660000013, 36.78270776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市戸出栄町２５" }, "geometry": { "type": "Point", "coordinates": [ 136.98791738, 36.68695707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県小矢部市東福町５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.883390819999988, 36.68091296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市問屋町７" }, "geometry": { "type": "Point", "coordinates": [ 137.0246977, 36.73134223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上飯野４０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.25064283, 36.71160567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市楡原１２７０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.231043809999989, 36.53270017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市中川町４−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.02240307, 36.74416277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市婦中町下坂倉１０８" }, "geometry": { "type": "Point", "coordinates": [ 137.16770567, 36.66407643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市伏木湊町６−４" }, "geometry": { "type": "Point", "coordinates": [ 137.06301155, 36.79489479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上赤江町２丁目３−３３" }, "geometry": { "type": "Point", "coordinates": [ 137.23021261, 36.71241371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市荒川１丁目１−８８" }, "geometry": { "type": "Point", "coordinates": [ 137.24658706, 36.70031406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市今木町４−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.21669623, 36.69475966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市長柄町２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 137.20510298, 36.68564977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上飯野新町３丁目２２８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.25564913, 36.71112236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県小矢部市八和町１０−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.87031409, 36.68193485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県魚津市平伝寺５１１" }, "geometry": { "type": "Point", "coordinates": [ 137.42092767, 36.84920164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県射水市中央町１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.08579683, 36.77949113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市清水町４丁目２−４" }, "geometry": { "type": "Point", "coordinates": [ 137.226373489999986, 36.68828868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市石田２０９０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.22946022, 36.64440005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市大泉町３丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 137.223778790000011, 36.68463783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市太田口通り２丁目１−１７" }, "geometry": { "type": "Point", "coordinates": [ 137.21470186, 36.68614707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上赤江町２丁目２−３４" }, "geometry": { "type": "Point", "coordinates": [ 137.23197059, 36.71267184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市北新町２丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 137.22080105, 36.69353502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市呉羽町６３９１" }, "geometry": { "type": "Point", "coordinates": [ 137.168143140000012, 36.71398524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市五福３３９３" }, "geometry": { "type": "Point", "coordinates": [ 137.18882702, 36.70133346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市清水町５丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.223014830000011, 36.68710822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市中市１丁目１９−２３" }, "geometry": { "type": "Point", "coordinates": [ 137.23941887, 36.68137616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市中市１丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.240304869999989, 36.68227606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市長柄町１丁目６" }, "geometry": { "type": "Point", "coordinates": [ 137.203882130000011, 36.68364304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市西長江１丁目６−３７" }, "geometry": { "type": "Point", "coordinates": [ 137.23625173, 36.69254695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市針原中町３１０−２" }, "geometry": { "type": "Point", "coordinates": [ 137.26470648, 36.72227676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市水橋新大町５３５" }, "geometry": { "type": "Point", "coordinates": [ 137.3051604, 36.75219718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市水橋畠等６６" }, "geometry": { "type": "Point", "coordinates": [ 137.30260413, 36.7471413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市水橋西出町８５０" }, "geometry": { "type": "Point", "coordinates": [ 137.30410242, 36.75799349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市四方一番町２０２９" }, "geometry": { "type": "Point", "coordinates": [ 137.19245974, 36.75793145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市四方港町４７" }, "geometry": { "type": "Point", "coordinates": [ 137.19404297, 36.75964403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市秋吉新町２７−５" }, "geometry": { "type": "Point", "coordinates": [ 137.2427256, 36.67937881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市布瀬町南１丁目２２−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.199748770000014, 36.67589167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市駅南３丁目３−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.01971038, 36.73833469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市木町４−１７" }, "geometry": { "type": "Point", "coordinates": [ 137.01238257, 36.7635503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市高陵町９−４" }, "geometry": { "type": "Point", "coordinates": [ 137.02247656, 36.74148893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市佐野４３７−７" }, "geometry": { "type": "Point", "coordinates": [ 136.99401229, 36.71736267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市清水町２丁目１−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.00645233, 36.74142998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市十二町島２０８" }, "geometry": { "type": "Point", "coordinates": [ 136.98828275, 36.7073328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市和田西町５２３" }, "geometry": { "type": "Point", "coordinates": [ 136.986760980000014, 36.74160461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県砺波市春日町４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.95739251, 36.64329663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市上千俵７８" }, "geometry": { "type": "Point", "coordinates": [ 137.24434424, 36.62813504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市川原本町１０−３９" }, "geometry": { "type": "Point", "coordinates": [ 137.0072462, 36.74889639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市東中野町２丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 137.21970105, 36.68131422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市横田町２丁目５−９" }, "geometry": { "type": "Point", "coordinates": [ 136.99935546, 36.74809912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県黒部市三日市１０６４" }, "geometry": { "type": "Point", "coordinates": [ 137.439129720000011, 36.87198505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市笹津４１５" }, "geometry": { "type": "Point", "coordinates": [ 137.21110302, 36.56315343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市伏木中央町８−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.05943441, 36.79877461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県小矢部市八和町７−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.868340640000014, 36.68008207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県魚津市上口２丁目１６−２５" }, "geometry": { "type": "Point", "coordinates": [ 137.39524505, 36.80963242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県富山市木場町２−３２" }, "geometry": { "type": "Point", "coordinates": [ 137.2108705, 36.7129015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市川原町１４−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.00920968, 36.75147947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県高岡市波岡２８１" }, "geometry": { "type": "Point", "coordinates": [ 136.98684438, 36.7581225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県小矢部市今石動町２丁目１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.87639454, 36.67401642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県南砺市長源寺８３" }, "geometry": { "type": "Point", "coordinates": [ 136.93719, 36.60134691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "富山県砺波市東石丸６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.979463329999987, 36.65599357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市神通本町１−２−１２" }, "geometry": { "type": "Point", "coordinates": [ 137.20958894, 36.70241927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市牛島新町３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.217390709999989, 36.70349973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市双代町２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23693717, 36.6954074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市五福４１８６" }, "geometry": { "type": "Point", "coordinates": [ 137.18304527, 36.69960816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市萩原３４" }, "geometry": { "type": "Point", "coordinates": [ 137.19626075, 36.65801315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県高岡市内免２−８−５５" }, "geometry": { "type": "Point", "coordinates": [ 137.011158669999986, 36.75484879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県高岡市井口本江１０９６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.03036746, 36.73823357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県高岡市荻布字川開６７８−５" }, "geometry": { "type": "Point", "coordinates": [ 137.03209611, 36.76798584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県魚津市北鬼江３６４" }, "geometry": { "type": "Point", "coordinates": [ 137.40866349, 36.83098119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県黒部市沓掛字道上割２０００−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.465903849999989, 36.88930947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県氷見市柳田６２４" }, "geometry": { "type": "Point", "coordinates": [ 136.99553031, 36.82634076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県氷見市阿尾３０" }, "geometry": { "type": "Point", "coordinates": [ 136.98513947, 36.87782455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県射水市作道６８４−４" }, "geometry": { "type": "Point", "coordinates": [ 137.09073906, 36.76141081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県砺波市苗加６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.950792940000014, 36.62418902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県下新川郡入善町入膳３４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.50381549, 36.93306666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県射水市三ケ２１９１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.09015574, 36.72080077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県南砺市川除新１１０" }, "geometry": { "type": "Point", "coordinates": [ 136.93609786, 36.6048218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市婦中町萩島３２５１" }, "geometry": { "type": "Point", "coordinates": [ 137.180264419999986, 36.63282778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市婦中町田島１１２２" }, "geometry": { "type": "Point", "coordinates": [ 137.1770474, 36.67063022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "富山県富山市黒瀬北町２丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 137.204165210000014, 36.66652457 ] } }
+
+]
+}

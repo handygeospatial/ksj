@@ -1,0 +1,1160 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山三日市場３３４６−２" }, "geometry": { "type": "Point", "coordinates": [ 138.715062569999986, 35.72493063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山千野４８０" }, "geometry": { "type": "Point", "coordinates": [ 138.73464494000001, 35.7133375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町勝沼３２５１" }, "geometry": { "type": "Point", "coordinates": [ 138.73217412, 35.66077987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市富竹新田１７９６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.530164719999988, 35.65474822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市荒川２−１０２３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.53675672, 35.67615233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母４丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 138.55584855, 35.64023958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上阿原町５５２−２" }, "geometry": { "type": "Point", "coordinates": [ 138.603447280000012, 35.64484906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上石田３−３−２２" }, "geometry": { "type": "Point", "coordinates": [ 138.55880321, 35.65157501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市城東２−２６−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.578035559999989, 35.65604189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市大里町大北耕地３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.5496138, 35.62477949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市里吉２丁目１６６１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.591677159999989, 35.6489294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市下石森５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.68270764, 35.67214677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市小原東３８１" }, "geometry": { "type": "Point", "coordinates": [ 138.7005384, 35.69554746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市秋山７６４６" }, "geometry": { "type": "Point", "coordinates": [ 139.07415114, 35.56960145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原８７８０" }, "geometry": { "type": "Point", "coordinates": [ 139.12318191, 35.62330454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市笹子町黒野田５１４" }, "geometry": { "type": "Point", "coordinates": [ 138.80945431, 35.60472888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町西條字北河原３７６０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.544904480000014, 35.64296757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市春日居町熊野堂２３７" }, "geometry": { "type": "Point", "coordinates": [ 138.64980718000001, 35.66991894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町飯富３" }, "geometry": { "type": "Point", "coordinates": [ 138.437071550000013, 35.44043273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町南部８４８１−２" }, "geometry": { "type": "Point", "coordinates": [ 138.456315429999989, 35.28649058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町南部９１７２−６３" }, "geometry": { "type": "Point", "coordinates": [ 138.45635235, 35.2817656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町長沢延命４５６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.46199434, 35.57140715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡道志村９１３８" }, "geometry": { "type": "Point", "coordinates": [ 138.99801356, 35.50895648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町大豆生田１４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.41914834, 35.77526146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市大泉町西井出３４０１-３" }, "geometry": { "type": "Point", "coordinates": [ 138.392831230000013, 35.8627772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町小荒間１９７８" }, "geometry": { "type": "Point", "coordinates": [ 138.35543621, 35.87860495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市白州町白須１３２５" }, "geometry": { "type": "Point", "coordinates": [ 138.33178984, 35.81114466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山下塩後６７３" }, "geometry": { "type": "Point", "coordinates": [ 138.719677139999988, 35.69993062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山上於曽１７１６" }, "geometry": { "type": "Point", "coordinates": [ 138.733128850000014, 35.70535976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山上於曽３３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.727458180000013, 35.70880029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山上於曽６４３" }, "geometry": { "type": "Point", "coordinates": [ 138.72182189, 35.70181087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町休息１６１０" }, "geometry": { "type": "Point", "coordinates": [ 138.71777405, 35.67744068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町勝沼３２６６" }, "geometry": { "type": "Point", "coordinates": [ 138.73283867, 35.66056346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町等々力１４９７" }, "geometry": { "type": "Point", "coordinates": [ 138.715771960000012, 35.66617966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市大和町日影２４０−５" }, "geometry": { "type": "Point", "coordinates": [ 138.772858750000012, 35.6425248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市下今井３０５８−４" }, "geometry": { "type": "Point", "coordinates": [ 138.49770852, 35.67642795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市吉沢３８２７" }, "geometry": { "type": "Point", "coordinates": [ 138.548233649999986, 35.72374917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市西八幡１２６０−４" }, "geometry": { "type": "Point", "coordinates": [ 138.523169779999989, 35.64508817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市西八幡３６７１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.51667, 35.6386531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市大下条４１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.52968834, 35.67629297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市中下条１６８５" }, "geometry": { "type": "Point", "coordinates": [ 138.53237071, 35.68243227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市富竹新田１６３６" }, "geometry": { "type": "Point", "coordinates": [ 138.52542732, 35.65826074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王１６８４" }, "geometry": { "type": "Point", "coordinates": [ 138.50761523, 35.664344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜地２４０１" }, "geometry": { "type": "Point", "coordinates": [ 138.51173477, 35.67883193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市下曽根町２９５" }, "geometry": { "type": "Point", "coordinates": [ 138.57629118, 35.5955983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市下曽根町字大正３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.57798899, 35.59534902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市古関町１０６３" }, "geometry": { "type": "Point", "coordinates": [ 138.60859697, 35.53085664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市古上条町１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.558135349999986, 35.62738152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市向町３６２−８" }, "geometry": { "type": "Point", "coordinates": [ 138.613190769999989, 35.64917725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市貢川１丁目５番６２号" }, "geometry": { "type": "Point", "coordinates": [ 138.540732029999987, 35.66051076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 138.56209123, 35.64570389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母７丁目１２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.54834904, 35.64032916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市住吉５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.5802246, 35.63540709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市住吉１丁目１６−２０" }, "geometry": { "type": "Point", "coordinates": [ 138.57219676, 35.63966708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市住吉２−６−１７" }, "geometry": { "type": "Point", "coordinates": [ 138.56744, 35.63666061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市住吉５−１９−１８" }, "geometry": { "type": "Point", "coordinates": [ 138.57565738, 35.63716062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市城東１丁目７−２" }, "geometry": { "type": "Point", "coordinates": [ 138.57897827, 35.66092661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市中央２丁目１２−１４" }, "geometry": { "type": "Point", "coordinates": [ 138.57361025, 35.66103746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市朝気３−２２−１０" }, "geometry": { "type": "Point", "coordinates": [ 138.5810174, 35.64721475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市徳行１−７−６" }, "geometry": { "type": "Point", "coordinates": [ 138.542805609999988, 35.65367721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市飯田１丁目４−７" }, "geometry": { "type": "Point", "coordinates": [ 138.55605895, 35.66789271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市北口１丁目５−２１" }, "geometry": { "type": "Point", "coordinates": [ 138.56941619, 35.669196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市和戸町１０８７" }, "geometry": { "type": "Point", "coordinates": [ 138.616914900000012, 35.65367085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市下栗原１００６" }, "geometry": { "type": "Point", "coordinates": [ 138.69181172, 35.66389914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市下神内川１４６" }, "geometry": { "type": "Point", "coordinates": [ 138.68440858, 35.68109897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市三富下荻原３８７" }, "geometry": { "type": "Point", "coordinates": [ 138.73880209, 35.77389571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市小原西今田１０６７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.68729973, 35.69538217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町窪平５００" }, "geometry": { "type": "Point", "coordinates": [ 138.71318316, 35.73683924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市万力１８６３" }, "geometry": { "type": "Point", "coordinates": [ 138.67636871, 35.68772794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市四方津９６９" }, "geometry": { "type": "Point", "coordinates": [ 139.08263534, 35.61316935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市秋山５４０" }, "geometry": { "type": "Point", "coordinates": [ 139.12043786000001, 35.58223759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原２９９９" }, "geometry": { "type": "Point", "coordinates": [ 139.104442189999986, 35.62853436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原３８３０" }, "geometry": { "type": "Point", "coordinates": [ 139.10875403, 35.62909075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市大野４９４３" }, "geometry": { "type": "Point", "coordinates": [ 139.04685136, 35.62962627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市野田尻７１０" }, "geometry": { "type": "Point", "coordinates": [ 139.06234526, 35.63279067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町市川大門１３７５" }, "geometry": { "type": "Point", "coordinates": [ 138.495481860000012, 35.56319797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町市川大門１９９９−７" }, "geometry": { "type": "Point", "coordinates": [ 138.49654159, 35.56888783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市駒橋２−４−１５" }, "geometry": { "type": "Point", "coordinates": [ 138.953670280000011, 35.61256866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市七保町瀬戸１０１６" }, "geometry": { "type": "Point", "coordinates": [ 138.96767624, 35.66542057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月３−１−６０" }, "geometry": { "type": "Point", "coordinates": [ 138.94112163, 35.61323982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月町真木２７０" }, "geometry": { "type": "Point", "coordinates": [ 138.91353055, 35.59917575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市賑岡町畑倉１８２３" }, "geometry": { "type": "Point", "coordinates": [ 138.94973901, 35.62762161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市浅利３０２２" }, "geometry": { "type": "Point", "coordinates": [ 138.548133729999989, 35.58383398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市大鳥居３０１８" }, "geometry": { "type": "Point", "coordinates": [ 138.554619620000011, 35.57211629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市中楯一丁田７１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.5532078, 35.61026277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市布施字小井川２２００−１" }, "geometry": { "type": "Point", "coordinates": [ 138.522505099999989, 35.60186332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町押越字上河原１０７４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.5340099, 35.6304584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町河西村西１１８４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.5193165, 35.61683435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町上河東３４４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.52941141, 35.61680937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町一の宮１４８８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.69525866, 35.64371865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町末木８６１" }, "geometry": { "type": "Point", "coordinates": [ 138.69248578, 35.64704196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町成田１１８８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.650285489999987, 35.64180503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市春日居町小松字下河原１１７１" }, "geometry": { "type": "Point", "coordinates": [ 138.65656589, 35.66193754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町広瀬１３７４" }, "geometry": { "type": "Point", "coordinates": [ 138.62320028, 35.64419424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町四日市場１７１８" }, "geometry": { "type": "Point", "coordinates": [ 138.627342520000013, 35.64366466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町市部６７０" }, "geometry": { "type": "Point", "coordinates": [ 138.64177139, 35.64897731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町上平井８３２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.66191232, 35.6463607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市八代町南８７９−７" }, "geometry": { "type": "Point", "coordinates": [ 138.63911345, 35.61790754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市下谷２丁目３−９" }, "geometry": { "type": "Point", "coordinates": [ 138.91472595, 35.56291829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市玉川６５０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.92611414000001, 35.55430701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市桂町１１２６−１１" }, "geometry": { "type": "Point", "coordinates": [ 138.86929772, 35.53188068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市桂町１２３０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.868301229999986, 35.53430355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市十日市場１５５７" }, "geometry": { "type": "Point", "coordinates": [ 138.889636489999987, 35.54076369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市上谷６−７−８" }, "geometry": { "type": "Point", "coordinates": [ 138.904785440000012, 35.54554936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市中央３丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 138.91130636, 35.55451395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市東桂６９６" }, "geometry": { "type": "Point", "coordinates": [ 138.87502084, 35.53740304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市芦安芦倉７１９" }, "geometry": { "type": "Point", "coordinates": [ 138.37715097, 35.63738343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市荊沢１３２１" }, "geometry": { "type": "Point", "coordinates": [ 138.46636224, 35.58729731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市十五所７３９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.47028712, 35.6190624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市小笠原１" }, "geometry": { "type": "Point", "coordinates": [ 138.46641717, 35.60615742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市上今諏訪４３７" }, "geometry": { "type": "Point", "coordinates": [ 138.50006957, 35.63659899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市上今諏訪４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.495865259999988, 35.63450128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市東南湖３３７０" }, "geometry": { "type": "Point", "coordinates": [ 138.49434577, 35.58354477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市東南湖字横川９０２−３" }, "geometry": { "type": "Point", "coordinates": [ 138.48115934, 35.57199286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市飯野３６７７" }, "geometry": { "type": "Point", "coordinates": [ 138.46580284, 35.63061365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市百々１８４１−５" }, "geometry": { "type": "Point", "coordinates": [ 138.465199899999988, 35.66010593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市有野４４３２" }, "geometry": { "type": "Point", "coordinates": [ 138.451841699999989, 35.66144541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市六科１４９６" }, "geometry": { "type": "Point", "coordinates": [ 138.46523012, 35.66241169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町下山５２６６" }, "geometry": { "type": "Point", "coordinates": [ 138.44253794, 35.40842146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町角打７８７" }, "geometry": { "type": "Point", "coordinates": [ 138.45342641, 35.36487858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町古関４６５" }, "geometry": { "type": "Point", "coordinates": [ 138.52121729000001, 35.47280458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町小田船原１" }, "geometry": { "type": "Point", "coordinates": [ 138.42695124, 35.36863361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町切石下宿１８４" }, "geometry": { "type": "Point", "coordinates": [ 138.440934950000013, 35.46503988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町梅平竜ヶ鼻" }, "geometry": { "type": "Point", "coordinates": [ 138.44340997, 35.37054652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡早川町新倉字下川原３２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.336402170000014, 35.47882226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡増穂町青柳３１８" }, "geometry": { "type": "Point", "coordinates": [ 138.46216945, 35.56108601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡増穂町大椚９１７" }, "geometry": { "type": "Point", "coordinates": [ 138.47236292, 35.56553006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町鰍沢５６３９−６" }, "geometry": { "type": "Point", "coordinates": [ 138.45359916000001, 35.51597797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町青柳町９０５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.46418101, 35.55602229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村山中１０４１−２" }, "geometry": { "type": "Point", "coordinates": [ 138.842748160000014, 35.43522031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村山中８６５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.84490736, 35.42955974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村平野５０６−２９６" }, "geometry": { "type": "Point", "coordinates": [ 138.87326119, 35.40689179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡西桂町小沼２５４０" }, "geometry": { "type": "Point", "coordinates": [ 138.836901610000012, 35.51788885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡忍野村忍草７５６" }, "geometry": { "type": "Point", "coordinates": [ 138.83605911, 35.46024619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町西湖８−１０" }, "geometry": { "type": "Point", "coordinates": [ 138.66037377, 35.50163452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津１３２８−４" }, "geometry": { "type": "Point", "coordinates": [ 138.75560067, 35.49963889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津７４０２" }, "geometry": { "type": "Point", "coordinates": [ 138.76186426000001, 35.48620925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津２０１７" }, "geometry": { "type": "Point", "coordinates": [ 138.7568798, 35.49412224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津４６４２−２" }, "geometry": { "type": "Point", "coordinates": [ 138.77255206000001, 35.49800634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津字剣丸尾６６６３−１１" }, "geometry": { "type": "Point", "coordinates": [ 138.78148288, 35.49009139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津字剣丸尾" }, "geometry": { "type": "Point", "coordinates": [ 138.78141251, 35.49013272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町富士ケ嶺１２１８" }, "geometry": { "type": "Point", "coordinates": [ 138.617794800000013, 35.41547163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡鳴沢村１７９１" }, "geometry": { "type": "Point", "coordinates": [ 138.70312823, 35.4805806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡鳴沢村３４９４" }, "geometry": { "type": "Point", "coordinates": [ 138.7197424, 35.48450699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市若宮２−１５" }, "geometry": { "type": "Point", "coordinates": [ 138.453387389999989, 35.71411689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市上祖母石２３８１" }, "geometry": { "type": "Point", "coordinates": [ 138.42060742000001, 35.73206037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市水神２−７−２３" }, "geometry": { "type": "Point", "coordinates": [ 138.44046712, 35.71322782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市藤井町北下条１４７６−５" }, "geometry": { "type": "Point", "coordinates": [ 138.4501677, 35.72292548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市穂坂町宮久保６１９４" }, "geometry": { "type": "Point", "coordinates": [ 138.48175819, 35.73456839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田２６５３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.8122023, 35.48595135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田３７４１" }, "geometry": { "type": "Point", "coordinates": [ 138.81522173, 35.49457636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田３８９１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.819002759999989, 35.49567844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市小明見１４７３" }, "geometry": { "type": "Point", "coordinates": [ 138.8266558, 35.49672235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市松山３３８" }, "geometry": { "type": "Point", "coordinates": [ 138.79519092000001, 35.48464568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田１０９３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.79664141, 35.4723531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田１４０５" }, "geometry": { "type": "Point", "coordinates": [ 138.80257924, 35.46480444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市新屋４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.801823930000012, 35.46767975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市大明見４５０６−５" }, "geometry": { "type": "Point", "coordinates": [ 138.81625033, 35.48679632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市竜ヶ丘２丁目４−１７" }, "geometry": { "type": "Point", "coordinates": [ 138.789224780000012, 35.49323963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町五町田２７２" }, "geometry": { "type": "Point", "coordinates": [ 138.39872377, 35.83438853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市小淵沢町８３９−７" }, "geometry": { "type": "Point", "coordinates": [ 138.31823744, 35.86313116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市小淵沢町大東豊字棒道下１０２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.319718450000011, 35.8866868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市小渕沢町上笹尾５３８" }, "geometry": { "type": "Point", "coordinates": [ 138.324921389999986, 35.84658469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町若神子１４１２" }, "geometry": { "type": "Point", "coordinates": [ 138.421833170000014, 35.79011145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町若神子３２２３" }, "geometry": { "type": "Point", "coordinates": [ 138.419483469999989, 35.79094344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町藤田４６１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.423131289999986, 35.78016814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町大八田１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.39042692000001, 35.83363574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町大八田字米山６８１７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.36599684, 35.84473797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市武川町三吹３９８" }, "geometry": { "type": "Point", "coordinates": [ 138.36091499, 35.79729164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北都留郡丹波山村奥秋２４８８" }, "geometry": { "type": "Point", "coordinates": [ 138.91698817, 35.79200598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山上井尻１２９９-１" }, "geometry": { "type": "Point", "coordinates": [ 138.719170319999989, 35.7132071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山西広門田７４" }, "geometry": { "type": "Point", "coordinates": [ 138.722621620000012, 35.6876498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王町西八幡４０８８" }, "geometry": { "type": "Point", "coordinates": [ 138.513544059999987, 35.6402077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国玉町８２８" }, "geometry": { "type": "Point", "coordinates": [ 138.60128473, 35.64708541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母８丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 138.55033214, 35.63540828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市酒折２-１-１３" }, "geometry": { "type": "Point", "coordinates": [ 138.60364209, 35.65747593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市西高橋町１１５−３" }, "geometry": { "type": "Point", "coordinates": [ 138.598748809999989, 35.64285599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市青沼町２−２４−３" }, "geometry": { "type": "Point", "coordinates": [ 138.57780348, 35.6526557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市徳行２丁目１２−１７" }, "geometry": { "type": "Point", "coordinates": [ 138.54536972, 35.65213144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市美咲１−１２−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.5635131, 35.67478372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市蓬沢町９５３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.59498602, 35.6408812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市七日市場６６１" }, "geometry": { "type": "Point", "coordinates": [ 138.69919428, 35.70215321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市上神内川１０５３-１０" }, "geometry": { "type": "Point", "coordinates": [ 138.68769645, 35.69022475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町西保下８９５" }, "geometry": { "type": "Point", "coordinates": [ 138.67906396, 35.7386753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町西保中１８８２" }, "geometry": { "type": "Point", "coordinates": [ 138.654179379999988, 35.74454671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市万力２０４９" }, "geometry": { "type": "Point", "coordinates": [ 138.68119354000001, 35.69469008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市松留３９１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.10664628, 35.62100536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町上野２３１４" }, "geometry": { "type": "Point", "coordinates": [ 138.51926377, 35.57256221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月町真木４１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.91590595, 35.59935767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市富浜町鳥沢９８６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.99620323, 35.61032968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町河東中島７１４-５" }, "geometry": { "type": "Point", "coordinates": [ 138.52776824, 35.62546855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町上黒駒３５５０" }, "geometry": { "type": "Point", "coordinates": [ 138.704483579999987, 35.60665225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市八代町竹居１９００" }, "geometry": { "type": "Point", "coordinates": [ 138.65674589, 35.60417426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市朝日馬場６１３" }, "geometry": { "type": "Point", "coordinates": [ 138.97496431, 35.56182622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市桃園６０４" }, "geometry": { "type": "Point", "coordinates": [ 138.46482475, 35.62629153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町相又上２０５０" }, "geometry": { "type": "Point", "coordinates": [ 138.42695487, 35.33267132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町大椚２６５" }, "geometry": { "type": "Point", "coordinates": [ 138.470121189999986, 35.56517275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡西桂町小沼１３１" }, "geometry": { "type": "Point", "coordinates": [ 138.86464611, 35.53218478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡道志村１１４０７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.970078300000011, 35.4888511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町河口１８３" }, "geometry": { "type": "Point", "coordinates": [ 138.77380108, 35.52735705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津３３３６" }, "geometry": { "type": "Point", "coordinates": [ 138.766988450000014, 35.49578469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡鳴沢村４２８２-１" }, "geometry": { "type": "Point", "coordinates": [ 138.7262007, 35.48512312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田１０９８−２" }, "geometry": { "type": "Point", "coordinates": [ 138.79842603, 35.47197791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田城山東３１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.80713225, 35.47377082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町清里３５４５−３１７０" }, "geometry": { "type": "Point", "coordinates": [ 138.43883699, 35.88932598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町村山北割２２９４" }, "geometry": { "type": "Point", "coordinates": [ 138.415581800000012, 35.8367461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市上手６０２１" }, "geometry": { "type": "Point", "coordinates": [ 138.44359187, 35.76424539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町大蔵７０８-１" }, "geometry": { "type": "Point", "coordinates": [ 138.42534286, 35.77926322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町大八田６６９９-５" }, "geometry": { "type": "Point", "coordinates": [ 138.373750300000012, 35.8345036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市武川村牧原１４７５-１" }, "geometry": { "type": "Point", "coordinates": [ 138.38590445, 35.78347669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北都留郡小菅村字池尻４３５９" }, "geometry": { "type": "Point", "coordinates": [ 138.94462241, 35.75982687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県塩山市下於曽１５９１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.724776600000013, 35.70017869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県塩山市小屋敷１５６３" }, "geometry": { "type": "Point", "coordinates": [ 138.71758971, 35.72819913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町勝沼１２６５" }, "geometry": { "type": "Point", "coordinates": [ 138.72903864, 35.66515448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町藤井寺字寺平２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.717337500000014, 35.65252561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町菱山３０６０−２" }, "geometry": { "type": "Point", "coordinates": [ 138.74237087, 35.67142186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市亀沢３７８０" }, "geometry": { "type": "Point", "coordinates": [ 138.52480793, 35.71859456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市篠原２６３５" }, "geometry": { "type": "Point", "coordinates": [ 138.5174146, 35.66143198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市篠原７７９" }, "geometry": { "type": "Point", "coordinates": [ 138.52602008, 35.64869296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市右左口町１３１３" }, "geometry": { "type": "Point", "coordinates": [ 138.583897979999989, 35.57543679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上今井町２５０８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.57950628, 35.62625856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市大里町4127" }, "geometry": { "type": "Point", "coordinates": [ 138.562246210000012, 35.62180716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市飯田1-1-17" }, "geometry": { "type": "Point", "coordinates": [ 138.55986033, 35.66763079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市市川１３７０" }, "geometry": { "type": "Point", "coordinates": [ 138.67554116, 35.71319913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町倉科１２８" }, "geometry": { "type": "Point", "coordinates": [ 138.70794722, 35.74147283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市落合３２" }, "geometry": { "type": "Point", "coordinates": [ 138.665227859999987, 35.68481224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市棡原２３６３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.090018539999988, 35.67044756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市成島２４１０−２" }, "geometry": { "type": "Point", "coordinates": [ 138.545191929999987, 35.60118686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市大鳥居３７３７" }, "geometry": { "type": "Point", "coordinates": [ 138.556826300000012, 35.57179572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市芦川町中芦川６７０" }, "geometry": { "type": "Point", "coordinates": [ 138.66741553, 35.55347583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町金田1338" }, "geometry": { "type": "Point", "coordinates": [ 138.67854089, 35.64978272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町狐新居３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.69959269, 35.63244906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町中尾８３６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.703602780000011, 35.65579048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町夏目原１９" }, "geometry": { "type": "Point", "coordinates": [ 138.66494512, 35.63025428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町上黒駒８７４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.6965179, 35.61382585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市春日居町桑戸８５５" }, "geometry": { "type": "Point", "coordinates": [ 138.66083844, 35.67047612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町井戸９０−３" }, "geometry": { "type": "Point", "coordinates": [ 138.6040893, 35.62881486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町河内７０" }, "geometry": { "type": "Point", "coordinates": [ 138.61242127, 35.62988827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市八代町南５６１" }, "geometry": { "type": "Point", "coordinates": [ 138.64217502, 35.61620424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市八代町米倉６２" }, "geometry": { "type": "Point", "coordinates": [ 138.634013149999987, 35.61105952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市鮎沢２０８" }, "geometry": { "type": "Point", "coordinates": [ 138.46746514, 35.59617767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市下高砂３３５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.49594534, 35.65671472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市加賀美２５９２" }, "geometry": { "type": "Point", "coordinates": [ 138.48415605, 35.60849555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市吉田９３３" }, "geometry": { "type": "Point", "coordinates": [ 138.47948094, 35.62222302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市鏡中条７０２" }, "geometry": { "type": "Point", "coordinates": [ 138.494862399999988, 35.61614329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市曲輪田９９５" }, "geometry": { "type": "Point", "coordinates": [ 138.44230618, 35.62974297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市小笠原455-1" }, "geometry": { "type": "Point", "coordinates": [ 138.46388793, 35.60975796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市上市之瀬７４２" }, "geometry": { "type": "Point", "coordinates": [ 138.43957555, 35.60424155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市西野２１９２" }, "geometry": { "type": "Point", "coordinates": [ 138.48357397, 35.63734437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市桃園９２８" }, "geometry": { "type": "Point", "coordinates": [ 138.45616092, 35.62413189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市藤田１１７３−６" }, "geometry": { "type": "Point", "coordinates": [ 138.496616100000011, 35.5986787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市飯野１８０３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.454131100000012, 35.64448984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市百々２９０７" }, "geometry": { "type": "Point", "coordinates": [ 138.472493930000013, 35.65402286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市野牛島１９１２" }, "geometry": { "type": "Point", "coordinates": [ 138.48233339, 35.66254815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市有野３２５９" }, "geometry": { "type": "Point", "coordinates": [ 138.43912334, 35.66089181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡増穂町天神中条１１１０" }, "geometry": { "type": "Point", "coordinates": [ 138.45961177, 35.56278568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町内船４８１２" }, "geometry": { "type": "Point", "coordinates": [ 138.46305009, 35.28301471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市大草町下条西割５０" }, "geometry": { "type": "Point", "coordinates": [ 138.452185680000014, 35.68491911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市藤井町北下条１３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.45105913, 35.7216155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市穂坂町宮久保６２４３" }, "geometry": { "type": "Point", "coordinates": [ 138.48196847, 35.73384099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町清里字念場原３５４５−２６７１" }, "geometry": { "type": "Point", "coordinates": [ 138.444684020000011, 35.90677929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町村山西割９８６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.407032070000014, 35.83699708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須王町比志字塩川３６２１−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.50176119, 35.85585426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市大泉町谷戸２３２１" }, "geometry": { "type": "Point", "coordinates": [ 138.384876960000014, 35.86214466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町白井沢１１７２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.366085, 35.85373365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市白州町白須１０７９" }, "geometry": { "type": "Point", "coordinates": [ 138.33218256, 35.80979136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市勝沼町上岩崎559" }, "geometry": { "type": "Point", "coordinates": [ 138.73053975, 35.65755748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市下今井字南原2955" }, "geometry": { "type": "Point", "coordinates": [ 138.49908973, 35.67441922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市中下条626" }, "geometry": { "type": "Point", "coordinates": [ 138.52170121, 35.68438377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市龍地字二ツ塚2664" }, "geometry": { "type": "Point", "coordinates": [ 138.50925698, 35.67981304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市伊勢4丁目34-10" }, "geometry": { "type": "Point", "coordinates": [ 138.56646089, 35.63932552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市貢川本町13-10" }, "geometry": { "type": "Point", "coordinates": [ 138.55138223, 35.65233843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市千塚1丁目4-22" }, "geometry": { "type": "Point", "coordinates": [ 138.5438531, 35.68101488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市善光寺1丁目18-19" }, "geometry": { "type": "Point", "coordinates": [ 138.591987280000012, 35.65865653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市湯田2丁目15-13" }, "geometry": { "type": "Point", "coordinates": [ 138.57404667, 35.64539991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市七日市場158" }, "geometry": { "type": "Point", "coordinates": [ 138.701600320000011, 35.71115305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市小原西970" }, "geometry": { "type": "Point", "coordinates": [ 138.686224329999988, 35.69324785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市秋山9426-1" }, "geometry": { "type": "Point", "coordinates": [ 139.06448205, 35.57233521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市猿橋町猿橋45" }, "geometry": { "type": "Point", "coordinates": [ 138.97975084, 35.61443896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市猿橋町殿上8" }, "geometry": { "type": "Point", "coordinates": [ 138.96706321, 35.61439652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月1丁目13-25" }, "geometry": { "type": "Point", "coordinates": [ 138.941183990000013, 35.61109581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市西花輪4599" }, "geometry": { "type": "Point", "coordinates": [ 138.5224809, 35.59499929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町東原590-1" }, "geometry": { "type": "Point", "coordinates": [ 138.68345446, 35.64460672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町末木675" }, "geometry": { "type": "Point", "coordinates": [ 138.68790517, 35.64755585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市境川町小山1563" }, "geometry": { "type": "Point", "coordinates": [ 138.62461561, 35.60523365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町松本680" }, "geometry": { "type": "Point", "coordinates": [ 138.63268954, 35.65874282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市古川度591-1" }, "geometry": { "type": "Point", "coordinates": [ 138.93036708, 35.57346102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市田野倉242" }, "geometry": { "type": "Point", "coordinates": [ 138.93368403, 35.59935072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市下今井288-3" }, "geometry": { "type": "Point", "coordinates": [ 138.486688890000011, 35.62467361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市鏡中條64-1" }, "geometry": { "type": "Point", "coordinates": [ 138.49538841, 35.61964941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市荊沢1217-2" }, "geometry": { "type": "Point", "coordinates": [ 138.46611267, 35.58412192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町八日市場上河原296-1" }, "geometry": { "type": "Point", "coordinates": [ 138.44580094, 35.45455385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町塩沢2600-1" }, "geometry": { "type": "Point", "coordinates": [ 138.44903262, 35.27808107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡道志村6445-9" }, "geometry": { "type": "Point", "coordinates": [ 139.03091321, 35.52780153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡忍野村内野432" }, "geometry": { "type": "Point", "coordinates": [ 138.86090958, 35.45652934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町大嵐973-1" }, "geometry": { "type": "Point", "coordinates": [ 138.72871582, 35.49158919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市中田町小田川762" }, "geometry": { "type": "Point", "coordinates": [ 138.42920045, 35.76208323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市本町1丁目6-1" }, "geometry": { "type": "Point", "coordinates": [ 138.450163980000013, 35.70700792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田1226" }, "geometry": { "type": "Point", "coordinates": [ 138.809328, 35.49307538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田5772" }, "geometry": { "type": "Point", "coordinates": [ 138.806124110000013, 35.49613178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町箕輪495-1" }, "geometry": { "type": "Point", "coordinates": [ 138.430270439999987, 35.83454771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市小淵沢町2981" }, "geometry": { "type": "Point", "coordinates": [ 138.31182743, 35.87567998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市小淵沢町7031-1" }, "geometry": { "type": "Point", "coordinates": [ 138.31017355, 35.86190752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北都留郡丹波山村2895" }, "geometry": { "type": "Point", "coordinates": [ 138.92397055, 35.79044693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山下小田原216-1" }, "geometry": { "type": "Point", "coordinates": [ 138.77257848, 35.73122376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山上於曽2035-1" }, "geometry": { "type": "Point", "coordinates": [ 138.72228185, 35.70943838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市中下条2036" }, "geometry": { "type": "Point", "coordinates": [ 138.53453602, 35.68173102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国玉町1039−11" }, "geometry": { "type": "Point", "coordinates": [ 138.596101260000012, 35.64817243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市七保町瀬戸49" }, "geometry": { "type": "Point", "coordinates": [ 138.956913109999988, 35.64442627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市初狩町下初狩481−5" }, "geometry": { "type": "Point", "coordinates": [ 138.8885912, 35.59746502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月町花咲422" }, "geometry": { "type": "Point", "coordinates": [ 138.923387670000011, 35.60294616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市富浜町鳥沢3458" }, "geometry": { "type": "Point", "coordinates": [ 139.014202149999988, 35.60622478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町松本42−1" }, "geometry": { "type": "Point", "coordinates": [ 138.638679950000011, 35.66035722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市大幡1119" }, "geometry": { "type": "Point", "coordinates": [ 138.87665881, 35.56339493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市田野倉821" }, "geometry": { "type": "Point", "coordinates": [ 138.93118949, 35.59087286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市松山1177" }, "geometry": { "type": "Point", "coordinates": [ 138.78267781, 35.48097965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市駒橋１−７−２２" }, "geometry": { "type": "Point", "coordinates": [ 138.948980150000011, 35.61411476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市田島８２０" }, "geometry": { "type": "Point", "coordinates": [ 138.48089754, 35.59049228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市野牛島1845-9" }, "geometry": { "type": "Point", "coordinates": [ 138.487501900000012, 35.66386237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市屋形３−７−１１" }, "geometry": { "type": "Point", "coordinates": [ 138.57623597, 35.6856375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母３−１２−２６" }, "geometry": { "type": "Point", "coordinates": [ 138.55390897, 35.64407145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母７−６８２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.54723231, 35.63829046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市西下条町字５割１３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.57479293, 35.60568385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市青葉町９−１８" }, "geometry": { "type": "Point", "coordinates": [ 138.5850151, 35.64439032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市富竹１−３−２４" }, "geometry": { "type": "Point", "coordinates": [ 138.5469857, 35.65839427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町窪平５４" }, "geometry": { "type": "Point", "coordinates": [ 138.71447844, 35.74049648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡下部町常葉中瀬３２６４" }, "geometry": { "type": "Point", "coordinates": [ 138.47459077, 35.438104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川大門町下大鳥居８８" }, "geometry": { "type": "Point", "coordinates": [ 138.48527037, 35.55389244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市真木１８０４" }, "geometry": { "type": "Point", "coordinates": [ 138.90399272, 35.60128731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市一町畑字川久保１６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.5370762, 35.59134932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市木原８３８" }, "geometry": { "type": "Point", "coordinates": [ 138.55838488, 35.56906997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町中川字大坪５７１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.65659982, 35.64605024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市古川渡３５３" }, "geometry": { "type": "Point", "coordinates": [ 138.92410382, 35.57070579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市西野２３３６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.47814716, 35.6376977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市飯野２４９０" }, "geometry": { "type": "Point", "coordinates": [ 138.46403813, 35.64235572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町楮根４３２８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.46767245, 35.26240583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村平野１０２" }, "geometry": { "type": "Point", "coordinates": [ 138.9023967, 35.42648014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡鳴沢村前丸尾８５３１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.69753297, 35.48015195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市藤井町南下條４８５" }, "geometry": { "type": "Point", "coordinates": [ 138.44903111, 35.71830262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市小明見１５９０" }, "geometry": { "type": "Point", "coordinates": [ 138.82366629, 35.49320131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田９８１" }, "geometry": { "type": "Point", "coordinates": [ 138.80019243000001, 35.4760845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北巨摩郡高根町清里３５４５" }, "geometry": { "type": "Point", "coordinates": [ 138.44272579, 35.90032182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北巨摩郡大泉村西井出８２４０" }, "geometry": { "type": "Point", "coordinates": [ 138.41030128, 35.88522149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町清里３５４５" }, "geometry": { "type": "Point", "coordinates": [ 138.43808574, 35.91913152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町江草７１４５" }, "geometry": { "type": "Point", "coordinates": [ 138.467975489999986, 35.82853817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山下小田原５６２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.77017154, 35.72885608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山藤木１８５０−３" }, "geometry": { "type": "Point", "coordinates": [ 138.712320049999988, 35.73389577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市島上条３２３" }, "geometry": { "type": "Point", "coordinates": [ 138.52713051, 35.68369246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市龍地６４１６" }, "geometry": { "type": "Point", "coordinates": [ 138.51039891, 35.68578026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市貢川２−５−５０" }, "geometry": { "type": "Point", "coordinates": [ 138.532934110000014, 35.66207136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上今井町６８１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.57148688, 35.62578629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上石田１−１４−２３" }, "geometry": { "type": "Point", "coordinates": [ 138.54937755, 35.65725578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市千塚４−１２−３６" }, "geometry": { "type": "Point", "coordinates": [ 138.53476595, 35.68727689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市中央４−５−２９" }, "geometry": { "type": "Point", "coordinates": [ 138.57254511, 35.6593185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市里吉１−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 138.588644359999989, 35.6493709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市秋山１２２４１" }, "geometry": { "type": "Point", "coordinates": [ 139.03011971, 35.57232251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町高田２４０９−１２" }, "geometry": { "type": "Point", "coordinates": [ 138.489695, 35.55747546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町上野６５１" }, "geometry": { "type": "Point", "coordinates": [ 138.5087081, 35.56386036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市七保町葛野１５７４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.95769063, 35.62965327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市大月町花咲１０９" }, "geometry": { "type": "Point", "coordinates": [ 138.93187733, 35.60607767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市境川町前間田２７６" }, "geometry": { "type": "Point", "coordinates": [ 138.629159390000012, 35.6082353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町広瀬７２０" }, "geometry": { "type": "Point", "coordinates": [ 138.623249109999989, 35.6413454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町松本８６３" }, "geometry": { "type": "Point", "coordinates": [ 138.622652280000011, 35.65893561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市下宮地６９５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.46875139, 35.60474723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市西南湖４１７２" }, "geometry": { "type": "Point", "coordinates": [ 138.48623555, 35.59000266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市百々２５６３" }, "geometry": { "type": "Point", "coordinates": [ 138.46483436, 35.65623957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町南部８５２５" }, "geometry": { "type": "Point", "coordinates": [ 138.45589328, 35.28763695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町鰍沢１７１４" }, "geometry": { "type": "Point", "coordinates": [ 138.459624670000011, 35.54817815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津４０８６" }, "geometry": { "type": "Point", "coordinates": [ 138.767837609999987, 35.50182165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町大石１４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.74319587, 35.52308535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡鳴沢村鳴沢２０８３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.706278700000013, 35.48063064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田２４１５" }, "geometry": { "type": "Point", "coordinates": [ 138.81121514, 35.48081078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市高根町清里３５４５−２９" }, "geometry": { "type": "Point", "coordinates": [ 138.44205034, 35.91508629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市大泉町谷戸１１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.37952657, 35.85560548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町長坂上条２３５０" }, "geometry": { "type": "Point", "coordinates": [ 138.37019418, 35.82959023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市長坂町塚川２８１９−２" }, "geometry": { "type": "Point", "coordinates": [ 138.390230339999988, 35.7933946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市下今井８９" }, "geometry": { "type": "Point", "coordinates": [ 138.4868094, 35.68723873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王７３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.50140755000001, 35.67018625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王字片瀬３８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.500417019999986, 35.67101568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母７−１２−４０" }, "geometry": { "type": "Point", "coordinates": [ 138.54741568, 35.64102372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上今井町行人河原１７２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.571979019999986, 35.62645429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上石田２−２６−２３" }, "geometry": { "type": "Point", "coordinates": [ 138.554014560000013, 35.65730937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市太田町８−３" }, "geometry": { "type": "Point", "coordinates": [ 138.569990389999987, 35.6516099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市徳行３−１０５２" }, "geometry": { "type": "Point", "coordinates": [ 138.541376820000011, 35.6486361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市下栗原１１３９" }, "geometry": { "type": "Point", "coordinates": [ 138.69471088, 35.66464262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市小原西２" }, "geometry": { "type": "Point", "coordinates": [ 138.69007761, 35.69354279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町岩間２１１９" }, "geometry": { "type": "Point", "coordinates": [ 138.46101017, 35.49407701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町市川大門７１７" }, "geometry": { "type": "Point", "coordinates": [ 138.4931723, 35.56196993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市若宮４６−６" }, "geometry": { "type": "Point", "coordinates": [ 138.54119798, 35.61170394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町飯喰１３３２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.521151519999989, 35.6236599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町飯喰４６０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.5269707, 35.62478905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町市部８２２" }, "geometry": { "type": "Point", "coordinates": [ 138.63386759, 35.6509445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町松本字鳥居８３１" }, "geometry": { "type": "Point", "coordinates": [ 138.62451999000001, 35.65811018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市藤田字双柳２５７９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.50302242, 35.59425574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村山中１４３" }, "geometry": { "type": "Point", "coordinates": [ 138.85086572, 35.42195124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡山中湖村平野４４５" }, "geometry": { "type": "Point", "coordinates": [ 138.90391388, 35.42329244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡冨士河口湖町船津６４８" }, "geometry": { "type": "Point", "coordinates": [ 138.760333949999989, 35.50139926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田２２７０" }, "geometry": { "type": "Point", "coordinates": [ 138.8037438, 35.46107952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市上吉田５８" }, "geometry": { "type": "Point", "coordinates": [ 138.789505780000013, 35.47613599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市白州町台ケ原８０７" }, "geometry": { "type": "Point", "coordinates": [ 138.34121029, 35.80783377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市飯田２−３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.55483393, 35.6690252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市上栗原字中町９８０" }, "geometry": { "type": "Point", "coordinates": [ 138.701214240000013, 35.66485921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市上神内川町５８８" }, "geometry": { "type": "Point", "coordinates": [ 138.69353533, 35.68480043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市南字中島１０８７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.68831419, 35.69938692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原３７５４" }, "geometry": { "type": "Point", "coordinates": [ 139.10956912, 35.63250362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町上野２３７１" }, "geometry": { "type": "Point", "coordinates": [ 138.51761375000001, 35.57043683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中央市成島１７５２" }, "geometry": { "type": "Point", "coordinates": [ 138.54550179, 35.6075391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町押越１６３４" }, "geometry": { "type": "Point", "coordinates": [ 138.543127739999989, 35.62807776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町河西９４６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.52200441, 35.6162632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市つる１−５−４４" }, "geometry": { "type": "Point", "coordinates": [ 138.90934015, 35.55939133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市六科１５２７−１４" }, "geometry": { "type": "Point", "coordinates": [ 138.467502450000012, 35.66262179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市六科３３９" }, "geometry": { "type": "Point", "coordinates": [ 138.46486478, 35.66788252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町勝山１６４８" }, "geometry": { "type": "Point", "coordinates": [ 138.738116600000012, 35.5028366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田町４８２６" }, "geometry": { "type": "Point", "coordinates": [ 138.81259927, 35.49563673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市大明見４６２" }, "geometry": { "type": "Point", "coordinates": [ 138.81805383, 35.48886508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町若神子１３７" }, "geometry": { "type": "Point", "coordinates": [ 138.42055015, 35.78716449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市野牛島２４４４" }, "geometry": { "type": "Point", "coordinates": [ 138.4715071, 35.66339438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市下谷2-4-2" }, "geometry": { "type": "Point", "coordinates": [ 138.91526904, 35.56367624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲州市塩山西広門田６２" }, "geometry": { "type": "Point", "coordinates": [ 138.72307396, 35.68836302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市中津森1031" }, "geometry": { "type": "Point", "coordinates": [ 138.89732745, 35.56249731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南ｱﾙﾌﾟｽ市飯野新田791" }, "geometry": { "type": "Point", "coordinates": [ 138.43993733, 35.65131451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県大月市猿橋町殿上474" }, "geometry": { "type": "Point", "coordinates": [ 138.9648343, 35.61130891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王45番地1" }, "geometry": { "type": "Point", "coordinates": [ 138.500654630000014, 35.67140802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町勝山３３４３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.73102203, 35.48544746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市竜王９４−９" }, "geometry": { "type": "Point", "coordinates": [ 138.502465230000013, 35.66926977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市伊勢１丁目１０−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.568635300000011, 35.64956875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町中尾３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.69942724, 35.65517785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市西高橋町１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.6010439, 35.64328706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県山梨市東３０８" }, "geometry": { "type": "Point", "coordinates": [ 138.70503844000001, 35.71789718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市横根町１８０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.60995641, 35.65482527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県富士吉田市上吉田３６５９" }, "geometry": { "type": "Point", "coordinates": [ 138.803146090000013, 35.48016626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南巨摩郡身延町梅平２４８４" }, "geometry": { "type": "Point", "coordinates": [ 138.44184927, 35.37070403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南巨摩郡増穂町最勝寺１２６０" }, "geometry": { "type": "Point", "coordinates": [ 138.46096682000001, 35.55686698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南アルプス市下今諏訪４２３" }, "geometry": { "type": "Point", "coordinates": [ 138.49676775, 35.63257355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県韮崎市藤井町南下條６３８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.446323869999986, 35.71832049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南都留郡富士河口湖町船津５６２６" }, "geometry": { "type": "Point", "coordinates": [ 138.7614721, 35.48069076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町南部７４５９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.45106379, 35.29884565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町天神中條１０００" }, "geometry": { "type": "Point", "coordinates": [ 138.46272008, 35.56353107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市大里町４５２６" }, "geometry": { "type": "Point", "coordinates": [ 138.559962930000012, 35.61781836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母４丁目２２−９" }, "geometry": { "type": "Point", "coordinates": [ 138.56357351, 35.6352536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母６丁目６−１０" }, "geometry": { "type": "Point", "coordinates": [ 138.561371400000013, 35.63378706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市住吉４丁目２３−１３" }, "geometry": { "type": "Point", "coordinates": [ 138.58383261, 35.63702651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市湯村１丁目８−１８" }, "geometry": { "type": "Point", "coordinates": [ 138.552879780000012, 35.67651242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市横根町６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.610519399999987, 35.65788304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市酒折１丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.597887570000012, 35.65936345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町下黒駒３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.68564043, 35.61907253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県都留市下谷２丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 138.91308039, 35.56089066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市龍岡町若尾新田１２１２" }, "geometry": { "type": "Point", "coordinates": [ 138.46057943, 35.69176116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市龍岡町下條南割２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.46459526000001, 35.67414563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市中田町小田川１３９３" }, "geometry": { "type": "Point", "coordinates": [ 138.436952670000011, 35.74976364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市藤井町北下條２１０５" }, "geometry": { "type": "Point", "coordinates": [ 138.43979306, 35.72359786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市水神２丁目１１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.44116336, 35.71385157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市本町４丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 138.46028067, 35.70068073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市牧丘町窪平１４９５" }, "geometry": { "type": "Point", "coordinates": [ 138.71669623, 35.74552353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市石和町下平井１" }, "geometry": { "type": "Point", "coordinates": [ 138.651807170000012, 35.64411694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県富士吉田市下吉田１３６" }, "geometry": { "type": "Point", "coordinates": [ 138.801462750000013, 35.48735155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市朝日４丁目７−２８" }, "geometry": { "type": "Point", "coordinates": [ 138.56891457, 35.67300011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市青葉町１６−３１" }, "geometry": { "type": "Point", "coordinates": [ 138.58093845, 35.64482683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市一宮町末木６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.68582853, 35.64491519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市国母６丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.55533748, 35.63772502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町長浜１３４６−２" }, "geometry": { "type": "Point", "coordinates": [ 138.71517397, 35.50709968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原" }, "geometry": { "type": "Point", "coordinates": [ 139.129546729999987, 35.61954941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県上野原市上野原１６６７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.1150993, 35.62394606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市小笠原１４２３−４" }, "geometry": { "type": "Point", "coordinates": [ 138.46821786000001, 35.61902556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町河西４８１" }, "geometry": { "type": "Point", "coordinates": [ 138.52369725, 35.61341842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市十日市場７７５" }, "geometry": { "type": "Point", "coordinates": [ 138.4752871, 35.6077034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市龍岡町若尾新田４６１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.45628539, 35.69647714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町栗合１５７" }, "geometry": { "type": "Point", "coordinates": [ 138.66517395, 35.62261827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県笛吹市御坂町栗合１７７" }, "geometry": { "type": "Point", "coordinates": [ 138.66660406, 35.62232022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市西野３１４９" }, "geometry": { "type": "Point", "coordinates": [ 138.48567709, 35.63332614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津６８５１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.76283738, 35.49021693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町小立６９１０−２" }, "geometry": { "type": "Point", "coordinates": [ 138.74056337, 35.46475433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県中巨摩郡昭和町西条４８６" }, "geometry": { "type": "Point", "coordinates": [ 138.54710398, 35.63216498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町本栖１９２" }, "geometry": { "type": "Point", "coordinates": [ 138.60546488, 35.46226491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県西八代郡市川三郷町市川大門１０３４" }, "geometry": { "type": "Point", "coordinates": [ 138.50451841, 35.56187127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町三澤１１８４−４" }, "geometry": { "type": "Point", "coordinates": [ 138.46542107, 35.48222539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡富士川町青柳町３４９２−１３７" }, "geometry": { "type": "Point", "coordinates": [ 138.459557890000013, 35.55262052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡身延町宮木８５１−２" }, "geometry": { "type": "Point", "coordinates": [ 138.44489415000001, 35.4412613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町万沢３４５５" }, "geometry": { "type": "Point", "coordinates": [ 138.51556808, 35.21940165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町万沢１２９７" }, "geometry": { "type": "Point", "coordinates": [ 138.50794264000001, 35.23098958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南巨摩郡南部町万沢１１８５" }, "geometry": { "type": "Point", "coordinates": [ 138.50538604, 35.23702401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津７８７" }, "geometry": { "type": "Point", "coordinates": [ 138.76252878, 35.50148763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市名取７６２" }, "geometry": { "type": "Point", "coordinates": [ 138.52839529, 35.66336389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町船津４７１７" }, "geometry": { "type": "Point", "coordinates": [ 138.775069769999988, 35.49649367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市浅原３３７" }, "geometry": { "type": "Point", "coordinates": [ 138.500956980000012, 35.59094386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市下宮地５６３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.46595659, 35.60311508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市須玉町東向３０３０" }, "geometry": { "type": "Point", "coordinates": [ 138.45276852, 35.8129763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市白州町下教来石３１４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.29859459, 35.84496975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県北杜市武川町牧原１４００−１" }, "geometry": { "type": "Point", "coordinates": [ 138.38223373, 35.78507244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡忍野村内野４７３６" }, "geometry": { "type": "Point", "coordinates": [ 138.85678164, 35.4551079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南都留郡富士河口湖町浅川１０８１−４" }, "geometry": { "type": "Point", "coordinates": [ 138.77257691, 35.50640157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲斐市富竹新田１９９６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.53244086, 35.65012869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県南アルプス市徳永３９５" }, "geometry": { "type": "Point", "coordinates": [ 138.492951690000012, 35.65658211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市若松町５−４" }, "geometry": { "type": "Point", "coordinates": [ 138.570651270000013, 35.65478314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市宮前町３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.57361407, 35.6728003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市緑が丘２丁目１３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.55878205, 35.68266513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市丸の内２丁目３２−１３" }, "geometry": { "type": "Point", "coordinates": [ 138.566409670000013, 35.6620404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市増坪町２０８" }, "geometry": { "type": "Point", "coordinates": [ 138.589103349999988, 35.63745771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市宝２丁目１９−５" }, "geometry": { "type": "Point", "coordinates": [ 138.562424060000012, 35.66057939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市幸町１９−１２" }, "geometry": { "type": "Point", "coordinates": [ 138.5699991, 35.64542329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県富士吉田市上暮地４丁目１６−５" }, "geometry": { "type": "Point", "coordinates": [ 138.83196494, 35.51719927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市上町２３８７" }, "geometry": { "type": "Point", "coordinates": [ 138.58487151, 35.63679115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市伊勢１丁目９−６" }, "geometry": { "type": "Point", "coordinates": [ 138.568232380000012, 35.64946437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市飯田４丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.55711045000001, 35.6677199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市城東２丁目１０−２０" }, "geometry": { "type": "Point", "coordinates": [ 138.577186430000012, 35.6584543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県都留市法能４１１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.9122497, 35.54547793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県富士吉田市大明見２１７" }, "geometry": { "type": "Point", "coordinates": [ 138.82057494, 35.48672698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県富士吉田市下吉田５３００−１" }, "geometry": { "type": "Point", "coordinates": [ 138.80897395, 35.49735497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県富士吉田市小明見１４５８" }, "geometry": { "type": "Point", "coordinates": [ 138.82733258, 35.49785091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市青沼１丁目８−１１" }, "geometry": { "type": "Point", "coordinates": [ 138.575104219999986, 35.65478103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県笛吹市石和町東高橋１８５−３" }, "geometry": { "type": "Point", "coordinates": [ 138.60174397, 35.63552461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市朝日５丁目８−２５" }, "geometry": { "type": "Point", "coordinates": [ 138.5660963, 35.67383956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南巨摩郡富士川町天神中條１０５９" }, "geometry": { "type": "Point", "coordinates": [ 138.46151673, 35.56161651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲斐市竜王新町２２８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.51612922000001, 35.66935487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県笛吹市石和町河内４１８−２" }, "geometry": { "type": "Point", "coordinates": [ 138.60540777, 35.62991992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南巨摩郡身延町梅平２３１０" }, "geometry": { "type": "Point", "coordinates": [ 138.43899869, 35.37029187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県上野原市上野原１５９８" }, "geometry": { "type": "Point", "coordinates": [ 139.11489572, 35.62722018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県上野原市上野原１５９５" }, "geometry": { "type": "Point", "coordinates": [ 139.115117379999987, 35.62703155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県大月市大月２丁目６−２３" }, "geometry": { "type": "Point", "coordinates": [ 138.94034165, 35.6107444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市中曽根１丁目２−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.80105167, 35.48728766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市上吉田６０４６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.812914729999989, 35.47251453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市下吉田５５０５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.80754536, 35.49743107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市下吉田５０６０" }, "geometry": { "type": "Point", "coordinates": [ 138.80998408, 35.49548965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市下吉田５１３４" }, "geometry": { "type": "Point", "coordinates": [ 138.80871474, 35.49553407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市緑ケ丘２丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 138.7946882, 35.4930286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲州市塩山上塩後３１７−３" }, "geometry": { "type": "Point", "coordinates": [ 138.71840823, 35.70127405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県都留市つる１丁目３−２５" }, "geometry": { "type": "Point", "coordinates": [ 138.91148795, 35.55960129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県山梨市万力６２−４" }, "geometry": { "type": "Point", "coordinates": [ 138.66730825, 35.68597239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市善光寺１丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 138.5953461, 35.65889401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県大月市七保町葛野９３０−４" }, "geometry": { "type": "Point", "coordinates": [ 138.95958893, 35.62685152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県笛吹市石和町八田１３４−４" }, "geometry": { "type": "Point", "coordinates": [ 138.64274678000001, 35.6505669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡身延町切房木１０２４" }, "geometry": { "type": "Point", "coordinates": [ 138.49483457, 35.48133922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡身延町常葉２５２４" }, "geometry": { "type": "Point", "coordinates": [ 138.47833191, 35.4456778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡身延町三澤１２５" }, "geometry": { "type": "Point", "coordinates": [ 138.479906879999987, 35.48170983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県山梨市小原西６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.69279189, 35.69575085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市松山１丁目９−３" }, "geometry": { "type": "Point", "coordinates": [ 138.79827415, 35.48699599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市飯田３丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 138.55848816, 35.66569245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市太田町３０−１１" }, "geometry": { "type": "Point", "coordinates": [ 138.57245411, 35.64883964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市上石田４丁目１６−１０" }, "geometry": { "type": "Point", "coordinates": [ 138.55342278, 35.64908357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市善光寺１丁目１６−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.590135370000013, 35.65889953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡南部町福士４４９２" }, "geometry": { "type": "Point", "coordinates": [ 138.481770579999989, 35.23689405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市徳行３丁目３−９" }, "geometry": { "type": "Point", "coordinates": [ 138.541643380000011, 35.65048306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲斐市篠原７３９" }, "geometry": { "type": "Point", "coordinates": [ 138.52696168, 35.6496106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市朝日１丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 138.5657928, 35.66879781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡富士川町青柳町３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.46382087, 35.5606583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県都留市つる１丁目１６−５" }, "geometry": { "type": "Point", "coordinates": [ 138.90826891, 35.5594818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市朝日４丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 138.56887566, 35.67433604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡西桂町小沼２０１８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.84688139, 35.52399948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲州市塩山上於曽１７２５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.733476599999989, 35.70586003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県都留市桂町１１７３−８" }, "geometry": { "type": "Point", "coordinates": [ 138.87402653, 35.53670867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市美咲１丁目１１−２８" }, "geometry": { "type": "Point", "coordinates": [ 138.56464232, 35.67444327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県韮崎市藤井町北下條６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.44904498, 35.72868952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南アルプス市藤田３５３" }, "geometry": { "type": "Point", "coordinates": [ 138.49133547, 35.60053949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡山中湖村平野７６２−５" }, "geometry": { "type": "Point", "coordinates": [ 138.912741, 35.42717069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡南部町福士２６５４" }, "geometry": { "type": "Point", "coordinates": [ 138.48123152, 35.24639303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県中巨摩郡昭和町西条４２３３" }, "geometry": { "type": "Point", "coordinates": [ 138.54318135, 35.63657911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南アルプス市飯野８５２" }, "geometry": { "type": "Point", "coordinates": [ 138.44912020000001, 35.64691315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県北杜市小淵沢町５１６０" }, "geometry": { "type": "Point", "coordinates": [ 138.29747174, 35.86928444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡西桂町下暮地８７１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.84308569, 35.52765682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡西桂町小沼２０６６" }, "geometry": { "type": "Point", "coordinates": [ 138.84252213, 35.52144081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡西桂町小沼１９４" }, "geometry": { "type": "Point", "coordinates": [ 138.86238354, 35.53149533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県甲府市湯田１丁目１−４" }, "geometry": { "type": "Point", "coordinates": [ 138.57833969, 35.65021714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市新倉９３０−３" }, "geometry": { "type": "Point", "coordinates": [ 138.80805361, 35.49918643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡富士河口湖町小立２２４" }, "geometry": { "type": "Point", "coordinates": [ 138.74947235, 35.50806487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡富士河口湖町船津３４９１" }, "geometry": { "type": "Point", "coordinates": [ 138.76710995, 35.49937471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市小明見３１４０" }, "geometry": { "type": "Point", "coordinates": [ 138.82937131, 35.49417917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南巨摩郡身延町飯富１０５" }, "geometry": { "type": "Point", "coordinates": [ 138.4366867, 35.43864755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県上野原市上野原７５２" }, "geometry": { "type": "Point", "coordinates": [ 139.11440085000001, 35.62309279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県富士吉田市上吉田１３４１" }, "geometry": { "type": "Point", "coordinates": [ 138.80404357, 35.46753991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山梨県南都留郡西桂町下暮地７" }, "geometry": { "type": "Point", "coordinates": [ 138.84608825, 35.52588482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県韮崎市一ツ谷2035" }, "geometry": { "type": "Point", "coordinates": [ 138.43123702, 35.72217976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市城東５丁目７−１３" }, "geometry": { "type": "Point", "coordinates": [ 138.588695730000012, 35.65877347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県甲府市上町西河原２２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.58125116, 35.63532174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山梨県山梨市万力若宮1895" }, "geometry": { "type": "Point", "coordinates": [ 138.677713110000013, 35.68914665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県甲府市塩山下塩後３９４" }, "geometry": { "type": "Point", "coordinates": [ 138.71309327, 35.69398317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県上野原市上野原１８２２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.11089616000001, 35.62419649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山梨県南巨摩郡富士川町１５５６" }, "geometry": { "type": "Point", "coordinates": [ 138.45937717000001, 35.54498295 ] } }
+
+]
+}

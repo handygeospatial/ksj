@@ -1,0 +1,694 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町岩井字藤ケ森１６５−３" }, "geometry": { "type": "Point", "coordinates": [ 134.36747316, 35.55639538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市上道町３１４６" }, "geometry": { "type": "Point", "coordinates": [ 133.23539563, 35.54010306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市相生町９" }, "geometry": { "type": "Point", "coordinates": [ 133.23334393, 35.54744351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町富長１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.485352940000013, 35.50373682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市気高町勝見６５８−４" }, "geometry": { "type": "Point", "coordinates": [ 134.046855349999987, 35.50934613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市気高町浜村７８４−５４" }, "geometry": { "type": "Point", "coordinates": [ 134.05876025, 35.51850291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字赤碕１９６７−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.63521852, 35.51744194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町生山６９４" }, "geometry": { "type": "Point", "coordinates": [ 133.32317599000001, 35.1705961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町福塚１６１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.31164436, 35.115121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日野町下管３２７−６" }, "geometry": { "type": "Point", "coordinates": [ 133.38736168, 35.2094349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市久米町５８" }, "geometry": { "type": "Point", "coordinates": [ 133.32754854, 35.42652053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市新開６丁目１番３号" }, "geometry": { "type": "Point", "coordinates": [ 133.34318758, 35.45512949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市西福原３丁目６−４９" }, "geometry": { "type": "Point", "coordinates": [ 133.34426559, 35.44142057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市二本木字浜田１０８６−３" }, "geometry": { "type": "Point", "coordinates": [ 133.38869287, 35.44253998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市末広町１２７番地" }, "geometry": { "type": "Point", "coordinates": [ 133.33494725, 35.42303018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町岩井字若宮４２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.37160197, 35.5543632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町大字大谷字西町田１４８５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.29378915, 35.57346012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町田後６８" }, "geometry": { "type": "Point", "coordinates": [ 134.31478703, 35.5930762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市京町４３" }, "geometry": { "type": "Point", "coordinates": [ 133.22732363, 35.54419955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市元町１８１３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.234482750000012, 35.54387714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市昭和町１３−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.245315510000012, 35.53907212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市竹内団地５４" }, "geometry": { "type": "Point", "coordinates": [ 133.249323690000011, 35.52057866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市渡町１９８５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.214457, 35.51910119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町富長１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.48705181, 35.50463261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡南部町阿賀３６４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.3300911, 35.35878731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡日吉津村日吉津１１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.38652918, 35.44475082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市海田西町１−１５１" }, "geometry": { "type": "Point", "coordinates": [ 133.844572520000014, 35.46225591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市海田東町４０１" }, "geometry": { "type": "Point", "coordinates": [ 133.847155640000011, 35.46008955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市関金町関金宿２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76224833, 35.36738172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市宮川町１８３" }, "geometry": { "type": "Point", "coordinates": [ 133.830435349999988, 35.43306473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市見日町５００番地" }, "geometry": { "type": "Point", "coordinates": [ 133.840913480000012, 35.43940689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市山根６２０−２" }, "geometry": { "type": "Point", "coordinates": [ 133.84902021, 35.45139894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市上福田４７７" }, "geometry": { "type": "Point", "coordinates": [ 133.75020706, 35.4279997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市蔵内３２６" }, "geometry": { "type": "Point", "coordinates": [ 133.793593069999986, 35.40255706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市中河原３９３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.80094143, 35.41022562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市仲ノ町７３７番１１" }, "geometry": { "type": "Point", "coordinates": [ 133.82221392, 35.43092592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市賀露町南１−１−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.18724884, 35.52315073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市覚寺５１" }, "geometry": { "type": "Point", "coordinates": [ 134.227647, 35.5215904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市叶１−２−１６" }, "geometry": { "type": "Point", "coordinates": [ 134.21695499, 35.47676245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市気高町浜村字西浜７８３" }, "geometry": { "type": "Point", "coordinates": [ 134.050326899999988, 35.51818886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市桂木２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.249243, 35.46026622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町東２−１７０" }, "geometry": { "type": "Point", "coordinates": [ 134.185818289999986, 35.51629706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市五反田町１" }, "geometry": { "type": "Point", "coordinates": [ 134.20145094, 35.50964287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市幸町１２−４" }, "geometry": { "type": "Point", "coordinates": [ 134.220859530000013, 35.49565447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市国府町分上２−２１１" }, "geometry": { "type": "Point", "coordinates": [ 134.26081201, 35.48292882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市松並町１−２８７" }, "geometry": { "type": "Point", "coordinates": [ 134.21707536, 35.51361299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市新１１２−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.23506703000001, 35.4815201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青谷町井手字道端５７１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.987774, 35.52041847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市千代水２−４０" }, "geometry": { "type": "Point", "coordinates": [ 134.2000942, 35.51375735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市千代水３−１４０" }, "geometry": { "type": "Point", "coordinates": [ 134.20037453, 35.51926389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市川端５−１０５" }, "geometry": { "type": "Point", "coordinates": [ 134.22734212, 35.50245378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市富安２−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.23126588, 35.49122791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市片原３丁目１０１" }, "geometry": { "type": "Point", "coordinates": [ 134.232036529999988, 35.50301451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字赤碕１２０４−５" }, "geometry": { "type": "Point", "coordinates": [ 133.63982139, 35.51526881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字八橋２２４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.681116839999987, 35.50425294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡三朝町山田６８７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.88426469, 35.41306815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町久留光吉後１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.87148584, 35.49216965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町大字田後３０２−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.85523029, 35.48273525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町大字龍島１５９" }, "geometry": { "type": "Point", "coordinates": [ 133.898913560000011, 35.46708387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町国坂字中曽弥１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.82965782, 35.48195034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町北尾８８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.81446417, 35.48175313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町由良宿４８３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.75914624, 35.49104416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡江府町佐川字五反田１０１８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.47508158, 35.2930461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町生山字樋ノ口４０６−９" }, "geometry": { "type": "Point", "coordinates": [ 133.3103492, 35.16900151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町湯河３３７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.20137788, 35.11748611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日野町中菅字テンコフ２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.38687023, 35.20320502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡若桜町大字若桜１０５３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.399568609999989, 35.34515768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町早瀬２８５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.21800077, 35.21580983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字郷原字下垣内５３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.270443480000012, 35.2614857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字智頭４１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.22631282, 35.27118234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町宮谷字上石房２１３−４" }, "geometry": { "type": "Point", "coordinates": [ 134.25627914, 35.41586464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町郡家３３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.254606169999988, 35.41271319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市皆生５丁目２０−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.361441359999986, 35.45032027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市旗ヶ崎２−１１−５" }, "geometry": { "type": "Point", "coordinates": [ 133.31900622, 35.43550107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市旗ケ崎２−１２−３３" }, "geometry": { "type": "Point", "coordinates": [ 133.31961722, 35.43677875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市旗ヶ崎６丁目１−４３" }, "geometry": { "type": "Point", "coordinates": [ 133.31332962, 35.43676086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市車尾４丁目１番１号" }, "geometry": { "type": "Point", "coordinates": [ 133.35903123, 35.43289058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市上後藤２丁目４−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.31956261, 35.44494229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市長砂町７８３" }, "geometry": { "type": "Point", "coordinates": [ 133.35058772, 35.42025283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市彦名２０６８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.28812301, 35.44936812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市彦名町字新堀通ニ−１４６５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.29203505000001, 35.44727752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市米原５−２−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.332499750000011, 35.44364317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市夜見町２５８１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.30050606, 35.46847003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市淀江町中間７５２" }, "geometry": { "type": "Point", "coordinates": [ 133.40333279, 35.44830625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市両三柳２０６４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.331651419999986, 35.45186594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市両三柳７７６" }, "geometry": { "type": "Point", "coordinates": [ 133.32083868, 35.45030531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市上道町１８５５-１４" }, "geometry": { "type": "Point", "coordinates": [ 133.23620489000001, 35.54357164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市渡町深田２７６２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.2136209, 35.52244647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町下甲" }, "geometry": { "type": "Point", "coordinates": [ 133.58059968, 35.52467668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡南部町法勝寺２２６‐１" }, "geometry": { "type": "Point", "coordinates": [ 133.325504130000013, 35.34517908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町遠藤３３４" }, "geometry": { "type": "Point", "coordinates": [ 133.400918929999989, 35.40439382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町溝口５-９" }, "geometry": { "type": "Point", "coordinates": [ 133.43261318, 35.35117644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市広栄町９２４" }, "geometry": { "type": "Point", "coordinates": [ 133.85102851, 35.43008954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市住吉町３７-３" }, "geometry": { "type": "Point", "coordinates": [ 133.83433097, 35.43042003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市西倉吉町１０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.80663772, 35.42860573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市東巌城町１２７" }, "geometry": { "type": "Point", "coordinates": [ 133.84359154, 35.43796873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市雲山字田村田２２１-１０４" }, "geometry": { "type": "Point", "coordinates": [ 134.23570595000001, 35.47807752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市賀露町１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.193324350000012, 35.52026843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市叶３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.21749673, 35.47237134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市古海２丁田３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20464467, 35.48945226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市古海６４３-３" }, "geometry": { "type": "Point", "coordinates": [ 134.20743751, 35.49743724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町東４丁目４３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.18770433, 35.51513796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市小沢見字長田５８５-３" }, "geometry": { "type": "Point", "coordinates": [ 134.10805109, 35.52245835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市松並町２‐５３０‐１" }, "geometry": { "type": "Point", "coordinates": [ 134.21862015, 35.51834053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市相生町１丁目７０１" }, "geometry": { "type": "Point", "coordinates": [ 134.22714503, 35.50613611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市南吉方３-５３０" }, "geometry": { "type": "Point", "coordinates": [ 134.24403555, 35.48653936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市富安１‐８８" }, "geometry": { "type": "Point", "coordinates": [ 134.22581012, 35.4902242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町丸尾１０５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.68878386, 35.50395756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字赤碕１０５５" }, "geometry": { "type": "Point", "coordinates": [ 133.62906430000001, 35.5179469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字別所３４２" }, "geometry": { "type": "Point", "coordinates": [ 133.659771009999986, 35.5074744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町上浅津５６５-５" }, "geometry": { "type": "Point", "coordinates": [ 133.8762078, 35.48224044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町田後３６７-１" }, "geometry": { "type": "Point", "coordinates": [ 133.853245320000013, 35.47975916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町上石見８３６‐１２" }, "geometry": { "type": "Point", "coordinates": [ 133.35593598, 35.11237493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町生山１６０‐１５" }, "geometry": { "type": "Point", "coordinates": [ 133.322535460000012, 35.17194201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡若桜町大字若桜大石１２８９‐１" }, "geometry": { "type": "Point", "coordinates": [ 134.39086562, 35.34928194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字智頭２４‐１" }, "geometry": { "type": "Point", "coordinates": [ 134.22421658, 35.27378986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字智頭６４０‐１" }, "geometry": { "type": "Point", "coordinates": [ 134.23074576, 35.2677416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市皆生新田１-４０" }, "geometry": { "type": "Point", "coordinates": [ 133.36410299, 35.45014446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市吉岡１０８‐６" }, "geometry": { "type": "Point", "coordinates": [ 133.372073699999987, 35.4301989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市久米町１７" }, "geometry": { "type": "Point", "coordinates": [ 133.32914761, 35.42610203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市西福原１−１−６３" }, "geometry": { "type": "Point", "coordinates": [ 133.34072692, 35.4388621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市長砂町８２５-５" }, "geometry": { "type": "Point", "coordinates": [ 133.35178373, 35.41872232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市富益町２２１７" }, "geometry": { "type": "Point", "coordinates": [ 133.28240051, 35.47545331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市福市１６７５‐１" }, "geometry": { "type": "Point", "coordinates": [ 133.37362239, 35.40070548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市夜見町２７９４" }, "geometry": { "type": "Point", "coordinates": [ 133.30345144, 35.46329155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市夜見町字砂浜３０８３‐２８" }, "geometry": { "type": "Point", "coordinates": [ 133.30641721, 35.4706302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市両三柳１８８‐１" }, "geometry": { "type": "Point", "coordinates": [ 133.32511245, 35.44806481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町大字新井３３１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.326190880000013, 35.56730705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市佐斐神町３０−４" }, "geometry": { "type": "Point", "coordinates": [ 133.25644674, 35.50515095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町国信５４９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.4580619, 35.48349233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町佐摩宇河原９７５" }, "geometry": { "type": "Point", "coordinates": [ 133.49863074000001, 35.44681907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町田中８２５" }, "geometry": { "type": "Point", "coordinates": [ 133.58734195, 35.52472448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町富長西上松８６５−１、８６６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.47603917, 35.49804027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡南部町阿賀字五反田３７６−１、３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.33151145, 35.36057626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡南部町天万１９０６〜８" }, "geometry": { "type": "Point", "coordinates": [ 133.36246890000001, 35.37572568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町岸本字砂田１４６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.41251621, 35.386209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市横田１５０" }, "geometry": { "type": "Point", "coordinates": [ 133.78396625, 35.42120878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市河北町７３" }, "geometry": { "type": "Point", "coordinates": [ 133.84442098, 35.46391007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市関金町大鳥居１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.75316489, 35.36984046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市国府字擲塚６０４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.793841359999988, 35.43578946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市駄経寺２−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.83830139, 35.43002081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市福吉町２新蔵村１７１０、１７１１" }, "geometry": { "type": "Point", "coordinates": [ 133.81229835, 35.43224873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市雲山字背戸田１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.23924525000001, 35.47969441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市河原町渡一木３５０−２１" }, "geometry": { "type": "Point", "coordinates": [ 134.20174563, 35.40142414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市気高町上光字山の鼻５６８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.07965425, 35.48681188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市気高町宝木字和田新田１８０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.07548114, 35.51692098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市宮長字大坪３１" }, "geometry": { "type": "Point", "coordinates": [ 134.22518274, 35.47544729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市古海字三友長６６１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.2084068, 35.49727909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市行徳１−４０５" }, "geometry": { "type": "Point", "coordinates": [ 134.22110385, 35.4981841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市国府町中郷字南１区ほ４７１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26792912, 35.47159054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市佐治町古市字下小川道端２１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.16349471, 35.34312895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市上味野字３本木57-1" }, "geometry": { "type": "Point", "coordinates": [ 134.20381949, 35.46453548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青谷町善田字土橋２−５澤３−２、４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.9988166, 35.51359651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市千代水２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20474201, 35.51264395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市伏野字砂浜２２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.150285489999987, 35.52761222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市用瀬町鷹狩字瀬戸田７２９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20673008, 35.35492156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町逢束字野際８１３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.70361523, 35.50390631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字古長字前田２６８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.663394110000013, 35.42716314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字高岡４７０" }, "geometry": { "type": "Point", "coordinates": [ 133.629127610000012, 35.46070229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町大字赤碕１９１９" }, "geometry": { "type": "Point", "coordinates": [ 133.631285240000011, 35.51136644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町徳万字鳥見５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69247697, 35.49782926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町八橋字宮ノ前１７０２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.669408839999988, 35.50449945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡三朝町大字曹源寺小来木５７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.83516658, 35.32683937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡三朝町大字大瀬砂子田１０４５−７" }, "geometry": { "type": "Point", "coordinates": [ 133.86517705, 35.40798753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡三朝町大字片柴瀬１３２９" }, "geometry": { "type": "Point", "coordinates": [ 133.91166028, 35.40996523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町大字原渡場７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.92109217, 35.50621044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町大字長和田字出口５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.88062215, 35.4635639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町亀谷字深町２８５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.75040987, 35.46616157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町弓原３３４" }, "geometry": { "type": "Point", "coordinates": [ 133.810729939999987, 35.48217585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町江北字駄経寺７８８−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.8400901, 35.48157685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町妻波字曲がり戸１１７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.73923801, 35.49488364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡江府町大字市如来原１０４０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.51430235, 35.29254015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡江府町大字小江尾５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.480198730000012, 35.2904409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町霞字百姓堀７７９" }, "geometry": { "type": "Point", "coordinates": [ 133.306468529999989, 35.16494422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町茶屋大戸口田３６７２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.233927849999986, 35.18538732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日野町根雨７１０" }, "geometry": { "type": "Point", "coordinates": [ 133.44337432, 35.24262559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡若桜町若桜１０９７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39704679, 35.34723081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字市瀬字竹ノ出口１４７８−６" }, "geometry": { "type": "Point", "coordinates": [ 134.22527838, 35.27195572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町安井宿２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.30513334, 35.37433306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町奥谷字門崎１８２" }, "geometry": { "type": "Point", "coordinates": [ 134.25984023, 35.41965461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町船岡字中道二番１９６５" }, "geometry": { "type": "Point", "coordinates": [ 134.24145755, 35.39445661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市東福原１−５−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.34691153, 35.43547443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市八幡６８２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.37899295, 35.39839141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市尾高２７７７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.405658570000014, 35.42548608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市淀江町西原字中亀ヶ原１１２１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.41659088, 35.45246795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡日吉津村大字日吉津2048-1" }, "geometry": { "type": "Point", "coordinates": [ 133.386417990000012, 35.44666729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡日吉津村大字日吉津焼小豆5-1" }, "geometry": { "type": "Point", "coordinates": [ 133.38300186, 35.43158548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町大殿47-1" }, "geometry": { "type": "Point", "coordinates": [ 133.406443779999989, 35.38632403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市伊木254-1" }, "geometry": { "type": "Point", "coordinates": [ 133.84906684, 35.44634878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市昭和町2丁目243" }, "geometry": { "type": "Point", "coordinates": [ 133.83793183, 35.43614855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市丸山町269-1" }, "geometry": { "type": "Point", "coordinates": [ 134.22524639, 35.51947604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市国府町新通り1丁目111-1" }, "geometry": { "type": "Point", "coordinates": [ 134.251782459999987, 35.48274568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市福部町細川平山740-6" }, "geometry": { "type": "Point", "coordinates": [ 134.28146604, 35.55935584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町大字田後305-1" }, "geometry": { "type": "Point", "coordinates": [ 133.85544539, 35.4817212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県日野郡日南町多里766-2" }, "geometry": { "type": "Point", "coordinates": [ 133.200609789999987, 35.11403336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市安倍363-1" }, "geometry": { "type": "Point", "coordinates": [ 133.30125056, 35.44110259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市陰田町648" }, "geometry": { "type": "Point", "coordinates": [ 133.32096392, 35.41184449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市旗ヶ崎7丁目12-12" }, "geometry": { "type": "Point", "coordinates": [ 133.307256700000011, 35.43938951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市昭和町38-1" }, "geometry": { "type": "Point", "coordinates": [ 133.34193731, 35.42633248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市西福原9-22-40" }, "geometry": { "type": "Point", "coordinates": [ 133.338650660000013, 35.45576293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市東福原6丁目1番30号" }, "geometry": { "type": "Point", "coordinates": [ 133.34901606, 35.44522128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市日原808-3" }, "geometry": { "type": "Point", "coordinates": [ 133.36053166, 35.40986515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市淀江町佐陀712-2" }, "geometry": { "type": "Point", "coordinates": [ 133.39428405000001, 35.44518234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市天神町３３番地" }, "geometry": { "type": "Point", "coordinates": [ 134.22267001, 35.49147692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市徳尾字山崎１８９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.202622420000012, 35.49543478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡日吉津村大字日吉津１３８８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.38172775000001, 35.44575512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町溝口６３３" }, "geometry": { "type": "Point", "coordinates": [ 133.436109710000011, 35.34512321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市河北町１７８" }, "geometry": { "type": "Point", "coordinates": [ 133.84576679, 35.46858851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市金森町１７" }, "geometry": { "type": "Point", "coordinates": [ 133.817021, 35.43655986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市昭和町１−２３８" }, "geometry": { "type": "Point", "coordinates": [ 133.83459493, 35.43358945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市西倉吉町４８０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.80090281, 35.43232437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市大正町２−８０" }, "geometry": { "type": "Point", "coordinates": [ 133.82138056, 35.43531427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市河原町徳吉５２−７" }, "geometry": { "type": "Point", "coordinates": [ 134.2056504, 35.3994811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市叶３１１" }, "geometry": { "type": "Point", "coordinates": [ 134.21748273, 35.4761792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市岩吉１７１−３" }, "geometry": { "type": "Point", "coordinates": [ 134.19703655, 35.5136956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町西１−４６１−４" }, "geometry": { "type": "Point", "coordinates": [ 134.16427762, 35.52425887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市西品治８２９−１３" }, "geometry": { "type": "Point", "coordinates": [ 134.22363737, 35.50778021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市扇町１４７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.22358255, 35.49180754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市南栄町１０" }, "geometry": { "type": "Point", "coordinates": [ 134.24343052, 35.45716708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市福部町湯山５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26319854, 35.54525518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町龍島４７２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.898202129999987, 35.46664676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市角盤町３−１４３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.33150486, 35.43482949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市西町７８" }, "geometry": { "type": "Point", "coordinates": [ 133.32533942, 35.42994329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市西福原３−７−２５" }, "geometry": { "type": "Point", "coordinates": [ 133.345955409999988, 35.44275236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市中島２−１−５０" }, "geometry": { "type": "Point", "coordinates": [ 133.34975416, 35.43386263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市夜見町１４５１" }, "geometry": { "type": "Point", "coordinates": [ 133.29270118, 35.46838658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市両三柳４３８３" }, "geometry": { "type": "Point", "coordinates": [ 133.315756459999989, 35.46214401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町保田７５" }, "geometry": { "type": "Point", "coordinates": [ 133.43399229, 35.47206516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市広瀬町１７２０" }, "geometry": { "type": "Point", "coordinates": [ 133.81330164, 35.43123983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市清谷１丁目２６８" }, "geometry": { "type": "Point", "coordinates": [ 133.84866874, 35.47577754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市安長３９７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.2082963, 35.51247983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市吉成１−７−６０" }, "geometry": { "type": "Point", "coordinates": [ 134.221004349999987, 35.4852809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市吉方温泉３−１０６" }, "geometry": { "type": "Point", "coordinates": [ 134.234330660000012, 35.49314397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市桜谷２４７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.24602274, 35.46925954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市鹿野町鹿野１６９５" }, "geometry": { "type": "Point", "coordinates": [ 134.06746056, 35.46321064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青葉町１−２１２" }, "geometry": { "type": "Point", "coordinates": [ 134.22671126, 35.51325801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡琴浦町徳万３５２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.69388532, 35.50346818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市昭和町８５" }, "geometry": { "type": "Point", "coordinates": [ 133.34330671, 35.4260834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市弥生町６２" }, "geometry": { "type": "Point", "coordinates": [ 133.22104721, 35.54202977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市上井３５３−６" }, "geometry": { "type": "Point", "coordinates": [ 133.844686489999987, 35.45402635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町東４−７３" }, "geometry": { "type": "Point", "coordinates": [ 134.18677552, 35.51555173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市安倍字舩入３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.302737439999987, 35.44105597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市車尾９５０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.354217799999986, 35.43235126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市道笑町２−７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.33796357, 35.42653543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市米原大沢９−４９" }, "geometry": { "type": "Point", "coordinates": [ 133.33063271, 35.44914994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市夜見町２９２１−６２" }, "geometry": { "type": "Point", "coordinates": [ 133.30702786, 35.46867563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市明治町１８" }, "geometry": { "type": "Point", "coordinates": [ 133.22946628, 35.54386315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市角盤町２−１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.33163044, 35.43470129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市南安長1-2-18" }, "geometry": { "type": "Point", "coordinates": [ 134.21223729, 35.50319748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市里仁109-1" }, "geometry": { "type": "Point", "coordinates": [ 134.19016203000001, 35.49817494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市雲山221-10" }, "geometry": { "type": "Point", "coordinates": [ 134.23674754000001, 35.47706005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市今町２−２６２" }, "geometry": { "type": "Point", "coordinates": [ 134.224406499999986, 35.49550739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市奈喜良２４１" }, "geometry": { "type": "Point", "coordinates": [ 133.3424502, 35.3993882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町北5-325" }, "geometry": { "type": "Point", "coordinates": [ 134.18239541, 35.52525289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市熊党１４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.37777243, 35.4291137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市関金町関金宿９０１−５" }, "geometry": { "type": "Point", "coordinates": [ 133.75733273, 35.36507799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市小篠津町２０" }, "geometry": { "type": "Point", "coordinates": [ 133.244544350000012, 35.50339692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市旗ヶ崎２２０２" }, "geometry": { "type": "Point", "coordinates": [ 133.309698520000012, 35.43453718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県鳥取市叶１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.22542649, 35.47329088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県鳥取市雲山２８５" }, "geometry": { "type": "Point", "coordinates": [ 134.23878911, 35.47369106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市昭和町１１" }, "geometry": { "type": "Point", "coordinates": [ 133.340846629999987, 35.42812698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市祇園町２−３２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.32346317, 35.41499565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市昭和町１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.2452405, 35.54265797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市蚊屋２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.38179077, 35.43022965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県鳥取市幸町１４３" }, "geometry": { "type": "Point", "coordinates": [ 134.21763769, 35.49550171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市葭津３３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.25313061, 35.47517624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町西４丁目１５０" }, "geometry": { "type": "Point", "coordinates": [ 134.17163188, 35.52747371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市上福原６７３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.359467310000014, 35.43764567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市上道町２２９６" }, "geometry": { "type": "Point", "coordinates": [ 133.24357709, 35.53600066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市南吉方１丁目３６" }, "geometry": { "type": "Point", "coordinates": [ 134.23001636, 35.48905033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県倉吉市河北町１６０" }, "geometry": { "type": "Point", "coordinates": [ 133.8454442, 35.46771733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町所子２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.46304143, 35.4804326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町谷川１６６" }, "geometry": { "type": "Point", "coordinates": [ 133.436607189999989, 35.33790734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市淀江町西原１１４２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.42223597, 35.45445584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町西園３６０" }, "geometry": { "type": "Point", "coordinates": [ 133.77116763, 35.48792697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市宗像５３２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.35759017, 35.41174824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡湯梨浜町はわい長瀬２００１" }, "geometry": { "type": "Point", "coordinates": [ 133.87331867, 35.50271565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市湖山町東５丁目２６１" }, "geometry": { "type": "Point", "coordinates": [ 134.190306709999987, 35.51261184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市竹内団地２８０" }, "geometry": { "type": "Point", "coordinates": [ 133.25409677, 35.52161805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市古海５７４" }, "geometry": { "type": "Point", "coordinates": [ 134.20504711000001, 35.49498753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市外江町２１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.210473220000011, 35.53242476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県境港市麦垣町２９７−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.25278006, 35.50999804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町大字浦富１４００" }, "geometry": { "type": "Point", "coordinates": [ 134.33292892, 35.58418165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町大殿５４３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.39772426, 35.38815839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市福部町湯山５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26313454000001, 35.54481812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県東伯郡北栄町由良宿８０６−６" }, "geometry": { "type": "Point", "coordinates": [ 133.7553503, 35.49162147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市河原町河原８５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.200950799999987, 35.41057915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市河原町渡一木２５６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.2017442, 35.39917016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町徳丸１２０−４" }, "geometry": { "type": "Point", "coordinates": [ 134.34659316, 35.36312016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡八頭町徳丸１６１１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.31941088, 35.36623581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字市瀬１５４２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.22643532, 35.27827147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県八頭郡智頭町大字智頭１６４０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.227618150000012, 35.26509619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市鹿野町今市１０６９−４" }, "geometry": { "type": "Point", "coordinates": [ 134.053832989999989, 35.47502756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青谷町青谷４３０７−５" }, "geometry": { "type": "Point", "coordinates": [ 133.99380942, 35.51744423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県岩美郡岩美町大字恩志９７" }, "geometry": { "type": "Point", "coordinates": [ 134.34408609, 35.56052445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市伏野１１６３" }, "geometry": { "type": "Point", "coordinates": [ 134.1266062, 35.52653488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町田中９４０−８" }, "geometry": { "type": "Point", "coordinates": [ 133.60234305, 35.5205109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県米子市陰田町６５１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.31952041, 35.41145919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡伯耆町大江２６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.431525099999988, 35.35247008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市花園町６０" }, "geometry": { "type": "Point", "coordinates": [ 133.321801169999986, 35.43673629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市幸神町７８" }, "geometry": { "type": "Point", "coordinates": [ 133.24195839, 35.50434417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市岩倉町３１" }, "geometry": { "type": "Point", "coordinates": [ 133.32730306, 35.43232922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市末広町１０３" }, "geometry": { "type": "Point", "coordinates": [ 133.23168841, 35.54597136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県倉吉市宮川町２丁目２３" }, "geometry": { "type": "Point", "coordinates": [ 133.83329616, 35.43470904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市松ヶ枝町１８" }, "geometry": { "type": "Point", "coordinates": [ 133.228382970000013, 35.54628793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市渡町２３５０−４" }, "geometry": { "type": "Point", "coordinates": [ 133.20950473, 35.51650696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市松ヶ枝町５５" }, "geometry": { "type": "Point", "coordinates": [ 133.22881073, 35.54596574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市外江町２４５６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.20962057, 35.53119985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県倉吉市上井３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.846950170000014, 35.45467632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県西伯郡伯耆町溝口３５６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.435699269999986, 35.34159698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県境港市大正町４３" }, "geometry": { "type": "Point", "coordinates": [ 133.224197, 35.545599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県八頭郡若桜町大字若桜２７９" }, "geometry": { "type": "Point", "coordinates": [ 134.39743171, 35.34422407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県倉吉市大正町１０７５−３３" }, "geometry": { "type": "Point", "coordinates": [ 133.82303719, 35.43404236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県日野郡日南町生山７２７" }, "geometry": { "type": "Point", "coordinates": [ 133.32267882, 35.16951293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県西伯郡大山町御来屋９２６" }, "geometry": { "type": "Point", "coordinates": [ 133.49258361, 35.50983816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市米原１丁目１−３１" }, "geometry": { "type": "Point", "coordinates": [ 133.33000531, 35.44076185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市祇園町２丁目２０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.32525668, 35.41796879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県鳥取市卯垣３丁目５１５" }, "geometry": { "type": "Point", "coordinates": [ 134.251782060000011, 35.48836973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県米子市旗ヶ崎７丁目１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.306338149999988, 35.43916322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県鳥取市賀露町北４丁目１８−２１" }, "geometry": { "type": "Point", "coordinates": [ 134.185442, 35.53644326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県日野郡日野町濁谷１２９７" }, "geometry": { "type": "Point", "coordinates": [ 133.44448441, 35.20227807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県西伯郡南部町阿賀１５９−５" }, "geometry": { "type": "Point", "coordinates": [ 133.32852573, 35.35298399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県境港市外江町１５８７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.213872900000013, 35.53605161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市旗ヶ崎１丁目５−３７" }, "geometry": { "type": "Point", "coordinates": [ 133.31971998, 35.43859465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県八頭郡若桜町大字若桜１１１１−１９" }, "geometry": { "type": "Point", "coordinates": [ 134.39570251, 35.34867729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市錦町３丁目５２" }, "geometry": { "type": "Point", "coordinates": [ 133.32970542000001, 35.43821762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県鳥取市用瀬町用瀬２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.20549964, 35.34238846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市上福原５丁目１３−６５" }, "geometry": { "type": "Point", "coordinates": [ 133.35672571, 35.45091099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市岡成１７５" }, "geometry": { "type": "Point", "coordinates": [ 133.4210321, 35.42111787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市大崎１２６０" }, "geometry": { "type": "Point", "coordinates": [ 133.262471080000012, 35.4701666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県鳥取市若葉台南７丁目１３８−３０" }, "geometry": { "type": "Point", "coordinates": [ 134.258624090000012, 35.43778159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県境港市上道町３０６０" }, "geometry": { "type": "Point", "coordinates": [ 133.23216624, 35.5356277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県鳥取市河原町水根１１−２" }, "geometry": { "type": "Point", "coordinates": [ 134.19049378, 35.37503464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県鳥取市福部町細川５４３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.282935650000013, 35.55216039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県境港市昭和町２−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.26025607, 35.54807728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県米子市車尾２丁目５−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.35138182, 35.43300439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鳥取県境港市明治町２５" }, "geometry": { "type": "Point", "coordinates": [ 133.22839965, 35.54377424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町所子２４３−９" }, "geometry": { "type": "Point", "coordinates": [ 133.463150359999986, 35.47967625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青谷町青谷３７０２-１" }, "geometry": { "type": "Point", "coordinates": [ 133.99634549000001, 35.52324111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市青谷町青谷４０６２-１１" }, "geometry": { "type": "Point", "coordinates": [ 133.99776477, 35.51598515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県鳥取市岩美郡岩美町浦富1108-2" }, "geometry": { "type": "Point", "coordinates": [ 134.33295504, 35.58124412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡日吉津村大字富吉９１２-２" }, "geometry": { "type": "Point", "coordinates": [ 133.37776585, 35.44678689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鳥取県東伯郡琴浦町徳万７３１" }, "geometry": { "type": "Point", "coordinates": [ 133.69129888, 35.50344878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鳥取県西伯郡大山町大字御来屋１２８-６" }, "geometry": { "type": "Point", "coordinates": [ 133.49919688, 35.51316996 ] } }
+
+]
+}

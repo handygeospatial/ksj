@@ -1,0 +1,1004 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市掛合町掛合２１１２" }, "geometry": { "type": "Point", "coordinates": [ 132.81375325, 35.21950617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市掛合町掛合５５８" }, "geometry": { "type": "Point", "coordinates": [ 132.82079945000001, 35.18933841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市吉田町吉田２３０３−７" }, "geometry": { "type": "Point", "coordinates": [ 132.840565989999988, 35.16963801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町下佐世１００４−２５" }, "geometry": { "type": "Point", "coordinates": [ 132.94481497000001, 35.31589932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町飯田９２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.960383830000012, 35.32529365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方４７４−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.90067431, 35.30480739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市大谷町３０番地" }, "geometry": { "type": "Point", "coordinates": [ 131.86924848000001, 34.67916453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市嘉久志町１８４２番地の１" }, "geometry": { "type": "Point", "coordinates": [ 132.20731208, 35.00419683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市桜江町市山３１５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.31882608, 34.94124014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市松川町市村２１０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.281383369999986, 35.00527826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市渡津町２０００−２" }, "geometry": { "type": "Point", "coordinates": [ 132.232729760000012, 35.02267585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市渡津町４９５" }, "geometry": { "type": "Point", "coordinates": [ 132.23361233, 35.01738576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市二宮町神主ハ−５２８" }, "geometry": { "type": "Point", "coordinates": [ 132.18376282, 34.98390336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町柿木４８５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.86700059, 34.44213263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町大字六日市字広兼４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.93904555, 34.35305735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市荻杼町３８１" }, "geometry": { "type": "Point", "coordinates": [ 132.76780402, 35.38472034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市国富町５０６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.806174520000013, 35.42223119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市渡橋町７７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.752519260000014, 35.3675745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市美野町字大谷１３２０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.90990403, 35.46433739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市浜町１４２４" }, "geometry": { "type": "Point", "coordinates": [ 132.717316509999989, 35.3709431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市学園２丁目９番１５号" }, "geometry": { "type": "Point", "coordinates": [ 133.064020269999986, 35.48318449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市宍道町佐々布２１１−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.899121760000014, 35.40369067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西津田６丁目１１番４５号" }, "geometry": { "type": "Point", "coordinates": [ 133.06840541, 35.45530114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東忌部町字前田１７２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.03931698, 35.41451423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東朝日町１４８" }, "geometry": { "type": "Point", "coordinates": [ 133.06831734, 35.46509347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東津田町１０９２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.085520120000012, 35.45758455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市美保関町北浦４９１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.157911750000011, 35.55748621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市浜乃木６丁目１８番７号" }, "geometry": { "type": "Point", "coordinates": [ 133.05866161, 35.44385778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町下阿井３４８−２" }, "geometry": { "type": "Point", "coordinates": [ 132.96783047, 35.15925793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町大字三成７０４−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.00319332, 35.20091376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市温泉津町福光イ１３４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.34526336, 35.07097079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町刺鹿１２０６−４" }, "geometry": { "type": "Point", "coordinates": [ 132.51190084000001, 35.22058488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町刺鹿３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.50320536000001, 35.20947195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久利町市原７４７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.47560751, 35.15556163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市川合町川合字長田１２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.510815869999988, 35.15837467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市波根町１００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.543397809999988, 35.2441498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市旭町市木３４６１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.3549499, 34.84321777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市宇野町４８７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.15865987, 34.92658217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市金城町下来原１６８" }, "geometry": { "type": "Point", "coordinates": [ 132.16204184, 34.85925452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市金城町今福３６０" }, "geometry": { "type": "Point", "coordinates": [ 132.21309929, 34.88374213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市長沢町１４５３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.10168345, 34.90708212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市長沢町３１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.10490263, 34.91270225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市熱田町１０００−８" }, "geometry": { "type": "Point", "coordinates": [ 132.05518045, 34.86949439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市熱田町１９３４−４" }, "geometry": { "type": "Point", "coordinates": [ 132.059343930000011, 34.87687859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市片庭町９０−５" }, "geometry": { "type": "Point", "coordinates": [ 132.07238189, 34.897556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町簗瀬２３４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.563051480000013, 35.04265514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町下田所１４６" }, "geometry": { "type": "Point", "coordinates": [ 132.52065219, 34.8554508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町矢上６００３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.440132260000013, 34.89361105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町上阿井４１７" }, "geometry": { "type": "Point", "coordinates": [ 132.94732319, 35.14116278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市温泉津町福光１６７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.34428216, 35.07056396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町刺鹿１９２４" }, "geometry": { "type": "Point", "coordinates": [ 132.51487283, 35.22324238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町刺鹿字大原７３５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.504884940000011, 35.22177114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町波根西字上げ１３２９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.519907319999987, 35.22697821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市三瓶町志学口３５０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.63480078, 35.11361913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市仁摩町仁万８８６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.40507763, 35.15332459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市大田町大田イ３３０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.50446718, 35.19703688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市長久町長久１１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.49465693, 35.20174686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市波根町１９７０−４" }, "geometry": { "type": "Point", "coordinates": [ 132.53081021, 35.24407719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町下赤名４７７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.71440715, 35.00187856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町頓原１６１７" }, "geometry": { "type": "Point", "coordinates": [ 132.78120253, 35.0774977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町野萱２９９" }, "geometry": { "type": "Point", "coordinates": [ 132.743992920000011, 35.03661999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町沖洲１０８０" }, "geometry": { "type": "Point", "coordinates": [ 132.85423198, 35.40038171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町三分市１００２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.84216204, 35.41684951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町神氷２８２２" }, "geometry": { "type": "Point", "coordinates": [ 132.80891155, 35.37466286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字直江町４６６４" }, "geometry": { "type": "Point", "coordinates": [ 132.81782865, 35.39068318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町直江町４９０８" }, "geometry": { "type": "Point", "coordinates": [ 132.82272273000001, 35.39039944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市下府町１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.11023092, 34.92514486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市金城町七条ハ４０８" }, "geometry": { "type": "Point", "coordinates": [ 132.14833033, 34.86841759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市原井町９４８−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.06473072, 34.88721648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市黒川町４７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.08866543, 34.90059924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市三隅町向野田石の本６４４−４" }, "geometry": { "type": "Point", "coordinates": [ 131.95818416, 34.77475469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市三隅町三隅字丸山８３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.96425174, 34.79068886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市周布町２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.02458385, 34.86091516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市田町６６" }, "geometry": { "type": "Point", "coordinates": [ 132.0870356, 34.90046368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市田町７６０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.08509521, 34.90190894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市弥栄町長安本郷５４８０−３" }, "geometry": { "type": "Point", "coordinates": [ 132.10754080000001, 34.77644896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡川本町三原２１０" }, "geometry": { "type": "Point", "coordinates": [ 132.415317030000011, 34.99922109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡川本町大字川本５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.49495703, 34.99391825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町石原２５０−６" }, "geometry": { "type": "Point", "coordinates": [ 132.6412547, 35.05593847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町粕淵２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.591740109999989, 35.07460463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町下口羽５３９" }, "geometry": { "type": "Point", "coordinates": [ 132.669716740000013, 34.88125732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町山田９７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.54209296, 34.85997151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町上田所３８−３" }, "geometry": { "type": "Point", "coordinates": [ 132.505791140000014, 34.84070582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町矢上１０５−２" }, "geometry": { "type": "Point", "coordinates": [ 132.44746078, 34.88934085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市吉佐町字御鏡１０２８−８" }, "geometry": { "type": "Point", "coordinates": [ 133.319535019999989, 35.41133671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町広瀬１７７５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.17984641000001, 35.37324314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町広瀬川平２２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.16448157, 35.35697597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町西比田１２８９" }, "geometry": { "type": "Point", "coordinates": [ 133.12826823, 35.23562216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町郡５１４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.24570466, 36.28333717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町港町大津２５−６" }, "geometry": { "type": "Point", "coordinates": [ 133.32507078, 36.2041726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町西町名田" }, "geometry": { "type": "Point", "coordinates": [ 133.323191939999987, 36.21245874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町中村１１−３" }, "geometry": { "type": "Point", "coordinates": [ 133.30386195, 36.3192808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町都万２０９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.2352498, 36.19418577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町平平ノ前６８１" }, "geometry": { "type": "Point", "coordinates": [ 133.30965321, 36.214544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡海士町中里１４６２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.09364692, 36.09581556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡西ノ島町美田２４７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.01287334, 36.10119372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市加茂町宇治１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.90198167, 35.34667416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市加茂町加茂中３０−３" }, "geometry": { "type": "Point", "coordinates": [ 132.90379438, 35.34882232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市掛合町掛合字沖田２１４１−２" }, "geometry": { "type": "Point", "coordinates": [ 132.81490879, 35.19871221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市三刀屋町三刀屋９８−４" }, "geometry": { "type": "Point", "coordinates": [ 132.87839115, 35.29255225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町大東１５７０−３" }, "geometry": { "type": "Point", "coordinates": [ 132.977160950000012, 35.32299606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町南村２６２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.02235782, 35.33557084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方１０７２" }, "geometry": { "type": "Point", "coordinates": [ 132.904406920000014, 35.31077199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方５９３−３" }, "geometry": { "type": "Point", "coordinates": [ 132.9012923, 35.30784856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市あけぼの西町１８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.837211520000011, 34.68324082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市横田町２７５" }, "geometry": { "type": "Point", "coordinates": [ 131.80704467000001, 34.62635822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市横田町４２８" }, "geometry": { "type": "Point", "coordinates": [ 131.806329260000012, 34.6243322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市高津町８−１２−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.80960893, 34.69033628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市中吉田町２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.836051, 34.68308771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市東町１０−４" }, "geometry": { "type": "Point", "coordinates": [ 131.85456062, 34.67924919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市木部町１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.872865319999988, 34.72949203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市敬川町１０９４" }, "geometry": { "type": "Point", "coordinates": [ 132.16834598, 34.97556487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市江津町１５２０−１６２" }, "geometry": { "type": "Point", "coordinates": [ 132.220708050000013, 35.01317233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市浅利町７２" }, "geometry": { "type": "Point", "coordinates": [ 132.277002470000014, 35.03661982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市浅利町８６−３" }, "geometry": { "type": "Point", "coordinates": [ 132.2785236, 35.03618948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市都野津町２２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.19088016, 34.99346567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町広石字大神田沖７２１" }, "geometry": { "type": "Point", "coordinates": [ 131.91803711, 34.35981479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡津和野町枕瀬６１９" }, "geometry": { "type": "Point", "coordinates": [ 131.83130236, 34.53984799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶神前４丁目１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.7582472, 35.34924185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶町１０６３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.75833042, 35.35599526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶町字海上１５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74993361, 35.36085098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市荻杼町２９０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.76566139, 35.38396343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市湖陵町板津３０２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.670794480000012, 35.32366175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市口宇賀町９７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.79227579, 35.43751145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市荒茅町６９４" }, "geometry": { "type": "Point", "coordinates": [ 132.693988280000013, 35.36905626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市今市町北本町５丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.76344502, 35.3681731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市小山町５５２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.740489919999987, 35.37662004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市神門町８６５" }, "geometry": { "type": "Point", "coordinates": [ 132.71219127, 35.33963671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市西平田町１３０" }, "geometry": { "type": "Point", "coordinates": [ 132.81441614, 35.42953326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町杵築南１３８６−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.68743844, 35.3918881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町北荒木６０７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.69413842, 35.38755258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町遙堪１５８４" }, "geometry": { "type": "Point", "coordinates": [ 132.7145313, 35.39664917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大津町１１２１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.76564973, 35.36801421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大津町６９７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77178156, 35.37013201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大塚町７７４−３" }, "geometry": { "type": "Point", "coordinates": [ 132.751533529999989, 35.37899129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市東福町１１２−６" }, "geometry": { "type": "Point", "coordinates": [ 132.820992460000014, 35.4466695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市灘分町二ノ切７３４−１５" }, "geometry": { "type": "Point", "coordinates": [ 132.82746201, 35.4336649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市白枝町５９２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.73468189, 35.36275233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市白枝町８５７" }, "geometry": { "type": "Point", "coordinates": [ 132.73364726, 35.36724192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市武志町４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.774447579999986, 35.38432472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市嫁島町２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.05040828, 35.45247181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市学園２−２５−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.0693858, 35.48353612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市秋鹿町４２１０" }, "geometry": { "type": "Point", "coordinates": [ 132.95946516, 35.47892409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市春日町字中代１４６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04829443, 35.4869641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市上乃木４−６−７" }, "geometry": { "type": "Point", "coordinates": [ 133.05956332, 35.44623451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市上乃木９−４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.06500454, 35.44291169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西川津町４０９４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.070780969999987, 35.48093805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西津田２丁目１１−４３" }, "geometry": { "type": "Point", "coordinates": [ 133.077574019999986, 35.45983442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西津田６−２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.06861695, 35.45878497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市島根町加賀４０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.05825273, 35.56296882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市南田町３２−５" }, "geometry": { "type": "Point", "coordinates": [ 133.0584634, 35.47044559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市八雲町西岩坂９２２−５" }, "geometry": { "type": "Point", "coordinates": [ 133.085535060000012, 35.40158289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市八雲町日吉２７９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.09449994, 35.41992696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市八幡町７９６−２９" }, "geometry": { "type": "Point", "coordinates": [ 133.12780063, 35.44846708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市末次町３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04681976, 35.46866823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町横田８９７" }, "geometry": { "type": "Point", "coordinates": [ 133.090508840000012, 35.17883894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町三成字前田６６５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.00760039, 35.19782131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市安来町１１１５" }, "geometry": { "type": "Point", "coordinates": [ 133.2525061, 35.43117397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市荒島町２０３‐１" }, "geometry": { "type": "Point", "coordinates": [ 133.21206002, 35.43334457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町城北町１５９" }, "geometry": { "type": "Point", "coordinates": [ 133.32067822, 36.21378178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町中村字新土手１７５−５" }, "geometry": { "type": "Point", "coordinates": [ 133.30581102, 36.31629368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町都万２４４９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.233980839999987, 36.19587015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡海士町大字福井４１９-３" }, "geometry": { "type": "Point", "coordinates": [ 133.08637162, 36.09860247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市乙吉町イ４２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.84445324, 34.6859861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市高津６丁目２９−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.80770501, 34.68934736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市津田町１４７０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.86445286, 34.72236121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市美都町大字仙道６７７-７" }, "geometry": { "type": "Point", "coordinates": [ 131.93476457, 34.67730349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市美都町大字都茂１１３４" }, "geometry": { "type": "Point", "coordinates": [ 131.98470534, 34.66656756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市嘉久志町イ１２４５‐１" }, "geometry": { "type": "Point", "coordinates": [ 132.216404399999988, 35.00938558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市桜江町大字谷住郷２２３３-１" }, "geometry": { "type": "Point", "coordinates": [ 132.328324759999987, 34.9694478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町柿木村白谷字松尾１７０６" }, "geometry": { "type": "Point", "coordinates": [ 131.87093778, 34.44449188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡津和野町河村７８３" }, "geometry": { "type": "Point", "coordinates": [ 131.82692943, 34.54826613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市古志町９６７" }, "geometry": { "type": "Point", "coordinates": [ 132.740234140000013, 35.34320176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市佐田町大字宮内７７１-３" }, "geometry": { "type": "Point", "coordinates": [ 132.734528719999986, 35.23712367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市小境町４０５-２" }, "geometry": { "type": "Point", "coordinates": [ 132.88423874, 35.4604635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市上島町１０７７" }, "geometry": { "type": "Point", "coordinates": [ 132.83687884, 35.33565251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市神西沖町原２１０８‐１" }, "geometry": { "type": "Point", "coordinates": [ 132.68938909, 35.33581227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市多伎町大字口田儀８５１-２" }, "geometry": { "type": "Point", "coordinates": [ 132.58115744, 35.26823909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町修理免６８６-６" }, "geometry": { "type": "Point", "coordinates": [ 132.69027075, 35.38970649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市渡橋町１０９１-１" }, "geometry": { "type": "Point", "coordinates": [ 132.73652612, 35.37133532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市馬木北町１２８" }, "geometry": { "type": "Point", "coordinates": [ 132.76822579, 35.33721957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町１１５４-４" }, "geometry": { "type": "Point", "coordinates": [ 132.82018564, 35.42970771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町字新田５４８２‐３" }, "geometry": { "type": "Point", "coordinates": [ 132.83525293, 35.44236037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市北本町１‐３" }, "geometry": { "type": "Point", "coordinates": [ 132.754701290000014, 35.37006897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市嫁島町１００" }, "geometry": { "type": "Point", "coordinates": [ 133.04870584, 35.44898771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市学園２−２１−３４" }, "geometry": { "type": "Point", "coordinates": [ 133.06701884, 35.48060718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市鹿島町佐陀本郷６９８" }, "geometry": { "type": "Point", "coordinates": [ 132.9986681, 35.52144239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市宍道町西来待２８" }, "geometry": { "type": "Point", "coordinates": [ 132.94094571, 35.41948286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市宍道町大字東来侍字灘１−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.973148009999989, 35.42341057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市宍道町大字白石１７９９" }, "geometry": { "type": "Point", "coordinates": [ 132.906568029999988, 35.39256626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市春日町５６８" }, "geometry": { "type": "Point", "coordinates": [ 133.04563124, 35.48286965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市上乃木町９−２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.06221138, 35.44251622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西津田町９丁目１０２２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.06869795, 35.45443994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東出雲町大字下意東９７５-６" }, "geometry": { "type": "Point", "coordinates": [ 133.16729869, 35.43414131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東出雲町大字出雲郷８６８-１" }, "geometry": { "type": "Point", "coordinates": [ 133.13308622, 35.43015429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東朝日町１２８" }, "geometry": { "type": "Point", "coordinates": [ 133.065952579999987, 35.46493368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東津田町１６１５−８" }, "geometry": { "type": "Point", "coordinates": [ 133.083852080000014, 35.45152341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東津田町１６４０" }, "geometry": { "type": "Point", "coordinates": [ 133.084604539999987, 35.45020142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市乃白町５１５" }, "geometry": { "type": "Point", "coordinates": [ 133.04913323, 35.43545685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市馬潟町８" }, "geometry": { "type": "Point", "coordinates": [ 133.11196106, 35.44761281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市浜佐田９７８" }, "geometry": { "type": "Point", "coordinates": [ 133.02808757, 35.47118227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市浜乃木町４−５−３６" }, "geometry": { "type": "Point", "coordinates": [ 133.0488652, 35.44468315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町郡" }, "geometry": { "type": "Point", "coordinates": [ 133.042724850000013, 35.22584415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町三成４４４-４" }, "geometry": { "type": "Point", "coordinates": [ 133.008999139999986, 35.19567059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市大田町ロ８１８" }, "geometry": { "type": "Point", "coordinates": [ 132.50584021, 35.18383619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市長久町ロ２２８" }, "geometry": { "type": "Point", "coordinates": [ 132.49035815, 35.1990853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字学頭１８１５-３" }, "geometry": { "type": "Point", "coordinates": [ 132.87401889, 35.39796721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字上庄原北田波１１３７‐２" }, "geometry": { "type": "Point", "coordinates": [ 132.83338447, 35.39192552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字荘原町１０８" }, "geometry": { "type": "Point", "coordinates": [ 132.842766399999988, 35.39429578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市三隅町岡見３２６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.92412206, 34.7657569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市三隅町三隅１０４１‐７" }, "geometry": { "type": "Point", "coordinates": [ 131.96582249, 34.77872234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市長浜町５０" }, "geometry": { "type": "Point", "coordinates": [ 132.04835992, 34.8685442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡川本町大字因原５０１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.47225119, 34.96702669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町中野３６０５−３６" }, "geometry": { "type": "Point", "coordinates": [ 132.4672455, 34.89653913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町中野７５８" }, "geometry": { "type": "Point", "coordinates": [ 132.460034080000014, 34.89743371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市安来町８５６−７" }, "geometry": { "type": "Point", "coordinates": [ 133.24944052, 35.4293699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市宇賀荘町字神明１２５５" }, "geometry": { "type": "Point", "coordinates": [ 133.25851544, 35.39128057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町下山佐１３８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.15976039, 35.35157003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町原田字二本松４１−５" }, "geometry": { "type": "Point", "coordinates": [ 133.29866303, 36.22631257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市加茂町加茂中１０４１" }, "geometry": { "type": "Point", "coordinates": [ 132.90878294, 35.34551594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市吉田町吉田１０６０−４" }, "geometry": { "type": "Point", "coordinates": [ 132.85863996, 35.16712776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市吉田町深野３３５−７" }, "geometry": { "type": "Point", "coordinates": [ 132.916577100000012, 35.20590045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町大東２３街区１画地" }, "geometry": { "type": "Point", "coordinates": [ 132.966749959999987, 35.32260102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方１０９３−３" }, "geometry": { "type": "Point", "coordinates": [ 132.907975420000014, 35.31258966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市遠田町９６７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.85875658, 34.71086726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市匹見町匹見イ１２６９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.015196730000014, 34.5704197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩治町９９０" }, "geometry": { "type": "Point", "coordinates": [ 132.757746160000011, 35.35516271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市湖陵町大字差海７１０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.67573188, 35.33059333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市高岡町６１４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75002451, 35.38531777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市高松町三作６７５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.729054889999986, 35.35747994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市今市町９１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.75412123000001, 35.3694073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市佐田町大字反辺１５８９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71390889, 35.25451987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市多伎町多岐４７４" }, "geometry": { "type": "Point", "coordinates": [ 132.62848445, 35.28682489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町大字北荒木９３８−２" }, "geometry": { "type": "Point", "coordinates": [ 132.69521602, 35.38564224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町２４８７−８" }, "geometry": { "type": "Point", "coordinates": [ 132.828781420000013, 35.43781727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西生馬町６６" }, "geometry": { "type": "Point", "coordinates": [ 133.02811612, 35.49415015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西川津町８２５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.07276636, 35.48686828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町下横田８９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.08669683, 35.17438232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字荘原町１００−０２" }, "geometry": { "type": "Point", "coordinates": [ 132.84323466, 35.39477034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市旭町重富２３７−８" }, "geometry": { "type": "Point", "coordinates": [ 132.30264116, 34.85984916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市旭町都川７９９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.312971510000011, 34.8366031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市朝日町１４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.08808794, 34.89816949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市弥栄町長安本郷５４４−７" }, "geometry": { "type": "Point", "coordinates": [ 132.10777257, 34.77722361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市弥栄町木都賀イ５２１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.07364385, 34.76594775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡川本町大字久座仁２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.503630070000014, 34.99685485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町宮内１４６１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.60237662, 34.9531518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町阿須那７９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.61902673, 34.87237751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町井原９５９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.47910447000001, 34.90221082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町市木２００７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.4032914, 34.83015891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町日貫３０６７−０３" }, "geometry": { "type": "Point", "coordinates": [ 132.35847278, 34.88369022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町日和１０１５" }, "geometry": { "type": "Point", "coordinates": [ 132.38364851, 34.91687137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市吉佐町八坂9-1" }, "geometry": { "type": "Point", "coordinates": [ 133.30783832, 35.40835824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市荒島町宮の前1675-2" }, "geometry": { "type": "Point", "coordinates": [ 133.21001446, 35.43352809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市赤江町1449-5" }, "geometry": { "type": "Point", "coordinates": [ 133.22320815, 35.43297243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市伯太町母里543" }, "geometry": { "type": "Point", "coordinates": [ 133.27414901, 35.35569769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡知夫村小棚瀬1730" }, "geometry": { "type": "Point", "coordinates": [ 133.03959618, 36.0245131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町大東大木原15街区2" }, "geometry": { "type": "Point", "coordinates": [ 132.9632351, 35.32301883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市高津町イ1592-2" }, "geometry": { "type": "Point", "coordinates": [ 131.820357910000013, 34.68914224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市神田町イ717" }, "geometry": { "type": "Point", "coordinates": [ 131.80619615, 34.62089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市須子町42-17" }, "geometry": { "type": "Point", "coordinates": [ 131.823330160000012, 34.67214421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市有明町6-30" }, "geometry": { "type": "Point", "coordinates": [ 131.850319680000013, 34.67262659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町蔵木93-2" }, "geometry": { "type": "Point", "coordinates": [ 131.98669253, 34.37405737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町六日市461-1" }, "geometry": { "type": "Point", "coordinates": [ 131.94081294, 34.35223671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市湖陵町差海169-1" }, "geometry": { "type": "Point", "coordinates": [ 132.67343612, 35.32542994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市多伎町久村1307-6" }, "geometry": { "type": "Point", "coordinates": [ 132.64356801, 35.29506623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町杵築北3176-6" }, "geometry": { "type": "Point", "coordinates": [ 132.6666236, 35.40398759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大津町460-11" }, "geometry": { "type": "Point", "coordinates": [ 132.77834607, 35.37036994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市知井宮町1199-2" }, "geometry": { "type": "Point", "coordinates": [ 132.717811110000014, 35.33545482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市姫原町293" }, "geometry": { "type": "Point", "coordinates": [ 132.75277792, 35.3740238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町1632-1" }, "geometry": { "type": "Point", "coordinates": [ 132.8112538, 35.42880593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町2364-1" }, "geometry": { "type": "Point", "coordinates": [ 132.82562024, 35.43497638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市下東川津町244-1" }, "geometry": { "type": "Point", "coordinates": [ 133.08791376, 35.50165362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市学園南2丁目14番30号" }, "geometry": { "type": "Point", "coordinates": [ 133.07056895, 35.47406956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市玉湯町湯町406" }, "geometry": { "type": "Point", "coordinates": [ 133.00756579, 35.43170436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市上本庄町606-6" }, "geometry": { "type": "Point", "coordinates": [ 133.12251541, 35.51022865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西川津町1527" }, "geometry": { "type": "Point", "coordinates": [ 133.06830262, 35.47569682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西浜佐陀町1027" }, "geometry": { "type": "Point", "coordinates": [ 133.01973096, 35.47408614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市大野町東浜84-2" }, "geometry": { "type": "Point", "coordinates": [ 132.920567440000013, 35.46610821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東朝日町213" }, "geometry": { "type": "Point", "coordinates": [ 133.07564381, 35.46221825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市浜乃木6丁目1-70" }, "geometry": { "type": "Point", "coordinates": [ 133.05685656, 35.4459421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町大字下横田242-9" }, "geometry": { "type": "Point", "coordinates": [ 133.085980830000011, 35.16162227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町大字三成239-1" }, "geometry": { "type": "Point", "coordinates": [ 132.999068459999989, 35.1989568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町大字大呂448-5" }, "geometry": { "type": "Point", "coordinates": [ 133.12647579, 35.1899962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市三瓶町池田395-3" }, "geometry": { "type": "Point", "coordinates": [ 132.59069968, 35.13736791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市水上町福原615-2" }, "geometry": { "type": "Point", "coordinates": [ 132.460345569999987, 35.09670777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市大田町大田山崎ロ1220" }, "geometry": { "type": "Point", "coordinates": [ 132.496883520000011, 35.19561415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町志津見538-2" }, "geometry": { "type": "Point", "coordinates": [ 132.68707889, 35.12687528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市旭町市木3449-2" }, "geometry": { "type": "Point", "coordinates": [ 132.35610693000001, 34.84246888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市下府町902-2" }, "geometry": { "type": "Point", "coordinates": [ 132.10855192, 34.93005437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市金城町下来原973-3" }, "geometry": { "type": "Point", "coordinates": [ 132.18829509, 34.87981973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市黒川町122-1" }, "geometry": { "type": "Point", "coordinates": [ 132.09143389, 34.90006181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市相生町1575-8" }, "geometry": { "type": "Point", "coordinates": [ 132.10502029, 34.89270938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市田町116-6" }, "geometry": { "type": "Point", "coordinates": [ 132.082676310000011, 34.89996795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市三刀屋町下熊谷1732−2" }, "geometry": { "type": "Point", "coordinates": [ 132.89251398, 35.30002173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡吉賀町七日市上ノ原595-1" }, "geometry": { "type": "Point", "coordinates": [ 131.89650769, 34.38597115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市宍道町宍道393−1" }, "geometry": { "type": "Point", "coordinates": [ 132.916156550000011, 35.41298178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市乃白町416−1" }, "geometry": { "type": "Point", "coordinates": [ 133.050417720000013, 35.43276194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町下西７９１" }, "geometry": { "type": "Point", "coordinates": [ 133.314241829999986, 36.20813952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町小路１０５４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.2515142, 36.26868404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町中町字名田１４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.323815630000013, 36.21303068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡西ノ島町大字美田２１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.03186903, 36.10650905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市掛合町掛合２１５０−７６" }, "geometry": { "type": "Point", "coordinates": [ 132.81477665, 35.20317514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市吉田町吉田２３３５−２" }, "geometry": { "type": "Point", "coordinates": [ 132.84476181, 35.16643473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市あけぼの東町１０" }, "geometry": { "type": "Point", "coordinates": [ 131.84489144, 34.67687047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市遠田町１９５０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.865134790000013, 34.69914936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市喜阿弥町イ３７" }, "geometry": { "type": "Point", "coordinates": [ 131.75047122, 34.67081243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市高津７−１７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.81874695, 34.68964215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市敬川町２９６３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.177539419999988, 34.97913836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県江津市後地町３３４８−１０４" }, "geometry": { "type": "Point", "coordinates": [ 132.301783449999988, 35.04569691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡津和野町後田６５−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.7727293, 34.4677794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶原町１−５−５５" }, "geometry": { "type": "Point", "coordinates": [ 132.74533738, 35.34885344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶町１１９６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75235718, 35.35829239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市高岡町４４１" }, "geometry": { "type": "Point", "coordinates": [ 132.75790964, 35.38298958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市神門町７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71645496, 35.3423835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市多伎町多岐４７２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.628556519999989, 35.28780864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市玉湯町湯町７６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.018685479999988, 35.43459482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市鹿島町名分３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0038724, 35.52060192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市上乃木７−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.06755064, 35.44547719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市西川津町６３７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.07523808, 35.49089764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市島根町大芦２１３９−７" }, "geometry": { "type": "Point", "coordinates": [ 133.04742121000001, 35.55358088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東奥谷町３６５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.05717988, 35.48504512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東朝日町１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.067868080000011, 35.46405946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市八束町波入５１０" }, "geometry": { "type": "Point", "coordinates": [ 133.177989450000013, 35.48835407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市北田町２４５" }, "geometry": { "type": "Point", "coordinates": [ 133.06378003, 35.47751866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市久手町刺鹿１２８５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.50865038, 35.21851147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町揖屋町７０８" }, "geometry": { "type": "Point", "coordinates": [ 133.14824152, 35.42602606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町上赤名１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71697422, 34.99322798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町上来島５３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.73323224, 35.02571644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町上直江１２７６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.80788877, 35.38565822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町富村７７３" }, "geometry": { "type": "Point", "coordinates": [ 132.799812409999987, 35.37953246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市旭町丸原５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.258490450000011, 34.86318936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市高田町２４" }, "geometry": { "type": "Point", "coordinates": [ 132.072917460000014, 34.89573828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市国分町１７４９−８" }, "geometry": { "type": "Point", "coordinates": [ 132.112255979999986, 34.93736364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市長沢町８７−８" }, "geometry": { "type": "Point", "coordinates": [ 132.100358590000013, 34.90615442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市熱田町小福井５４７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.05986343, 34.87437889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町粕渕３７２" }, "geometry": { "type": "Point", "coordinates": [ 132.59082005, 35.07365033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡邑南町原村６２−４" }, "geometry": { "type": "Point", "coordinates": [ 132.55604022, 34.86797311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市枝大津町９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.76543349, 35.3726078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市渡橋町１０８３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.73779284, 35.36972845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町西町八尾の二７４" }, "geometry": { "type": "Point", "coordinates": [ 133.33069384, 36.20604286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市三刀屋町三刀屋字里山５１" }, "geometry": { "type": "Point", "coordinates": [ 132.88698953, 35.29819824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平野町３７１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.74419359, 35.38568132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市母衣町１８０−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.057129089999989, 35.47308327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方１０６３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.90224328, 35.30919993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市古志原３丁目１７番８号" }, "geometry": { "type": "Point", "coordinates": [ 133.084450440000012, 35.44699796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市古志原５丁目１４番１号" }, "geometry": { "type": "Point", "coordinates": [ 133.080832500000014, 35.44227747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東奥谷町字宇賀谷３７１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.05809118, 35.48459906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町沖洲４７６" }, "geometry": { "type": "Point", "coordinates": [ 132.849281420000011, 35.39681839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東津田町１２９５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.092523160000013, 35.4551128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市鹿島町佐陀本郷９５８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.002939160000011, 35.52081575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町２３３７−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.82449112, 35.43495514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町意宇南５−６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.1315377, 35.42733084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市山代町935-78" }, "geometry": { "type": "Point", "coordinates": [ 133.09459844, 35.44152866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市安来町888" }, "geometry": { "type": "Point", "coordinates": [ 133.25043743, 35.43174832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市奥宇賀町９０８" }, "geometry": { "type": "Point", "coordinates": [ 132.75485287, 35.44791189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市安来町１２５２" }, "geometry": { "type": "Point", "coordinates": [ 133.24731304, 35.42373729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市佐田町反辺１４４２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.717279280000014, 35.25158161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市安来町１１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.252026910000012, 35.43081589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市西郷町３６４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.805116840000011, 35.43309675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市須子町37-24" }, "geometry": { "type": "Point", "coordinates": [ 131.82544397, 34.6732458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県江津市都野津町２２７６" }, "geometry": { "type": "Point", "coordinates": [ 132.18901408, 34.99138851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県安来市黒井田町７３１" }, "geometry": { "type": "Point", "coordinates": [ 133.27119532, 35.42729698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市平成町１８２−２９" }, "geometry": { "type": "Point", "coordinates": [ 133.055539360000012, 35.43110518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市学園２−１６−３７" }, "geometry": { "type": "Point", "coordinates": [ 133.06775805, 35.48368872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県出雲市駅南町３−１１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.75871675, 35.35871904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県簸川郡斐川町大字福富８４４" }, "geometry": { "type": "Point", "coordinates": [ 132.83011375000001, 35.4043423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県江津市渡津町９７８−８" }, "geometry": { "type": "Point", "coordinates": [ 132.23306498, 35.02752066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市東朝日町２６９−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.07967779, 35.46233284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方１０７２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.90420411, 35.31049004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市駅南町２丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.75981256, 35.36024323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町下横田９９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.08658822000001, 35.17339399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市幸町１５７１−８" }, "geometry": { "type": "Point", "coordinates": [ 133.054065329999986, 35.46005709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市長久町長久イ−５８６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.48341667, 35.19756787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東朝日町１９９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.07245039, 35.46440194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡西ノ島町大字浦郷２２３−４" }, "geometry": { "type": "Point", "coordinates": [ 132.99655105, 36.09233512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字富村６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.80366737, 35.38208369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市下府町３０２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.107334540000011, 34.91460332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市長久町土江９７" }, "geometry": { "type": "Point", "coordinates": [ 132.48101655, 35.19759943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市矢野町１７３" }, "geometry": { "type": "Point", "coordinates": [ 132.74230408, 35.37737455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市今市町１１８６−３" }, "geometry": { "type": "Point", "coordinates": [ 132.762984710000012, 35.36151269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市塩冶町１６０３−３" }, "geometry": { "type": "Point", "coordinates": [ 132.74704863, 35.36337339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市白枝町６０３" }, "geometry": { "type": "Point", "coordinates": [ 132.73420762, 35.36239563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市知井宮町９５６" }, "geometry": { "type": "Point", "coordinates": [ 132.722771200000011, 35.33588147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町馬馳９７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.002916879999987, 35.22566032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市長浜町１３０６−４" }, "geometry": { "type": "Point", "coordinates": [ 132.039394570000013, 34.87527005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市あけぼの本町９−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.84144221, 34.67994094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市乙吉町イ−４１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.84463639, 34.68651804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市黒周町３１４" }, "geometry": { "type": "Point", "coordinates": [ 131.74278127, 34.6072827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県益田市高津８丁目１０−９" }, "geometry": { "type": "Point", "coordinates": [ 131.810699879999987, 34.69075023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市大田町大田イ−６９０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.50162763, 35.20287178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市長久町長久ロ−２２５−２" }, "geometry": { "type": "Point", "coordinates": [ 132.48894077, 35.19954934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市矢田町１４４" }, "geometry": { "type": "Point", "coordinates": [ 133.10438031000001, 35.44976669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市朝酌町２８−５" }, "geometry": { "type": "Point", "coordinates": [ 133.102112, 35.46430363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市砂子町２０４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04467134, 35.47299107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市学園１丁目１３−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.067549930000013, 35.47811884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市比津町１７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.04044703, 35.48768947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市荒茅町下向３２２１" }, "geometry": { "type": "Point", "coordinates": [ 132.69653209, 35.36305826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市福原町１−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.09326962, 35.50459625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市日脚町２８９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.03111628, 34.86551779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市片庭町１１５" }, "geometry": { "type": "Point", "coordinates": [ 132.073136479999988, 34.89912622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町北方４２０" }, "geometry": { "type": "Point", "coordinates": [ 133.231995180000013, 36.28660415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市国富町８５２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.80666943, 35.42192354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字富村８７１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.798494510000012, 35.38517234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字福富３４９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.827044699999988, 35.40295907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市大社町日御碕５０６" }, "geometry": { "type": "Point", "coordinates": [ 132.63206777, 35.42948016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県大田市仁摩町仁万５３３" }, "geometry": { "type": "Point", "coordinates": [ 132.40456984, 35.14850892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町都賀本郷２４３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.642308930000013, 34.95754996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市金城町波佐イ−４２３−６" }, "geometry": { "type": "Point", "coordinates": [ 132.197415729999989, 34.77909564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡津和野町後田イ−３６−４" }, "geometry": { "type": "Point", "coordinates": [ 131.77486635, 34.4748995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字沖洲２６７５" }, "geometry": { "type": "Point", "coordinates": [ 132.88804092, 35.41583067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡隠岐の島町小路２６８−６" }, "geometry": { "type": "Point", "coordinates": [ 133.248544790000011, 36.27790767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県隠岐郡海士町大字海士中里１０６２−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.08867489, 36.09597847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市東長江町９０２−４３" }, "geometry": { "type": "Point", "coordinates": [ 132.98213702000001, 35.48941843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町大字揖屋町７０７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.14808321000001, 35.42633991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町大字揖屋町２３０２" }, "geometry": { "type": "Point", "coordinates": [ 133.15632473, 35.43153155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市長浜町３３７" }, "geometry": { "type": "Point", "coordinates": [ 132.697808110000011, 35.3507106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市赤江町２４８" }, "geometry": { "type": "Point", "coordinates": [ 133.21723628, 35.43306698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町布部１１４１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.14769139, 35.30424376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市平田町１８９１" }, "geometry": { "type": "Point", "coordinates": [ 132.818941, 35.42907996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市鹿島町上講武１９８９" }, "geometry": { "type": "Point", "coordinates": [ 133.05211125, 35.51978092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町大字上意東２２３−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.16269301, 35.4111188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市広瀬町広瀬９９６" }, "geometry": { "type": "Point", "coordinates": [ 133.173561150000012, 35.36332724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市園町１４１２−６" }, "geometry": { "type": "Point", "coordinates": [ 132.85681366, 35.45092902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町小馬木７９８−６" }, "geometry": { "type": "Point", "coordinates": [ 133.03000717, 35.12516238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町横田１０９０−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.094372349999986, 35.1798772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町横田１５３６" }, "geometry": { "type": "Point", "coordinates": [ 133.054802099999989, 35.19132454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市大東町飯田７８７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.96227176, 35.32504874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市木次町里方５９８" }, "geometry": { "type": "Point", "coordinates": [ 132.9012557, 35.30623897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町大字併川４７７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.788562829999989, 35.37173757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町下阿井２６５６" }, "geometry": { "type": "Point", "coordinates": [ 132.96654124, 35.15662387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県雲南市木次町木次新町１−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.90061874, 35.29397965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県安来市広瀬町広瀬本町８３４" }, "geometry": { "type": "Point", "coordinates": [ 133.17494634, 35.36682529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県八束郡東出雲町大字出雲郷８１１−６" }, "geometry": { "type": "Point", "coordinates": [ 133.13588139, 35.42825841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市鹿島町古浦６０２−１３７" }, "geometry": { "type": "Point", "coordinates": [ 132.97703074, 35.52411991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県出雲市平田町１３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.8208468, 35.4308368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県安来市荒島町１７７１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.20836462, 35.43340304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県出雲市今市町１９−２３" }, "geometry": { "type": "Point", "coordinates": [ 132.75179401, 35.36516293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市末次町５８" }, "geometry": { "type": "Point", "coordinates": [ 133.04717736, 35.46981446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市雑賀町５５３" }, "geometry": { "type": "Point", "coordinates": [ 133.06048229000001, 35.45730238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県安来市安来町神田町７６５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.245309889999987, 35.42460372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県雲南市木次町里方６４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.902004659999989, 35.29667932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県出雲市姫原町２１１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.75310589, 35.37151996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市浜乃木４丁目１０−８６" }, "geometry": { "type": "Point", "coordinates": [ 133.04895344, 35.44236215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市八幡町７９６−３３" }, "geometry": { "type": "Point", "coordinates": [ 133.13081445, 35.44304214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市母衣町４４" }, "geometry": { "type": "Point", "coordinates": [ 133.055281900000011, 35.47311456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県松江市北田町１５２−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.06430595, 35.47495917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県江津市川平町南川上６０６" }, "geometry": { "type": "Point", "coordinates": [ 132.27762986, 34.9875939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県大田市久手町波根西４２８" }, "geometry": { "type": "Point", "coordinates": [ 132.52625942, 35.23925654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市天神町１８５" }, "geometry": { "type": "Point", "coordinates": [ 132.73997458, 35.36241476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県益田市隅村町７６１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.82733891, 34.61173996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市浜町８７３" }, "geometry": { "type": "Point", "coordinates": [ 132.71247889, 35.38041876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県益田市中島町イ−６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.83054862, 34.69201442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市大津町大曲２０７３" }, "geometry": { "type": "Point", "coordinates": [ 132.769101400000011, 35.36583804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市今市町元町１２３８" }, "geometry": { "type": "Point", "coordinates": [ 132.75977203, 35.36321573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県浜田市長沢町７０１−１１５" }, "geometry": { "type": "Point", "coordinates": [ 132.09640861, 34.91315635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県浜田市真光町４３" }, "geometry": { "type": "Point", "coordinates": [ 132.07331186, 34.89488837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市武志町９５７" }, "geometry": { "type": "Point", "coordinates": [ 132.77592224, 35.39111563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市今市町塚根１２６４" }, "geometry": { "type": "Point", "coordinates": [ 132.7587972, 35.36181586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県雲南市三刀屋町三刀屋１０９０" }, "geometry": { "type": "Point", "coordinates": [ 132.87354947, 35.28909081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県雲南市木次町里方６１３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.90147034, 35.30667629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県雲南市木次町木次４６８" }, "geometry": { "type": "Point", "coordinates": [ 132.901109709999986, 35.29392571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県安来市広瀬町布部１１６５−６" }, "geometry": { "type": "Point", "coordinates": [ 133.14834285, 35.30138094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県出雲市平田町片原町８２０" }, "geometry": { "type": "Point", "coordinates": [ 132.82063260000001, 35.43697234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市宍道町宍道１２７３−５" }, "geometry": { "type": "Point", "coordinates": [ 132.90532957, 35.40201591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市玉湯町玉造１２１３" }, "geometry": { "type": "Point", "coordinates": [ 133.009316719999987, 35.41676444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市玉湯町玉造７−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.00913875, 35.42503582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市八幡町７９６−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.128072769999989, 35.44720888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市嫁島町２−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.05023083, 35.45218392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市比津町５７−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.038322169999986, 35.48917009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市東津田町５３２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.08587469, 35.46049982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市中原町２３２" }, "geometry": { "type": "Point", "coordinates": [ 133.042691639999987, 35.46896098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市北堀町２２０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.052731990000012, 35.47641963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市片原町１１２" }, "geometry": { "type": "Point", "coordinates": [ 133.052856389999988, 35.4697381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "島根県松江市朝日町５８９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.063378840000013, 35.4651156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県八束郡東出雲町錦新町８丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 133.13988962, 35.43377646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県出雲市佐田町反辺１４４５−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.71727189, 35.25271245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町頓原２２６２-３" }, "geometry": { "type": "Point", "coordinates": [ 132.7846801, 35.08014124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡美郷町粕淵４２５-３" }, "geometry": { "type": "Point", "coordinates": [ 132.59424254000001, 35.07294397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡飯南町頓原２０７９" }, "geometry": { "type": "Point", "coordinates": [ 132.78498715, 35.07958615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県安来市安来町本町１１３６" }, "geometry": { "type": "Point", "coordinates": [ 133.253116080000012, 35.42960955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県安来市今津町松ノ前６３３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.23666491, 35.43314815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県雲南市三刀屋町三刀屋１０６−４" }, "geometry": { "type": "Point", "coordinates": [ 132.87751492000001, 35.29150558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県鹿足郡津和野町河村８４０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.826204819999987, 34.54636552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県松江市島根町大芦１６０６" }, "geometry": { "type": "Point", "coordinates": [ 133.04376542, 35.55301182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県仁多郡奥出雲町大字亀嵩字長畑９０−４" }, "geometry": { "type": "Point", "coordinates": [ 133.06626484, 35.2152942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県飯石郡三刀屋町大字三刀屋177-3" }, "geometry": { "type": "Point", "coordinates": [ 132.86811038, 35.28834782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県簸川郡斐川町富村643" }, "geometry": { "type": "Point", "coordinates": [ 132.800885380000011, 35.37981365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県浜田市原井町788-1" }, "geometry": { "type": "Point", "coordinates": [ 132.06856452, 34.89007046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "島根県邑智郡川本町因原７３４" }, "geometry": { "type": "Point", "coordinates": [ 132.47270071, 34.96367459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県隠岐郡隠岐の島町飯田有田２７−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.3464241, 36.21671846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県隠岐郡西ノ島町大字美田１９８６−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.04069733, 36.10383243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県雲南市木次町新市３７７" }, "geometry": { "type": "Point", "coordinates": [ 132.89768189, 35.28798586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県雲南市木次町里方１０７９−６" }, "geometry": { "type": "Point", "coordinates": [ 132.90539604, 35.31090326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県益田市遠田町１９５４" }, "geometry": { "type": "Point", "coordinates": [ 131.86444694, 34.69827055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県鹿足郡吉賀町大字朝倉１４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.90705383, 34.38001991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県鹿足郡津和野町大字後田ロ３３" }, "geometry": { "type": "Point", "coordinates": [ 131.7760778, 34.47032418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県浜田市熱田町１４５６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.05874841, 34.88255588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県浜田市熱田町２１３５−７" }, "geometry": { "type": "Point", "coordinates": [ 132.05405491, 34.8678319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "島根県邑智郡邑南町井原１４１３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.47571068, 34.92007415 ] } }
+
+]
+}

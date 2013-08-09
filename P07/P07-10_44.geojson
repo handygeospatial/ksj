@@ -1,0 +1,1382 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字家島１１２０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.69456244, 33.25248867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳西園１７７３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.58443136, 33.22488401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上宗方大坪５１３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.58120003, 33.19771425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字城原尾崎２６７４−２−４" }, "geometry": { "type": "Point", "coordinates": [ 131.724331150000012, 33.24103469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字辻字深町５９７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.69248929, 33.11325338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字萩原１−１−３４" }, "geometry": { "type": "Point", "coordinates": [ 131.63696388, 33.24229129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市弁天町１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.61282707, 33.2512096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市荻町大字馬場５１９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.294050449999986, 32.92302961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市久住町下地５６５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.29909867, 33.01512262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市穴井迫６５２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.35811482, 32.95180121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市竹田字山手１５２６" }, "geometry": { "type": "Point", "coordinates": [ 131.38750463, 32.96458723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市蛎瀬字江添８３４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.207783799999987, 33.60154072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市港町４１４２−９９" }, "geometry": { "type": "Point", "coordinates": [ 131.86094323, 33.07663975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市千怒字牛ケ浦５０３７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.87805594, 33.07649534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市中町４−２８" }, "geometry": { "type": "Point", "coordinates": [ 131.84260441, 33.07864077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市十二町水町６５２１" }, "geometry": { "type": "Point", "coordinates": [ 130.92663611, 33.32466696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市堅来４６５５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.49576775, 33.64378041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市新地１０５４−４" }, "geometry": { "type": "Point", "coordinates": [ 131.43874835, 33.55569907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町市場３区１２２２" }, "geometry": { "type": "Point", "coordinates": [ 131.584308959999987, 32.97878426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市大野町田中大迫２３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.50578324, 33.03930723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市大字北方字下角４１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.52104376, 33.20497135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下郡南５−３−８" }, "geometry": { "type": "Point", "coordinates": [ 131.63574234, 33.22087937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下徳丸１８" }, "geometry": { "type": "Point", "coordinates": [ 131.68856155, 33.21109578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市賀来字井ノ口６６４" }, "geometry": { "type": "Point", "coordinates": [ 131.55797139, 33.21312723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市賀来南１−９−２９" }, "geometry": { "type": "Point", "coordinates": [ 131.567565910000013, 33.212024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市賀来北１−２−４８" }, "geometry": { "type": "Point", "coordinates": [ 131.573803410000011, 33.21387799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市古国府３８０" }, "geometry": { "type": "Point", "coordinates": [ 131.608411460000013, 33.21593514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市高城南町８−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.65682779, 33.24211189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市森５８４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.6804052, 33.2211566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市青崎２−５−４６" }, "geometry": { "type": "Point", "coordinates": [ 131.71112367, 33.25590648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字羽屋字花園７７５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60510222, 33.20882451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市樋田９８−４" }, "geometry": { "type": "Point", "coordinates": [ 131.344359630000014, 33.52484015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市稲田千坊師" }, "geometry": { "type": "Point", "coordinates": [ 131.789812180000013, 33.1425634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字野津市６８６" }, "geometry": { "type": "Point", "coordinates": [ 131.6897922, 33.03747147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市守江４７８０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.649289649999986, 33.42108169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市猪尾字井手下７０３" }, "geometry": { "type": "Point", "coordinates": [ 131.611034499999988, 33.40479376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市宇目大字小野市２６４４−４" }, "geometry": { "type": "Point", "coordinates": [ 131.62909905, 32.86015361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市宇目大字大平２０８１" }, "geometry": { "type": "Point", "coordinates": [ 131.717295189999987, 32.84387915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江大字竹野浦河内２９０−５" }, "geometry": { "type": "Point", "coordinates": [ 131.961811759999989, 32.81755022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江町畑ノ浦６４１" }, "geometry": { "type": "Point", "coordinates": [ 131.94831109, 32.85800869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市字源六分９０２９−２０" }, "geometry": { "type": "Point", "coordinates": [ 131.913513709999989, 32.96139425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市上浦津井浦２２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.927781399999986, 33.05192458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市常盤南町２−６" }, "geometry": { "type": "Point", "coordinates": [ 131.90228332, 32.96199498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市直川上直見７０７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.7809284, 32.89944958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生大字江良１８６２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.83269175, 32.94369873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市花高松３丁目１０−８" }, "geometry": { "type": "Point", "coordinates": [ 131.6651082, 33.25247426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市金池町４−９−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.61457956000001, 33.23230698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市安心院町下毛２０９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35489077, 33.44024545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町香下１９８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.33404108, 33.47986657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市辛島字宮ノ前６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.33920608, 33.52865169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字山下字布津原１２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.293882239999988, 33.54005828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字上田１０５８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.348508329999987, 33.53434344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市江無田１３４８" }, "geometry": { "type": "Point", "coordinates": [ 131.78193097, 33.12900146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字戸室字古蔵１００８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.78055253, 33.1213826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字宮原４２８１" }, "geometry": { "type": "Point", "coordinates": [ 131.688843279999986, 33.05126013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市山香町内河野字椿瀬２７７０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.5044299, 33.45030981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町恵良５８６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.17664699, 33.25623795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町菅原１８５５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.159501729999988, 33.19438132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字田野２６０−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.22908687, 33.1176666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字湯坪７２４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18610714, 33.11681293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町田野１５５４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.22130339, 33.16312968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町戸畑６２２７" }, "geometry": { "type": "Point", "coordinates": [ 131.09102135, 33.28248058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字山田２２９１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.13802281, 33.27889259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字森６８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.16023519, 33.29937758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町塚脇４４５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.15486103, 33.27518671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町竹田津１０６１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.55677375, 33.66404341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町田深９０５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.73175869, 33.56874175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江大字森崎浦１４５−８８" }, "geometry": { "type": "Point", "coordinates": [ 131.89131547, 32.80554077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江大字楠本浦９８−５" }, "geometry": { "type": "Point", "coordinates": [ 131.94480611, 32.83732887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市堅田森の木６０３１" }, "geometry": { "type": "Point", "coordinates": [ 131.87495519, 32.92567647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市上岡５９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.869165579999986, 32.95899888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字堅田府坂１４６９" }, "geometry": { "type": "Point", "coordinates": [ 131.87189749, 32.9053082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字池田１７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.89746999, 32.94729317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市米水津大字色利浦１２７８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.98499766, 32.8912991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生大字門田８２４" }, "geometry": { "type": "Point", "coordinates": [ 131.840984209999988, 32.95194059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町出口３４４１−４" }, "geometry": { "type": "Point", "coordinates": [ 131.53544464, 33.37391728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市乙津町５−８" }, "geometry": { "type": "Point", "coordinates": [ 131.6764045, 33.24082376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字下郡字国境３２６０−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.625662979999987, 33.22249029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字光吉６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60315094, 33.19844066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳字福原１０８８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.582135959999988, 33.2248497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上戸次大道４８４３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.658514450000013, 33.14062197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字大在２番地" }, "geometry": { "type": "Point", "coordinates": [ 131.73941256, 33.24614006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字中判田字ソウケ田１５８７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.63747165, 33.16717915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字本神崎字地蔵田９７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.79241511, 33.23984206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字野津原字二ノ瀬鶴１１５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.53638096, 33.16299958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大手町１−２−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.61407712, 33.2351001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市仲西町２−２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.660543319999988, 33.24492811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市東野台２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.53583624, 33.20802259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市萩原４−８−２８" }, "geometry": { "type": "Point", "coordinates": [ 131.64221329, 33.24959931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市久住町栢木字高畦６０５０" }, "geometry": { "type": "Point", "coordinates": [ 131.327815820000012, 33.05673214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字吉田２２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.375838030000011, 32.9466583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市直入町長湯８０５９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.38411212, 33.07256869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市飛田川字山手１６６１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.38359653, 32.96409624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市山国町宇曽６５９" }, "geometry": { "type": "Point", "coordinates": [ 131.05513785, 33.40253177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市相原３３６６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.18850777, 33.56904538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字大新田８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.230295649999988, 33.5962223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市田尻先土ヤナ１６７８" }, "geometry": { "type": "Point", "coordinates": [ 131.240691700000013, 33.58969122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市万田字於ブク５５２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18608301, 33.57990298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市港町１−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.861457, 33.0764436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市下井手町２３" }, "geometry": { "type": "Point", "coordinates": [ 130.947687980000012, 33.30588716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市財津町２６３９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.950476970000011, 33.35214737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市新治町４６２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.920376870000013, 33.32302216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市中津江村栃野２６６０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.965019930000011, 33.13462346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市天瀬町合田２１８４" }, "geometry": { "type": "Point", "coordinates": [ 131.00930688, 33.28059654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市日ノ出町１６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.94049296, 33.33440736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市本町９−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.9365941, 33.31464498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市上人ヶ浜町４８２−４７" }, "geometry": { "type": "Point", "coordinates": [ 131.50055758, 33.3157012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字内竈３６７７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.46250817, 33.33597534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市緑丘町２" }, "geometry": { "type": "Point", "coordinates": [ 131.491220410000011, 33.29598535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市大字新栄字堂の本１３８８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.44594185, 33.5747608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町市場字廣石８５７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.581697319999989, 32.97543038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町小坂３９６９−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.61062155, 32.99082913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町赤嶺１１５３−３２" }, "geometry": { "type": "Point", "coordinates": [ 131.60449999, 32.98844213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市清川町臼尾４１２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.54760875, 32.98168112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市大野町大原１３１５−５" }, "geometry": { "type": "Point", "coordinates": [ 131.484195910000011, 33.02356859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町柿原１１１５" }, "geometry": { "type": "Point", "coordinates": [ 131.40762991, 33.17921788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市湯布院町川上字奈良田３０３４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.360223600000012, 33.26672486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市挾間町大字挾間３５１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.51757121, 33.2027166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字山下１２２２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.29398077, 33.53932723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市浜町６番１号" }, "geometry": { "type": "Point", "coordinates": [ 131.5075374, 33.27422574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市野口元町１２-２９" }, "geometry": { "type": "Point", "coordinates": [ 131.49930232, 33.28457443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市大字高田２７１８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.43665972, 33.55940806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市朝地町栗林２３７１" }, "geometry": { "type": "Point", "coordinates": [ 131.42643239, 33.0368421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町東長宝" }, "geometry": { "type": "Point", "coordinates": [ 131.46875135, 33.18947398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字下高家１９９９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.32527471, 33.57483843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字佐野字前田１０９８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.278508499999987, 33.54790132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字長洲９０９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.382945330000013, 33.56576998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字北宇佐字前田１６２２-２" }, "geometry": { "type": "Point", "coordinates": [ 131.368687709999989, 33.52750901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字臼杵７５-３０" }, "geometry": { "type": "Point", "coordinates": [ 131.80266162, 33.12232574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市杵築字北浜７５７-１０" }, "geometry": { "type": "Point", "coordinates": [ 131.61828148, 33.42128109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字右田５３３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.21459558, 33.23065262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町中" }, "geometry": { "type": "Point", "coordinates": [ 131.59110407, 33.67567813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市本匠大字宇津々１９９６-２" }, "geometry": { "type": "Point", "coordinates": [ 131.78984078, 32.95152915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市原新町６-２３" }, "geometry": { "type": "Point", "coordinates": [ 131.65086523, 33.25066344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市坂ノ市中央１丁目１１-３６" }, "geometry": { "type": "Point", "coordinates": [ 131.75296809, 33.23535635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字花高松２丁目１-６" }, "geometry": { "type": "Point", "coordinates": [ 131.661033260000011, 33.25015883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字古国府字中道１０６７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.61247778, 33.21595471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳字西園１７７１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.584099329999987, 33.22476393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字市石橋４２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.57742407, 33.18573912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字牧１-１０-１１" }, "geometry": { "type": "Point", "coordinates": [ 131.63831939, 33.24174678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字木上８１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.56844675, 33.18617069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市弁天２丁目７-５" }, "geometry": { "type": "Point", "coordinates": [ 131.60894572, 33.253595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市荻町宮平３６５０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.30340014, 32.90379628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字上如水１８４５-５" }, "geometry": { "type": "Point", "coordinates": [ 131.23832117, 33.57733961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中央町２丁目８-６７" }, "geometry": { "type": "Point", "coordinates": [ 131.18743888, 33.58850815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市本耶馬渓町樋田５６番地−１" }, "geometry": { "type": "Point", "coordinates": [ 131.176212709999987, 33.50547045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市耶馬溪町大字大野１３６７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.08161239, 33.47814017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市上城内町１-２２" }, "geometry": { "type": "Point", "coordinates": [ 130.94142260000001, 33.32524187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大山町西大山字松原８４４８-７" }, "geometry": { "type": "Point", "coordinates": [ 130.98756486, 33.19951607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市天瀬町五馬市１４８４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.01571773, 33.23262637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市本町９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.93734734, 33.31408279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市亀川東町３-２６" }, "geometry": { "type": "Point", "coordinates": [ 131.49765847, 33.32171958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市新港町４-２７" }, "geometry": { "type": "Point", "coordinates": [ 131.50197814, 33.29708288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市石垣東３丁目４-４" }, "geometry": { "type": "Point", "coordinates": [ 131.496908100000013, 33.29257734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字江無田271-1" }, "geometry": { "type": "Point", "coordinates": [ 131.79101212, 33.12536956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字杵築７４４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.621217300000012, 33.41986299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字引治１１８０-２" }, "geometry": { "type": "Point", "coordinates": [ 131.177278230000013, 33.22491764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字田野鳴川１７２３-４" }, "geometry": { "type": "Point", "coordinates": [ 131.24063353, 33.15666153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町岐部９４７-４" }, "geometry": { "type": "Point", "coordinates": [ 131.62644566, 33.66528815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市武蔵町古市１０７４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.71643741, 33.50183766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字鶴望１５７４" }, "geometry": { "type": "Point", "coordinates": [ 131.87658947, 32.95925188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市山国町大字宇曽１４９７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.03760693000001, 33.40641016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市本耶馬溪町跡田５２３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.177512549999989, 33.48162091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市耶馬渓町大字戸原１１０４-１" }, "geometry": { "type": "Point", "coordinates": [ 131.14684824, 33.4688316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大山町大字西大山３４８７" }, "geometry": { "type": "Point", "coordinates": [ 130.96471281, 33.25849828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市大野町大字田中２７３５-２" }, "geometry": { "type": "Point", "coordinates": [ 131.51027897, 33.04256797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町副７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.322332460000013, 33.42879223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字田野１２４６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.22314068, 33.1662769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町塩屋112-4" }, "geometry": { "type": "Point", "coordinates": [ 131.719423940000013, 33.45949817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市碩田町2丁目1-28" }, "geometry": { "type": "Point", "coordinates": [ 131.61129947, 33.24623783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字古国府字上新田1178-5" }, "geometry": { "type": "Point", "coordinates": [ 131.61098672, 33.21444045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字志生木９" }, "geometry": { "type": "Point", "coordinates": [ 131.833114560000013, 33.24715836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字小池原字宮田1148-1" }, "geometry": { "type": "Point", "coordinates": [ 131.66051722, 33.23890638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字勢家１２１３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.60666102, 33.24732091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字中戸次字中津留上4822-8" }, "geometry": { "type": "Point", "coordinates": [ 131.65774187, 33.14222136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字津留六本松1999-2" }, "geometry": { "type": "Point", "coordinates": [ 131.62598097, 33.23232877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市南春日町927-1" }, "geometry": { "type": "Point", "coordinates": [ 131.59274115, 33.23608417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字拝田原字上津留500-1" }, "geometry": { "type": "Point", "coordinates": [ 131.37675187, 32.95658068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字下池永字外園５１８" }, "geometry": { "type": "Point", "coordinates": [ 131.21771557, 33.58719531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字犬丸上ノ代54-1" }, "geometry": { "type": "Point", "coordinates": [ 131.25951541, 33.563532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市大字上青江字ミスマ3773-7" }, "geometry": { "type": "Point", "coordinates": [ 131.83850596, 33.08403929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市亀川東町14-23" }, "geometry": { "type": "Point", "coordinates": [ 131.49568585, 33.32512901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字北石垣字御塚1187-1" }, "geometry": { "type": "Point", "coordinates": [ 131.50167135, 33.3073407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市千歳町長峰字川添1533-1" }, "geometry": { "type": "Point", "coordinates": [ 131.60922826, 33.04911852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市湯布院町川上3709-1" }, "geometry": { "type": "Point", "coordinates": [ 131.35460283, 33.26503551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市是則138−1" }, "geometry": { "type": "Point", "coordinates": [ 131.22763927, 33.58494797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市光町12−21" }, "geometry": { "type": "Point", "coordinates": [ 131.49794993, 33.2758498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市呉崎1614" }, "geometry": { "type": "Point", "coordinates": [ 131.44810823, 33.57840999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町大字原口４０８−８" }, "geometry": { "type": "Point", "coordinates": [ 131.31710691, 33.41819279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市平清水１組" }, "geometry": { "type": "Point", "coordinates": [ 131.789423559999989, 33.11379583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町伊美２３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.594369699999987, 33.67938999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市武蔵町糸原１２６３" }, "geometry": { "type": "Point", "coordinates": [ 131.721210180000014, 33.49407691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市直川大字赤木１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.77791296, 32.89520345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市三佐６−１０−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.683718950000014, 33.25190268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市新町３−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.60196991, 33.23692733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字玉沢５７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.58565941, 33.18806311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳１２７５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.57545051, 33.22498547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市中戸次４５９３−４" }, "geometry": { "type": "Point", "coordinates": [ 131.65738131, 33.15041121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大野郡大野町屋原３３９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.484500309999987, 33.03402782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大山町西大山６０４１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.981718769999986, 33.22773696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大肥本町１４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.88599614, 33.36929567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市竹田新町１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.93798283000001, 33.3134478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市南友田町１１３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.91525704, 33.32439074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市浜町１５−２２" }, "geometry": { "type": "Point", "coordinates": [ 131.50862888, 33.27207604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市餅ケ浜町８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.50330478, 33.292307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市本耶馬渓町曽木１８６５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.17047363, 33.49796395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市耶馬渓町大字柿坂１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.114041570000012, 33.45519963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市耶馬渓町大字山移３５７６" }, "geometry": { "type": "Point", "coordinates": [ 131.15787346, 33.41325052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市三本松１−１３−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.93335538, 33.32080214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市上津江町上野田１１１２−８" }, "geometry": { "type": "Point", "coordinates": [ 130.97972859, 33.03623074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市亀川東町１７−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.49547707, 33.32625445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市亀川東町５−２３" }, "geometry": { "type": "Point", "coordinates": [ 131.496143710000013, 33.3243102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市若草１０−２９" }, "geometry": { "type": "Point", "coordinates": [ 131.503194760000014, 33.29079747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市見目７４８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.529561840000014, 33.66824442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市大字高田字古浜２１０７" }, "geometry": { "type": "Point", "coordinates": [ 131.43293133, 33.5585593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字四日市９９０" }, "geometry": { "type": "Point", "coordinates": [ 131.317733, 33.53525925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字石田１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.33281553, 33.53196445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町野津市２８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.69217348, 33.04596633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市山香町倉成１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.5184241, 33.44610886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市守江３９０３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.63832496, 33.42248465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字杵築字北浜６６５−２０７" }, "geometry": { "type": "Point", "coordinates": [ 131.625400140000011, 33.41786639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字南杵築１１４−９" }, "geometry": { "type": "Point", "coordinates": [ 131.61665792, 33.41229193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町下原２７１８" }, "geometry": { "type": "Point", "coordinates": [ 131.719798630000014, 33.46142492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町浜３６９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.68372044, 33.63905414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町富来浦２３０４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.71481981, 33.598531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市中村南町１０−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.89911663, 32.95864555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市長島町３−５２９" }, "geometry": { "type": "Point", "coordinates": [ 131.90572609, 32.95855303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市直川大字上直見４５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.77088049, 32.89577325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市米水津大字浦代浦１１０２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.97202694, 32.92205973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町１６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.532476300000013, 33.37238522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市奥田５４７" }, "geometry": { "type": "Point", "coordinates": [ 131.59191657, 33.20994569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市王子港町１−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.5905793, 33.2446261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市関２２２６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.87512634, 33.24855325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市久原中央１−２−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.758223460000011, 33.23535044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字横瀬字瀬戸田３９２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.55022177, 33.18710146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上宗方字明碩２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.584634349999988, 33.20336308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市明野東２−７−２７" }, "geometry": { "type": "Point", "coordinates": [ 131.65768454, 33.22029808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市山国町宇曽１１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.04847233000001, 33.40132015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市牧１−１６０" }, "geometry": { "type": "Point", "coordinates": [ 131.63679747, 33.24176276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市山香町大字内河野2942-1" }, "geometry": { "type": "Point", "coordinates": [ 131.500829579999987, 33.45890372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町大字小原2638" }, "geometry": { "type": "Point", "coordinates": [ 131.73774683, 33.54658866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市賀来北一丁目15-5" }, "geometry": { "type": "Point", "coordinates": [ 131.57144555, 33.21275662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市今津留2-1-23" }, "geometry": { "type": "Point", "coordinates": [ 131.62656529, 33.24097749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳2187-1" }, "geometry": { "type": "Point", "coordinates": [ 131.5901795, 33.22701304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字森559-1" }, "geometry": { "type": "Point", "coordinates": [ 131.68104771, 33.22216031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市山の手町3273−1" }, "geometry": { "type": "Point", "coordinates": [ 131.48453057, 33.28304489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市奥田字丸田５０２−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.590865119999989, 33.20898514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市寒田９５２−３１" }, "geometry": { "type": "Point", "coordinates": [ 131.60872638, 33.18694219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市東大道２−２４１６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.602049889999989, 33.23031611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市高城本町4-1" }, "geometry": { "type": "Point", "coordinates": [ 131.65815541, 33.24447483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字片島386-1" }, "geometry": { "type": "Point", "coordinates": [ 131.62442012, 33.22031293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字横瀬四反田331-2" }, "geometry": { "type": "Point", "coordinates": [ 131.548312439999989, 33.18717047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市日岡1丁目1-33" }, "geometry": { "type": "Point", "coordinates": [ 131.65759789, 33.24785278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市中真玉２１７１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.47401008, 33.60836236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県豊後高田市大字界２２８" }, "geometry": { "type": "Point", "coordinates": [ 131.42842253, 33.54874362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県佐伯市東町２６−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.91040339, 32.96543582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県竹田市大字挾田１４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.40895669, 32.98285746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県日田市大字友田９６３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.90841568, 33.32587604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県由布市湯布院町大字川南２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.36400156, 33.25755589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市大字畑中４５８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59858466, 33.20264424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県別府市新港町３−４７" }, "geometry": { "type": "Point", "coordinates": [ 131.5014103, 33.29765947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市中島西３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60778037, 33.2448962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市乙津町１−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.67373174, 33.24137894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市豊海１−８−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.60358347, 33.25762814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市大字下池永８４０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.22052211, 33.58840618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県佐伯市駅前２−９−７" }, "geometry": { "type": "Point", "coordinates": [ 131.90329952, 32.97401601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字大悟法８９２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.21514467, 33.57375292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市寺崎町２丁目４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.666097830000012, 33.24612664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市豊海２丁目" }, "geometry": { "type": "Point", "coordinates": [ 131.60643063, 33.25723823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市三佐１０００" }, "geometry": { "type": "Point", "coordinates": [ 131.68296758, 33.25553931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字犬丸２３９１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.24760828, 33.57190954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上戸次３９５８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65981955, 33.13177177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中央町１丁目５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.19540009, 33.59358586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中殿町１丁目４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.193241910000012, 33.59880318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大字友田１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.91617847, 33.32466293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大字日高小ケ瀬町３０４０" }, "geometry": { "type": "Point", "coordinates": [ 130.96987017, 33.29836955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字井村２０２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.78880454, 33.13380848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字四日市１２３" }, "geometry": { "type": "Point", "coordinates": [ 131.32770312, 33.53485296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市朝地町坪泉１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.42081755000001, 32.99912131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市荻町恵良原７３２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.29936989, 32.92342468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市荻町馬場４３１" }, "geometry": { "type": "Point", "coordinates": [ 131.29889956, 32.92437665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市安心院町鳥越３５４" }, "geometry": { "type": "Point", "coordinates": [ 131.34557941, 33.40956015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上戸次６０４５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.659406460000014, 33.14130998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市上津江町川原４６３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96621862, 33.12419735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字中臼杵才倉" }, "geometry": { "type": "Point", "coordinates": [ 131.73066993, 33.10485031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字掻懐５６" }, "geometry": { "type": "Point", "coordinates": [ 131.75589739, 33.09420602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字玉来８８８" }, "geometry": { "type": "Point", "coordinates": [ 131.37366081, 32.95208034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字拝田原７６８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.375385, 32.95523708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字竹矢２０５８" }, "geometry": { "type": "Point", "coordinates": [ 131.51076513000001, 33.14515498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市湯布院町川上３０３５−５" }, "geometry": { "type": "Point", "coordinates": [ 131.35966746, 33.26652871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生床木６２８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.86332514, 32.99237106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市城南町２４−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.88734324, 32.95397168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字島田５４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.19518227, 33.6009188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市新女島６８１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.906591100000014, 32.95239596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字臼杵７０７−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.79751356, 33.12163362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字佐野２１９０" }, "geometry": { "type": "Point", "coordinates": [ 131.72380464, 33.20806578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字神崎上白木７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.57189327, 33.24617573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市葛港１７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.903581370000012, 32.97985735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字四日市１０８７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.31983360000001, 33.5347723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字守江１８２４−４０" }, "geometry": { "type": "Point", "coordinates": [ 131.66345696, 33.42200095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県宇佐市大字長洲３３８" }, "geometry": { "type": "Point", "coordinates": [ 131.372763209999988, 33.56814582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県津久見市地蔵町２−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.849805190000012, 33.0780819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県竹田市大字竹田町１４５" }, "geometry": { "type": "Point", "coordinates": [ 131.39494701000001, 32.96710897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県国東市国東町富来浦２１７３" }, "geometry": { "type": "Point", "coordinates": [ 131.713889450000011, 33.60136986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市大字上戸次３３８４−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.65446183, 33.11454709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市角木町４５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.19127941, 33.60964511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市王子町７−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.59048289, 33.24312775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市大字蛎瀬３８１" }, "geometry": { "type": "Point", "coordinates": [ 131.19832345, 33.60242934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市東大道２丁目３−４０" }, "geometry": { "type": "Point", "coordinates": [ 131.60173420000001, 33.23056081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市大字片島４０９" }, "geometry": { "type": "Point", "coordinates": [ 131.6249794, 33.21952394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市上野丘西２０−６" }, "geometry": { "type": "Point", "coordinates": [ 131.612852589999989, 33.22222072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県別府市青山町１−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.493047030000014, 33.27579218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市東津留１丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.629009059999987, 33.24095243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市高城新町１１−２２" }, "geometry": { "type": "Point", "coordinates": [ 131.65312898, 33.24300566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市萩原３丁目２−２９" }, "geometry": { "type": "Point", "coordinates": [ 131.64202258, 33.24256827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県宇佐市大字長洲１３９" }, "geometry": { "type": "Point", "coordinates": [ 131.37163149, 33.56944793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県別府市元町２−９" }, "geometry": { "type": "Point", "coordinates": [ 131.50323796, 33.277478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県佐伯市大字長谷上城６０６１" }, "geometry": { "type": "Point", "coordinates": [ 131.86334957, 32.93451222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県豊後高田市香々地４０６５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.52163693, 33.66680242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市勢家浜町東８" }, "geometry": { "type": "Point", "coordinates": [ 131.60226978, 33.24768461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市都町３丁目５−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.60361415, 33.24089645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市大道町５丁目４−９" }, "geometry": { "type": "Point", "coordinates": [ 131.5970043, 33.22700528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市末広町２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.60290042, 33.23466091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市松岡字大原１７４０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.663307010000011, 33.17774749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字鴛野８６７" }, "geometry": { "type": "Point", "coordinates": [ 131.61238842, 33.19254461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字森３７５" }, "geometry": { "type": "Point", "coordinates": [ 131.68019837, 33.21498497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字中戸次川床６０８１" }, "geometry": { "type": "Point", "coordinates": [ 131.65220886, 33.15842641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字東院字小原１１８３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.54167388, 33.21167423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字日岡３−４−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.66000166, 33.25183774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字木の上３９４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.56695976, 33.18467651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大道町３丁目西２組" }, "geometry": { "type": "Point", "coordinates": [ 131.59777724, 33.23080425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市南元町３−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.938357739999987, 33.31446169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市弓ヶ浜町６−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.50411598, 33.28609073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市南立石２０９２−６" }, "geometry": { "type": "Point", "coordinates": [ 131.47765077, 33.28387574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市西真玉２２８６" }, "geometry": { "type": "Point", "coordinates": [ 131.469779249999988, 33.60446111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市大字玉津１８９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.44589142, 33.56595949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市来縄２６８８" }, "geometry": { "type": "Point", "coordinates": [ 131.447767520000014, 33.55077662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町内山鳥居木９９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.58251427, 32.96394595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市緒方町下自在１８８" }, "geometry": { "type": "Point", "coordinates": [ 131.473139300000014, 32.9745184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市清川町砂田１５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51632987, 32.97064464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市川上２９３９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.35684785, 33.26376776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市大字川上３０３５−７" }, "geometry": { "type": "Point", "coordinates": [ 131.35996796, 33.26625769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市湯布院町下湯平２４０８−1" }, "geometry": { "type": "Point", "coordinates": [ 131.35884728, 33.19713411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市花高松３−７−６" }, "geometry": { "type": "Point", "coordinates": [ 131.66202241, 33.25205129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市角子原８８０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.7132684, 33.24545484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市坂ノ市中央３丁目７番１１号" }, "geometry": { "type": "Point", "coordinates": [ 131.75127623, 33.23408625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市寿町１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.60253613, 33.23922527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市住吉町１−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.60663326, 33.24537666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大在中央１丁目４−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.71876212, 33.24674085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字羽屋字池田２８１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59827751, 33.21114486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字鴛野１０３０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.61560484, 33.18637277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字横尾字高尾４０８１" }, "geometry": { "type": "Point", "coordinates": [ 131.6609631, 33.2088269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町下余５１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.306713980000012, 33.39202609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市江須賀２５６３" }, "geometry": { "type": "Point", "coordinates": [ 131.368662449999988, 33.56164899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市戸室１１２１−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.78107042, 33.12289286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市佐志生６３５５の１" }, "geometry": { "type": "Point", "coordinates": [ 131.82557018, 33.17680895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市洲崎２−７５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.80426825, 33.12297916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字市浜字馬渡１１７１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.78447383, 33.11149536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字都原２１９３" }, "geometry": { "type": "Point", "coordinates": [ 131.70832439, 33.06339056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字藤小野２８５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.66332043, 33.06329077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字戸畑字名倉６１８８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.088317499999988, 33.2802453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字塚脇字長野" }, "geometry": { "type": "Point", "coordinates": [ 131.15736497, 33.27346848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町浜４９７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67746803, 33.64176534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市城東町１−３４" }, "geometry": { "type": "Point", "coordinates": [ 131.89661843, 32.95896101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市池田２１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.9016469, 32.94649053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市鶴見沖松浦５３１の１" }, "geometry": { "type": "Point", "coordinates": [ 131.96284117, 32.94251523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市本匠大字笠掛１６２４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.79867443, 32.95323705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市木立字原５１７１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.94164884, 32.9248844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生大字井崎１５３９" }, "geometry": { "type": "Point", "coordinates": [ 131.843722039999989, 32.97548837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生大字門田字門田前７６５" }, "geometry": { "type": "Point", "coordinates": [ 131.83927186, 32.95111205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字川崎３６８３−４" }, "geometry": { "type": "Point", "coordinates": [ 131.55404293, 33.3658853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市乙津港町１丁目５−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.6733695, 33.24187627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下郡南５−２−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.63513129, 33.22240593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市公園通り西２−３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.658588470000012, 33.19634722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市春日浦８４３−４９" }, "geometry": { "type": "Point", "coordinates": [ 131.59649536, 33.24642897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市安心院町下毛２１０８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.35453888, 33.43935662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市沖須町１−８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.36318424000001, 33.56642672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市下高家２８５" }, "geometry": { "type": "Point", "coordinates": [ 131.30142288, 33.57639892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市岩崎２７９−３" }, "geometry": { "type": "Point", "coordinates": [ 131.40751465, 33.5348161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市四日市２３６" }, "geometry": { "type": "Point", "coordinates": [ 131.325288629999989, 33.53498035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字南敷田６３５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.280182810000014, 33.54716959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市長洲８８７−２" }, "geometry": { "type": "Point", "coordinates": [ 131.37946912000001, 33.56639956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字田井９３８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.814692580000013, 33.15839512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字西畑６７０−２" }, "geometry": { "type": "Point", "coordinates": [ 131.6655039, 33.0137926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字野津市２２２９" }, "geometry": { "type": "Point", "coordinates": [ 131.68897736, 33.03293827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町大字野津市６４４" }, "geometry": { "type": "Point", "coordinates": [ 131.68999549, 33.03885356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市山香町大字内河野２２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.500648070000011, 33.45366016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字猪尾５３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.61569122, 33.40862936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大田石丸１４５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.55653558, 33.4948953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市八坂２５１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.582799849999986, 33.41037773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町右田７２０−５" }, "geometry": { "type": "Point", "coordinates": [ 131.205873989999986, 33.22617508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字古後１７３９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.0936561, 33.36908818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字戸畑６５１２−５" }, "geometry": { "type": "Point", "coordinates": [ 131.095949850000011, 33.28245381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字太田２２８５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.1395507, 33.31239567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町下原２１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.71997488, 33.46583499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町大字塩屋３１３−７" }, "geometry": { "type": "Point", "coordinates": [ 131.719290840000014, 33.45630369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町伊美２７２８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59960919, 33.68317321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町鶴川１２１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.73301529, 33.56369797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市武蔵町古市１０４" }, "geometry": { "type": "Point", "coordinates": [ 131.72383134, 33.50047389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市宇目町千束１０７９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.65865273, 32.85859765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市駅前２−９−５" }, "geometry": { "type": "Point", "coordinates": [ 131.903134310000013, 32.97368516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江大字蒲江浦３５３０" }, "geometry": { "type": "Point", "coordinates": [ 131.92381402, 32.80318113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市向島２丁目１８−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.8952794, 32.95349499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字海崎１８７" }, "geometry": { "type": "Point", "coordinates": [ 131.89180502, 32.98818262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字木立１８７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.92824791000001, 32.91504617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市中村南町９−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.898201769999986, 32.95845467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市鶴岡西町１丁目１８０番地" }, "geometry": { "type": "Point", "coordinates": [ 131.868409820000011, 32.96135675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市鶴岡町１−１−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.88398509000001, 32.95738137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市東浜１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.91602355, 32.96829944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市木立６５７９" }, "geometry": { "type": "Point", "coordinates": [ 131.92201506, 32.93394332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字大神３１４２−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.5759402, 33.37066885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町豊岡字弁入５８０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.511863940000012, 33.36547328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市永興１８９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59238634, 33.21556433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市王子西町７９" }, "geometry": { "type": "Point", "coordinates": [ 131.59016506, 33.24243621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下郡中央３−１−１５" }, "geometry": { "type": "Point", "coordinates": [ 131.63560328, 33.22598987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字光吉字瀬口１３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.59649593, 33.19163107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三佐１０３２" }, "geometry": { "type": "Point", "coordinates": [ 131.683191810000011, 33.25472957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字市堺ノ坪５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.575202139999988, 33.18511809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字松岡大字亀井５０８３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.667212729999989, 33.18299598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上戸次３３８１−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.65406327, 33.1152303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上宗方字四反田４１９" }, "geometry": { "type": "Point", "coordinates": [ 131.58192447, 33.19823191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字毛井８１８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67326187, 33.19489855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字毛井字寺の前３５１−１３５２" }, "geometry": { "type": "Point", "coordinates": [ 131.67246204, 33.19157881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大津町３−１−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.62704259, 33.2482173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市東春日町２−５" }, "geometry": { "type": "Point", "coordinates": [ 131.598335850000012, 33.23918288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市東明野１６８１−９７" }, "geometry": { "type": "Point", "coordinates": [ 131.65951557, 33.22473134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市弁天２−６−１４" }, "geometry": { "type": "Point", "coordinates": [ 131.6107824, 33.25437868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市豊饒４４７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60096778, 33.2073523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市牧１−１９５" }, "geometry": { "type": "Point", "coordinates": [ 131.63657508, 33.23918316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市明野北１丁目８−７" }, "geometry": { "type": "Point", "coordinates": [ 131.65215722, 33.22907308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市会々２２４９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.39105457, 32.97136714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市挟田字濁渕１０５８" }, "geometry": { "type": "Point", "coordinates": [ 131.40406196, 32.97954398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市城原１９９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.33080948, 32.99660689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市菅生塚原９３９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.2946781, 32.95586346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字会々２７３８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.385750050000013, 32.97409745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字竹田１７９７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.39130775000001, 32.96911738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市下池永字八田島７３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.21233303, 33.58917012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市古魚町１６５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18839533, 33.60397724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市三光臼木９４９−３" }, "geometry": { "type": "Point", "coordinates": [ 131.18472788, 33.53440951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市三光佐知１６１２" }, "geometry": { "type": "Point", "coordinates": [ 131.19928402, 33.55676214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市船町１６１９" }, "geometry": { "type": "Point", "coordinates": [ 131.189092100000011, 33.60471861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字一ツ松３８２の１" }, "geometry": { "type": "Point", "coordinates": [ 131.204628390000011, 33.59133345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市本耶馬溪町曽１８５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.17068574000001, 33.49735855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市港町８−４" }, "geometry": { "type": "Point", "coordinates": [ 131.860557809999989, 33.07721729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市合ノ元町５−３３" }, "geometry": { "type": "Point", "coordinates": [ 131.84894227, 33.08904519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市大字四浦落ノ浦３８３３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.99151233, 33.06808438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市三和４３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.94124317, 33.33888365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市清岸寺町１１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.931705169999987, 33.33386185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大字石井１１７８−６" }, "geometry": { "type": "Point", "coordinates": [ 130.905895030000011, 33.31320022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市藤山町２３１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.958984859999987, 33.36186504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市若草町８−２２" }, "geometry": { "type": "Point", "coordinates": [ 131.50364375, 33.28925716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字鶴見１７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.46278698, 33.30747485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字鶴見字大野池４２４５−７" }, "geometry": { "type": "Point", "coordinates": [ 131.48434778, 33.29443561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市中島町１５−１９" }, "geometry": { "type": "Point", "coordinates": [ 131.49395927, 33.27545149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市北石垣１００３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.4931812, 33.31045874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市高田２２８７" }, "geometry": { "type": "Point", "coordinates": [ 131.43256602, 33.5562574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市千歳町新殿字川久保７９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.597512020000011, 33.04591464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市大野町田中２４１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.49806841, 33.04013467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町阿蘇野字実盛４０２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.34593652, 33.13040425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町柿原字富の前６３１−３" }, "geometry": { "type": "Point", "coordinates": [ 131.42615552, 33.18137023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市挾間町挟間字立鳥帽子４４１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.51440513, 33.19961863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市鶴見町砂原１３０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.47981292, 33.31263835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市東山１１番地" }, "geometry": { "type": "Point", "coordinates": [ 131.44239503, 33.27025166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市築地８６６" }, "geometry": { "type": "Point", "coordinates": [ 131.505914069999989, 33.56402403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町市場４９１-３" }, "geometry": { "type": "Point", "coordinates": [ 131.58601191, 32.9809988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町東長宝４４８-３６" }, "geometry": { "type": "Point", "coordinates": [ 131.45399841, 33.18345643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町櫛野５２-２" }, "geometry": { "type": "Point", "coordinates": [ 131.32921448, 33.45304624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字和気１００６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.39525704, 33.5340484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市福良１８７３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.79195302, 33.11439535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市山香町大字内河野２６１２-３" }, "geometry": { "type": "Point", "coordinates": [ 131.501970410000013, 33.45252431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字守江１２９１-１１" }, "geometry": { "type": "Point", "coordinates": [ 131.669385510000012, 33.41941077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町山田字瀬戸口１８０-３" }, "geometry": { "type": "Point", "coordinates": [ 131.14269417, 33.27843765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字岩室８１２" }, "geometry": { "type": "Point", "coordinates": [ 131.172294349999987, 33.27305999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字大隈１９７-４" }, "geometry": { "type": "Point", "coordinates": [ 131.16599548, 33.26743371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生町大字上小倉１０６５-１" }, "geometry": { "type": "Point", "coordinates": [ 131.837910060000013, 32.96747216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町２２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.52289443, 33.3692969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市羽屋４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60195016, 33.21485818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市上戸次字長河原３７３６" }, "geometry": { "type": "Point", "coordinates": [ 131.65516316, 33.1256352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字猪野１５７５-２" }, "geometry": { "type": "Point", "coordinates": [ 131.66127099, 33.22327914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市中島中央３丁目４-２２" }, "geometry": { "type": "Point", "coordinates": [ 131.614963100000011, 33.24614412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字永添字鍛治屋の市９８５-９３" }, "geometry": { "type": "Point", "coordinates": [ 131.20723687, 33.57104187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字蛎瀬字飛越８１５の６" }, "geometry": { "type": "Point", "coordinates": [ 131.206650560000014, 33.60146849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市大字千怒６０１３" }, "geometry": { "type": "Point", "coordinates": [ 131.88825137, 33.07179088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県津久見市大字津久見浦字福３８２５−６８" }, "geometry": { "type": "Point", "coordinates": [ 131.869674010000011, 33.07560988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県東国東郡姫島村２１８６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.65287285, 33.72381848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市銭淵町４２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.93030022, 33.30930298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市京町９-１６" }, "geometry": { "type": "Point", "coordinates": [ 131.50396641, 33.28749169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字別府字野口原３０９９-１９８" }, "geometry": { "type": "Point", "coordinates": [ 131.48675312, 33.28378864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市安心院町大字木裳２５６-１" }, "geometry": { "type": "Point", "coordinates": [ 131.35812739, 33.43759452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町大字原口字下ノ原４２０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.316612389999989, 33.4169039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字野上５５１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.20894486, 33.22509033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町中園１３１" }, "geometry": { "type": "Point", "coordinates": [ 131.6918637, 33.46601991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町鶴川１１６" }, "geometry": { "type": "Point", "coordinates": [ 131.733082059999987, 33.56298824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市郡宇目町大字千束１８４１-１" }, "geometry": { "type": "Point", "coordinates": [ 131.67504856, 32.85825161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字市４０７-１" }, "geometry": { "type": "Point", "coordinates": [ 131.57034680000001, 33.18707258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字毛井２１１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.670350469999988, 33.18859454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市直入町大字長湯８０５２" }, "geometry": { "type": "Point", "coordinates": [ 131.383838849999989, 33.07233924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市三光村大字原口６４４" }, "geometry": { "type": "Point", "coordinates": [ 131.20115267, 33.55480704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市日ノ隈２００-１" }, "geometry": { "type": "Point", "coordinates": [ 130.925053459999987, 33.31661214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市犬飼町大字田原２２８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.63545388, 33.06714018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町大字小坂４１１３-３３" }, "geometry": { "type": "Point", "coordinates": [ 131.61405104, 32.99343003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市緒方町大字馬場" }, "geometry": { "type": "Point", "coordinates": [ 131.473897240000014, 32.97066517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市庄内町大龍2071-1" }, "geometry": { "type": "Point", "coordinates": [ 131.441491109999987, 33.17915823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字江須賀2039" }, "geometry": { "type": "Point", "coordinates": [ 131.35952165, 33.56717503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字南宇佐2453-1" }, "geometry": { "type": "Point", "coordinates": [ 131.36667852, 33.5269099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字粟野１２６５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.16687836, 33.25448975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江町大字蒲江浦2392" }, "geometry": { "type": "Point", "coordinates": [ 131.92780628, 32.79675999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字大神1400-5" }, "geometry": { "type": "Point", "coordinates": [ 131.573475550000012, 33.38472317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市王子町8-8" }, "geometry": { "type": "Point", "coordinates": [ 131.58882545, 33.24359667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市坂ノ市中央3丁目1-2" }, "geometry": { "type": "Point", "coordinates": [ 131.74787319, 33.23504931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市松原町3丁目4-8" }, "geometry": { "type": "Point", "coordinates": [ 131.65414071, 33.25105436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字横瀬字田代60-2" }, "geometry": { "type": "Point", "coordinates": [ 131.54560392, 33.18714353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字下郡字竹ヶ下３１５４−７" }, "geometry": { "type": "Point", "coordinates": [ 131.62830555, 33.22492143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三佐字八坂原653" }, "geometry": { "type": "Point", "coordinates": [ 131.68643114, 33.25468883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字津守字古道下504-1" }, "geometry": { "type": "Point", "coordinates": [ 131.615327689999987, 33.20971377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字上宮永字樋ノ町495-1" }, "geometry": { "type": "Point", "coordinates": [ 131.186593319999986, 33.58509511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大字友田９７１" }, "geometry": { "type": "Point", "coordinates": [ 130.909321549999987, 33.3252236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市犬飼町久原1024-35" }, "geometry": { "type": "Point", "coordinates": [ 131.63796661, 33.07508385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市汐見町3−31" }, "geometry": { "type": "Point", "coordinates": [ 131.500118500000013, 33.30575346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市上野口町6−1" }, "geometry": { "type": "Point", "coordinates": [ 131.49285018, 33.28503806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市石垣西10−9−19" }, "geometry": { "type": "Point", "coordinates": [ 131.49176295, 33.30553075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大畑1組2" }, "geometry": { "type": "Point", "coordinates": [ 131.47534891, 33.30541776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市鶴見町4組" }, "geometry": { "type": "Point", "coordinates": [ 131.476174750000013, 33.29922799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市佐野字西田5037−2" }, "geometry": { "type": "Point", "coordinates": [ 131.46622957, 33.53816568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市宮熊１７５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.28421875, 33.57536707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県下毛郡耶馬渓町大島３７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.10786234, 33.40296977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町大字岩屋４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.69063585, 33.56611459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市上岡１４８２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.86087414, 32.95506716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下郡中央２−９−１６" }, "geometry": { "type": "Point", "coordinates": [ 131.634856180000014, 33.22450394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市花高松１−１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.66134405, 33.24863144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市千代町４−４−４" }, "geometry": { "type": "Point", "coordinates": [ 131.60241331, 33.24262407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字宮崎８２８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.60747478, 33.19926724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字上宗方３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.58369695, 33.20086568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字森町５５４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.68138238, 33.22598662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中殿２６７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.19235745, 33.59491053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市中津江村栃野５２３１−７" }, "geometry": { "type": "Point", "coordinates": [ 130.97796957, 33.15113639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市日の出町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.93952539, 33.33619739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市南立石２０４２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.47578017, 33.28502127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市湯布院町川西湯無田１２５１−４" }, "geometry": { "type": "Point", "coordinates": [ 131.29581123, 33.24932642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中殿町３−３１" }, "geometry": { "type": "Point", "coordinates": [ 131.19450895, 33.59428275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市中殿町４−７−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.19749728, 33.5933253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市耶馬渓町大字宮園２５２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.09577248, 33.42841512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県東国東郡姫島村松原２０９４−３" }, "geometry": { "type": "Point", "coordinates": [ 131.64877519, 33.72436168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市有田町１５６２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.96743561, 33.33255142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市石垣東１０−６−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.49565589, 33.30567438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市中島町２３−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.48950242, 33.2777619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市浜町１８−５" }, "geometry": { "type": "Point", "coordinates": [ 131.507839710000013, 33.27229374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市界６３６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.424467240000013, 33.54428675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市御玉１０２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.44434603, 33.55831072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町赤嶺１８８４" }, "geometry": { "type": "Point", "coordinates": [ 131.593057859999988, 32.98368342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字杵築１２４−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.622324959999986, 33.41588672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字南杵築１６５２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.612428, 33.41742167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大田沓掛２６０３" }, "geometry": { "type": "Point", "coordinates": [ 131.54480247, 33.49932011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字右田１０１１−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.204051279999987, 33.22621715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市安岐町下原７５０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.73125564, 33.47126056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国見町小熊毛２５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.64438198, 33.65879817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町小原３６２０" }, "geometry": { "type": "Point", "coordinates": [ 131.73256296, 33.54171212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市国東町北江３３４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.72331143, 33.58934658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県国東市武蔵町古市１６７−３" }, "geometry": { "type": "Point", "coordinates": [ 131.7234362, 33.50165923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字堅田３５４６" }, "geometry": { "type": "Point", "coordinates": [ 131.87730025, 32.91760412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市松原町３−５−１７" }, "geometry": { "type": "Point", "coordinates": [ 131.65639431, 33.25131873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字下郡３１５３−３" }, "geometry": { "type": "Point", "coordinates": [ 131.62793434, 33.22535628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字下郡尻込３７０８−４２" }, "geometry": { "type": "Point", "coordinates": [ 131.62598438, 33.22954394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字皆春字後田３０２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.676904189999988, 33.23386519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字宮河内４１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 131.69593167, 33.19680116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字森町栗板通り５５７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.68091293, 33.22571085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市中判田釜木１７４６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.63815237, 33.16634891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市長浜町１−１２−８" }, "geometry": { "type": "Point", "coordinates": [ 131.616299090000012, 33.23896085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市久住町久住６１０３" }, "geometry": { "type": "Point", "coordinates": [ 131.29591191, 33.01792893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字牛神２４" }, "geometry": { "type": "Point", "coordinates": [ 131.20362569, 33.60057755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市上人ヶ浜町２３９" }, "geometry": { "type": "Point", "coordinates": [ 131.49954896, 33.31943586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市大字山829-2" }, "geometry": { "type": "Point", "coordinates": [ 131.41099716, 33.53061121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字市浜字大ヒラキ1236" }, "geometry": { "type": "Point", "coordinates": [ 131.7845716, 33.11451838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町大字山田字豆田74-1" }, "geometry": { "type": "Point", "coordinates": [ 131.13938975, 33.27929511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市西谷町6番5号" }, "geometry": { "type": "Point", "coordinates": [ 131.88648108000001, 32.95593611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字戸穴603-2" }, "geometry": { "type": "Point", "coordinates": [ 131.88923592, 32.99868148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市下郡字橋ノ本799-3" }, "geometry": { "type": "Point", "coordinates": [ 131.63528302, 33.22412589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市向原東2-5-17" }, "geometry": { "type": "Point", "coordinates": [ 131.666827970000014, 33.25329213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市新貝1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.645890799999989, 33.24639123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字宮崎字軒田1451-6" }, "geometry": { "type": "Point", "coordinates": [ 131.61029869, 33.19101971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字城原字湯ノ尻280-1" }, "geometry": { "type": "Point", "coordinates": [ 131.736065520000011, 33.23755834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市明野北五丁目15番20号" }, "geometry": { "type": "Point", "coordinates": [ 131.66082735, 33.23191316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市木上字鉾手50-1" }, "geometry": { "type": "Point", "coordinates": [ 131.567868010000012, 33.18392681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市上城内町491-1" }, "geometry": { "type": "Point", "coordinates": [ 130.94232051, 33.3290601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市新地1747-1" }, "geometry": { "type": "Point", "coordinates": [ 131.433348880000011, 33.55143639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市熊野２４２８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.63244961, 33.38792061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡玖珠町森３５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.15906378, 33.29842448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市古国府字町口２０９−１３" }, "geometry": { "type": "Point", "coordinates": [ 131.605131910000011, 33.21709545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市今津留３丁目２−１８" }, "geometry": { "type": "Point", "coordinates": [ 131.6276814, 33.24136627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市新町２８−３" }, "geometry": { "type": "Point", "coordinates": [ 131.60096445, 33.23741057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字三芳椎迫４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.590694219999989, 33.22679961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字小池原１１００−１" }, "geometry": { "type": "Point", "coordinates": [ 131.66165464, 33.23396417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市中戸次字恒迫５１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.65629637, 33.15318319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市片島３６９" }, "geometry": { "type": "Point", "coordinates": [ 131.623932129999986, 33.21970602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大山町大字西大山字中川原３４６３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.96287627000001, 33.25932001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市大字竹田３９６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.94330213, 33.30942289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市北浜３−７−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.505143510000011, 33.28249682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字本庄１４５０-１" }, "geometry": { "type": "Point", "coordinates": [ 131.58891956, 33.41307238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字池田６５９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.89019896, 32.94782299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字大神1773-1" }, "geometry": { "type": "Point", "coordinates": [ 131.56592404, 33.37786597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市挾間町挾間５６４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.52024914, 33.20026534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市緒方町馬場４４５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.480831020000011, 32.96952343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市生石３−２−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.58689906, 33.24488572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県杵築市大字守江１８２４−３９" }, "geometry": { "type": "Point", "coordinates": [ 131.66303118, 33.42224641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市志村２−２−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.70582764, 33.24240235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県竹田市大字挾田６７０" }, "geometry": { "type": "Point", "coordinates": [ 131.40307153, 32.97837211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県別府市石垣西１０−１−４３" }, "geometry": { "type": "Point", "coordinates": [ 131.494441020000011, 33.30432586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県杵築市大字猪尾７７９−４" }, "geometry": { "type": "Point", "coordinates": [ 131.61021141, 33.40419292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県宇佐市大字山下１４９０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.30303418, 33.53616983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市沖代町１−３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.203714960000013, 33.59100014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県臼杵市大字海添２５７４−５" }, "geometry": { "type": "Point", "coordinates": [ 131.80968758, 33.11972048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市上城内町１３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.95154912000001, 33.32771859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市駅前１丁目５−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.90364868, 32.97196651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字竹中４６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.644573900000012, 33.15586021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市天瀬町馬原２２８５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.00655205000001, 33.28661301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市荻町馬場４５３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.29530148, 32.9286211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市直入町下田北１１６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.40053124, 33.12190389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県玖珠郡九重町大字湯坪９４５" }, "geometry": { "type": "Point", "coordinates": [ 131.19302233, 33.13217999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田市天瀬町赤岩２６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.03492609, 33.25568166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市新地１９５２−３" }, "geometry": { "type": "Point", "coordinates": [ 131.43633502, 33.55672088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市野津町泊１１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.7311507, 33.00551106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生小田９５" }, "geometry": { "type": "Point", "coordinates": [ 131.84194843, 32.95997566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市直川下直見３０３６" }, "geometry": { "type": "Point", "coordinates": [ 131.8059307, 32.92658636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市新町２８２１−６" }, "geometry": { "type": "Point", "coordinates": [ 131.43679838, 33.56048059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市大字下池永９３３" }, "geometry": { "type": "Point", "coordinates": [ 131.2228393, 33.58591802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後高田市香々地２９５６" }, "geometry": { "type": "Point", "coordinates": [ 131.520556699999986, 33.66582054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字種具１８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.697762579999988, 33.20303269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市三佐３丁目８−２４" }, "geometry": { "type": "Point", "coordinates": [ 131.676640099999986, 33.24990347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大在中央１丁目１０−８" }, "geometry": { "type": "Point", "coordinates": [ 131.71926498, 33.24579401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市向原東１丁目２−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.66200969, 33.25268097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市本匠堂ノ間１１３６" }, "geometry": { "type": "Point", "coordinates": [ 131.71233139, 32.92730892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県竹田市荻町馬場５００−３" }, "geometry": { "type": "Point", "coordinates": [ 131.29673112, 32.92609738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県竹田市大字竹田町３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.392938859999987, 32.96656733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県豊後高田市小田原４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.49573149, 33.53878085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市北鶴崎２丁目５−２２" }, "geometry": { "type": "Point", "coordinates": [ 131.69218745, 33.24137315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市顕徳町１丁目１０−８" }, "geometry": { "type": "Point", "coordinates": [ 131.61411057, 33.2307477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市王子北町３−１０" }, "geometry": { "type": "Point", "coordinates": [ 131.593365150000011, 33.24379574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県別府市石垣西８丁目３−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.492702220000012, 33.30222605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市古金谷２１６１−２" }, "geometry": { "type": "Point", "coordinates": [ 131.18022939, 33.59849905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県日田市丸山１丁目２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.93804368, 33.32992908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県別府市火売２" }, "geometry": { "type": "Point", "coordinates": [ 131.47412026, 33.31225847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県中津市大字田尻６−８" }, "geometry": { "type": "Point", "coordinates": [ 131.24669065, 33.60775213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県中津市殿町１３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.18489122, 33.60305119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県中津市大字万田５２９" }, "geometry": { "type": "Point", "coordinates": [ 131.18645082, 33.57817113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県佐伯市池船町３６−２５" }, "geometry": { "type": "Point", "coordinates": [ 131.8920884, 32.95228101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県速見郡日出町大字川崎８３７−６７" }, "geometry": { "type": "Point", "coordinates": [ 131.543199570000013, 33.36822382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市大字常行２０７" }, "geometry": { "type": "Point", "coordinates": [ 131.689570089999989, 33.21570851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市大字津守３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 131.61740525, 33.21164138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県別府市天満町１１−５" }, "geometry": { "type": "Point", "coordinates": [ 131.49596127, 33.28651539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県国東市武蔵町糸原３６００−１" }, "geometry": { "type": "Point", "coordinates": [ 131.73411515, 33.48040349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県大分市大字光吉１６２４−６５" }, "geometry": { "type": "Point", "coordinates": [ 131.60329542, 33.19280361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市城原３８８−２" }, "geometry": { "type": "Point", "coordinates": [ 131.73441512, 33.23779648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字霞ケ浦代後東548" }, "geometry": { "type": "Point", "coordinates": [ 131.89804898, 33.00549919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市弥生尺間1144" }, "geometry": { "type": "Point", "coordinates": [ 131.8229547, 32.9945815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県宇佐市院内町二日市１３６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.33203215, 33.44744557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市蒲江大字丸市尾浦１４２４−５５" }, "geometry": { "type": "Point", "coordinates": [ 131.872304930000013, 32.78908923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市大字狩生97-9" }, "geometry": { "type": "Point", "coordinates": [ 131.90362989, 33.0134499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県佐伯市鶴見吹浦１４９６の２" }, "geometry": { "type": "Point", "coordinates": [ 131.94140499, 32.95390559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字川崎６８６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.54777428, 33.36696349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県速見郡日出町大字川崎字前刈５２８-８" }, "geometry": { "type": "Point", "coordinates": [ 131.54543836, 33.37458849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県大分市大字南字出口112-1" }, "geometry": { "type": "Point", "coordinates": [ 131.68438412, 33.21322277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県竹田市大字拝田原字上津留４５９-３" }, "geometry": { "type": "Point", "coordinates": [ 131.37934209, 32.95765501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市牛神下浜田８４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.20176853000001, 33.60074293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県日田郡天瀬町合田３１３３-５" }, "geometry": { "type": "Point", "coordinates": [ 131.010609749999986, 33.25556568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県別府市大字南立石２１３９" }, "geometry": { "type": "Point", "coordinates": [ 131.480299769999988, 33.28476714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市緒方町大字徳田米山１３" }, "geometry": { "type": "Point", "coordinates": [ 131.44148712, 32.92195799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市朝地町大字下野７１３-１" }, "geometry": { "type": "Point", "coordinates": [ 131.45734393, 33.00389223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市朝地町大字梨小４９９-２３" }, "geometry": { "type": "Point", "coordinates": [ 131.4282806, 33.06698052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市大字川西４６４−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.325338319999986, 33.241455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県中津市三光佐知１０３２" }, "geometry": { "type": "Point", "coordinates": [ 131.191715679999987, 33.56028756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県豊後大野市三重町大字赤嶺１９８１" }, "geometry": { "type": "Point", "coordinates": [ 131.59540696, 32.98423844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県由布市狭間町大字北方字下角94" }, "geometry": { "type": "Point", "coordinates": [ 131.52322246, 33.20669899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県宇佐市四日市町石田２１２" }, "geometry": { "type": "Point", "coordinates": [ 131.33575568, 33.53091407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県臼杵市大字臼杵字洲崎７２−２６６" }, "geometry": { "type": "Point", "coordinates": [ 131.80548113, 33.12444113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県杵築市大字守江字浜平１２７４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.6714076, 33.41937258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県玖珠郡玖珠町大字山田８６" }, "geometry": { "type": "Point", "coordinates": [ 131.14252893, 33.27895527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県国東市安岐町字塩屋３３５" }, "geometry": { "type": "Point", "coordinates": [ 131.71909384, 33.45595682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県国東市国東町大字伊美２２４８" }, "geometry": { "type": "Point", "coordinates": [ 131.59336037, 33.6771643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県佐伯市大字鶴望１７１" }, "geometry": { "type": "Point", "coordinates": [ 131.868269590000011, 32.95839055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県大分市大字海原字見休８００−１" }, "geometry": { "type": "Point", "coordinates": [ 131.67818481, 33.25484906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市中殿町３" }, "geometry": { "type": "Point", "coordinates": [ 131.196660439999988, 33.59608393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県中津市本耶馬渓町跡田７−９" }, "geometry": { "type": "Point", "coordinates": [ 131.17010714, 33.49158112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県津久見市大字津久見１４７４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.87403254, 33.0536587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県日田市天瀬町大字馬原２１０５−４" }, "geometry": { "type": "Point", "coordinates": [ 131.00068178, 33.28796645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県別府市大字北石垣１４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.487896799999987, 33.30860139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "大分県豊後大野市三重町赤嶺１１５３−３０" }, "geometry": { "type": "Point", "coordinates": [ 131.60522193, 32.98875305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "大分県臼杵市大字福良平清水２０" }, "geometry": { "type": "Point", "coordinates": [ 131.79523574000001, 33.11851047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "大分県日田市大字友田南友田町５１９−７" }, "geometry": { "type": "Point", "coordinates": [ 130.914208519999988, 33.32419325 ] } }
+
+]
+}

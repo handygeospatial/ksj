@@ -1,0 +1,2238 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市大原町１６５" }, "geometry": { "type": "Point", "coordinates": [ 130.27398057, 31.71703948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市新町２９" }, "geometry": { "type": "Point", "coordinates": [ 130.19546313, 32.02515847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市大川１００３５" }, "geometry": { "type": "Point", "coordinates": [ 130.20399303, 31.97746119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町笠利３８２" }, "geometry": { "type": "Point", "coordinates": [ 129.693218949999988, 28.48943124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市小浜町３１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.50103248, 28.38257908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市須野６９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.70335674, 28.4766174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市節田字小泊１５９４番地" }, "geometry": { "type": "Point", "coordinates": [ 129.68273505, 28.41396271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬真名津町６−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.49988839, 28.36651361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬朝戸１０５９−２" }, "geometry": { "type": "Point", "coordinates": [ 129.49709943, 28.33343476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬浜里町１１４" }, "geometry": { "type": "Point", "coordinates": [ 129.46984239, 28.39796899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町岸良２２６" }, "geometry": { "type": "Point", "coordinates": [ 131.00501277, 31.22698985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町後田６８０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.919058760000013, 31.3400692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町波見東２９０" }, "geometry": { "type": "Point", "coordinates": [ 131.00360692000001, 31.35408373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占川南３２５０" }, "geometry": { "type": "Point", "coordinates": [ 130.777382030000012, 31.21121281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町一湊８５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.48844573, 30.45153201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町永田２９３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.42607274, 30.39609607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町求名３６７６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53313345, 31.94030764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町船木７３４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.44908332, 31.88375862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市平佐町北牟田３６９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.31860071, 31.82169953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市里町里３５０８" }, "geometry": { "type": "Point", "coordinates": [ 129.92048003, 31.84780334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市安楽２７７４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.08951112, 31.49595294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市伊崎田８８２２" }, "geometry": { "type": "Point", "coordinates": [ 131.05243592, 31.53014785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志３２２３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.1003301, 31.47181206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市内之倉３３５３" }, "geometry": { "type": "Point", "coordinates": [ 131.1388342, 31.51477344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市尾野見３４２" }, "geometry": { "type": "Point", "coordinates": [ 131.106403840000013, 31.55830276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市野井倉１４１０−８" }, "geometry": { "type": "Point", "coordinates": [ 131.053687520000011, 31.49269888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市野神２９７８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.98875801, 31.49342258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市旭原町２７２５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.883122899999989, 31.41132085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市永野田町６６２" }, "geometry": { "type": "Point", "coordinates": [ 130.88827197, 31.34994649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市笠之原町７９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.88251349, 31.38799488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町上名７５０５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.90006021, 31.32541022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市今坂町１０１１８" }, "geometry": { "type": "Point", "coordinates": [ 130.8246751, 31.38070061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市西原２−３８−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.82692412, 31.3892692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市有里黒土田上４１２５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.94692955, 31.39475152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市祓川町４０９０" }, "geometry": { "type": "Point", "coordinates": [ 130.849955779999988, 31.41809424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷町１−３−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.52841417, 31.61649646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下荒田町１丁目３１番８号" }, "geometry": { "type": "Point", "coordinates": [ 130.55734634, 31.57611623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下福元町小迫９３７１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.50174918, 31.50011095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市玉里団地３−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54623106, 31.61844009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市玉里町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.544807709999986, 31.60998274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市郡山岳町１７３" }, "geometry": { "type": "Point", "coordinates": [ 130.45445636, 31.6768168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市原良町１６２０−１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.53374904, 31.59464511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市古里町３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.652477010000013, 31.55108343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市五ヶ別府町３６４０−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.496358140000012, 31.58916357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市荒田１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54825009000001, 31.57833245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜島武町４２" }, "geometry": { "type": "Point", "coordinates": [ 130.61286984, 31.60804829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市春山町１８８８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.45425418, 31.58195612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市照国町１６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.55216313, 31.59290274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新栄町８−８" }, "geometry": { "type": "Point", "coordinates": [ 130.544911899999988, 31.54712892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西陵３−４８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51102806, 31.58604771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上２−２８−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.53185356, 31.57455972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上６丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.52756989, 31.57937392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上町３８６４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51431276, 31.57196473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町３−３９" }, "geometry": { "type": "Point", "coordinates": [ 130.531729790000014, 31.53216009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東俣町７８" }, "geometry": { "type": "Point", "coordinates": [ 130.501563409999989, 31.68231595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市平之町７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.546059390000011, 31.59056847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市野尻町２０５" }, "geometry": { "type": "Point", "coordinates": [ 130.61651231, 31.56709585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市和田町１−４９−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.50772627, 31.51257164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町山門野４１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.166376390000011, 32.10811621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市下名６９８６" }, "geometry": { "type": "Point", "coordinates": [ 130.26788787000001, 32.06240364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市江内３３３９" }, "geometry": { "type": "Point", "coordinates": [ 130.25324623, 32.09737434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町下水流８７２" }, "geometry": { "type": "Point", "coordinates": [ 130.286476310000012, 32.08841845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町大久保５６１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.30914991, 32.06120295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市武本１９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.35343581, 32.07065458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市文化町５７３" }, "geometry": { "type": "Point", "coordinates": [ 130.33694669, 32.09124286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市米ノ津町１８−３５" }, "geometry": { "type": "Point", "coordinates": [ 130.33978110000001, 32.11973245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市高城町２７２" }, "geometry": { "type": "Point", "coordinates": [ 130.72844852, 31.47852857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市新城９０１" }, "geometry": { "type": "Point", "coordinates": [ 130.72852642, 31.45281135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町永吉３７７２" }, "geometry": { "type": "Point", "coordinates": [ 131.00188793, 31.42102288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町永吉字新堀５７１６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.98768462000001, 31.41100824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町仮宿１４９４" }, "geometry": { "type": "Point", "coordinates": [ 131.01067999, 31.42603072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町仮宿１７５５" }, "geometry": { "type": "Point", "coordinates": [ 131.01306466, 31.4274799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町西井俣７７７" }, "geometry": { "type": "Point", "coordinates": [ 131.000245400000011, 31.45005963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町菱田１２６８−９" }, "geometry": { "type": "Point", "coordinates": [ 131.044035439999988, 31.44510517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町野方６１４２" }, "geometry": { "type": "Point", "coordinates": [ 130.950495749999988, 31.51057956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町岩川６３１３" }, "geometry": { "type": "Point", "coordinates": [ 130.99273763, 31.58349845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町二之方字森田４５１−８" }, "geometry": { "type": "Point", "coordinates": [ 131.02212846, 31.6595006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町赤連２９６６−１２" }, "geometry": { "type": "Point", "coordinates": [ 129.9394943, 28.32589224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町久慈３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.25255753, 28.23157734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田小湊９０３５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.25452693, 31.41260207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市高橋２０６６−１１４" }, "geometry": { "type": "Point", "coordinates": [ 130.29807252, 31.43529163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町郡１０５３−６" }, "geometry": { "type": "Point", "coordinates": [ 130.401383040000013, 31.63486123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町大田１" }, "geometry": { "type": "Point", "coordinates": [ 130.37841379, 31.63146723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町永吉堂園３３９５" }, "geometry": { "type": "Point", "coordinates": [ 130.33877822, 31.54925347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町字辻堂９５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.340494330000013, 31.66636594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市平田町２２８" }, "geometry": { "type": "Point", "coordinates": [ 130.292055729999987, 31.27999903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市広瀬１丁目１０１７−１０４" }, "geometry": { "type": "Point", "coordinates": [ 130.749146990000014, 31.71940028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓２６６０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.70327009, 31.81938369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市清水１−９−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.77336452, 31.75208449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町姫城字羽坂１０８４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.757134150000013, 31.76049274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山４５９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.84321565, 31.67327158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町上中津川１２０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.7904657, 31.85062563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入瀬々串町１" }, "geometry": { "type": "Point", "coordinates": [ 130.5237687, 31.42404881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入生見町２３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.57312224, 31.31089991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入中名町１００２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53738861, 31.39178963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入中名町７４９" }, "geometry": { "type": "Point", "coordinates": [ 130.533589690000014, 31.39666173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町３５７３" }, "geometry": { "type": "Point", "coordinates": [ 130.569834289999989, 31.65050003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町４９１０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.58241995, 31.65240632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町８６８９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.57781744, 31.63501459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市郡元３−２−６" }, "geometry": { "type": "Point", "coordinates": [ 130.55009392, 31.56101413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市甲突町２７−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.56141702, 31.57777533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市荒田２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54733456, 31.57379521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市荒田２−５８−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.546865309999987, 31.5702123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜島町藤野１３２６" }, "geometry": { "type": "Point", "coordinates": [ 130.63087944, 31.62119622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜島武町３７５" }, "geometry": { "type": "Point", "coordinates": [ 130.61972848, 31.61441664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市山田町３６８３" }, "geometry": { "type": "Point", "coordinates": [ 130.49413647, 31.56953851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市紫原５−１−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.531168830000013, 31.56090984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市七ツ島１−１−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.512879989999988, 31.47751628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市春日町１−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.56452994, 31.60464126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小山田町３５２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.49076517, 31.6617734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小山田町６７７６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.48463397, 31.66790872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小松原１−６３−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.527101069999986, 31.53269819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小野町３２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.50804047, 31.60340473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小野町４７８２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.48987245, 31.61409651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上谷口町５０１０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.4362511, 31.60366792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上福元町５８５３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.50592329, 31.52669562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上福元町７３３２−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.47542769, 31.52996494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上福元町中溝５７５３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.5074787, 31.52966834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上竜尾町１１５−６" }, "geometry": { "type": "Point", "coordinates": [ 130.55809885, 31.60710545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新栄町１６−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.54726412, 31.54994952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新栄町６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.54252116, 31.54690132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新照院町２５−６" }, "geometry": { "type": "Point", "coordinates": [ 130.54051407, 31.5991477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西伊敷６−４１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.534198659999987, 31.64515277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西陵１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.514292930000011, 31.581574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市泉町１８−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.561072130000014, 31.59341265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市船津町４−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.558448770000012, 31.58826058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市谷山中央３−２１０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.516424050000012, 31.51556862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市御倉町１００" }, "geometry": { "type": "Point", "coordinates": [ 130.267819839999987, 31.71416919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市上名字上山神８１９３" }, "geometry": { "type": "Point", "coordinates": [ 130.31361648, 31.72707749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市大里５７０５" }, "geometry": { "type": "Point", "coordinates": [ 130.31068350000001, 31.6786507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市港町２４" }, "geometry": { "type": "Point", "coordinates": [ 130.19371339, 32.01651443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市赤瀬川３８１１−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.20539442, 32.03397171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市鶴見町４５" }, "geometry": { "type": "Point", "coordinates": [ 130.19705718, 32.01300217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市脇本７７９１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.20098746, 32.08256529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町中津川４９０" }, "geometry": { "type": "Point", "coordinates": [ 130.74413625, 32.01305304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町田尾原八日田２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69870647, 31.96378044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町木場上五反田１３７" }, "geometry": { "type": "Point", "coordinates": [ 130.72336667, 31.95406428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町新富町２３５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.66846677, 31.7426339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町木田２４９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.64781276, 31.73551168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市西餅田ソイナシ４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62596609, 31.7284765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市西餅田字桜木" }, "geometry": { "type": "Point", "coordinates": [ 130.61523914, 31.72708423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市東餅田１７３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.637934519999988, 31.73329137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市鍋倉１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.63266189, 31.74061185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市平松３２４６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.59240319, 31.7220281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市脇元１７８８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.613057, 31.69939708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口下殿１７４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.59180944, 32.04477649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口小木原１０５０" }, "geometry": { "type": "Point", "coordinates": [ 130.58882795, 32.09486178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口太田１７１８" }, "geometry": { "type": "Point", "coordinates": [ 130.59979825, 32.08260048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口鳥巣字西中水流１２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60130049, 32.05491358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口里７３０" }, "geometry": { "type": "Point", "coordinates": [ 130.605560989999987, 32.05812381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口里９−５" }, "geometry": { "type": "Point", "coordinates": [ 130.60322735, 32.06488463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈花北字渕脇６０５−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.62986274, 32.0375632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈前目２１５６" }, "geometry": { "type": "Point", "coordinates": [ 130.64445869, 32.00787195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町節田３３０" }, "geometry": { "type": "Point", "coordinates": [ 129.6906035, 28.41524922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町万屋字大久田２１７６" }, "geometry": { "type": "Point", "coordinates": [ 129.70645317, 28.43064246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町里５１−７" }, "geometry": { "type": "Point", "coordinates": [ 129.67683197, 28.4525682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町里６４" }, "geometry": { "type": "Point", "coordinates": [ 129.67597464, 28.45304629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町和野字大工田４３９" }, "geometry": { "type": "Point", "coordinates": [ 129.70614543, 28.43023539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬伊都部町２０" }, "geometry": { "type": "Point", "coordinates": [ 129.49695755, 28.37722004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬港町１０−３" }, "geometry": { "type": "Point", "coordinates": [ 129.49501451, 28.38141215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬港町１５−５" }, "geometry": { "type": "Point", "coordinates": [ 129.49715176, 28.38085172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬真名津町１３−２" }, "geometry": { "type": "Point", "coordinates": [ 129.499759970000014, 28.36361396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬朝仁新町２３−５" }, "geometry": { "type": "Point", "coordinates": [ 129.48542821, 28.39572099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬長浜町２６−４" }, "geometry": { "type": "Point", "coordinates": [ 129.49490401, 28.39592326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬矢之脇町２４−１９" }, "geometry": { "type": "Point", "coordinates": [ 129.492429750000014, 28.38493516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町前田６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.94078018, 31.33709065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町前田８５８−８" }, "geometry": { "type": "Point", "coordinates": [ 130.941455569999988, 31.34721576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町大字前田３５０７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.938537129999986, 31.35359495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町南方２６９−２" }, "geometry": { "type": "Point", "coordinates": [ 131.076885, 31.27579434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町南方２９４" }, "geometry": { "type": "Point", "coordinates": [ 131.075607319999989, 31.27768257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町富山字笠ノ原８７６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.895290179999989, 31.39094686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町城元８０９" }, "geometry": { "type": "Point", "coordinates": [ 130.786845199999988, 31.24584049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町神川３３４７" }, "geometry": { "type": "Point", "coordinates": [ 130.79567709, 31.27462399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町田代麓６１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.84597482, 31.20025887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡東串良町川東３４１４" }, "geometry": { "type": "Point", "coordinates": [ 131.004735430000011, 31.36397459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡東串良町川東３９８６" }, "geometry": { "type": "Point", "coordinates": [ 131.00745342, 31.36305326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡東串良町池之原２７５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96943592, 31.39844447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占山本４１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.77012592, 31.19617392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占辺田２３２１" }, "geometry": { "type": "Point", "coordinates": [ 130.7544833, 31.15178877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町佐多伊座敷３６１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.69172031, 31.09258973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町佐多馬籠６８０" }, "geometry": { "type": "Point", "coordinates": [ 130.68413174, 31.02942995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町安房磯ノ道下５４０−９" }, "geometry": { "type": "Point", "coordinates": [ 130.656721159999989, 30.32203926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町安房字新次山４２９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.655087290000012, 30.3189346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町一湊２２８６" }, "geometry": { "type": "Point", "coordinates": [ 130.49088446, 30.45181118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町宮ノ浦水溜２４５１−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.58326222, 30.42005962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町宮之浦１３" }, "geometry": { "type": "Point", "coordinates": [ 130.57279974, 30.42574241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町宮之浦３７５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.57099563, 30.42651707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町原小森下３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.57948765, 30.24393093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町口永良部島５８８" }, "geometry": { "type": "Point", "coordinates": [ 130.19403802, 30.46562751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町小瀬田８１５−８５" }, "geometry": { "type": "Point", "coordinates": [ 130.6585098, 30.3825434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町平内阿姑ケ山４９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.49370651000001, 30.2335429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町野間５２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.9552692, 30.533665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町野間５２６９" }, "geometry": { "type": "Point", "coordinates": [ 130.958923809999987, 30.53181169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南種子町茎永雪子１９４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.943704309999987, 30.38858163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南種子町中之上１７１１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.90481975, 30.42639793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南種子町中之上２２４６" }, "geometry": { "type": "Point", "coordinates": [ 130.90300692, 30.41418773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南種子町島間字宮田６７−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.86275919, 30.46415365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町広瀬１３０５番地" }, "geometry": { "type": "Point", "coordinates": [ 130.490526210000013, 31.91898045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町轟町１番地１" }, "geometry": { "type": "Point", "coordinates": [ 130.456728879999986, 31.91072584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町山崎２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.43295447, 31.8688793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町時吉２７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46729503, 31.91539502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市永利町２５６５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.342915080000012, 31.80689102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市宮内町大字原田１２６５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.29333896, 31.82462642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市隈之城町久木元１３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.309046489999986, 31.79860163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市隈之城町藤次原１５３" }, "geometry": { "type": "Point", "coordinates": [ 130.30706508, 31.79830422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市原田町１５−９" }, "geometry": { "type": "Point", "coordinates": [ 130.30671791, 31.82978309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市原田町２０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.308593, 31.8289319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市御陵下町１８−７" }, "geometry": { "type": "Point", "coordinates": [ 130.29569453, 31.8312168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市港町字松原３７７−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.2140444, 31.84634265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市若松町８−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.30251555000001, 31.81531331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市城上町１７４" }, "geometry": { "type": "Point", "coordinates": [ 130.29832842, 31.86830797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市中郷１−１０−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.30963225, 31.83270399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市中福良町２８５４" }, "geometry": { "type": "Point", "coordinates": [ 130.30045696, 31.7874861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市鳥追町１２２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.31062098000001, 31.81448896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市田海町４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.32114306, 31.86346174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市東郷町南瀬１６５０" }, "geometry": { "type": "Point", "coordinates": [ 130.38931666, 31.85637918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市東郷町斧淵４６９３" }, "geometry": { "type": "Point", "coordinates": [ 130.34039421, 31.86426804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市東大小路町４１−９" }, "geometry": { "type": "Point", "coordinates": [ 130.30998336, 31.82766848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町副田５７５１" }, "geometry": { "type": "Point", "coordinates": [ 130.43219169, 31.82299078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町市比野７７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.41019806, 31.79771504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町倉野２４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.39583529, 31.85066447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町塔之原１２２５" }, "geometry": { "type": "Point", "coordinates": [ 130.386572550000011, 31.81973715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市平佐町甑町１８２１" }, "geometry": { "type": "Point", "coordinates": [ 130.32284371, 31.81057399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市矢倉町４２８６" }, "geometry": { "type": "Point", "coordinates": [ 130.31301474, 31.7867746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町安楽５６−３４" }, "geometry": { "type": "Point", "coordinates": [ 131.08830895, 31.47011654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町安楽７８０" }, "geometry": { "type": "Point", "coordinates": [ 131.07762598, 31.47107388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志２４４８−１１" }, "geometry": { "type": "Point", "coordinates": [ 131.099552640000013, 31.47461861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志字大迫大道１０００−３" }, "geometry": { "type": "Point", "coordinates": [ 131.08991699, 31.48961582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町新橋１６３−１２" }, "geometry": { "type": "Point", "coordinates": [ 131.036137270000012, 31.57599689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町新橋７２−５" }, "geometry": { "type": "Point", "coordinates": [ 131.03499758000001, 31.57855946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町蓬原９０８−４" }, "geometry": { "type": "Point", "coordinates": [ 131.03416508, 31.47638846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野井倉１４０１" }, "geometry": { "type": "Point", "coordinates": [ 131.05434255, 31.49372807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野井倉８１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.05967942, 31.45350603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞仙田２９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.542365960000012, 31.20464316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市岩本３０１８" }, "geometry": { "type": "Point", "coordinates": [ 130.60092341, 31.29053083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川岡児ヶ水３６０" }, "geometry": { "type": "Point", "coordinates": [ 130.58753561, 31.17842854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川成川３９７１" }, "geometry": { "type": "Point", "coordinates": [ 130.60904696, 31.20473985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川成川５２２２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.61610029, 31.21036825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川福元５７５７" }, "geometry": { "type": "Point", "coordinates": [ 130.63419779, 31.20021667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市十町１５９" }, "geometry": { "type": "Point", "coordinates": [ 130.62893975, 31.25413629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市十町２３６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.634007200000013, 31.2521563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市西方２１６５" }, "geometry": { "type": "Point", "coordinates": [ 130.62596141, 31.26506558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市西方４８５１" }, "geometry": { "type": "Point", "coordinates": [ 130.622217729999988, 31.27445527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市湯の浜１丁目１８番８号" }, "geometry": { "type": "Point", "coordinates": [ 130.64743464, 31.23671429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市湊２−１−４４" }, "geometry": { "type": "Point", "coordinates": [ 130.64520582, 31.23768372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市横山町１８７７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.83537812, 31.34873125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市王子町３９６２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.86524487, 31.40187315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市郷之原町１２０８３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.823308669999989, 31.39177289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町有里３１" }, "geometry": { "type": "Point", "coordinates": [ 130.95644232, 31.3960652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町有里８５８７" }, "geometry": { "type": "Point", "coordinates": [ 130.90136503, 31.43079368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市札元１−３８３２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.87140145, 31.39745714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市札元２−３７５０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.86899419, 31.40185218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市寿町７−１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.866040989999988, 31.38657298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市上祓川町８２４４" }, "geometry": { "type": "Point", "coordinates": [ 130.85606622, 31.43445871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市上祓川町８４７６" }, "geometry": { "type": "Point", "coordinates": [ 130.856916930000011, 31.43869679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市新生町２１−３５" }, "geometry": { "type": "Point", "coordinates": [ 130.84693895, 31.38091314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市新川町６１６０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.86262903, 31.37511702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市西祓川町１１３３−５０" }, "geometry": { "type": "Point", "coordinates": [ 130.85554993, 31.40097055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市川西町３７０７−５" }, "geometry": { "type": "Point", "coordinates": [ 130.87118282, 31.36110259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市東原町６０４２−４３" }, "geometry": { "type": "Point", "coordinates": [ 130.88352365, 31.42564478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市白水町６９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78924002, 31.39720565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市浜田町４０" }, "geometry": { "type": "Point", "coordinates": [ 130.80371566, 31.32801396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市北田町１１−７" }, "geometry": { "type": "Point", "coordinates": [ 130.84579327, 31.38837069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷５丁目９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.5262138, 31.62591248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷町４６７５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.519033, 31.63898313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷町４７４２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.5168453, 31.6397683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿１−３２−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.54194869, 31.54676907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿２−２５−４０" }, "geometry": { "type": "Point", "coordinates": [ 130.53756044, 31.54029746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市卸本町８−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.519630510000013, 31.510993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下福元町６７３２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51168157, 31.482564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市鴨池１−５５−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.54858109, 31.56310869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市谷山中央５−１７−６" }, "geometry": { "type": "Point", "coordinates": [ 130.513100869999988, 31.51823133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中山２−２１−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.510871580000014, 31.54718221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中山町５４５９番２" }, "geometry": { "type": "Point", "coordinates": [ 130.488433789999988, 31.53503257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上町６−２７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52346853, 31.58391923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東桜島町５３３" }, "geometry": { "type": "Point", "coordinates": [ 130.635826759999986, 31.55504038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東谷山２−２２−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.52480809, 31.53387408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東谷山６−１８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.520175740000013, 31.53742251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄６−１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.51704609, 31.50238539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄町４−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52667512, 31.5140421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南林寺町３０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.562487549999986, 31.58506591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市武１−２４−８" }, "geometry": { "type": "Point", "coordinates": [ 130.53815945, 31.58088357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市平之町１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.54905405, 31.59095543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市本城町１８９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.557032099999986, 31.7008692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市薬師１−２−８" }, "geometry": { "type": "Point", "coordinates": [ 130.54198127, 31.58997768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市与次郎１−５−２９" }, "geometry": { "type": "Point", "coordinates": [ 130.560917350000011, 31.56746014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町指江１１４" }, "geometry": { "type": "Point", "coordinates": [ 130.11739123000001, 32.15605879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町諸浦１３８０−５" }, "geometry": { "type": "Point", "coordinates": [ 130.17031483, 32.22327719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町川床１１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.16706556, 32.14441286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町鷹巣１６２５" }, "geometry": { "type": "Point", "coordinates": [ 130.17389689, 32.1959493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町柴引２８０８" }, "geometry": { "type": "Point", "coordinates": [ 130.30079806, 32.0604212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市昭和町１５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.354549100000014, 32.0875896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市大野原町１７７９" }, "geometry": { "type": "Point", "coordinates": [ 130.32936344, 32.06815816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市中央町１４０６" }, "geometry": { "type": "Point", "coordinates": [ 130.34637196, 32.08220283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市平和町２５９" }, "geometry": { "type": "Point", "coordinates": [ 130.32996227000001, 32.08204145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市米ノ津町４３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.34300948, 32.12477917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市明神町１８４６" }, "geometry": { "type": "Point", "coordinates": [ 130.32914012, 32.11107422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市野田町下名３３９７" }, "geometry": { "type": "Point", "coordinates": [ 130.248958320000014, 32.07341743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市野田町下名字上坂田１９２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.27191385, 32.08160225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市緑町４５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.350424339999989, 32.09389188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市六月田町３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.34352732, 32.10794716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市海潟６９４" }, "geometry": { "type": "Point", "coordinates": [ 130.70105153, 31.52892113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市牛根麓８５" }, "geometry": { "type": "Point", "coordinates": [ 130.7280721, 31.55749052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市新城４２５６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.7521491, 31.42939229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市中俣１２６" }, "geometry": { "type": "Point", "coordinates": [ 130.698186560000011, 31.51498106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市田神１５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.70114901, 31.49642677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市田神４０８" }, "geometry": { "type": "Point", "coordinates": [ 130.714815390000012, 31.48850929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市安城１３０３" }, "geometry": { "type": "Point", "coordinates": [ 131.04373112, 30.65013138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市現和６２８２" }, "geometry": { "type": "Point", "coordinates": [ 131.05775745, 30.69586944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市国上２１４１" }, "geometry": { "type": "Point", "coordinates": [ 131.03859369, 30.80659264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西町６９９３" }, "geometry": { "type": "Point", "coordinates": [ 130.994634780000013, 30.7345777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西之表９９５７" }, "geometry": { "type": "Point", "coordinates": [ 130.99655451000001, 30.72731815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西之表字後松畠７４３５−３" }, "geometry": { "type": "Point", "coordinates": [ 131.00141007, 30.73677739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町岡別府早馬９２７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.97497354, 31.45718884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町神領２０５６" }, "geometry": { "type": "Point", "coordinates": [ 131.02875362, 31.43839695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町假宿１１２３" }, "geometry": { "type": "Point", "coordinates": [ 131.006559759999988, 31.4257728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣１１３８３" }, "geometry": { "type": "Point", "coordinates": [ 130.99684308, 31.72768688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町坂元宮の段４０５８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.90706667, 31.61170695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町諏訪方７９６３" }, "geometry": { "type": "Point", "coordinates": [ 131.013817749999987, 31.64565779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷１９５０" }, "geometry": { "type": "Point", "coordinates": [ 131.047419749999989, 31.64151825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町本町２−１５−２" }, "geometry": { "type": "Point", "coordinates": [ 131.01957042, 31.6574341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町伊仙２０９０−８" }, "geometry": { "type": "Point", "coordinates": [ 128.937053920000011, 27.67352801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町伊仙３６２４" }, "geometry": { "type": "Point", "coordinates": [ 128.927277159999988, 27.68001813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町伊仙８４−４" }, "geometry": { "type": "Point", "coordinates": [ 128.94716752, 27.67248873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町犬田布３７１" }, "geometry": { "type": "Point", "coordinates": [ 128.90733548, 27.71286169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町糸木名字仲間田１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 128.92461301, 27.72535403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡宇検村湯湾１０８６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.298444819999986, 28.27779216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡宇検村湯湾字川尻原４" }, "geometry": { "type": "Point", "coordinates": [ 129.29421029, 28.28025273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町湾５８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.93824128, 28.3215331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町古仁屋字船津" }, "geometry": { "type": "Point", "coordinates": [ 129.312881839999989, 28.14625338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町古仁屋字大湊１２" }, "geometry": { "type": "Point", "coordinates": [ 129.30899731, 28.14753341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町篠川下里５７７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.29458979, 28.22172798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町手安４７０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.297624969999987, 28.15815975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町勝浦１５３９" }, "geometry": { "type": "Point", "coordinates": [ 129.346607799999987, 28.17334546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町瀬相３" }, "geometry": { "type": "Point", "coordinates": [ 129.24463216, 28.12385761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡大和村恩勝大字尾神１−９" }, "geometry": { "type": "Point", "coordinates": [ 129.39797987, 28.3575426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡大和村大棚７６" }, "geometry": { "type": "Point", "coordinates": [ 129.36002742, 28.35660834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡大和村大和浜滝之川１０８" }, "geometry": { "type": "Point", "coordinates": [ 129.39400539, 28.35788582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町屋者ガツマル１０００−４" }, "geometry": { "type": "Point", "coordinates": [ 128.59679014, 27.35334757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町上平川５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 128.601191480000011, 27.36322695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町瀬利覚２０６６" }, "geometry": { "type": "Point", "coordinates": [ 128.57813223, 27.33488825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町瀬利覚長通２０８６−３" }, "geometry": { "type": "Point", "coordinates": [ 128.57924891, 27.33361908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町松原３７９−４" }, "geometry": { "type": "Point", "coordinates": [ 128.895558349999988, 27.8542685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町瀬滝５７８−１" }, "geometry": { "type": "Point", "coordinates": [ 128.90864312, 27.78317553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町浅間大久棚６６０−５" }, "geometry": { "type": "Point", "coordinates": [ 128.891879350000011, 27.83294616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町天城５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 128.895779190000013, 27.81269814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町平土野２８−９" }, "geometry": { "type": "Point", "coordinates": [ 128.89414237, 27.81176922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町花徳２３１３" }, "geometry": { "type": "Point", "coordinates": [ 128.955221709999989, 27.82607754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町花徳７８０−１１" }, "geometry": { "type": "Point", "coordinates": [ 128.96311028, 27.82177926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町花徳万田１９００−１" }, "geometry": { "type": "Point", "coordinates": [ 128.94303864, 27.82800576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津字保証跨１２７−４" }, "geometry": { "type": "Point", "coordinates": [ 129.02083839, 27.73643356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町山１６７６" }, "geometry": { "type": "Point", "coordinates": [ 128.95889793, 27.86701174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町母間９２７７" }, "geometry": { "type": "Point", "coordinates": [ 128.981955840000012, 27.81076797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町麦屋１９０２" }, "geometry": { "type": "Point", "coordinates": [ 128.44004874, 27.03160686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町立長３５２１" }, "geometry": { "type": "Point", "coordinates": [ 128.42981126, 27.03175851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡龍郷町浦２６８" }, "geometry": { "type": "Point", "coordinates": [ 129.588004039999987, 28.41060959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡龍郷町秋名１７００−１" }, "geometry": { "type": "Point", "coordinates": [ 129.557669159999989, 28.44521208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡龍郷町赤尾木２８８" }, "geometry": { "type": "Point", "coordinates": [ 129.625599959999988, 28.41286101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡龍郷町大勝３１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.584203230000014, 28.39132981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡龍郷町中勝字上ゴーリヤ７０９" }, "geometry": { "type": "Point", "coordinates": [ 129.58227065, 28.38239727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町皆川８９１" }, "geometry": { "type": "Point", "coordinates": [ 128.641761480000014, 27.37573486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町喜美留１２８−４" }, "geometry": { "type": "Point", "coordinates": [ 128.66382866, 27.40581184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町国頭１７１０−４" }, "geometry": { "type": "Point", "coordinates": [ 128.70373835, 27.43392433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町国頭字前牧２９８１" }, "geometry": { "type": "Point", "coordinates": [ 128.68569037, 27.42662787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町手々知名１５３" }, "geometry": { "type": "Point", "coordinates": [ 128.66061202, 27.40081122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町和泊５３５−５" }, "geometry": { "type": "Point", "coordinates": [ 128.65587696, 27.39347768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田地頭所６１９" }, "geometry": { "type": "Point", "coordinates": [ 130.32194877, 31.42239306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田武田１５４１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.31310966, 31.40497664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田武田字園田１９２０６" }, "geometry": { "type": "Point", "coordinates": [ 130.31326804, 31.4053161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田本町２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.32316351, 31.41917846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市笠沙町赤生木４３５" }, "geometry": { "type": "Point", "coordinates": [ 130.2037152, 31.39646387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市金峰町大坂箕作３４４１" }, "geometry": { "type": "Point", "coordinates": [ 130.403555110000013, 31.47509025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市坊津町泊８９１９" }, "geometry": { "type": "Point", "coordinates": [ 130.230446379999989, 31.28246085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町御領狸山６８２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46676345, 31.25204503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町上別府川道４６５７" }, "geometry": { "type": "Point", "coordinates": [ 130.45969408, 31.29832094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町別府３０８３" }, "geometry": { "type": "Point", "coordinates": [ 130.43770343, 31.255453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町別府７４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.453867659999986, 31.2544161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町牧之内２９２６" }, "geometry": { "type": "Point", "coordinates": [ 130.49505453, 31.24075055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町牧之内椿山３００３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.4945354, 31.24344878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町清水中尾平９３６５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.45421646, 31.42552285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町両添１０２６" }, "geometry": { "type": "Point", "coordinates": [ 130.403899349999989, 31.39400873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町塩屋字中崎２３９３７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.39348329, 31.28464395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町郡１７６６１" }, "geometry": { "type": "Point", "coordinates": [ 130.42941962, 31.35714116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町西元前畑１２８９７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.39829092, 31.31550845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町南別府２５９１７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.3907207, 31.25661499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町下神殿１０９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.40342034, 31.65412113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町下谷口大門口３１９０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.42005042, 31.61366699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町中原１１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.348816129999989, 31.52199534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町伊作田６６６６" }, "geometry": { "type": "Point", "coordinates": [ 130.330210810000011, 31.62820188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町伊作田字迫下２４２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33660508, 31.65051699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町長里２２６８" }, "geometry": { "type": "Point", "coordinates": [ 130.34874994, 31.65511541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町湯田２８９０" }, "geometry": { "type": "Point", "coordinates": [ 130.331257709999988, 31.67373075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町湯田３２０９" }, "geometry": { "type": "Point", "coordinates": [ 130.33379143, 31.6724194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市日吉町日置３３２３" }, "geometry": { "type": "Point", "coordinates": [ 130.347670560000012, 31.59573332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市岩戸町４７０" }, "geometry": { "type": "Point", "coordinates": [ 130.3077935, 31.2676534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市寿町７" }, "geometry": { "type": "Point", "coordinates": [ 130.2998395, 31.28237659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市中央町３７５" }, "geometry": { "type": "Point", "coordinates": [ 130.27890775, 31.27054126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市東本町１６３" }, "geometry": { "type": "Point", "coordinates": [ 130.30087685, 31.2692725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府１５９８７" }, "geometry": { "type": "Point", "coordinates": [ 130.34541311000001, 31.28706892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府西町４３２番地" }, "geometry": { "type": "Point", "coordinates": [ 130.348071190000013, 31.2722079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市横川町中ノ３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.695884369999987, 31.89586426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町竹子６１３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.665257770000011, 31.85634089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓３３８３" }, "geometry": { "type": "Point", "coordinates": [ 130.68846466, 31.83209972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓字論地９４６" }, "geometry": { "type": "Point", "coordinates": [ 130.708275250000014, 31.79135553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓七次１３４２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.71452331, 31.80033633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分郡田３０６９" }, "geometry": { "type": "Point", "coordinates": [ 130.85226377, 31.77514315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分上井６８" }, "geometry": { "type": "Point", "coordinates": [ 130.77805741, 31.7217053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分中央１−８−３１" }, "geometry": { "type": "Point", "coordinates": [ 130.768869599999988, 31.74308079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分敷根１４１" }, "geometry": { "type": "Point", "coordinates": [ 130.78620002, 31.70619861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分湊１１６６" }, "geometry": { "type": "Point", "coordinates": [ 130.771135679999986, 31.71104388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分野口字榎田３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.7443257, 31.7392221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分野口東６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.75727856, 31.73817825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分野口東６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.75686249, 31.73811444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町見次１３０９" }, "geometry": { "type": "Point", "coordinates": [ 130.74452642, 31.74390933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町見次９３０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.73635001, 31.7383275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町真孝１７７" }, "geometry": { "type": "Point", "coordinates": [ 130.73623523, 31.73063633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町内１３３３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.75140455, 31.75891422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町姫城３−２４０" }, "geometry": { "type": "Point", "coordinates": [ 130.75960767, 31.7730488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山５２９０−３８" }, "geometry": { "type": "Point", "coordinates": [ 130.856267, 31.66811055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町高千穂３２８５−１１３" }, "geometry": { "type": "Point", "coordinates": [ 130.8078092, 31.88439111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町高千穂寺原３０２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78412058, 31.86120941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市霧島田口５７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.840422100000012, 31.83241463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市波留４７１０" }, "geometry": { "type": "Point", "coordinates": [ 130.19610592, 32.00473016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市脇本鳴迫７５７９-２" }, "geometry": { "type": "Point", "coordinates": [ 130.20480551, 32.08003248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町木田２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.65822357, 31.73546531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬鳩浜町１３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.51665759, 28.39880191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬平田町２６-２２" }, "geometry": { "type": "Point", "coordinates": [ 129.495414180000012, 28.35599257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬和光町１８−１８" }, "geometry": { "type": "Point", "coordinates": [ 129.523030479999989, 28.3891591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町新富字島畑７３２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.94967517, 31.34672764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町田代川原６８０" }, "geometry": { "type": "Point", "coordinates": [ 130.833011269999986, 31.1858656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡東串良町池之原９０４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.96627229, 31.39346843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占川北１２７５" }, "geometry": { "type": "Point", "coordinates": [ 130.77310268, 31.21364035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町安房２４４" }, "geometry": { "type": "Point", "coordinates": [ 130.654652739999989, 30.31700046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町納官字伏之前１１２５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.95960213, 30.54565737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町野間６４６０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.95518433, 30.52425419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南種子町中之上" }, "geometry": { "type": "Point", "coordinates": [ 130.90332229, 30.41923688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町旭町９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.45281467, 31.90810317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市隈之城町１８７３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.30837832, 31.79288499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市水引町字外間瀬田３１８２-２" }, "geometry": { "type": "Point", "coordinates": [ 130.2318165, 31.85747157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市西向田町５-２" }, "geometry": { "type": "Point", "coordinates": [ 130.30723235, 31.81244214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市東郷町斧渕４０４" }, "geometry": { "type": "Point", "coordinates": [ 130.335185810000013, 31.86377003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市平佐町１６６３" }, "geometry": { "type": "Point", "coordinates": [ 130.32519007, 31.80998613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市矢倉町４２４９" }, "geometry": { "type": "Point", "coordinates": [ 130.31180692, 31.79024739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志１丁目２７−２１" }, "geometry": { "type": "Point", "coordinates": [ 131.104587079999988, 31.47632264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町泰野３４２０" }, "geometry": { "type": "Point", "coordinates": [ 131.078837099999987, 31.56717425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町尾野見４５-５" }, "geometry": { "type": "Point", "coordinates": [ 131.100069850000011, 31.55039968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野井倉７９５１" }, "geometry": { "type": "Point", "coordinates": [ 131.056581099999988, 31.45122671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川新生町１０３" }, "geometry": { "type": "Point", "coordinates": [ 130.64041684, 31.20283801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市輝北町下百引２９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.87698635000001, 31.53000278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町細山田４９４５" }, "geometry": { "type": "Point", "coordinates": [ 130.91494806, 31.44015748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町下名３１９０" }, "geometry": { "type": "Point", "coordinates": [ 130.89320676, 31.34823981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市岡之原町１２１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.543105700000012, 31.65371993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市加治屋町１２−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.54980719, 31.58780197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜島松浦町１０２-３" }, "geometry": { "type": "Point", "coordinates": [ 130.651568880000013, 31.62349031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市紫原６丁目２８−８" }, "geometry": { "type": "Point", "coordinates": [ 130.52953043, 31.56266209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小山田町４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.49693736, 31.65457704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上谷口町" }, "geometry": { "type": "Point", "coordinates": [ 130.44539850000001, 31.6019577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市川上町３１０１" }, "geometry": { "type": "Point", "coordinates": [ 130.56472346000001, 31.66949348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市草牟田２丁目１１−６" }, "geometry": { "type": "Point", "coordinates": [ 130.53803423, 31.60429317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上７丁目９-１９" }, "geometry": { "type": "Point", "coordinates": [ 130.518298320000014, 31.58671327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東谷山三丁目３２-２０" }, "geometry": { "type": "Point", "coordinates": [ 130.51727788, 31.53045161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄３丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.525027849999987, 31.51724541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市和田町１丁目１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5131155, 31.51215028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町川床３４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.1686981, 32.14783401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町鷹巣４５１８" }, "geometry": { "type": "Point", "coordinates": [ 130.20672543, 32.21478618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市向江町２５-３" }, "geometry": { "type": "Point", "coordinates": [ 130.353650890000011, 32.07673011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市汐見町７２５" }, "geometry": { "type": "Point", "coordinates": [ 130.31358388000001, 32.10330255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市海潟３２３７" }, "geometry": { "type": "Point", "coordinates": [ 130.77666589, 31.51959612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市鴨女町１４１４４−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.99362689, 30.72409243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市東町４９" }, "geometry": { "type": "Point", "coordinates": [ 130.99504970000001, 30.73155249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町北俣" }, "geometry": { "type": "Point", "coordinates": [ 130.92401342, 31.77053707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町中之内笠木４６９２" }, "geometry": { "type": "Point", "coordinates": [ 130.96205573, 31.63311871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷１０９７８" }, "geometry": { "type": "Point", "coordinates": [ 131.12526012, 31.62430965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町湾１３７" }, "geometry": { "type": "Point", "coordinates": [ 129.93690704, 28.32073896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町知名６７６-３" }, "geometry": { "type": "Point", "coordinates": [ 128.569420009999988, 27.33314229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津４９５１−２" }, "geometry": { "type": "Point", "coordinates": [ 129.016602870000014, 27.71586196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町内城４４９" }, "geometry": { "type": "Point", "coordinates": [ 128.6044063, 27.38261196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町和泊１２４５−６" }, "geometry": { "type": "Point", "coordinates": [ 128.65687123, 27.39405104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田小湊７８０２" }, "geometry": { "type": "Point", "coordinates": [ 130.26445666, 31.41623879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市笠沙町片浦２３２０" }, "geometry": { "type": "Point", "coordinates": [ 130.18629816, 31.40692904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市大浦町７２６３" }, "geometry": { "type": "Point", "coordinates": [ 130.22423626, 31.38149683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市坊津町泊５１３４１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.24864431, 31.28975077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市平山字堂免３３０１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.39293661, 31.39016594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市別府３６０" }, "geometry": { "type": "Point", "coordinates": [ 130.44564868, 31.25527317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市牧之内５４７３-３" }, "geometry": { "type": "Point", "coordinates": [ 130.49044009, 31.2537461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町中之里１４８４-２" }, "geometry": { "type": "Point", "coordinates": [ 130.351330100000013, 31.50657552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町伊作田２１１４" }, "geometry": { "type": "Point", "coordinates": [ 130.32377, 31.65174125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市折口町７０" }, "geometry": { "type": "Point", "coordinates": [ 130.29595043, 31.26844182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町崎森西原２７２０-３" }, "geometry": { "type": "Point", "coordinates": [ 130.70217456, 31.77795909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓" }, "geometry": { "type": "Point", "coordinates": [ 130.718356840000013, 31.79470093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町住吉６３８" }, "geometry": { "type": "Point", "coordinates": [ 130.744346799999988, 31.72197003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町西光寺" }, "geometry": { "type": "Point", "coordinates": [ 130.75935209, 31.7605467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市東塩田町233" }, "geometry": { "type": "Point", "coordinates": [ 130.27324177, 31.72461936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市西目下島ノ元２３９４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20345598, 31.98162427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市折口４３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.225052119999987, 32.06075112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡姶良町増田字西供田４５３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.60196145, 31.75623175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡姶良町鍋倉１４８８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.62699951, 31.74171457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡加治木町反土２９１２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.65446404, 31.74336032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡蒲生町北２１００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.56284466, 31.76760571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町中津川589" }, "geometry": { "type": "Point", "coordinates": [ 130.744210360000011, 32.01406507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町米永宮ノ脇466" }, "geometry": { "type": "Point", "coordinates": [ 130.716295769999988, 31.94906348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈重留1067-1" }, "geometry": { "type": "Point", "coordinates": [ 130.634186089999986, 32.03438887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県加世田市唐仁原６０５１" }, "geometry": { "type": "Point", "coordinates": [ 130.293034799999987, 31.4255941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町新富746-2" }, "geometry": { "type": "Point", "coordinates": [ 130.95305094, 31.34631859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町南方2670-4" }, "geometry": { "type": "Point", "coordinates": [ 131.07293443, 31.2814642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町神ノ川769-ｲ" }, "geometry": { "type": "Point", "coordinates": [ 130.79150297000001, 31.26838238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町田代麓字原田2999-2" }, "geometry": { "type": "Point", "coordinates": [ 130.85141954, 31.19892437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡東串良町新川西１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.97902743, 31.3792479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占川北1289" }, "geometry": { "type": "Point", "coordinates": [ 130.770679730000012, 31.21454592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町佐多伊座敷4089-9" }, "geometry": { "type": "Point", "coordinates": [ 130.693580059999988, 31.09523781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡上屋久町宮之浦2385-1" }, "geometry": { "type": "Point", "coordinates": [ 130.57217663, 30.41935946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町坂井３３９４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.93836016, 30.47745229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町野間４２３０" }, "geometry": { "type": "Point", "coordinates": [ 130.96007244, 30.5410853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南中種子町茎永前６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.941246650000011, 30.39087525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡南中種子町中之上２５２１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.90165313, 30.41797193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町永野字永牟田1022-1" }, "geometry": { "type": "Point", "coordinates": [ 130.583224949999988, 31.92471952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町求名向川3655" }, "geometry": { "type": "Point", "coordinates": [ 130.5340476, 31.94131711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町虎居745" }, "geometry": { "type": "Point", "coordinates": [ 130.454392500000012, 31.91179216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町山崎1013-2" }, "geometry": { "type": "Point", "coordinates": [ 130.43314525, 31.86337033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町中津川1978" }, "geometry": { "type": "Point", "coordinates": [ 130.541384420000014, 31.90518345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町田原190-1" }, "geometry": { "type": "Point", "coordinates": [ 130.4845733, 31.91918557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町湯田字上原2159-2" }, "geometry": { "type": "Point", "coordinates": [ 130.48352005000001, 31.948718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町下手15-1" }, "geometry": { "type": "Point", "coordinates": [ 130.49418648, 31.87105686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町黒木84" }, "geometry": { "type": "Point", "coordinates": [ 130.52623348, 31.88602281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町藺牟田7034" }, "geometry": { "type": "Point", "coordinates": [ 130.49374255, 31.82462815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町浦之名7156" }, "geometry": { "type": "Point", "coordinates": [ 130.443007279999989, 31.79448289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志773-2" }, "geometry": { "type": "Point", "coordinates": [ 131.09137066, 31.49659451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町志布志若浜3294-3" }, "geometry": { "type": "Point", "coordinates": [ 131.093679400000013, 31.46644955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町新橋288" }, "geometry": { "type": "Point", "coordinates": [ 131.04264827, 31.57694829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野神中ノ丸3605-1" }, "geometry": { "type": "Point", "coordinates": [ 130.99893781, 31.49508068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞十町130-5" }, "geometry": { "type": "Point", "coordinates": [ 130.54131981, 31.20463712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞仙田2367-1" }, "geometry": { "type": "Point", "coordinates": [ 130.54738773, 31.21405449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川成川3821-1" }, "geometry": { "type": "Point", "coordinates": [ 130.60768868, 31.20343922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市池田３８８２" }, "geometry": { "type": "Point", "coordinates": [ 130.56212969, 31.26302807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市下堀町９６７５" }, "geometry": { "type": "Point", "coordinates": [ 130.837051339999988, 31.35230954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市輝北町市成1109-1" }, "geometry": { "type": "Point", "coordinates": [ 130.85571299, 31.5903253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市輝北町上百引1872-1" }, "geometry": { "type": "Point", "coordinates": [ 130.87776722000001, 31.55257278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市古里町１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78189511, 31.39761661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町上名255-1" }, "geometry": { "type": "Point", "coordinates": [ 130.89670249, 31.32292675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町麓川上162-1" }, "geometry": { "type": "Point", "coordinates": [ 130.89703936, 31.33854544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市白崎町１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.85520888, 31.37814846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷町６６３４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.52441295, 31.62219349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市易居１２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.56165366, 31.59701439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市鴨池２−２０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.55274193, 31.56256805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入町喜入字田中7042" }, "geometry": { "type": "Point", "coordinates": [ 130.541035670000014, 31.37257727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市郡山町718" }, "geometry": { "type": "Point", "coordinates": [ 130.47527064, 31.67317294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市犬迫町５８５３" }, "geometry": { "type": "Point", "coordinates": [ 130.49745157000001, 31.63008236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜ヶ丘４−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.515505710000014, 31.55025025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜島横山町鶴崎1722-1" }, "geometry": { "type": "Point", "coordinates": [ 130.597420050000011, 31.59087169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小山田町６６４５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.48647226, 31.66210721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中山町１５５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.498066419999986, 31.54234129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄１−１０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.52390402, 31.52115564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市本名町1221" }, "geometry": { "type": "Point", "coordinates": [ 130.55181049, 31.68847445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町指江566-1" }, "geometry": { "type": "Point", "coordinates": [ 130.118009480000012, 32.15513479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市下大川内１３９４" }, "geometry": { "type": "Point", "coordinates": [ 130.40768817, 32.06766966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町柴引町口28-1" }, "geometry": { "type": "Point", "coordinates": [ 130.30153676, 32.06190306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市中央町８３２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.351708839999986, 32.08092238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市明神町１８９３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.330550280000011, 32.11182923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市野田町下名字小渕5256-1" }, "geometry": { "type": "Point", "coordinates": [ 130.263216269999987, 32.06309718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市新城３４６５" }, "geometry": { "type": "Point", "coordinates": [ 130.7456206, 31.43729336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西之表１５２１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.98717267, 30.72208621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西之表７３８２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.999673, 30.73679278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市西之表字石堂３６８３−１" }, "geometry": { "type": "Point", "coordinates": [ 131.032698149999987, 30.72503402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川内市若松町９３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.30053307, 31.81417255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町仮宿１１７２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.004086699999988, 31.42423281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町野方５９４６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.939872329999986, 31.50761523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣657" }, "geometry": { "type": "Point", "coordinates": [ 130.98438711, 31.72123755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町月野8694" }, "geometry": { "type": "Point", "coordinates": [ 130.96112484, 31.56292923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町岩崎954-1" }, "geometry": { "type": "Point", "coordinates": [ 130.99682329, 31.59541657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町諏訪方3302-3" }, "geometry": { "type": "Point", "coordinates": [ 130.98196414, 31.66979239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町諏訪方7735" }, "geometry": { "type": "Point", "coordinates": [ 131.00729099, 31.64015808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷宮迫7536" }, "geometry": { "type": "Point", "coordinates": [ 131.0770766, 31.61808226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大口市大田町字稲荷ノ下１１７７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.60168737, 32.07653573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大口市堂崎５２７−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.59682824, 32.0329879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町知名屋子母木屋１９５９−２" }, "geometry": { "type": "Point", "coordinates": [ 128.561497409999987, 27.33362216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津字新里新町７６０５" }, "geometry": { "type": "Point", "coordinates": [ 129.021434309999989, 27.73400842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町茶花１８９−３" }, "geometry": { "type": "Point", "coordinates": [ 128.416154510000013, 27.04623922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町和泊５００−１" }, "geometry": { "type": "Point", "coordinates": [ 128.652873699999986, 27.39401408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田内山田25" }, "geometry": { "type": "Point", "coordinates": [ 130.31430114, 31.39881677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市金峰町宮崎2961" }, "geometry": { "type": "Point", "coordinates": [ 130.33525896, 31.43851803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市金峰町尾下180-1" }, "geometry": { "type": "Point", "coordinates": [ 130.34567274, 31.46187854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市大浦町1976" }, "geometry": { "type": "Point", "coordinates": [ 130.22614529, 31.37704162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市穎娃町上別府4579" }, "geometry": { "type": "Point", "coordinates": [ 130.46134873, 31.29748588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市穎娃町別府2790-3" }, "geometry": { "type": "Point", "coordinates": [ 130.44202374, 31.25653838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市穎娃町別府9500" }, "geometry": { "type": "Point", "coordinates": [ 130.419119560000013, 31.28407514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市穎娃町牧之内2092-1" }, "geometry": { "type": "Point", "coordinates": [ 130.490563900000012, 31.24173919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町中山田1108-1" }, "geometry": { "type": "Point", "coordinates": [ 130.355885269999987, 31.37001815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町平山字鷹取6711-1" }, "geometry": { "type": "Point", "coordinates": [ 130.39972744, 31.39069307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町永里5346" }, "geometry": { "type": "Point", "coordinates": [ 130.445538129999989, 31.34517759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町郡字二本松17249-1" }, "geometry": { "type": "Point", "coordinates": [ 130.43013389, 31.36045815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町西元10756-2" }, "geometry": { "type": "Point", "coordinates": [ 130.4168603, 31.33314298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町下谷口4998-1" }, "geometry": { "type": "Point", "coordinates": [ 130.3986956, 31.60307514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町中原2763-1" }, "geometry": { "type": "Point", "coordinates": [ 130.3450216, 31.50944217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市日吉町日置3430" }, "geometry": { "type": "Point", "coordinates": [ 130.34692278, 31.59070568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市西鹿篭４１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.282206, 31.27116171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府１２４５５−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.35492226, 31.29945366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府１３９２９" }, "geometry": { "type": "Point", "coordinates": [ 130.344611930000013, 31.27567493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市枕崎１０５２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.29246229, 31.28410148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市横川町上ノ５２２３" }, "geometry": { "type": "Point", "coordinates": [ 130.66376609, 31.89397883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分中央4-13-30" }, "geometry": { "type": "Point", "coordinates": [ 130.77410935, 31.73205048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町西光寺496-3" }, "geometry": { "type": "Point", "coordinates": [ 130.75110057, 31.77537605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山4598-2" }, "geometry": { "type": "Point", "coordinates": [ 130.84339227000001, 31.67284734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町宿窪田2058-2" }, "geometry": { "type": "Point", "coordinates": [ 130.75256604, 31.85350204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市霧島田口507-1" }, "geometry": { "type": "Point", "coordinates": [ 130.839261380000011, 31.82938438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡頴娃町牧之内９２８２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.49641265, 31.27292283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市西薩町17-10" }, "geometry": { "type": "Point", "coordinates": [ 130.252546419999987, 31.72838433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町幸田1279-3" }, "geometry": { "type": "Point", "coordinates": [ 130.674533239999988, 31.94009298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町木場249-1" }, "geometry": { "type": "Point", "coordinates": [ 130.71917905, 31.95078189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町木場渕小山1135-1" }, "geometry": { "type": "Point", "coordinates": [ 130.72707182, 31.95214415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町朝日町135" }, "geometry": { "type": "Point", "coordinates": [ 130.66734915, 31.73555745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町木田字草水2254-1" }, "geometry": { "type": "Point", "coordinates": [ 130.63859763, 31.73803076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市平松字森山宮田2172" }, "geometry": { "type": "Point", "coordinates": [ 130.60944687, 31.72519835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市平松字中島4888-1" }, "geometry": { "type": "Point", "coordinates": [ 130.6025641, 31.71034465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口大田高柳牟田916-1" }, "geometry": { "type": "Point", "coordinates": [ 130.60061636, 32.07957755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈南浦字菅牟田27" }, "geometry": { "type": "Point", "coordinates": [ 130.63497777, 31.98803196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬朝日町13-4" }, "geometry": { "type": "Point", "coordinates": [ 129.52665919, 28.39708437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町城元524" }, "geometry": { "type": "Point", "coordinates": [ 130.78965259, 31.24729924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町永野937-2" }, "geometry": { "type": "Point", "coordinates": [ 130.58890243, 31.92531546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町船木江戸掘81" }, "geometry": { "type": "Point", "coordinates": [ 130.4534102, 31.89345063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町鶴田173-3" }, "geometry": { "type": "Point", "coordinates": [ 130.49821555, 31.9473209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町湯田655-2" }, "geometry": { "type": "Point", "coordinates": [ 130.46704884, 31.93741248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市永利町687-1" }, "geometry": { "type": "Point", "coordinates": [ 130.331869540000014, 31.80971217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町副田2185" }, "geometry": { "type": "Point", "coordinates": [ 130.43076199, 31.83366061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町市比野4534" }, "geometry": { "type": "Point", "coordinates": [ 130.40687799, 31.789321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町塔之原字中板7079-1" }, "geometry": { "type": "Point", "coordinates": [ 130.401808179999989, 31.83137804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞十町2492" }, "geometry": { "type": "Point", "coordinates": [ 130.532916910000012, 31.2052038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞十町4806" }, "geometry": { "type": "Point", "coordinates": [ 130.51884913, 31.20319524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市新西方字祝迫3068" }, "geometry": { "type": "Point", "coordinates": [ 130.5936199, 31.27341126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市西方字島廻1970-2" }, "geometry": { "type": "Point", "coordinates": [ 130.63111716, 31.2588858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市池田3944" }, "geometry": { "type": "Point", "coordinates": [ 130.564245199999988, 31.26499619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市池田字馬場迫4780" }, "geometry": { "type": "Point", "coordinates": [ 130.553638729999989, 31.25710077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町細山田5172-6" }, "geometry": { "type": "Point", "coordinates": [ 130.91336687, 31.43987304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入中名町2933" }, "geometry": { "type": "Point", "coordinates": [ 130.53806341, 31.38553845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町9639-5" }, "geometry": { "type": "Point", "coordinates": [ 130.57287606, 31.61446359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宮之浦町字前迫484-8" }, "geometry": { "type": "Point", "coordinates": [ 130.561958729999986, 31.68683232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新屋敷町26-6" }, "geometry": { "type": "Point", "coordinates": [ 130.55594634, 31.58440428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西伊敷3丁目34-14" }, "geometry": { "type": "Point", "coordinates": [ 130.52872409, 31.63809346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市平之町2-30" }, "geometry": { "type": "Point", "coordinates": [ 130.54458619, 31.59159727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市明和1丁目25-10" }, "geometry": { "type": "Point", "coordinates": [ 130.5225362, 31.60260883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡東町鷹巣844-4" }, "geometry": { "type": "Point", "coordinates": [ 130.17797235, 32.19152248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町大久保169-1" }, "geometry": { "type": "Point", "coordinates": [ 130.304445140000013, 32.0608797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市明神町2293-1" }, "geometry": { "type": "Point", "coordinates": [ 130.3340816, 32.11376348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町大谷1626-イ" }, "geometry": { "type": "Point", "coordinates": [ 130.915613, 31.63510592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町大字伊仙3326" }, "geometry": { "type": "Point", "coordinates": [ 128.930755440000013, 27.67709154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町大字喜念字フンタウ1553-1" }, "geometry": { "type": "Point", "coordinates": [ 128.99078949, 27.68296424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町大字伊実久1366" }, "geometry": { "type": "Point", "coordinates": [ 129.9925542, 28.34716359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町大字天城字名須455-2" }, "geometry": { "type": "Point", "coordinates": [ 128.8964214, 27.81513731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津7174" }, "geometry": { "type": "Point", "coordinates": [ 129.0190327, 27.72528443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津7420、7421" }, "geometry": { "type": "Point", "coordinates": [ 129.02042122, 27.73053396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田本町39-9" }, "geometry": { "type": "Point", "coordinates": [ 130.3208051, 31.41655542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町徳重429" }, "geometry": { "type": "Point", "coordinates": [ 130.396149759999986, 31.62761978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町妙円寺1丁目119-1" }, "geometry": { "type": "Point", "coordinates": [ 130.39314642, 31.64712518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町湯之浦1799" }, "geometry": { "type": "Point", "coordinates": [ 130.35593076, 31.50765862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町与倉3162" }, "geometry": { "type": "Point", "coordinates": [ 130.41466437, 31.52766628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市岩崎町488" }, "geometry": { "type": "Point", "coordinates": [ 130.2889816, 31.2838147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市横川町中ノ199" }, "geometry": { "type": "Point", "coordinates": [ 130.70542142, 31.9022927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町有川866" }, "geometry": { "type": "Point", "coordinates": [ 130.68119919, 31.84317822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓2166" }, "geometry": { "type": "Point", "coordinates": [ 130.70097278, 31.81003303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓286-2" }, "geometry": { "type": "Point", "coordinates": [ 130.71945082, 31.7938585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分新町字早田尻894-1" }, "geometry": { "type": "Point", "coordinates": [ 130.77610431, 31.7564876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分川内字里馬渡159-17" }, "geometry": { "type": "Point", "coordinates": [ 130.78991407, 31.72310963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分福島3丁目12-28" }, "geometry": { "type": "Point", "coordinates": [ 130.76143973, 31.72946032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町見次字川尻820-5" }, "geometry": { "type": "Point", "coordinates": [ 130.73523076, 31.7336986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町小浜羽代91-1" }, "geometry": { "type": "Point", "coordinates": [ 130.69373457, 31.73385325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町東郷122-3" }, "geometry": { "type": "Point", "coordinates": [ 130.75221155, 31.76677104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町高千穂3865" }, "geometry": { "type": "Point", "coordinates": [ 130.81662609, 31.8861434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町宿窪田2280-11" }, "geometry": { "type": "Point", "coordinates": [ 130.75833479, 31.85913143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市牧園町宿窪田字七俣942-15" }, "geometry": { "type": "Point", "coordinates": [ 130.73969735, 31.86343616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市霧島大窪298" }, "geometry": { "type": "Point", "coordinates": [ 130.8280023, 31.81725566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町帖6896-2" }, "geometry": { "type": "Point", "coordinates": [ 131.11634722, 31.47917019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市浦和町６３" }, "geometry": { "type": "Point", "coordinates": [ 130.26408465, 31.71508584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市大里２３６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.32017534, 31.67757136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市湊町３１５４" }, "geometry": { "type": "Point", "coordinates": [ 130.29254813, 31.69189035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市大川字的場" }, "geometry": { "type": "Point", "coordinates": [ 130.218176480000011, 31.94992174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市鶴見町１１" }, "geometry": { "type": "Point", "coordinates": [ 130.19758331, 32.01319815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市脇本６８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.18545149, 32.08966263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡加治木町永原２５３８" }, "geometry": { "type": "Point", "coordinates": [ 130.651299419999987, 31.7649292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡加治木町錦江町３４" }, "geometry": { "type": "Point", "coordinates": [ 130.66105166, 31.73645508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町里字上袋７５０" }, "geometry": { "type": "Point", "coordinates": [ 129.684262530000012, 28.4505553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬塩浜町２２２７−２８" }, "geometry": { "type": "Point", "coordinates": [ 129.49387488, 28.38556671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬港町７−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.495490170000011, 28.37962226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬鳩浜町５８" }, "geometry": { "type": "Point", "coordinates": [ 129.51907404, 28.39955732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬浜里町４４−１" }, "geometry": { "type": "Point", "coordinates": [ 129.47170447, 28.39882649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町前田３８６８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.93764293000001, 31.34675895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町城元池田５３６１" }, "geometry": { "type": "Point", "coordinates": [ 130.87027078, 31.24351119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡祁答院町藺牟田２１８" }, "geometry": { "type": "Point", "coordinates": [ 130.48998178, 31.82753546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市久見崎町６５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20480612, 31.83920341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町下手" }, "geometry": { "type": "Point", "coordinates": [ 130.49179866, 31.86633166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市高城町平田１６５０" }, "geometry": { "type": "Point", "coordinates": [ 130.289343339999988, 31.84183285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市上川内町公佛４３２２" }, "geometry": { "type": "Point", "coordinates": [ 130.287732260000013, 31.83582743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町帖６４８６" }, "geometry": { "type": "Point", "coordinates": [ 131.106289620000013, 31.48022323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞川尻４９８２" }, "geometry": { "type": "Point", "coordinates": [ 130.56256541, 31.18243161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川岡児ケ水字大和田１４７１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.58267331, 31.1688234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川福元６７１３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.637390219999986, 31.20624773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市西方字宗田２０５９" }, "geometry": { "type": "Point", "coordinates": [ 130.62837525, 31.25826903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町上小原２６１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.91724871, 31.39384756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市札元２−３８２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.87294571000001, 31.39914206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市寿４−６−５５" }, "geometry": { "type": "Point", "coordinates": [ 130.876141319999988, 31.38767706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市朝日町８−７" }, "geometry": { "type": "Point", "coordinates": [ 130.85437224, 31.38151155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市野里町３８７４" }, "geometry": { "type": "Point", "coordinates": [ 130.82333141, 31.36249953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島郡桜島町赤水１０９３" }, "geometry": { "type": "Point", "coordinates": [ 130.61235406, 31.57443222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷町１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52644268, 31.62174989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市卸本町５−３３" }, "geometry": { "type": "Point", "coordinates": [ 130.52401537, 31.51697472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下伊敷町１６９３−６" }, "geometry": { "type": "Point", "coordinates": [ 130.55391142, 31.62508391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下福元町６９８７" }, "geometry": { "type": "Point", "coordinates": [ 130.505025859999989, 31.48836073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市鴨池新町６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.556654079999987, 31.55842685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宮之浦町１４９５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.56291801, 31.67780586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市山田町字新田３３９１" }, "geometry": { "type": "Point", "coordinates": [ 130.49785165, 31.56951077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市春山町１２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.460222460000011, 31.57976186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小松原１−２３−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.53201478, 31.53714141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市小川町２４−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.562650710000014, 31.59910588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上之園町３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54442552, 31.57840145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新栄町１５−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.548411820000013, 31.55182706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新栄町２４１１−３１" }, "geometry": { "type": "Point", "coordinates": [ 130.55234884, 31.55205967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西別府町３０１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.501465739999986, 31.58983996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市石谷町２０６０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.46893616, 31.59593345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市川上町３４５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.55259786, 31.64987086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市川上町５４９−７" }, "geometry": { "type": "Point", "coordinates": [ 130.56837017, 31.65319394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中央町８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.54621413000001, 31.58406477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中山町２２３８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5065514, 31.54104476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市中山町６０７１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.49001777, 31.55322124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市天保山町１０−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.559879380000012, 31.57176448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上８−５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5122831, 31.58718068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町３−９" }, "geometry": { "type": "Point", "coordinates": [ 130.53098932, 31.52691315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町字東開３−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.530836420000014, 31.53120113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄４−３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.52336205, 31.5135615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄６−２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.5159582, 31.49890405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南林寺町５−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.560190299999988, 31.58466841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市平川町字南田２９１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51450272, 31.45435537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市平之町７−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.546988739999989, 31.59101415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市名山町１０−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.560101120000013, 31.5944007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市柳町６−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.563142660000011, 31.60400034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市和田町１１４７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.51316078, 31.51074607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町平尾７６８" }, "geometry": { "type": "Point", "coordinates": [ 130.142573989999988, 32.18910274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市米ノ津町３９−４７" }, "geometry": { "type": "Point", "coordinates": [ 130.34108375, 32.12244054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市牛根麓２８２７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.778882290000013, 31.57561923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市本城４０４９" }, "geometry": { "type": "Point", "coordinates": [ 130.69649826, 31.48506568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川辺郡川辺町平山３４２０" }, "geometry": { "type": "Point", "coordinates": [ 130.39124469, 31.39003932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣５０８５−４" }, "geometry": { "type": "Point", "coordinates": [ 130.943767689999987, 31.70150426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町岩川６９６８" }, "geometry": { "type": "Point", "coordinates": [ 131.005421149999989, 31.58385881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町深川３６０６" }, "geometry": { "type": "Point", "coordinates": [ 131.00747532, 31.69841613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町諏訪方７３２５" }, "geometry": { "type": "Point", "coordinates": [ 131.00639973, 31.65894271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷４５２０" }, "geometry": { "type": "Point", "coordinates": [ 131.06290267, 31.62232298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町犬田布４５９" }, "geometry": { "type": "Point", "coordinates": [ 128.90960386, 27.71469151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町面縄" }, "geometry": { "type": "Point", "coordinates": [ 128.96902875, 27.67331827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町赤連茅田ノ下２４２８" }, "geometry": { "type": "Point", "coordinates": [ 129.94871398, 28.32439862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町赤連字赤本２６０" }, "geometry": { "type": "Point", "coordinates": [ 129.944624479999987, 28.32230265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町阿木名１９１８" }, "geometry": { "type": "Point", "coordinates": [ 129.33549414, 28.16971786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町古仁屋松江２２０" }, "geometry": { "type": "Point", "coordinates": [ 129.31226633, 28.14576948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町生間大下原５０" }, "geometry": { "type": "Point", "coordinates": [ 129.32021033, 28.10091541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡知名町知名３７９−２" }, "geometry": { "type": "Point", "coordinates": [ 128.573132820000012, 27.33298095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町岡前" }, "geometry": { "type": "Point", "coordinates": [ 128.89785126000001, 27.84265994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町天城２５５０" }, "geometry": { "type": "Point", "coordinates": [ 128.89819547, 27.80821394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町花徳１６５２" }, "geometry": { "type": "Point", "coordinates": [ 128.95875443, 27.82435519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津" }, "geometry": { "type": "Point", "coordinates": [ 128.998225960000013, 27.7358283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津５５５−２" }, "geometry": { "type": "Point", "coordinates": [ 129.02161516000001, 27.73893189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀津字共木屋" }, "geometry": { "type": "Point", "coordinates": [ 129.002922969999986, 27.72368379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町西区麦屋１８４５−２" }, "geometry": { "type": "Point", "coordinates": [ 128.43900844, 27.03129126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町玉城与舎１７０２−３" }, "geometry": { "type": "Point", "coordinates": [ 128.64608956, 27.38092817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田本町４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.3232878, 31.42114918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市笠沙町片浦１１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.18858941, 31.40829691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市金峰町宮崎４３４５" }, "geometry": { "type": "Point", "coordinates": [ 130.33227495, 31.43471141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市坊津町泊１６１−９" }, "geometry": { "type": "Point", "coordinates": [ 130.22848632, 31.27806816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置郡日吉町日置３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.34060954, 31.58916946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町猪鹿倉７１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.40158831, 31.62824858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町有川２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.68180105, 31.8320064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町麓２６８４−４" }, "geometry": { "type": "Point", "coordinates": [ 130.70308275, 31.81628301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分中央４−１５１９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.77490348, 31.73053001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町内５１６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.74841686, 31.75102192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山４７０８" }, "geometry": { "type": "Point", "coordinates": [ 130.84778595, 31.6708648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡頴娃町郡１８３１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.50405878, 31.23712236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡頴娃町郡９４８０" }, "geometry": { "type": "Point", "coordinates": [ 130.50433197000001, 31.2303253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡頴娃町別府７０９９" }, "geometry": { "type": "Point", "coordinates": [ 130.41168492, 31.25655898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡喜入町瀬々串字小濱２９７番地" }, "geometry": { "type": "Point", "coordinates": [ 130.52269462000001, 31.42651026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市鶴川内５１００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.240955039999989, 32.03324687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市脇本７８６０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.199925369999988, 32.079737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町川西１６２１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.746260619999987, 32.00651557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市上久徳２８２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.58098519, 31.75785573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市脇元１５６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.61238436, 31.70403651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈前目１８３１" }, "geometry": { "type": "Point", "coordinates": [ 130.64017801, 32.01472826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬長浜町８６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.494467750000013, 28.38962601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬鳩浜町５２" }, "geometry": { "type": "Point", "coordinates": [ 129.517606, 28.39974202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町根占川北９９" }, "geometry": { "type": "Point", "coordinates": [ 130.76563608, 31.21883728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町尾之間１５１４" }, "geometry": { "type": "Point", "coordinates": [ 130.55346072, 30.23887128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市港町３６０−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.21894207, 31.84214804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市上川内町４０３２" }, "geometry": { "type": "Point", "coordinates": [ 130.28733227, 31.83670989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町安楽１７８" }, "geometry": { "type": "Point", "coordinates": [ 131.08320185, 31.46700778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市志布志町安楽９８６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.089236230000012, 31.48990092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野井倉８２８２" }, "geometry": { "type": "Point", "coordinates": [ 131.067801339999988, 31.45918093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川浜児ケ水３７９" }, "geometry": { "type": "Point", "coordinates": [ 130.596635459999987, 31.18362993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市東方字牛篭１０５２７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.63995997, 31.26276804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市郷之原町１２０１５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.823956869999989, 31.39275033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市古江町７１４８" }, "geometry": { "type": "Point", "coordinates": [ 130.76770579, 31.40608557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町上名７６５４" }, "geometry": { "type": "Point", "coordinates": [ 130.89911933, 31.3271344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下田町７２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.562165740000012, 31.64720395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入生見町２８７０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.58284975, 31.30470377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町１５４９" }, "geometry": { "type": "Point", "coordinates": [ 130.57011042, 31.62748355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜ケ丘８−２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52632372, 31.54609204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市紫原４−１４−６" }, "geometry": { "type": "Point", "coordinates": [ 130.5340072, 31.55650957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市星ケ峯２−６７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.49390858000001, 31.57434815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市川上町４００３" }, "geometry": { "type": "Point", "coordinates": [ 130.54990369, 31.65745879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.53149012, 31.52612356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市南栄５−１０−４４" }, "geometry": { "type": "Point", "coordinates": [ 130.517741980000011, 31.51066187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市武２−５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53811048, 31.58334144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町山門野４６８５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.164646909999988, 32.0958132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町鷹巣２２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.17601025, 32.1992595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市高尾野町下水流２１７０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.29594459, 32.09341376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市野田町下名１６７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.27365609, 32.06024545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市中俣１９７" }, "geometry": { "type": "Point", "coordinates": [ 130.69917093, 31.52252394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町下財部６６２１" }, "geometry": { "type": "Point", "coordinates": [ 130.924269040000013, 31.76892056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣５７８２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.94173831, 31.6842435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町岩川５０３０" }, "geometry": { "type": "Point", "coordinates": [ 130.98444133000001, 31.59895188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町深川８３０４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.98633928000001, 31.69479044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町那間３４２５−２" }, "geometry": { "type": "Point", "coordinates": [ 128.433752270000014, 27.05217956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町立長１３−３" }, "geometry": { "type": "Point", "coordinates": [ 128.41320346, 27.04482375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市加世田本町１５−６" }, "geometry": { "type": "Point", "coordinates": [ 130.32321183, 31.41966997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町下山田２５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.36183521000001, 31.41105885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町塩屋１４９２６−６" }, "geometry": { "type": "Point", "coordinates": [ 130.39844611, 31.28981017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市桜木町１" }, "geometry": { "type": "Point", "coordinates": [ 130.293920609999986, 31.27268398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分中央４−２３−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.77003437, 31.73456602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市武岡１−１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52555446, 31.58657484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡姶良町西餅田３１２８−６８" }, "geometry": { "type": "Point", "coordinates": [ 130.61925084, 31.71737845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡姶良町西餅田字上長迫３２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62156527, 31.72178756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市永利町７６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.335814699999986, 31.80900516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下荒田３−１−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.553269269999987, 31.57329059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市堀江町１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.56157622, 31.58775978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市牟礼岡３−４２" }, "geometry": { "type": "Point", "coordinates": [ 130.57055506, 31.63780872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分野口東９−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.75288351, 31.73775879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町真孝１３００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.72571947, 31.72721587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町木田字岩原159番2" }, "geometry": { "type": "Point", "coordinates": [ 130.65673415, 31.73682758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市中郷4丁目141" }, "geometry": { "type": "Point", "coordinates": [ 130.31396190000001, 31.83786287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市光山二丁目3番51号" }, "geometry": { "type": "Point", "coordinates": [ 130.50545863, 31.48985228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市川上町2044-1" }, "geometry": { "type": "Point", "coordinates": [ 130.5682995, 31.66192795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上町5577-1" }, "geometry": { "type": "Point", "coordinates": [ 130.52102987, 31.55888691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市田神3491-1" }, "geometry": { "type": "Point", "coordinates": [ 130.70072862, 31.49605957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分向花145-1" }, "geometry": { "type": "Point", "coordinates": [ 130.77749454, 31.76078247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分山下町1642-3" }, "geometry": { "type": "Point", "coordinates": [ 130.77647148, 31.72660869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市羽島２７１１" }, "geometry": { "type": "Point", "coordinates": [ 130.21480408, 31.75536191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市曙町１２０" }, "geometry": { "type": "Point", "coordinates": [ 130.2729056, 31.72019956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市大里３２３３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.30437734, 31.67149804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡湧水町木場２４５" }, "geometry": { "type": "Point", "coordinates": [ 130.71917464, 31.95170162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町南方２３−６" }, "geometry": { "type": "Point", "coordinates": [ 131.077212370000012, 31.27312945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡佐多町辺塚５４７" }, "geometry": { "type": "Point", "coordinates": [ 130.82873607, 31.09442292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町佐多郡１９５７" }, "geometry": { "type": "Point", "coordinates": [ 130.734754970000012, 31.06632708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県串木野市羽島５２３１" }, "geometry": { "type": "Point", "coordinates": [ 130.202718839999989, 31.75838226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県串木野市塩屋町５７" }, "geometry": { "type": "Point", "coordinates": [ 130.270546380000013, 31.7104058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町浦之名７６０６" }, "geometry": { "type": "Point", "coordinates": [ 130.434962469999988, 31.80188739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町浦之名８３２" }, "geometry": { "type": "Point", "coordinates": [ 130.42879640000001, 31.79830595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市入来町副田５７６２" }, "geometry": { "type": "Point", "coordinates": [ 130.43161179, 31.82512285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町市比野２４３４" }, "geometry": { "type": "Point", "coordinates": [ 130.40548071, 31.79433305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川小川３７２" }, "geometry": { "type": "Point", "coordinates": [ 130.60009369, 31.2023016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川福元５８２７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.6350139, 31.20202904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市笠之原町１３２７" }, "geometry": { "type": "Point", "coordinates": [ 130.89460924, 31.38887809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町細山田４８３２" }, "geometry": { "type": "Point", "coordinates": [ 130.922888590000014, 31.44421002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市西原４−９−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.8292817, 31.38225756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市川西町３９２２" }, "geometry": { "type": "Point", "coordinates": [ 130.87600358, 31.35903628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市野里町３４３７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.81847052, 31.36090564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿２−２８−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.53797182, 31.53858458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿７−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53003414, 31.55165553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下伊敷町５４２番地" }, "geometry": { "type": "Point", "coordinates": [ 130.53144923, 31.61362413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町２１７７" }, "geometry": { "type": "Point", "coordinates": [ 130.570579, 31.63769096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市荒田１−８−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.55076928, 31.57690206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市新町１番１４号" }, "geometry": { "type": "Point", "coordinates": [ 130.55857357, 31.58952619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上町５２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.510797380000014, 31.56452303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市薬師１−７−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.53956316, 31.59050087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町諸浦６０" }, "geometry": { "type": "Point", "coordinates": [ 130.180741289999986, 32.25541372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市錦江町１３" }, "geometry": { "type": "Point", "coordinates": [ 130.695460880000013, 31.48860658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川辺郡川辺町上山田" }, "geometry": { "type": "Point", "coordinates": [ 130.34500448, 31.35028966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川辺郡川辺町上山田５２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33742916, 31.33654619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川辺郡知覧町塩屋２９０１７" }, "geometry": { "type": "Point", "coordinates": [ 130.366177169999986, 31.29198278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県川辺郡知覧町郡４７８０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.43393577, 31.37111837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町井俣２３４７" }, "geometry": { "type": "Point", "coordinates": [ 131.015341439999986, 31.45726959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市坊津町泊４６６０" }, "geometry": { "type": "Point", "coordinates": [ 130.24912083000001, 31.28981359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町小野１７０" }, "geometry": { "type": "Point", "coordinates": [ 130.33966698, 31.53461874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市桜木町４７５番地" }, "geometry": { "type": "Point", "coordinates": [ 130.29274776, 31.27618995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県揖宿郡山川町岡児ケ水" }, "geometry": { "type": "Point", "coordinates": [ 130.586541469999986, 31.17447214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市赤瀬川１２５２" }, "geometry": { "type": "Point", "coordinates": [ 130.198640360000013, 32.02983647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上５−３９−５７" }, "geometry": { "type": "Point", "coordinates": [ 130.52058287, 31.57663434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市伊敷台５−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53910251, 31.62907396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町8-8" }, "geometry": { "type": "Point", "coordinates": [ 130.53358314, 31.52632947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西佐多町276" }, "geometry": { "type": "Point", "coordinates": [ 130.569231409999986, 31.73816042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市錦江町5-32" }, "geometry": { "type": "Point", "coordinates": [ 130.565382590000013, 31.57523287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上谷口町1035-2" }, "geometry": { "type": "Point", "coordinates": [ 130.43940405, 31.60467912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市十二町3548" }, "geometry": { "type": "Point", "coordinates": [ 130.64460447, 31.22671004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西別府町3116-16" }, "geometry": { "type": "Point", "coordinates": [ 130.50737608, 31.58985655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市鴨女町209-11" }, "geometry": { "type": "Point", "coordinates": [ 130.99402343, 30.72548207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町中之里３８６７" }, "geometry": { "type": "Point", "coordinates": [ 130.35215175, 31.48979652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上本町８−８" }, "geometry": { "type": "Point", "coordinates": [ 130.560861249999988, 31.60266698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市西原４−１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.828426650000011, 31.37829395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市大浦町7476" }, "geometry": { "type": "Point", "coordinates": [ 130.22613561, 31.37889851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県南さつま市加世田川畑１２３８６" }, "geometry": { "type": "Point", "coordinates": [ 130.34325145, 31.41655117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市宇宿２−１−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.54223765, 31.54427214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市錦江町２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.56240413, 31.57755268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市伊敷町４６０２" }, "geometry": { "type": "Point", "coordinates": [ 130.52435743, 31.64387008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市桜島赤水町１３６４" }, "geometry": { "type": "Point", "coordinates": [ 130.61349384, 31.57174193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県枕崎市栄中町６３９" }, "geometry": { "type": "Point", "coordinates": [ 130.31264694, 31.27529175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県いちき串木野市西薩町１７−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.25318592, 31.72757861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県阿久根市晴海町６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.19319528, 32.02834892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県伊佐市大口原田１０００" }, "geometry": { "type": "Point", "coordinates": [ 130.61719881, 32.05346101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県姶良郡加治木町反土５１" }, "geometry": { "type": "Point", "coordinates": [ 130.6710711, 31.73431592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県奄美市名瀬小浜町３４−３" }, "geometry": { "type": "Point", "coordinates": [ 129.5026791, 28.38557944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県西之表市西之表１０４１０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.99898481, 30.72201223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県霧島市国分下井２３６２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.78729318, 31.71059739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県いちき串木野市下名１１８４２" }, "geometry": { "type": "Point", "coordinates": [ 130.27461072, 31.72043286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市錦江町１１−２２" }, "geometry": { "type": "Point", "coordinates": [ 130.56965105, 31.57452605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県枕崎市立神北町５４７" }, "geometry": { "type": "Point", "coordinates": [ 130.274497450000013, 31.27642389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市堀江町１１−９" }, "geometry": { "type": "Point", "coordinates": [ 130.56167618, 31.58848193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市南栄３−３１" }, "geometry": { "type": "Point", "coordinates": [ 130.53530597, 31.51584161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市上之園町５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54883328, 31.58316507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県薩摩郡さつま町船木８１" }, "geometry": { "type": "Point", "coordinates": [ 130.45405804, 31.8821228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿屋市札元２−３８２６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.872260970000013, 31.39854614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県肝属郡東串良町池之原１２００" }, "geometry": { "type": "Point", "coordinates": [ 130.97191256, 31.39488502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県曽於市末吉町岩崎６２５３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.00212545, 31.61963005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市郡元１丁目５−４" }, "geometry": { "type": "Point", "coordinates": [ 130.54121479, 31.56941911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市日之出町６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.53792386, 31.55185166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町４−３５" }, "geometry": { "type": "Point", "coordinates": [ 130.538349540000013, 31.53300106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町大字面縄２２２２" }, "geometry": { "type": "Point", "coordinates": [ 128.97011969, 27.67425484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市喜入町６０４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54171656, 31.38090476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市浜平２０６０" }, "geometry": { "type": "Point", "coordinates": [ 130.69893342, 31.46946325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市湯の浜６丁目１８−３１" }, "geometry": { "type": "Point", "coordinates": [ 130.65022885, 31.22603515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町２０２５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.569374079999989, 31.63564384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市大王町１３８" }, "geometry": { "type": "Point", "coordinates": [ 130.29693601, 31.82452386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市鹿篭麓町２６３" }, "geometry": { "type": "Point", "coordinates": [ 130.290273140000011, 31.29004402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町野方５８１０" }, "geometry": { "type": "Point", "coordinates": [ 130.93325195, 31.5019236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市錦江町７−３７" }, "geometry": { "type": "Point", "coordinates": [ 130.56624553, 31.57545029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市上名９２１８" }, "geometry": { "type": "Point", "coordinates": [ 130.30989327, 31.72526908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市新川町５５２７−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.87025949, 31.37257524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市永利町７３１" }, "geometry": { "type": "Point", "coordinates": [ 130.33417357, 31.80980721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈川北４０８６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.6488114, 31.99428732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町大字赤連２６０６" }, "geometry": { "type": "Point", "coordinates": [ 129.944302990000011, 28.32251145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市西浜町１８" }, "geometry": { "type": "Point", "coordinates": [ 130.263040530000012, 31.71643705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町笠利９８９" }, "geometry": { "type": "Point", "coordinates": [ 129.69421591, 28.4845448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町大字検福１１９−３" }, "geometry": { "type": "Point", "coordinates": [ 128.95377209, 27.67224812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市現和５８１０" }, "geometry": { "type": "Point", "coordinates": [ 131.07128805, 30.69326065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市笠利町万屋９０" }, "geometry": { "type": "Point", "coordinates": [ 129.71059344, 28.44419357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町大字阿木名１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.33538854, 28.16861787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡宇検村大字湯湾７１１" }, "geometry": { "type": "Point", "coordinates": [ 129.29559746000001, 28.27959988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡宇検村大字湯湾９９２" }, "geometry": { "type": "Point", "coordinates": [ 129.29697765, 28.27980069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口曽木１５３１" }, "geometry": { "type": "Point", "coordinates": [ 130.6012041, 32.00758426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口田代２７７" }, "geometry": { "type": "Point", "coordinates": [ 130.54165276, 32.03109828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口目丸１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.621213110000014, 32.05334325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市岩本２８４２" }, "geometry": { "type": "Point", "coordinates": [ 130.59780346, 31.29232564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口里１９６８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.611534260000013, 32.05741338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町大字上嘉鉄８７３" }, "geometry": { "type": "Point", "coordinates": [ 129.94470927, 28.28327539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県西之表市住吉１２８８" }, "geometry": { "type": "Point", "coordinates": [ 130.95907026, 30.68773611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市二川５６２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78434457, 31.58302146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川大山３３１２" }, "geometry": { "type": "Point", "coordinates": [ 130.597760599999987, 31.20002116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市山川利永５１７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.57731636, 31.20703344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町別府１１７０２" }, "geometry": { "type": "Point", "coordinates": [ 130.433429249999989, 31.28901609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市笠沙町片浦１５４１７" }, "geometry": { "type": "Point", "coordinates": [ 130.132909250000012, 31.41429806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市国分中央１丁目１９−７３" }, "geometry": { "type": "Point", "coordinates": [ 130.77160507, 31.7457941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市曙町９５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.27303279, 31.72079762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市田崎町４６１−４" }, "geometry": { "type": "Point", "coordinates": [ 130.85764654, 31.3710225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町大字茶花９７６" }, "geometry": { "type": "Point", "coordinates": [ 128.4234075, 27.03961371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡与論町大字茶花２２９" }, "geometry": { "type": "Point", "coordinates": [ 128.415751840000013, 27.04877269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町大字玉城１１８２−２" }, "geometry": { "type": "Point", "coordinates": [ 128.62861098, 27.38554815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市西原１丁目１３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.8404621, 31.38738367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市古里町５９７" }, "geometry": { "type": "Point", "coordinates": [ 130.78463224, 31.39707253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府１００３８" }, "geometry": { "type": "Point", "coordinates": [ 130.36231525, 31.2569568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市別府西町１３" }, "geometry": { "type": "Point", "coordinates": [ 130.34629626, 31.27556219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀徳２１８４−２６" }, "geometry": { "type": "Point", "coordinates": [ 129.02435356, 27.74331619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町野間５１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.96028322, 30.53681923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市大原町７３" }, "geometry": { "type": "Point", "coordinates": [ 130.27250899, 31.71683238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町井之川２７３" }, "geometry": { "type": "Point", "coordinates": [ 129.023007689999986, 27.77401517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市羽島３６５７" }, "geometry": { "type": "Point", "coordinates": [ 130.20822988, 31.75637487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県阿久根市赤瀬川２４１６" }, "geometry": { "type": "Point", "coordinates": [ 130.21853876, 32.03392238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬入舟町８−２１" }, "geometry": { "type": "Point", "coordinates": [ 129.49291813, 28.38199416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市宮島町５６−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.62397346, 31.72529081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡喜界町大字早町７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.00216712, 28.33818217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市松山町泰野３４１９" }, "geometry": { "type": "Point", "coordinates": [ 131.07937787, 31.56652529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市下知識町４３６８" }, "geometry": { "type": "Point", "coordinates": [ 130.32587118, 32.10936495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県枕崎市立神本町５１０" }, "geometry": { "type": "Point", "coordinates": [ 130.27817894, 31.27003814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町岩川６３２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.996107310000014, 31.58040864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市加治木町新富町２５０" }, "geometry": { "type": "Point", "coordinates": [ 130.66859514, 31.74297104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町岡崎１９８０" }, "geometry": { "type": "Point", "coordinates": [ 130.95887846, 31.39038512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市串良町有里１８７１" }, "geometry": { "type": "Point", "coordinates": [ 130.950712149999987, 31.42911423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市溝辺町三縄５５０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.678766059999987, 31.85901382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市横川町中ノ２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.70250346, 31.90614509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山２６３９" }, "geometry": { "type": "Point", "coordinates": [ 130.81801088, 31.67439837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市坊津町久志２４５５" }, "geometry": { "type": "Point", "coordinates": [ 130.22492078, 31.31045757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町野方６０６３" }, "geometry": { "type": "Point", "coordinates": [ 130.944945929999989, 31.51037103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市下甑町手打１０８１" }, "geometry": { "type": "Point", "coordinates": [ 129.7042437, 31.63758311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於郡大崎町野方６５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.973755759999989, 31.51380074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町野神３２５４−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.993914929999988, 31.48779847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣４６８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.99218746, 31.72450051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市財部町南俣７０８１−９" }, "geometry": { "type": "Point", "coordinates": [ 130.911404330000011, 31.6676114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町二之方２０２８" }, "geometry": { "type": "Point", "coordinates": [ 131.02161779, 31.65563905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町二之方２７５６−２" }, "geometry": { "type": "Point", "coordinates": [ 131.03203421, 31.64151334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県志布志市有明町伊崎田５６０３−２" }, "geometry": { "type": "Point", "coordinates": [ 131.04360908000001, 31.54183386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷１６６４−イ" }, "geometry": { "type": "Point", "coordinates": [ 131.04678299, 31.64280248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市末吉町南之郷５１９３" }, "geometry": { "type": "Point", "coordinates": [ 131.0495167, 31.62282976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市福山町福山４８５９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.85756977, 31.67231842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市石谷町２０６７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.467257249999989, 31.59337839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市名瀬平松町４２４" }, "geometry": { "type": "Point", "coordinates": [ 129.46748365, 28.39933941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡南大隅町佐多伊座敷３９８２" }, "geometry": { "type": "Point", "coordinates": [ 130.69192752, 31.09434569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡錦江町城元６１１" }, "geometry": { "type": "Point", "coordinates": [ 130.78724208, 31.24629921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市吾平町上名２２" }, "geometry": { "type": "Point", "coordinates": [ 130.89655018, 31.32740211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町郡６１８３" }, "geometry": { "type": "Point", "coordinates": [ 130.44286989, 31.37551487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町郡１３４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.450715120000012, 31.38094545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町高田３４５" }, "geometry": { "type": "Point", "coordinates": [ 130.3819269, 31.37164291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市川辺町田部田６６８８" }, "geometry": { "type": "Point", "coordinates": [ 130.37713394, 31.39321815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市東市来町長里４９２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.35009627, 31.66802852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈川北２０７９" }, "geometry": { "type": "Point", "coordinates": [ 130.664150150000012, 31.98622662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市伊集院町下神殿１８７３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.41042776, 31.65472651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町城川内１０２３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.11970617, 32.15527992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町与倉７０２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.37015194, 31.51460844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南さつま市金峰町尾下１４５０" }, "geometry": { "type": "Point", "coordinates": [ 130.340558750000014, 31.45572717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡さつま町二渡４２８７" }, "geometry": { "type": "Point", "coordinates": [ 130.42467287, 31.86752147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町下手２９６８" }, "geometry": { "type": "Point", "coordinates": [ 130.48930002, 31.86390289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県肝属郡肝付町宮下１６３１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.91207142, 31.36340656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市上甑町中甑４９０−９" }, "geometry": { "type": "Point", "coordinates": [ 129.86840257, 31.83576492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡徳之島町亀徳２１８４−９９" }, "geometry": { "type": "Point", "coordinates": [ 129.02367941, 27.7433613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市樋脇町市比野３７８４" }, "geometry": { "type": "Point", "coordinates": [ 130.399134370000013, 31.77929471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡中種子町坂井２１８１−３４３" }, "geometry": { "type": "Point", "coordinates": [ 130.919307370000013, 30.44596652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町坂元４７８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.89671881000001, 31.64899818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市頴娃町上別府４５６５" }, "geometry": { "type": "Point", "coordinates": [ 130.462244489999989, 31.29677548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市向江町１３−３４" }, "geometry": { "type": "Point", "coordinates": [ 130.35116733000001, 32.07628393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町蔵之元２１４−４" }, "geometry": { "type": "Point", "coordinates": [ 130.105764060000013, 32.18233733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市上野町４６６９" }, "geometry": { "type": "Point", "coordinates": [ 130.815028719999987, 31.38021237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市東開町３" }, "geometry": { "type": "Point", "coordinates": [ 130.53201117, 31.53158791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水郡長島町平尾３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.14475176, 32.1896156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県日置市吹上町永吉１４２０６" }, "geometry": { "type": "Point", "coordinates": [ 130.35496104, 31.56025854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市真砂町３４−８" }, "geometry": { "type": "Point", "coordinates": [ 130.55458317, 31.56010978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県熊毛郡屋久島町宮之浦２７７−３８" }, "geometry": { "type": "Point", "coordinates": [ 130.57301164, 30.42836256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市向田本町５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.30723232, 31.81629425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市吉野町１０２７０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60430163, 31.64699803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市上之園町４−５" }, "geometry": { "type": "Point", "coordinates": [ 130.54786672, 31.58327611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡和泊町大字和泊１７５−２" }, "geometry": { "type": "Point", "coordinates": [ 128.65029340000001, 27.38284216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町東郷１１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.746178859999986, 31.77370453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市真砂本町５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.555871, 31.55325967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市山田町１８６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.503643509999989, 31.55548235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡伊仙町大字目手久２７９−８" }, "geometry": { "type": "Point", "coordinates": [ 128.98040652, 27.68083109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市西別府町１８３１" }, "geometry": { "type": "Point", "coordinates": [ 130.488751979999989, 31.60002436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市菱刈川北１９８" }, "geometry": { "type": "Point", "coordinates": [ 130.6737191, 31.98373991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市和田町７１６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.51180548, 31.50671542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡瀬戸内町大字瀬相７４４" }, "geometry": { "type": "Point", "coordinates": [ 129.24467604, 28.12557613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市田上７丁目９−２９" }, "geometry": { "type": "Point", "coordinates": [ 130.51880388, 31.58692062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市鴨池新町１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.55843298, 31.55506029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市星ケ峯１丁目１" }, "geometry": { "type": "Point", "coordinates": [ 130.500086579999987, 31.57356519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県南九州市知覧町郡４８５７−５４" }, "geometry": { "type": "Point", "coordinates": [ 130.43380707, 31.37322867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市谷山港３丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.5254687, 31.49217062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市卸本町７−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.52211352, 31.51321972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩川内市祁答院町上手７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51073098, 31.86781263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿２丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 130.54214755000001, 31.54522814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県大島郡天城町大字浅間６３３−４" }, "geometry": { "type": "Point", "coordinates": [ 128.892151930000011, 27.83257751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市宇宿２丁目１３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.54256831, 31.54070865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市卸本町８−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.52097737, 31.51193528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市桜ケ丘４丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.51618381, 31.5512703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市下福元町３６１６" }, "geometry": { "type": "Point", "coordinates": [ 130.49273606, 31.51183303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿児島市城南町４１" }, "geometry": { "type": "Point", "coordinates": [ 130.56524578, 31.57825409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県曽於市大隅町岩川７３００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.99871565, 31.5813872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市宇宿町２５１３" }, "geometry": { "type": "Point", "coordinates": [ 130.53366822000001, 31.54741525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市桜ケ丘７丁目１９−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.52362374, 31.55358215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市武１丁目１９−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.54070263, 31.58065234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市皆与志町１８２３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.510117040000011, 31.65410669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿屋市新生町１０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.84636597, 31.38486055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県西之表市西町７６" }, "geometry": { "type": "Point", "coordinates": [ 130.99467653, 30.73412739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市伊敷２丁目６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.53147734, 31.61727019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市新栄町１７−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.54777409, 31.55009739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県霧島市国分清水１丁目５−４３" }, "geometry": { "type": "Point", "coordinates": [ 130.772739730000012, 31.75293058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市和田２丁目８−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.51161989, 31.50752039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市南栄３丁目２６" }, "geometry": { "type": "Point", "coordinates": [ 130.53381721, 31.51641653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市柳町９−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.565217, 31.60379993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県いちき串木野市住吉町７４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.27456981, 31.71617475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市松原町３−３７" }, "geometry": { "type": "Point", "coordinates": [ 130.55746234, 31.58643779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市浜町１−８" }, "geometry": { "type": "Point", "coordinates": [ 130.562017379999986, 31.60031686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市武３丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5363764, 31.57933969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市春日町１２−９" }, "geometry": { "type": "Point", "coordinates": [ 130.56624743, 31.60519147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市西伊敷４丁目７−８" }, "geometry": { "type": "Point", "coordinates": [ 130.53249657, 31.64015216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市南林寺町３１−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.56240795, 31.58657069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市南林寺町３０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.56257062, 31.58603501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市武１丁目１２−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.53916455000001, 31.58220514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県南九州市川辺町平山６９６８" }, "geometry": { "type": "Point", "coordinates": [ 130.39488529, 31.39203063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿屋市向江町２−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.85038315, 31.385475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市吉野町５０６２" }, "geometry": { "type": "Point", "coordinates": [ 130.58155047, 31.65204237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市和田町１１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.51342218, 31.5102614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市西田３丁目５−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.53526886, 31.58862354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県出水市米ノ津町１１−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.33985334, 32.11779099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県志布志市志布志町安楽２２６２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.082001029999986, 31.4799047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市常盤２丁目１２−４６" }, "geometry": { "type": "Point", "coordinates": [ 130.530526259999988, 31.5882723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県鹿児島市下荒田１丁目１−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.55426749, 31.57896598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県薩摩川内市樋脇町塔之原４６０１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.38865112, 31.82438158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県日置市日吉町日置３３１８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.34710295, 31.59481654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県肝属郡東串良町岩弘３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.964899980000013, 31.39823473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県日置市伊集院町徳重２９１" }, "geometry": { "type": "Point", "coordinates": [ 130.39573858, 31.63057221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県志布志市有明町野神３４００" }, "geometry": { "type": "Point", "coordinates": [ 131.00482326, 31.48401061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県霧島市溝辺町麓２４２４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.70827571, 31.81097308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "鹿児島県垂水市栄町５１" }, "geometry": { "type": "Point", "coordinates": [ 130.70071164, 31.49242851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県伊佐市大口里３１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.61196306, 32.06254065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県串木野市下名４３６４" }, "geometry": { "type": "Point", "coordinates": [ 130.28276311, 31.70483271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県薩摩郡上甑村中甑４７５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86570307, 31.83580699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市川上1178" }, "geometry": { "type": "Point", "coordinates": [ 130.32571891, 31.71335731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県いちき串木野市湊町3338-1" }, "geometry": { "type": "Point", "coordinates": [ 130.290733749999987, 31.69492902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良郡姶良町平松７２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.620900119999988, 31.71364615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県奄美市住用町神屋６３−６" }, "geometry": { "type": "Point", "coordinates": [ 129.41061521, 28.27095693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県指宿市開聞十町１５６８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.5401513, 31.21398467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県鹿屋市笠之原1017番地5" }, "geometry": { "type": "Point", "coordinates": [ 130.8902376, 31.38763478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県出水市米ノ津町６８２" }, "geometry": { "type": "Point", "coordinates": [ 130.34406056, 32.12749411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県垂水市柊原字鬼山１０７" }, "geometry": { "type": "Point", "coordinates": [ 130.702390040000012, 31.46287609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県熊毛郡屋久島町安房４４６−６" }, "geometry": { "type": "Point", "coordinates": [ 130.65971715, 30.31806819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県熊毛郡中種子町野間５２９７−４０" }, "geometry": { "type": "Point", "coordinates": [ 130.95967192, 30.53282289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県薩摩川内市勝目町４１０３" }, "geometry": { "type": "Point", "coordinates": [ 130.31462976, 31.7896043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県薩摩川内市大小路町３４４７" }, "geometry": { "type": "Point", "coordinates": [ 130.3028701, 31.82612614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県薩摩川内市中郷町字枝牟田５０３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.3044463, 31.83773941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県薩摩川内市樋脇町塔之原１０８０９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.40101447, 31.79883386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県志布志市有明町野井倉８２３８" }, "geometry": { "type": "Point", "coordinates": [ 131.06604345, 31.4538828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県指宿市新西方字下丸２６９３" }, "geometry": { "type": "Point", "coordinates": [ 130.57569712, 31.27097896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県曽於市大隅町岩川７３０９" }, "geometry": { "type": "Point", "coordinates": [ 130.9975824, 31.5815283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県大島郡伊仙町伊仙２６５４−３" }, "geometry": { "type": "Point", "coordinates": [ 128.93239677, 27.67538045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県大島郡喜界町赤連２９６７" }, "geometry": { "type": "Point", "coordinates": [ 129.93758188000001, 28.32553643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県大島郡天城町天城４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 128.896704699999987, 27.81571542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県大島郡徳之島町亀徳２１８４−８３" }, "geometry": { "type": "Point", "coordinates": [ 129.02608711, 27.74243929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県日置市伊集院町徳重３１２" }, "geometry": { "type": "Point", "coordinates": [ 130.39648786, 31.63078937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "鹿児島県鹿児島市泉町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.56097329, 31.59374246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県姶良市東餅田３３６" }, "geometry": { "type": "Point", "coordinates": [ 130.63013296, 31.73434894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "鹿児島県霧島市隼人町見次１２２９" }, "geometry": { "type": "Point", "coordinates": [ 130.74055736, 31.73743729 ] } }
+
+]
+}

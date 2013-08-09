@@ -1,0 +1,1388 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市七窪ロ−４５" }, "geometry": { "type": "Point", "coordinates": [ 136.70767543, 36.72310859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市秋浜ニ−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.69870714000001, 36.72997461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字町２１−３１" }, "geometry": { "type": "Point", "coordinates": [ 136.76373256, 37.00986252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町福浦港１５２" }, "geometry": { "type": "Point", "coordinates": [ 136.721035699999987, 37.0780882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市桑原町イ−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.38345134, 36.314745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市小菅波町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.34832767, 36.3173732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市富士見町オ１６" }, "geometry": { "type": "Point", "coordinates": [ 136.37379442, 36.25080267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字清水チ−３７６" }, "geometry": { "type": "Point", "coordinates": [ 136.73124191, 36.67589288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町杉ノ瀬ニ１６" }, "geometry": { "type": "Point", "coordinates": [ 136.75273146, 36.66492786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市駅西新町３−３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.63281505, 36.59210224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市京町１９３" }, "geometry": { "type": "Point", "coordinates": [ 136.65649858, 36.58087224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市幸町１３−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.65737381, 36.55501244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市高畠１−３３９" }, "geometry": { "type": "Point", "coordinates": [ 136.61273957, 36.57132125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市高尾台４−７７" }, "geometry": { "type": "Point", "coordinates": [ 136.62778025, 36.52277982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市高尾町南１−８０" }, "geometry": { "type": "Point", "coordinates": [ 136.633378779999987, 36.51719402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市寺中町ホ３９" }, "geometry": { "type": "Point", "coordinates": [ 136.604032499999988, 36.59599754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市西金沢４−５２６" }, "geometry": { "type": "Point", "coordinates": [ 136.61242015, 36.5554357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市増泉２丁目１９番１５号" }, "geometry": { "type": "Point", "coordinates": [ 136.63792206, 36.55887043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市田中町に３９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65968916, 36.60230801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市二口町ニ９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63542781000001, 36.57830273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八日市２−４５５" }, "geometry": { "type": "Point", "coordinates": [ 136.608809189999988, 36.54481776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市尾山町１１−６２" }, "geometry": { "type": "Point", "coordinates": [ 136.6547577, 36.56523824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福増町北５３４" }, "geometry": { "type": "Point", "coordinates": [ 136.581456800000012, 36.56541362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市湊２−４２−４" }, "geometry": { "type": "Point", "coordinates": [ 136.64355823, 36.63227481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市鳴和台１１７" }, "geometry": { "type": "Point", "coordinates": [ 136.680085749999989, 36.57940344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市柳橋町ハ２０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.68245736, 36.60162183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市涌波３丁目１０番２８号" }, "geometry": { "type": "Point", "coordinates": [ 136.68472574, 36.53462553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市上戸町南方に３５" }, "geometry": { "type": "Point", "coordinates": [ 137.24667341, 37.41722254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市飯田町５部８４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.26476008, 37.44367535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市下粟津町ロ２１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.43259633, 36.34683779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市城南町５９−６０" }, "geometry": { "type": "Point", "coordinates": [ 136.43143312, 36.40800757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市矢田野町へ１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.42467792, 36.34837272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市有明町９３" }, "geometry": { "type": "Point", "coordinates": [ 136.457362499999988, 36.39873817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町新庄６−５８０" }, "geometry": { "type": "Point", "coordinates": [ 136.60734603, 36.50583639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町菅原町１９番" }, "geometry": { "type": "Point", "coordinates": [ 136.61494327, 36.52699781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市中島町イ−３１" }, "geometry": { "type": "Point", "coordinates": [ 136.63222919, 36.41124708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市徳光町３８５０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53500154, 36.53736873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市福留町５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.525490350000013, 36.4920001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市木津町１５９１番１" }, "geometry": { "type": "Point", "coordinates": [ 136.58882846, 36.4940099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市河井町５部２８７番１" }, "geometry": { "type": "Point", "coordinates": [ 136.906777190000014, 37.39367903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市三井町三州穂ろ1-14" }, "geometry": { "type": "Point", "coordinates": [ 136.96218528, 37.29986487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市杉平町大百苅４８" }, "geometry": { "type": "Point", "coordinates": [ 136.90975319, 37.38076599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市二ツ屋町１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.90097126, 37.39026355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町松ノ木ロ１５" }, "geometry": { "type": "Point", "coordinates": [ 136.781631260000012, 37.06750083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町徳田す７" }, "geometry": { "type": "Point", "coordinates": [ 136.82967541, 37.05921879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町富来地頭町７−９０" }, "geometry": { "type": "Point", "coordinates": [ 136.729019169999987, 37.135772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市鹿島路町１６６５" }, "geometry": { "type": "Point", "coordinates": [ 136.80697711, 36.93193892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市柴垣町７の１６" }, "geometry": { "type": "Point", "coordinates": [ 136.76313878, 36.94339529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市石野町ホ４１" }, "geometry": { "type": "Point", "coordinates": [ 136.79753631, 36.89437954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市南中央町キ１５４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.777907340000013, 36.8906822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市永井町６９−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.26442886000001, 36.28881514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市吉崎町ト３８" }, "geometry": { "type": "Point", "coordinates": [ 136.25937026, 36.2894187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市熊坂町ニ３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.31173044, 36.29903704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山代温泉桔梗丘３−５４" }, "geometry": { "type": "Point", "coordinates": [ 136.35760274, 36.28470035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市美岬町尼ゴジ３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.32459676, 36.35449562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市もりの里２丁目１２７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.68710164, 36.55306263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市磯部町ホ３１番地の１" }, "geometry": { "type": "Point", "coordinates": [ 136.653761839999987, 36.59941116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市駅西新町２−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64204912, 36.59492777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市駅西本町１丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64006255000001, 36.5780021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市押野２丁目５７０" }, "geometry": { "type": "Point", "coordinates": [ 136.618197149999986, 36.54705601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市菊川１丁目３４−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.66581449, 36.55140446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市吉原町カ３" }, "geometry": { "type": "Point", "coordinates": [ 136.69257989, 36.61370016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市玉川町１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65127615, 36.5682987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市近岡町８３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.630954800000012, 36.61418767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市古府町１−１６１" }, "geometry": { "type": "Point", "coordinates": [ 136.60791982, 36.56530883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市桜田町サ５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6204419, 36.58112625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市三馬３−３２０" }, "geometry": { "type": "Point", "coordinates": [ 136.63050886, 36.52843996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市寺中町ロ２４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.601251670000011, 36.59663846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市若宮１−１７９" }, "geometry": { "type": "Point", "coordinates": [ 136.63110593, 36.5735086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市諸江町下丁４１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64469164, 36.60190334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市松村３丁目３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.613582720000011, 36.58238033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市松島３−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.60385025, 36.56763226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神宮寺１丁目１５−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.66693454, 36.58307647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神宮寺３−１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.6657897, 36.58332648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神野町東２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59739939, 36.56111227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市畝田中３丁目５５４番" }, "geometry": { "type": "Point", "coordinates": [ 136.61064392, 36.59829017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市西念４−１９−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.63347116, 36.58842591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市石引２丁目１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.67358212, 36.5523653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市泉野出町４丁目１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65210273, 36.53499969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市泉野町４−９−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.651486479999988, 36.54433507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市増泉町３−１７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.63599383, 36.55562979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市大手町９−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.66406824, 36.5682244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市長坂１丁目２−６５" }, "geometry": { "type": "Point", "coordinates": [ 136.659550380000013, 36.54030049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市東力２丁目１６０" }, "geometry": { "type": "Point", "coordinates": [ 136.62048071000001, 36.56279107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市南新保町ト１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.632573979999989, 36.59323954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市二口町ニ８８の１" }, "geometry": { "type": "Point", "coordinates": [ 136.63572998, 36.57939227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市疋田一丁目２１０" }, "geometry": { "type": "Point", "coordinates": [ 136.67376368, 36.60222198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市伏見台１丁目１０の３" }, "geometry": { "type": "Point", "coordinates": [ 136.63959879, 36.53444717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福久東１−３９" }, "geometry": { "type": "Point", "coordinates": [ 136.684024130000012, 36.61708976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市保古三丁目３７" }, "geometry": { "type": "Point", "coordinates": [ 136.61659995, 36.55847381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市北安江１−３−８" }, "geometry": { "type": "Point", "coordinates": [ 136.64797163, 36.58257618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市湊１丁目８６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.65723211, 36.64161196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市湊３丁目９" }, "geometry": { "type": "Point", "coordinates": [ 136.63412309, 36.62312977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市無量寺３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.60794089, 36.60571809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町芹川才部５０" }, "geometry": { "type": "Point", "coordinates": [ 136.920863419999989, 36.96770757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町最勝講ヌ１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.904836499999988, 36.9690391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市庵町力部４１" }, "geometry": { "type": "Point", "coordinates": [ 137.050390920000012, 37.02297191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市国分町ラ２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.95211787, 37.03524746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市小丸山台３−７１" }, "geometry": { "type": "Point", "coordinates": [ 136.94849301, 37.04636641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市小島町大開地３の５" }, "geometry": { "type": "Point", "coordinates": [ 136.95420764, 37.05575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市中島町浜田１の５６" }, "geometry": { "type": "Point", "coordinates": [ 136.85475058, 37.11256869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市藤野町ロの１５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.96664475, 37.02925016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市馬出町ハ部５１番２７号" }, "geometry": { "type": "Point", "coordinates": [ 136.96097189, 37.04482025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市万行町３−５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9860464, 37.04624669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市正院町川尻１の部の１０２" }, "geometry": { "type": "Point", "coordinates": [ 137.29520424, 37.44428977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市飯田町１２の１０５" }, "geometry": { "type": "Point", "coordinates": [ 137.26514911000001, 37.43838237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市下牧町己５３３" }, "geometry": { "type": "Point", "coordinates": [ 136.440173969999989, 36.40809432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市大領町ロ１８３" }, "geometry": { "type": "Point", "coordinates": [ 136.44778523, 36.38357226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市浜田町口６４乙" }, "geometry": { "type": "Point", "coordinates": [ 136.44164902, 36.40654607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町御経塚１丁目４７０" }, "geometry": { "type": "Point", "coordinates": [ 136.595676700000013, 36.54642429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町三日市町２３５の１" }, "geometry": { "type": "Point", "coordinates": [ 136.59696324, 36.5326692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町上林５−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.60651837, 36.50142305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町矢作２−１２３" }, "geometry": { "type": "Point", "coordinates": [ 136.61290657, 36.52230941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市寺井町タ３９" }, "geometry": { "type": "Point", "coordinates": [ 136.49711636, 36.43760008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市出口町へ２０８" }, "geometry": { "type": "Point", "coordinates": [ 136.54670529, 36.45518474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市小長野町ト７７" }, "geometry": { "type": "Point", "coordinates": [ 136.492003149999988, 36.43401157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市下柏野町３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53496977, 36.4961446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市宮永市町４５３" }, "geometry": { "type": "Point", "coordinates": [ 136.570918400000011, 36.53964054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市宮丸町１１４４" }, "geometry": { "type": "Point", "coordinates": [ 136.55246786, 36.50542195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市松本町８８５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.51009654, 36.5121908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市白山町ヘ１５" }, "geometry": { "type": "Point", "coordinates": [ 136.63148399, 36.42227883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市別宮町ロ９８" }, "geometry": { "type": "Point", "coordinates": [ 136.60375123, 36.35892808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町宇出津ウ７９" }, "geometry": { "type": "Point", "coordinates": [ 137.15068509, 37.30467583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町市之瀬１１の１の１" }, "geometry": { "type": "Point", "coordinates": [ 137.22944485, 37.31148816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字小木１５−２１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.22526271000001, 37.30013657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字藤波１５−９" }, "geometry": { "type": "Point", "coordinates": [ 137.145540680000011, 37.30183779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町七見口字８の１" }, "geometry": { "type": "Point", "coordinates": [ 137.08245996, 37.25572961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町天坂乙２字１８" }, "geometry": { "type": "Point", "coordinates": [ 137.0996632, 37.35398721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町藤波１５字１番地" }, "geometry": { "type": "Point", "coordinates": [ 137.14564402, 37.30025009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市新橋通７の７４の１" }, "geometry": { "type": "Point", "coordinates": [ 136.898980880000011, 37.39401434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市堀町二字３０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.894769599999989, 37.39036937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市門前町剣地ヨ１７１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.7059319, 37.22816425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市高松ノ７−６" }, "geometry": { "type": "Point", "coordinates": [ 136.7238331, 36.76841739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡宝達志水町子浦甲７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7932749, 36.86542599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市伊切町い２６７" }, "geometry": { "type": "Point", "coordinates": [ 136.35746339, 36.36831096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市三木町ロ４１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.29112403, 36.29279122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山代温泉山背台２−９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.35543051, 36.29199261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市西島町チ７" }, "geometry": { "type": "Point", "coordinates": [ 136.369507, 36.30815288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市箱宮町ヌ３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.40844908, 36.32571027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字南中条ソ１５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.727627579999989, 36.65250269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字北中条１街区５０" }, "geometry": { "type": "Point", "coordinates": [ 136.72729214, 36.66123711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡内灘町向粟崎４−１６１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.62881549, 36.63021857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市円光寺本町２４０" }, "geometry": { "type": "Point", "coordinates": [ 136.642135669999988, 36.53455785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市山科３丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.646588869999988, 36.53003971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市示野中町２丁目１" }, "geometry": { "type": "Point", "coordinates": [ 136.619176259999989, 36.57704704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市松島３丁目２１０番地１" }, "geometry": { "type": "Point", "coordinates": [ 136.60285367, 36.56844247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市上荒屋１丁目３９７" }, "geometry": { "type": "Point", "coordinates": [ 136.593916330000013, 36.54639914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神野町西１３４" }, "geometry": { "type": "Point", "coordinates": [ 136.599766249999988, 36.56699307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市畝田東４−７" }, "geometry": { "type": "Point", "coordinates": [ 136.612654350000014, 36.59873016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市西念２丁目１７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.64111497, 36.58368714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市石引１丁目１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.6719866, 36.55447057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市千木町２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67027703, 36.60747671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市泉本町７丁目−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63333834, 36.55169457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市直江町イ−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.635568080000013, 36.60299371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市田上第五土地区画２８街区１" }, "geometry": { "type": "Point", "coordinates": [ 136.69178249, 36.54226028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市田中町と４７番１" }, "geometry": { "type": "Point", "coordinates": [ 136.66523088, 36.60359967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八日市１丁目７７４" }, "geometry": { "type": "Point", "coordinates": [ 136.609573110000014, 36.54164035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福久町チ１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.675884169999989, 36.60990743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福増町北５５３" }, "geometry": { "type": "Point", "coordinates": [ 136.58095631, 36.56345259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市法光寺町２４９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.68415546, 36.60444119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市野田土地区画整理地内２街区１他９筆" }, "geometry": { "type": "Point", "coordinates": [ 136.66210088, 36.53526185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町能登部下９１−３７" }, "geometry": { "type": "Point", "coordinates": [ 136.86681876, 36.96219826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市小島町大開地１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.95636568, 37.05401396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市石崎町タ部１１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.92546188, 37.07591283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市本府中町ヲ部４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.96828234, 37.03364221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市蛸島町ナ部１２" }, "geometry": { "type": "Point", "coordinates": [ 137.30652199, 37.44224898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市園町ヌ６６" }, "geometry": { "type": "Point", "coordinates": [ 136.46577525, 36.41027828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市向本折町午４２４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.447244149999989, 36.3936143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市今江町５丁目３８０" }, "geometry": { "type": "Point", "coordinates": [ 136.443337680000013, 36.37731547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市若杉町ハ１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.478687830000013, 36.39815003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市辰口町５５４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.546341680000012, 36.44194538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市道林町ト１０６番地" }, "geometry": { "type": "Point", "coordinates": [ 136.44587575, 36.44385646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市小上町２３８" }, "geometry": { "type": "Point", "coordinates": [ 136.542666090000012, 36.49963345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市福留町５６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52403143, 36.49192345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市木滑出６５" }, "geometry": { "type": "Point", "coordinates": [ 136.64273703, 36.30615464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字鵜川２０字３３" }, "geometry": { "type": "Point", "coordinates": [ 137.08255157, 37.25446695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字松波１０字７" }, "geometry": { "type": "Point", "coordinates": [ 137.243243650000011, 37.35637345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市町野町曾々木シ部３２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.073275099999989, 37.45311775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市門前町本市１２−１０８" }, "geometry": { "type": "Point", "coordinates": [ 136.78351985, 37.29056999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市宇野気リ79-1" }, "geometry": { "type": "Point", "coordinates": [ 136.705848949999989, 36.72048157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字末吉竹の腰1番地" }, "geometry": { "type": "Point", "coordinates": [ 136.78133054, 37.0089631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡富来町里本江乙213" }, "geometry": { "type": "Point", "coordinates": [ 136.72346147, 37.14456765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡宝達志水町敷浪壱６、７" }, "geometry": { "type": "Point", "coordinates": [ 136.789599540000012, 36.86139086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市太田町と74-1" }, "geometry": { "type": "Point", "coordinates": [ 136.81194263, 36.89549062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市伊切新1" }, "geometry": { "type": "Point", "coordinates": [ 136.36061698, 36.35477723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市河南町ヨ34-2" }, "geometry": { "type": "Point", "coordinates": [ 136.35352476, 36.27671094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山代温泉北部2丁目80番地" }, "geometry": { "type": "Point", "coordinates": [ 136.359166429999988, 36.29612214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市庄町カ42" }, "geometry": { "type": "Point", "coordinates": [ 136.37949666, 36.31238972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市大聖寺東町2-22" }, "geometry": { "type": "Point", "coordinates": [ 136.32000377, 36.30512048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字杉瀬ヌ91-1" }, "geometry": { "type": "Point", "coordinates": [ 136.75424365, 36.66424552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字中須加ろ30-1" }, "geometry": { "type": "Point", "coordinates": [ 136.72650072, 36.6708816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市宮野町ト67" }, "geometry": { "type": "Point", "coordinates": [ 136.73310658, 36.59765287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市戸水2丁目8番地" }, "geometry": { "type": "Point", "coordinates": [ 136.618591, 36.60429396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八田町東896-2" }, "geometry": { "type": "Point", "coordinates": [ 136.6847191, 36.62901415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福増町北602" }, "geometry": { "type": "Point", "coordinates": [ 136.58179404, 36.56679326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町羽坂い部36番地" }, "geometry": { "type": "Point", "coordinates": [ 136.904006079999988, 36.99422575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町金丸又い部84番地" }, "geometry": { "type": "Point", "coordinates": [ 136.84198122, 36.94812486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町徳前ル87番地1" }, "geometry": { "type": "Point", "coordinates": [ 136.908999990000012, 36.97337154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市黒崎町関上野351-5丙" }, "geometry": { "type": "Point", "coordinates": [ 137.05081686, 36.97970522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市佐味町ホ部29" }, "geometry": { "type": "Point", "coordinates": [ 136.99565854, 37.05213489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市中島町中島丙部5-1" }, "geometry": { "type": "Point", "coordinates": [ 136.857561479999987, 37.11535721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市田鶴浜町カ-1-1" }, "geometry": { "type": "Point", "coordinates": [ 136.889295260000011, 37.06524076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市藤橋町戌19-1" }, "geometry": { "type": "Point", "coordinates": [ 136.953877729999988, 37.03869217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市能登島向田町5-98-2" }, "geometry": { "type": "Point", "coordinates": [ 136.99545634, 37.12465631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市八幡町い部10番地1" }, "geometry": { "type": "Point", "coordinates": [ 136.94943106, 37.01374141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市三崎町寺家ツ-92-4" }, "geometry": { "type": "Point", "coordinates": [ 137.34571243, 37.49493504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市折戸町イ-28" }, "geometry": { "type": "Point", "coordinates": [ 137.27901173, 37.52790409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市串町北316" }, "geometry": { "type": "Point", "coordinates": [ 136.422800810000012, 36.37275049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市長崎町4-119" }, "geometry": { "type": "Point", "coordinates": [ 136.43211025, 36.41960101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市長田町ヌ65-1" }, "geometry": { "type": "Point", "coordinates": [ 136.46955, 36.42121177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市福乃宮町1-29" }, "geometry": { "type": "Point", "coordinates": [ 136.454700910000014, 36.3945822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町扇ヶ丘32番9号" }, "geometry": { "type": "Point", "coordinates": [ 136.62565559, 36.52538695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町中林5-1-5" }, "geometry": { "type": "Point", "coordinates": [ 136.60942074, 36.51462574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美郡川北町一ツ屋207" }, "geometry": { "type": "Point", "coordinates": [ 136.54663259, 36.46764611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市粟生町ヨ１" }, "geometry": { "type": "Point", "coordinates": [ 136.499371810000014, 36.45639227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市岩内町ヌ13-1" }, "geometry": { "type": "Point", "coordinates": [ 136.57292941, 36.45395907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市大成町ヌ45" }, "geometry": { "type": "Point", "coordinates": [ 136.46362955, 36.44863677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市中町ソ60" }, "geometry": { "type": "Point", "coordinates": [ 136.451879240000011, 36.45167783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市瀬戸申6-1" }, "geometry": { "type": "Point", "coordinates": [ 136.64386602, 36.29437377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市西米光町チ100" }, "geometry": { "type": "Point", "coordinates": [ 136.50141254, 36.49350366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市村井町104-1" }, "geometry": { "type": "Point", "coordinates": [ 136.558519600000011, 36.51842389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市村井町665" }, "geometry": { "type": "Point", "coordinates": [ 136.55592588, 36.50757153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市知気寺町に65-1" }, "geometry": { "type": "Point", "coordinates": [ 136.60026542, 36.48158194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市竹松町857-2" }, "geometry": { "type": "Point", "coordinates": [ 136.55745024, 36.54552939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市北安田町771-1" }, "geometry": { "type": "Point", "coordinates": [ 136.54510116, 36.52564479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町字甲リ225番地の2" }, "geometry": { "type": "Point", "coordinates": [ 137.02716944, 37.20397279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町字此木1-100-1" }, "geometry": { "type": "Point", "coordinates": [ 136.89928335, 37.24354452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字行延256" }, "geometry": { "type": "Point", "coordinates": [ 137.209327159999987, 37.33540687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町瑞穂167-1" }, "geometry": { "type": "Point", "coordinates": [ 137.04409671, 37.28039439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町天坂へ部17" }, "geometry": { "type": "Point", "coordinates": [ 137.09997841, 37.35132703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡門前町字道下21-106-2" }, "geometry": { "type": "Point", "coordinates": [ 136.75068013, 37.29043046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市水守町川フゴ13番地" }, "geometry": { "type": "Point", "coordinates": [ 136.89224268000001, 37.38787592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市町野町広江4-5" }, "geometry": { "type": "Point", "coordinates": [ 137.087346630000013, 37.42656112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市塚田町3-6-2" }, "geometry": { "type": "Point", "coordinates": [ 136.91737232, 37.39461857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市木津イ16-6" }, "geometry": { "type": "Point", "coordinates": [ 136.70874948, 36.74503474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字長沢1-50" }, "geometry": { "type": "Point", "coordinates": [ 136.776439, 36.99461686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町里本江42-8" }, "geometry": { "type": "Point", "coordinates": [ 136.72223244, 37.14609243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市兵庫町巳14-1" }, "geometry": { "type": "Point", "coordinates": [ 136.777213139999986, 36.88754378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市熊坂町171-1" }, "geometry": { "type": "Point", "coordinates": [ 136.2999149, 36.29302476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市幸町2丁目82" }, "geometry": { "type": "Point", "coordinates": [ 136.318690729999986, 36.29874679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市作見町ワ-7" }, "geometry": { "type": "Point", "coordinates": [ 136.35084218, 36.32174308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山代温泉19-83-1" }, "geometry": { "type": "Point", "coordinates": [ 136.36475803, 36.29523661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山中温泉塚谷町ニ35-2" }, "geometry": { "type": "Point", "coordinates": [ 136.36761414, 36.25881237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市新保町拓10-1" }, "geometry": { "type": "Point", "coordinates": [ 136.360773599999987, 36.36974084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市分校町ケ5" }, "geometry": { "type": "Point", "coordinates": [ 136.404069279999987, 36.32246807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市菊川1丁目32-15" }, "geometry": { "type": "Point", "coordinates": [ 136.66473528, 36.55039018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市元町2丁目20-1" }, "geometry": { "type": "Point", "coordinates": [ 136.66414294, 36.57835972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市松寺町酉100-1" }, "geometry": { "type": "Point", "coordinates": [ 136.6570779, 36.60027456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市西泉4丁目129-2" }, "geometry": { "type": "Point", "coordinates": [ 136.63265951, 36.5492984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市長田本町チ30-1" }, "geometry": { "type": "Point", "coordinates": [ 136.639301069999988, 36.57265246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市天神町1丁目4-33" }, "geometry": { "type": "Point", "coordinates": [ 136.677200699999986, 36.56066875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市南森本町へ44-1" }, "geometry": { "type": "Point", "coordinates": [ 136.689229329999989, 36.62139374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八日市1丁目753" }, "geometry": { "type": "Point", "coordinates": [ 136.6106059, 36.54128395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市瓢箪町8-1" }, "geometry": { "type": "Point", "coordinates": [ 136.65651259, 36.57794211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市鳴和1丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 136.673397959999988, 36.58484972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市問屋町2丁目75" }, "geometry": { "type": "Point", "coordinates": [ 136.643019399999986, 36.6053424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町良川は-27" }, "geometry": { "type": "Point", "coordinates": [ 136.889022219999987, 36.97877144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市光陽台45" }, "geometry": { "type": "Point", "coordinates": [ 136.92299691, 37.08263189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市蛸島町力部128-1" }, "geometry": { "type": "Point", "coordinates": [ 137.31489658000001, 37.44163587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市井口町へ36" }, "geometry": { "type": "Point", "coordinates": [ 136.44748927, 36.33421017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市園町ホ148-1" }, "geometry": { "type": "Point", "coordinates": [ 136.461667010000014, 36.40699903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市軽海町ソ50" }, "geometry": { "type": "Point", "coordinates": [ 136.4974142, 36.4004697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市高堂町イ37" }, "geometry": { "type": "Point", "coordinates": [ 136.479332879999987, 36.43628154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市今江町8丁目11" }, "geometry": { "type": "Point", "coordinates": [ 136.43119979, 36.37753197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市佐美町亥116" }, "geometry": { "type": "Point", "coordinates": [ 136.3975187, 36.37955541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市大島町ホ63-1" }, "geometry": { "type": "Point", "coordinates": [ 136.45057075, 36.42411076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市符津町タ91-3" }, "geometry": { "type": "Point", "coordinates": [ 136.429815780000013, 36.36285147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市有明町1-1" }, "geometry": { "type": "Point", "coordinates": [ 136.458939890000011, 36.40144374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町字三納285-1" }, "geometry": { "type": "Point", "coordinates": [ 136.6088513, 36.52330926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町新庄6丁目641番地" }, "geometry": { "type": "Point", "coordinates": [ 136.60721272, 36.50383942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市寺井町ぬ83" }, "geometry": { "type": "Point", "coordinates": [ 136.500169050000011, 36.44017062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市小杉町ハ188-1" }, "geometry": { "type": "Point", "coordinates": [ 136.48619828, 36.42173519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市大長野町ハ77" }, "geometry": { "type": "Point", "coordinates": [ 136.49064224, 36.42937328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市和気町ロ-6" }, "geometry": { "type": "Point", "coordinates": [ 136.54657735, 36.42344234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市吉野乙110-1" }, "geometry": { "type": "Point", "coordinates": [ 136.62700881, 36.34777922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市倉光町1-191" }, "geometry": { "type": "Point", "coordinates": [ 136.56929951, 36.51194926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市末広1丁目143" }, "geometry": { "type": "Point", "coordinates": [ 136.56662497, 36.52019294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市明島町西109-6" }, "geometry": { "type": "Point", "coordinates": [ 136.60286603, 36.46885389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠群能登町字宇出津タ字74-9" }, "geometry": { "type": "Point", "coordinates": [ 137.14687788, 37.30933902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町字川島キ112-1" }, "geometry": { "type": "Point", "coordinates": [ 136.91062401, 37.22905643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字松波26字57乙-1" }, "geometry": { "type": "Point", "coordinates": [ 137.23850134, 37.35275288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市横地町2字4-1" }, "geometry": { "type": "Point", "coordinates": [ 136.9085408, 37.37913571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字庄ヌ45-1" }, "geometry": { "type": "Point", "coordinates": [ 136.721228169999989, 36.67999515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町浅田甲121" }, "geometry": { "type": "Point", "coordinates": [ 136.74582007, 36.66613968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市駅西本町5−2−5" }, "geometry": { "type": "Point", "coordinates": [ 136.63015557, 36.58290789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市小立野2−41−32" }, "geometry": { "type": "Point", "coordinates": [ 136.68053414, 36.54650468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市泉3−6−56" }, "geometry": { "type": "Point", "coordinates": [ 136.637881279999988, 36.54455225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市入江2−37" }, "geometry": { "type": "Point", "coordinates": [ 136.62419126, 36.56539882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八日市5−609" }, "geometry": { "type": "Point", "coordinates": [ 136.612423510000013, 36.55137918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町能登部上ト87" }, "geometry": { "type": "Point", "coordinates": [ 136.8772506, 36.96831401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市園町ハ116−1" }, "geometry": { "type": "Point", "coordinates": [ 136.46060834, 36.40520222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市向本折町マ46−2" }, "geometry": { "type": "Point", "coordinates": [ 136.44615767, 36.39322324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市今江町5−679" }, "geometry": { "type": "Point", "coordinates": [ 136.4386331, 36.3746328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町横宮町6-1" }, "geometry": { "type": "Point", "coordinates": [ 136.61774927, 36.53649396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町住吉町12−21" }, "geometry": { "type": "Point", "coordinates": [ 136.61848298000001, 36.52679727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市名舟町い部5" }, "geometry": { "type": "Point", "coordinates": [ 137.02370489, 37.43159885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市示野中町イ３３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61764297, 36.58008564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市小坂町北１５６" }, "geometry": { "type": "Point", "coordinates": [ 136.67866988, 36.59447021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市浅野本町２−１６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.66148141, 36.58511339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市中村町３１−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.643351349999989, 36.56335895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福久町への１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.678116280000012, 36.61171657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町扇が丘２５−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.62924974, 36.5269507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市徳丸町５４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.576340750000014, 36.51742045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字鵜川２１−４７" }, "geometry": { "type": "Point", "coordinates": [ 137.08026418, 37.25638348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市外日角イ９１" }, "geometry": { "type": "Point", "coordinates": [ 136.69826654, 36.72399943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市高松ル−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.73012155, 36.77370996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字高浜町ケ８２" }, "geometry": { "type": "Point", "coordinates": [ 136.777291709999986, 36.99668054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字松木９−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.77912722, 37.06317885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町富来領家町子１８" }, "geometry": { "type": "Point", "coordinates": [ 136.7286997, 37.14448017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡宝達志水町小川１−２１７" }, "geometry": { "type": "Point", "coordinates": [ 136.75645019000001, 36.82097429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市四柳町ソ７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.85682283, 36.93132157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市千里浜町ソ７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.76988015, 36.89684775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市松山町イ７１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.39076089, 36.31687805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市大聖寺岡町ホ７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.31716172, 36.31359593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市美岬町へ７４" }, "geometry": { "type": "Point", "coordinates": [ 136.322403, 36.35060338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字加賀爪リ１１" }, "geometry": { "type": "Point", "coordinates": [ 136.73541304, 36.66813967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字潟端４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7096875, 36.65501309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡内灘町鶴ケ丘３−１５７−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.64252848000001, 36.64702282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市もりの里３−２０１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67998782, 36.56248234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市粟崎町ホ９" }, "geometry": { "type": "Point", "coordinates": [ 136.626709080000012, 36.62205313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市笠舞本町２−３７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.66998498000001, 36.54630737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市久安２−４７４" }, "geometry": { "type": "Point", "coordinates": [ 136.629543899999987, 36.53736332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市金石東１−１７８" }, "geometry": { "type": "Point", "coordinates": [ 136.599142949999987, 36.59853338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市高柳町２−２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.66281709, 36.59407874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市四十万町リ３１１" }, "geometry": { "type": "Point", "coordinates": [ 136.62026739, 36.50189529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市若宮１−１２１" }, "geometry": { "type": "Point", "coordinates": [ 136.63243426, 36.57480137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市松村１−３５３" }, "geometry": { "type": "Point", "coordinates": [ 136.615401819999988, 36.5894748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市新神田５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62861304, 36.56330668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神宮寺２−３０−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.66895677, 36.58916638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市西念４−１１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.63587457, 36.5862461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市大浦町チ１２０" }, "geometry": { "type": "Point", "coordinates": [ 136.658619320000014, 36.61987072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市彦三町２−１３−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.659484709999987, 36.57583136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福久町チ３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67513162, 36.60903125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市利屋町と３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.71883803, 36.64326805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鹿島郡中能登町能登部下７９−７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.86314733, 36.95939148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市千野町へ２２" }, "geometry": { "type": "Point", "coordinates": [ 136.95735984, 37.02052348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市田鶴浜町タ７３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.89339143, 37.06518854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市府中町員外２１−６" }, "geometry": { "type": "Point", "coordinates": [ 136.96957536, 37.04722344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市上戸町北方５−１７９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25700079, 37.43162129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市宝立町鵜島ロ−１７" }, "geometry": { "type": "Point", "coordinates": [ 137.24044974, 37.39963327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市長田町ワ１３２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.467865780000011, 36.43031516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市浮柳町ハ１２２" }, "geometry": { "type": "Point", "coordinates": [ 136.42017596, 36.40764868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市平面町カ１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.474225819999987, 36.4199473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市北浅井町ち２９" }, "geometry": { "type": "Point", "coordinates": [ 136.457518670000013, 36.38860695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町堀内２−２０６" }, "geometry": { "type": "Point", "coordinates": [ 136.60010193, 36.52903075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町本町５−３１４" }, "geometry": { "type": "Point", "coordinates": [ 136.61035567, 36.53073375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市宮竹町タ８２" }, "geometry": { "type": "Point", "coordinates": [ 136.59184088, 36.4527429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市根上町大成町リ８１" }, "geometry": { "type": "Point", "coordinates": [ 136.46399485, 36.44972076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市寺井町佐野甲１０" }, "geometry": { "type": "Point", "coordinates": [ 136.513529119999987, 36.42837506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市寺井町寺井る９７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.50313549, 36.44215718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市辰口町辰口４８６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.548263389999988, 36.44309931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市安養寺町３１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59816263, 36.49217626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市井口町に８４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60119572, 36.47219432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市吉野ト１４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61430252, 36.36359304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市宮永町５２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57374292, 36.54644504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市月橋町５０１‐２" }, "geometry": { "type": "Point", "coordinates": [ 136.6185456, 36.46670599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市山島台３−８６" }, "geometry": { "type": "Point", "coordinates": [ 136.57810113, 36.46932991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市白峰ハ４５" }, "geometry": { "type": "Point", "coordinates": [ 136.623985119999986, 36.17906949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市尾添チ８４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.7154271, 36.26852886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市福留町２７６" }, "geometry": { "type": "Point", "coordinates": [ 136.529275969999986, 36.49436667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市北安田町１７６８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54494871, 36.5182402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町字大町ロ２７" }, "geometry": { "type": "Point", "coordinates": [ 136.907609369999989, 37.22528364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町中居下出１７５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.93961517, 37.23848362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町柳田仁部５９−３" }, "geometry": { "type": "Point", "coordinates": [ 137.096643699999987, 37.36808992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市鳳至町下町１６４" }, "geometry": { "type": "Point", "coordinates": [ 136.89975827, 37.39976378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市高松キ１番地２" }, "geometry": { "type": "Point", "coordinates": [ 136.7163663, 36.75916579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市一ノ宮町ナ２８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.76409037, 36.92471847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市中央町キ５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.77810172, 36.89145709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市東川原町免田４６" }, "geometry": { "type": "Point", "coordinates": [ 136.78853082, 36.89586222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡内灘町向粟崎５−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.63621396, 36.6379934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市額新保１−４４６" }, "geometry": { "type": "Point", "coordinates": [ 136.61746736, 36.52158176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市笠舞１−２３−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.67526104, 36.54631107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市間明町２−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.61592511, 36.56594909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市近岡町９４５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63095055, 36.61560148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市金石本町ハ−７" }, "geometry": { "type": "Point", "coordinates": [ 136.59592748, 36.59967126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市広岡町１丁目１番１６号" }, "geometry": { "type": "Point", "coordinates": [ 136.645327189999989, 36.57831681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市三社町３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.645878610000011, 36.57170422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市示野中町１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61719639, 36.5785541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市神谷内町ニ−６１" }, "geometry": { "type": "Point", "coordinates": [ 136.680761600000011, 36.598394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市須崎町イ１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63953111, 36.62878468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市問屋町１−７２" }, "geometry": { "type": "Point", "coordinates": [ 136.635764959999989, 36.60646232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市田鶴浜町ぬ部１０" }, "geometry": { "type": "Point", "coordinates": [ 136.885138610000013, 37.0647843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市本府中町ハ部５０" }, "geometry": { "type": "Point", "coordinates": [ 136.96648701, 37.04211006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市三崎町宇治ヨ−１０８" }, "geometry": { "type": "Point", "coordinates": [ 137.34193858, 37.47269443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市若山町火宮４−７−３" }, "geometry": { "type": "Point", "coordinates": [ 137.23388913, 37.45744035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市上戸町い３２番１" }, "geometry": { "type": "Point", "coordinates": [ 137.2581667, 37.43497154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市長橋町１２−２２−２" }, "geometry": { "type": "Point", "coordinates": [ 137.1593866, 37.50072524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市飯田町シ−６８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.269384949999989, 37.4407354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県珠洲市宝立町金峰時末−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.23408081, 37.40272448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町野代１−６１" }, "geometry": { "type": "Point", "coordinates": [ 136.60293696, 36.53896313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市井ノ口町ロ−５５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60126398, 36.47604302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市鶴来本町４−チ−１０８" }, "geometry": { "type": "Point", "coordinates": [ 136.623535049999987, 36.45523871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町鵜島ハ−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.90815143, 37.2242132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町川島ワ１４４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.90605258, 37.23535505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡能登町字藤波１字４２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.14582381, 37.30223948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市町野町粟蔵二部８０" }, "geometry": { "type": "Point", "coordinates": [ 137.0904841, 37.42321138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市門前町本−は１６" }, "geometry": { "type": "Point", "coordinates": [ 136.78802789, 37.29350379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市松浜ハ４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.70588949, 36.74100345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町高浜町ク２８−６" }, "geometry": { "type": "Point", "coordinates": [ 136.77876003, 37.00380068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町高浜町レ１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.77456587, 37.00676675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市大聖寺弓町６４" }, "geometry": { "type": "Point", "coordinates": [ 136.31656278, 36.30576817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市長坂台１−３９" }, "geometry": { "type": "Point", "coordinates": [ 136.65327982, 36.53524597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市有松２−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.64036988, 36.54284035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市城南町１６" }, "geometry": { "type": "Point", "coordinates": [ 136.43866025, 36.40696112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町二日市町４５２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59898798, 36.53764359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美郡川北町字田子島へ6番地" }, "geometry": { "type": "Point", "coordinates": [ 136.51574342, 36.47635949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市三井町長沢1-16" }, "geometry": { "type": "Point", "coordinates": [ 136.90245729, 37.31701656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市中奥町２０８" }, "geometry": { "type": "Point", "coordinates": [ 136.57887967, 36.51920996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市上河崎町子１１８" }, "geometry": { "type": "Point", "coordinates": [ 136.34512342, 36.30335846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市八日市3-556" }, "geometry": { "type": "Point", "coordinates": [ 136.60439391, 36.54723861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市旭町2-8-42" }, "geometry": { "type": "Point", "coordinates": [ 136.682497649999988, 36.55379285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市駅西本町3丁目2-1" }, "geometry": { "type": "Point", "coordinates": [ 136.63533131, 36.58232033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市小立野1-4-11" }, "geometry": { "type": "Point", "coordinates": [ 136.68272653, 36.54387977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市松浜イ１１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.708681539999986, 36.74389119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町新庄２丁目２４７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61091155, 36.50222578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市高座町イ-1" }, "geometry": { "type": "Point", "coordinates": [ 136.522014500000012, 36.44742855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市八ツ矢町４０６" }, "geometry": { "type": "Point", "coordinates": [ 136.573617, 36.5276158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市稚日野町南４３８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59754804, 36.57714235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市割出町７１５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6365036, 36.60106691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市乾町１６６" }, "geometry": { "type": "Point", "coordinates": [ 136.58424227, 36.52525337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市新保町ケ８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.3613848, 36.35810612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市横川６丁目１８４" }, "geometry": { "type": "Point", "coordinates": [ 136.627119099999987, 36.54327362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市堀川新町８−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.651148909999989, 36.58117209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市鳴和町タ１６６" }, "geometry": { "type": "Point", "coordinates": [ 136.677441359999989, 36.58296118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県羽咋市新保町下１２８" }, "geometry": { "type": "Point", "coordinates": [ 136.77117586, 36.86996011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県珠洲市宝立町春日野丙２１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23947419000001, 37.40911371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市大額3丁目236" }, "geometry": { "type": "Point", "coordinates": [ 136.624525330000012, 36.5122663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市福留町198" }, "geometry": { "type": "Point", "coordinates": [ 136.528480089999988, 36.4939455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市上安田町２３９" }, "geometry": { "type": "Point", "coordinates": [ 136.54076695, 36.47823325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市北安江２−３０−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.64943477, 36.58909871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県河北郡津幡町清水ヘ３９８" }, "geometry": { "type": "Point", "coordinates": [ 136.732829939999988, 36.67712296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県鳳珠郡能登町羽根４−３５" }, "geometry": { "type": "Point", "coordinates": [ 137.169508799999988, 37.30226081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県鳳珠郡穴水町北七海１２" }, "geometry": { "type": "Point", "coordinates": [ 136.914787819999987, 37.23580197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市三池町２３８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67140582, 36.59436547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市玉鉾町１−５６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62624563, 36.56948154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市若宮１−１１６" }, "geometry": { "type": "Point", "coordinates": [ 136.632943899999987, 36.57488193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市出雲町イ−６３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.628099889999987, 36.57586851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県能美市大浜町ヤ６５" }, "geometry": { "type": "Point", "coordinates": [ 136.46186273, 36.45781615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市南浅井町イ１０７−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.460748310000014, 36.38331751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市一針町イ１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.4804986, 36.42418426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市加茂町ソ６２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.35849131, 36.31544867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市加茂町２９１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.35745535, 36.31467097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市門前町黒島町１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.73392315000001, 37.27608029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市千里浜町ワ６０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.77342757, 36.88579953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市本江町ト２７" }, "geometry": { "type": "Point", "coordinates": [ 136.838867709999988, 36.91264214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町字横浜い１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.735429900000014, 36.66598259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町末吉寅１３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.785689389999987, 37.01348017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市今江町３丁目５７２" }, "geometry": { "type": "Point", "coordinates": [ 136.44597152, 36.38171972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県鳳珠郡穴水町字乙ケ崎ホ−１３４" }, "geometry": { "type": "Point", "coordinates": [ 136.906449790000011, 37.21853746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市動橋町ネ−２２" }, "geometry": { "type": "Point", "coordinates": [ 136.38227709, 36.32682862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市内日角３丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.70253091, 36.71288805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市田中町２７８" }, "geometry": { "type": "Point", "coordinates": [ 136.58923868, 36.52744169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市作見町ヌ−５" }, "geometry": { "type": "Point", "coordinates": [ 136.3543549, 36.31914939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市高尾台４丁目７９" }, "geometry": { "type": "Point", "coordinates": [ 136.627548569999988, 36.52274553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市中島町塩津ル−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.856896189999986, 37.08812388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市利屋町ち１７" }, "geometry": { "type": "Point", "coordinates": [ 136.717798390000013, 36.64132441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市大野町４丁目ソ−５" }, "geometry": { "type": "Point", "coordinates": [ 136.61007331, 36.62161599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市桂町ニ１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60641985, 36.60629833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市大聖寺中新道４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.309524610000011, 36.30431819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市作見町ホ−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.35796631, 36.31715397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市伏見台３丁目５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.63558498, 36.53436186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市南森本町ロ９８" }, "geometry": { "type": "Point", "coordinates": [ 136.69109993, 36.62298643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市飯川町ア−３９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.93415436, 37.0006563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市国分町ノ−４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.952566, 37.03464771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県七尾市矢田新町乙５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.98012699, 37.0498725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市粟津町１" }, "geometry": { "type": "Point", "coordinates": [ 136.44395085, 36.32912773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市蓑輪町ヌ−１" }, "geometry": { "type": "Point", "coordinates": [ 136.4220611, 36.35461149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市須崎町イ２１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.64031701, 36.62868836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市福増町北２０４−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.579705929999989, 36.56340102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市五間堂町戊５−６" }, "geometry": { "type": "Point", "coordinates": [ 136.487364469999989, 36.44315989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市南中央町キ１５６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.77835681, 36.89017077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市辰口町４２５" }, "geometry": { "type": "Point", "coordinates": [ 136.55005848, 36.44421333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県輪島市門前町餅田ム田２９" }, "geometry": { "type": "Point", "coordinates": [ 136.76286303, 37.35229521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市内日角１丁目３０" }, "geometry": { "type": "Point", "coordinates": [ 136.70296195, 36.71347399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県石川郡野々市町新庄３丁目１２５" }, "geometry": { "type": "Point", "coordinates": [ 136.61204926, 36.50530061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市石引１丁目１５−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.67303174, 36.55403989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市滝町８８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.758147799999989, 36.93657841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市須天町１丁目９４" }, "geometry": { "type": "Point", "coordinates": [ 136.44044148, 36.38667695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市内日角タ−５" }, "geometry": { "type": "Point", "coordinates": [ 136.70121232, 36.71030778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋市石野町イ５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.79977607, 36.89489936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県加賀市山代温泉１９区４９−９２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.37089887, 36.29549291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県小松市園町ハ−１３４" }, "geometry": { "type": "Point", "coordinates": [ 136.458021190000011, 36.40557451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市片山津温泉ア１１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.36214867000001, 36.34781333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市松が丘１丁目２１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.34249079, 36.32520156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市永井町４９−１９" }, "geometry": { "type": "Point", "coordinates": [ 136.27252601, 36.29127445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市黒瀬町オ１６７" }, "geometry": { "type": "Point", "coordinates": [ 136.33884415, 36.30175806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市扇町４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.66921789, 36.56133349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市動橋町ロ８６" }, "geometry": { "type": "Point", "coordinates": [ 136.38683502, 36.32878318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市大野町４丁目ソ−６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.60920561, 36.62265165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市京町１０−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.65396256, 36.58266082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県能美市寺井町や１２８" }, "geometry": { "type": "Point", "coordinates": [ 136.503868860000011, 36.4443722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市長土塀３丁目２１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.6422307, 36.56676269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県河北郡内灘町字向粟崎５丁目２３６" }, "geometry": { "type": "Point", "coordinates": [ 136.63953107, 36.63864733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町住吉町６−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.6213291, 36.52786573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町下林４丁目５６７" }, "geometry": { "type": "Point", "coordinates": [ 136.60284065, 36.52497292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町上林５丁目３２" }, "geometry": { "type": "Point", "coordinates": [ 136.60619896, 36.50104809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市笠間町６２０" }, "geometry": { "type": "Point", "coordinates": [ 136.52573714, 36.50452325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市四ツ屋町１０６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53800575, 36.48960117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市水島町１２３４" }, "geometry": { "type": "Point", "coordinates": [ 136.51257238, 36.48559736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市殿町４８" }, "geometry": { "type": "Point", "coordinates": [ 136.56788271, 36.52541583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市千代野東２丁目８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.5408741, 36.52041651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市小立野３丁目４−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.6767094, 36.54795171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町御経塚３丁目６５" }, "geometry": { "type": "Point", "coordinates": [ 136.599048649999986, 36.55330559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市八日市２丁目２８２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.60610109000001, 36.54470666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市小坂町西７７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.67183866, 36.59140419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市高尾台２丁目８０" }, "geometry": { "type": "Point", "coordinates": [ 136.63272455, 36.52401778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市富樫２丁目６−３７" }, "geometry": { "type": "Point", "coordinates": [ 136.64537884, 36.53721359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市吉原町ハ９" }, "geometry": { "type": "Point", "coordinates": [ 136.69254726, 36.61188503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市山王町シ−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.97219476, 37.04222135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市山科３丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.646581739999988, 36.52976174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市諸江町３２−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.64458147, 36.59248978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市三馬１丁目４０６" }, "geometry": { "type": "Point", "coordinates": [ 136.629824719999988, 36.52585917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市藤江北２丁目３８７" }, "geometry": { "type": "Point", "coordinates": [ 136.62176993, 36.58704025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市小橋町２−４３" }, "geometry": { "type": "Point", "coordinates": [ 136.662420559999987, 36.5767174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市三社町７−８" }, "geometry": { "type": "Point", "coordinates": [ 136.644705320000014, 36.57163435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市矢田野町１９" }, "geometry": { "type": "Point", "coordinates": [ 136.420350719999988, 36.35202427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市山王町２丁目２１０" }, "geometry": { "type": "Point", "coordinates": [ 136.69798172, 36.57501011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市示野町ホ１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.613043549999986, 36.57726656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市新神田４丁目１３−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.627495970000012, 36.56027713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市桜町８４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.96386189, 37.05118109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市神宮寺１丁目１８−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.66612561, 36.58211667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市神宮寺２丁目２９−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.668214049999989, 36.5891323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市末町１７−２３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.68718421, 36.51828828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市芦田町２丁目３５" }, "geometry": { "type": "Point", "coordinates": [ 136.44352656, 36.405273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市矢田新町ホ１４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.978714559999986, 37.04808033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市天神町１丁目１３−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.67806169, 36.55971991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市小寺町乙１２５" }, "geometry": { "type": "Point", "coordinates": [ 136.45353961, 36.40830111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県河北郡津幡町字清水ホ−３１６" }, "geometry": { "type": "Point", "coordinates": [ 136.73048019, 36.67661187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市美川北町ソ−１０７" }, "geometry": { "type": "Point", "coordinates": [ 136.48775452000001, 36.48665039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市山代温泉９区１７−１１１" }, "geometry": { "type": "Point", "coordinates": [ 136.35852773, 36.29043326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市久安４丁目２１７" }, "geometry": { "type": "Point", "coordinates": [ 136.63418803, 36.53628296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市佐奇森町ロ９５" }, "geometry": { "type": "Point", "coordinates": [ 136.59231478, 36.58638418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市本多町３丁目１２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.65824102, 36.55588276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市松百町１−１７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.94344533, 37.06147549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市材木町８４" }, "geometry": { "type": "Point", "coordinates": [ 136.45075653, 36.40615961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町新庄２丁目３２０" }, "geometry": { "type": "Point", "coordinates": [ 136.60854045, 36.50169803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県加賀市大聖寺永町１８" }, "geometry": { "type": "Point", "coordinates": [ 136.320381739999988, 36.30825962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市長坂台７−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.65423101, 36.53425852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県白山市小柳町ろ１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.615893089999986, 36.46724477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市津向町ト−１０７" }, "geometry": { "type": "Point", "coordinates": [ 136.95530365, 37.05660751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市下牧町癸１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.42950277, 36.407502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県輪島市山岸町ロ−５１" }, "geometry": { "type": "Point", "coordinates": [ 136.90830324, 37.38151587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県羽咋郡宝達志水町柳瀬ヨ−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.77005495, 36.85898679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市中島町崎山３−５８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.849556150000012, 37.10421984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市三馬１丁目５０" }, "geometry": { "type": "Point", "coordinates": [ 136.63401332, 36.52528153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市八日市３丁目８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.60532949, 36.54661715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市竪町１６" }, "geometry": { "type": "Point", "coordinates": [ 136.655157949999989, 36.55833911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県鳳珠郡能登町字藤波１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.14221702, 37.30190742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市松村１丁目２７６" }, "geometry": { "type": "Point", "coordinates": [ 136.614765, 36.58780672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県石川郡野々市町本町６丁目１２−７０" }, "geometry": { "type": "Point", "coordinates": [ 136.609967680000011, 36.53608822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市松島２丁目２０５" }, "geometry": { "type": "Point", "coordinates": [ 136.602025950000012, 36.56480965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市田尻町オ−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.31734216000001, 36.35122928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市芳斉２丁目１５−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.64755786, 36.57260651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市菊川１丁目１６−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.66346592, 36.55079567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市粟崎町３丁目２８" }, "geometry": { "type": "Point", "coordinates": [ 136.626601279999988, 36.62679581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市石引１丁目８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.67173179, 36.55540362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市石引１丁目１５−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.6727833, 36.55376053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市神田２丁目３−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.635467580000011, 36.55991336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市新保本１丁目３０２" }, "geometry": { "type": "Point", "coordinates": [ 136.60502863, 36.5549693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市西都２丁目１６" }, "geometry": { "type": "Point", "coordinates": [ 136.6264916, 36.59041761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市額新保３丁目１６０" }, "geometry": { "type": "Point", "coordinates": [ 136.61527874, 36.51307167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市野町１丁目３−５１" }, "geometry": { "type": "Point", "coordinates": [ 136.6475642, 36.55404773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市東山２丁目１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.66711195, 36.57499552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市東山３丁目１６−９" }, "geometry": { "type": "Point", "coordinates": [ 136.66209207, 36.57546723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市久安１丁目５０３" }, "geometry": { "type": "Point", "coordinates": [ 136.63278519, 36.5339531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市平和町３丁目２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.66479879, 36.53982653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市上荒屋８丁目１９" }, "geometry": { "type": "Point", "coordinates": [ 136.59092309, 36.54902513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市間明町１丁目１９８" }, "geometry": { "type": "Point", "coordinates": [ 136.61842151, 36.56688072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市芳斉１丁目６−３１" }, "geometry": { "type": "Point", "coordinates": [ 136.649843909999987, 36.57065683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市示野町西５１" }, "geometry": { "type": "Point", "coordinates": [ 136.60917989, 36.57970508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市須崎町ロ２０７" }, "geometry": { "type": "Point", "coordinates": [ 136.64235806, 36.62555007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市新神田１丁目９−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.6312399, 36.56494325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市東山２丁目８−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.668906459999988, 36.57450221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市中橋町９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64319419, 36.57408677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋市川原町チ１７５−７" }, "geometry": { "type": "Point", "coordinates": [ 136.78285926, 36.89613148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋市鶴多町亀田１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.79196091, 36.89710934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市鶴来水戸町２丁目２９" }, "geometry": { "type": "Point", "coordinates": [ 136.62600532, 36.4435968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市吉竹町２丁目６０" }, "geometry": { "type": "Point", "coordinates": [ 136.476502509999989, 36.39466941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市下河崎町ト−８−５" }, "geometry": { "type": "Point", "coordinates": [ 136.33179188, 36.30626567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市動橋町ワ８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.38578394000001, 36.32567105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市東二番町１２" }, "geometry": { "type": "Point", "coordinates": [ 136.56923261, 36.52420049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市久安４丁目１１６" }, "geometry": { "type": "Point", "coordinates": [ 136.634410159999987, 36.53836327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市野町１丁目３−６３" }, "geometry": { "type": "Point", "coordinates": [ 136.64771416, 36.5547421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市那谷町キ−５１" }, "geometry": { "type": "Point", "coordinates": [ 136.4199011, 36.31549184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市京町２３−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.65714631, 36.58249109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市山代温泉１９区１１７−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.36707992, 36.29468737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市河井町１−１５５" }, "geometry": { "type": "Point", "coordinates": [ 136.9018965, 37.39631256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町能登部下８４−８" }, "geometry": { "type": "Point", "coordinates": [ 136.862884259999987, 36.96111861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市井口町ろ３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60215, 36.476318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市鶴来本町１丁目ワ−９６" }, "geometry": { "type": "Point", "coordinates": [ 136.6278949, 36.44675443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市別所町１丁目４５" }, "geometry": { "type": "Point", "coordinates": [ 136.36013159, 36.27289255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市大文字町１３６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.4482518, 36.40049983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市大野町４丁目甲５" }, "geometry": { "type": "Point", "coordinates": [ 136.6048341, 36.61428606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺岡町ハ−３" }, "geometry": { "type": "Point", "coordinates": [ 136.31779287, 36.31304235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市山科３丁目７−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.645236290000014, 36.5286948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県石川郡野々市町新庄３丁目２２０" }, "geometry": { "type": "Point", "coordinates": [ 136.61124578, 36.5041033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市湊２丁目１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.650999860000013, 36.63725606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市山本町脇田８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.87475906, 37.3731325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市矢田野町５５−１０２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.41710386, 36.33439983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市河井町２３−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.9007614, 37.39285618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市河井町３−１６５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.90496391, 37.39277574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市新橋通７−６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.8989948, 37.39357828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市新橋通８−２−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.89860034, 37.39428375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市鳳至町上町４５" }, "geometry": { "type": "Point", "coordinates": [ 136.89661683, 37.39559484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市鳳至町丁１１２" }, "geometry": { "type": "Point", "coordinates": [ 136.89856013, 37.39988934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺中町１７" }, "geometry": { "type": "Point", "coordinates": [ 136.309582870000014, 36.30586247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市町野町曽々木ア２４" }, "geometry": { "type": "Point", "coordinates": [ 137.07741048, 37.45983084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市下粟津町ア−１１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.427559620000011, 36.34154421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県珠洲市飯田町１５−７４" }, "geometry": { "type": "Point", "coordinates": [ 137.262246760000011, 37.43463317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県珠洲市正院町正院１７−６" }, "geometry": { "type": "Point", "coordinates": [ 137.2892526, 37.44606022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県珠洲市蛸島町子８" }, "geometry": { "type": "Point", "coordinates": [ 137.31007355, 37.44079441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県珠洲市蛸島町レ−１２１" }, "geometry": { "type": "Point", "coordinates": [ 137.31121194, 37.43921447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県珠洲市宝立町鵜飼３−１２" }, "geometry": { "type": "Point", "coordinates": [ 137.242027220000011, 37.4037329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市橋立町は１３１" }, "geometry": { "type": "Point", "coordinates": [ 136.310748389999986, 36.34775749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市片山津温泉ヒ−２３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.36546775, 36.34465268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市片山津町ア乙７８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.36234022, 36.33582356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市東力３丁目１４１" }, "geometry": { "type": "Point", "coordinates": [ 136.62581816, 36.56365448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県輪島市町野町鈴屋ユ９０" }, "geometry": { "type": "Point", "coordinates": [ 137.08912208000001, 37.42449376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市八日市１丁目１７８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.60926066, 36.54672209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市若松町２丁目１１２" }, "geometry": { "type": "Point", "coordinates": [ 136.688749840000014, 36.55636491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市広岡１丁目１−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.645546599999989, 36.57859733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市阿良町１０６" }, "geometry": { "type": "Point", "coordinates": [ 136.96451478, 37.04704551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市上府中町セ−２４−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.96905342, 37.04201293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市小島町ホ４８" }, "geometry": { "type": "Point", "coordinates": [ 136.95674874, 37.05113085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市佐々波町ワ−９６" }, "geometry": { "type": "Point", "coordinates": [ 137.04550532, 37.01119929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市三島町３８" }, "geometry": { "type": "Point", "coordinates": [ 136.964031440000014, 37.04828423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市本江町ホ１" }, "geometry": { "type": "Point", "coordinates": [ 136.463328710000013, 36.38333155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市三室町１５０−２９" }, "geometry": { "type": "Point", "coordinates": [ 137.026181369999989, 37.10128841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市長田町イ−４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.47791264, 36.42407845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市矢田新町ホ１３" }, "geometry": { "type": "Point", "coordinates": [ 136.9821991, 37.04664896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市矢田町２４白土６−４９" }, "geometry": { "type": "Point", "coordinates": [ 136.98429693, 37.02765683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市安宅町ヲ−１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.42098094, 36.42250952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市糸町２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.470447080000014, 36.40281205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市井口町ヘ−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.44739765, 36.3337772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市浮柳町甲５１" }, "geometry": { "type": "Point", "coordinates": [ 136.42033709, 36.4066378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市上本折町２０" }, "geometry": { "type": "Point", "coordinates": [ 136.447676550000011, 36.39537271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市串町ヌ−７８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.416834740000013, 36.37048125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺敷地ル乙６６" }, "geometry": { "type": "Point", "coordinates": [ 136.322903450000013, 36.31368402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市湊町１丁目４２" }, "geometry": { "type": "Point", "coordinates": [ 136.96985594, 37.04606803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋郡志賀町高浜町ク−６０−４９" }, "geometry": { "type": "Point", "coordinates": [ 136.775311210000012, 37.00487358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋郡宝達志水町門前ロ−７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.768714710000012, 36.81413708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市田鶴浜町ホ−１３７" }, "geometry": { "type": "Point", "coordinates": [ 136.88751893, 37.06562144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市田鶴浜町に２４" }, "geometry": { "type": "Point", "coordinates": [ 136.8908654, 37.06622386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町良川７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89597626, 36.97514824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町高畠ル−２" }, "geometry": { "type": "Point", "coordinates": [ 136.89213371, 36.9700127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町武部ク−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.929690740000012, 36.98703879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市加茂町２０７" }, "geometry": { "type": "Point", "coordinates": [ 136.3586942, 36.31150755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町水白子１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.894628290000014, 36.95455089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県かほく市遠塚ニ−２７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.69532705, 36.73589013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鳳珠郡穴水町字川島カ−９８" }, "geometry": { "type": "Point", "coordinates": [ 136.905324830000012, 37.23223008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鳳珠郡穴水町字川島オ−１" }, "geometry": { "type": "Point", "coordinates": [ 136.90605678, 37.23570896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鳳珠郡能登町字松波３０−８０−３" }, "geometry": { "type": "Point", "coordinates": [ 137.23887685, 37.35330655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県金沢市森山２丁目２−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.670353150000011, 36.5801226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県小松市御館町甲１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.45550289, 36.4231429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鳳珠郡能登町字姫１０−２１９" }, "geometry": { "type": "Point", "coordinates": [ 137.21249372, 37.29678488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県鹿島郡中能登町二宮ハ−１４９" }, "geometry": { "type": "Point", "coordinates": [ 136.925862880000011, 36.97548535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市山中温泉東町２丁目ネ−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.3753495, 36.24791433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺南町ホ−２７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.31331047, 36.30239626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺耳聞山町２６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.31474882, 36.3106648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市大聖寺弓町１０" }, "geometry": { "type": "Point", "coordinates": [ 136.31666001, 36.30546543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市山代温泉北部３丁目１４区１７７" }, "geometry": { "type": "Point", "coordinates": [ 136.35970007, 36.29996996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋市上白瀬町ロ４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.82463492, 36.89801569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋市鶴多町五石高１６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.79235535, 36.89548422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋市中川町へ４８" }, "geometry": { "type": "Point", "coordinates": [ 136.81270024, 36.89506856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市下柏野町９５０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.52671505, 36.49699944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市専福寺町１４３" }, "geometry": { "type": "Point", "coordinates": [ 136.58623099, 36.52455902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県羽咋郡志賀町高浜町ソ−９１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.773143940000011, 37.00538804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県加賀市山中温泉泉町リ−３４８" }, "geometry": { "type": "Point", "coordinates": [ 136.35730443, 36.26403528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県かほく市宇野気チ−１２３" }, "geometry": { "type": "Point", "coordinates": [ 136.701221479999987, 36.72136453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県能美市佐野町オ−４５" }, "geometry": { "type": "Point", "coordinates": [ 136.50862683, 36.43027174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県能美市徳山町１１７" }, "geometry": { "type": "Point", "coordinates": [ 136.55331397, 36.43160391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県能美市灯台笹町２２６" }, "geometry": { "type": "Point", "coordinates": [ 136.60564466, 36.45191613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県能美市火釜町７１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.560146049999986, 36.45121807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県河北郡津幡町字太田ヘ１７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.72526222, 36.64710111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県河北郡津幡町字南中条ト−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.7270283, 36.65670007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県かほく市高松ク−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7230816, 36.76901902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県白山市布市１丁目１２７" }, "geometry": { "type": "Point", "coordinates": [ 136.57073527, 36.5229618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県河北郡津幡町竹橋ハ−１２１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.77247017, 36.66477232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県かほく市長柄町レ-６０-１" }, "geometry": { "type": "Point", "coordinates": [ 136.74275602, 36.7780786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡志賀町字仏木ク５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.817430800000011, 37.05220975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県羽咋郡宝達志水町字宿チ２５４" }, "geometry": { "type": "Point", "coordinates": [ 136.76308401, 36.8389153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市玉鉾1丁目320" }, "geometry": { "type": "Point", "coordinates": [ 136.62860784, 36.57082976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県金沢市長坂町3-1-45" }, "geometry": { "type": "Point", "coordinates": [ 136.65604861, 36.53798661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県能美市粟生町４９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.507651110000012, 36.4564616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "石川県白山市美川中町ヲ２２" }, "geometry": { "type": "Point", "coordinates": [ 136.48279605, 36.48621894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県かほく市高松キ３０−６" }, "geometry": { "type": "Point", "coordinates": [ 136.71420407, 36.75682007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県金沢市大野町４−ソ１３" }, "geometry": { "type": "Point", "coordinates": [ 136.61342725, 36.61984319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県七尾市石崎町エの部２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9276509, 37.073531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "石川県小松市矢田野町１９字５５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.42111444, 36.3521259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市石崎町西３−エ２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.92736819000001, 37.0734329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "石川県七尾市石崎町東３−ロ１１０" }, "geometry": { "type": "Point", "coordinates": [ 136.9350813, 37.07502241 ] } }
+
+]
+}

@@ -1,0 +1,1596 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町昌農内５５５−５" }, "geometry": { "type": "Point", "coordinates": [ 132.71587947, 33.8031246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字東古泉大地ノ窪５７４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.719339420000011, 33.79053948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寄松字聖神甲２１０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.552452530000011, 33.20258879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町魚棚３４−６" }, "geometry": { "type": "Point", "coordinates": [ 132.540732569999989, 33.27553684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市高串２番耕地４８１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.570235950000011, 33.25937966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町岩淵日出山西甲１２７７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.54913919, 33.12396381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町北灘甲１０３２番地の４" }, "geometry": { "type": "Point", "coordinates": [ 132.48129262, 33.13988649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町北灘甲４３３" }, "geometry": { "type": "Point", "coordinates": [ 132.4966564, 33.13859023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市明倫町３−４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.55856168, 33.21888352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市遊子２５４８" }, "geometry": { "type": "Point", "coordinates": [ 132.45437856, 33.20132731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市和霊中町２−２−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.568807529999987, 33.22953782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡上島町１５３０" }, "geometry": { "type": "Point", "coordinates": [ 133.146966780000014, 34.24534314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町佐方４３１−２" }, "geometry": { "type": "Point", "coordinates": [ 132.87460077, 34.05580947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市吉海町仁江９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04887183, 34.14718369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市玉川町法界寺甲５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.957926609999987, 34.02683903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市近見町１−２−７" }, "geometry": { "type": "Point", "coordinates": [ 132.988443210000014, 34.08653463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市山路町１−５−６" }, "geometry": { "type": "Point", "coordinates": [ 132.9762426, 34.05977853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町井口２２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0327057, 34.26861514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町井口５２８４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04152219, 34.26824891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大浜町１-４-１" }, "geometry": { "type": "Point", "coordinates": [ 132.984534919999987, 34.09768324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市朝倉南甲１８５" }, "geometry": { "type": "Point", "coordinates": [ 133.02102797, 33.98985178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市東村南１−６−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.03300755, 34.03585983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市南高下町４丁目４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.00973869, 34.04826718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市波方町樋口甲１３７１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.941792639999989, 34.09648977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市別名３７１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.97858451, 34.04475834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島金子２−５−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.537899759999988, 33.98066119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町天生津３２１６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.59012424, 34.01155633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町小林１０４４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.43487904, 33.95714147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町大字上野１５１１番地の１" }, "geometry": { "type": "Point", "coordinates": [ 133.38416609, 33.9450678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市安城寺町８５の１" }, "geometry": { "type": "Point", "coordinates": [ 132.74156976, 33.87011796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市井門町４７−６" }, "geometry": { "type": "Point", "coordinates": [ 132.78613823, 33.79492212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市久米窪田町８３３−７" }, "geometry": { "type": "Point", "coordinates": [ 132.81379763000001, 33.80842411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市久保３９０" }, "geometry": { "type": "Point", "coordinates": [ 132.76671814, 33.93837928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市勝山町１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.775445929999989, 33.83694878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市小坂５−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.78223566, 33.82632588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市千舟町３−３−９" }, "geometry": { "type": "Point", "coordinates": [ 132.768106679999988, 33.83699851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市大可賀１−３−８" }, "geometry": { "type": "Point", "coordinates": [ 132.713318289999989, 33.85388219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市大可賀三丁目１０−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.712988669999987, 33.85078694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市竹原町６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75270104, 33.83464319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中央１丁目１７−４５" }, "geometry": { "type": "Point", "coordinates": [ 132.75035832, 33.85440999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市長師４６１" }, "geometry": { "type": "Point", "coordinates": [ 132.62713879, 33.96280136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市東石井４−１８−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.77843471, 33.81354877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市東長戸１−１１−６" }, "geometry": { "type": "Point", "coordinates": [ 132.75146303, 33.86800754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南江戸２丁目８番３８号" }, "geometry": { "type": "Point", "coordinates": [ 132.74728353, 33.83673058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市馬木町８１６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74062677, 33.89579364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市富久町３８４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.72559653, 33.82058288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市福音寺町２５０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.79356324, 33.8225518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市平田町１２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75233142, 33.88404634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市平和通３丁目１" }, "geometry": { "type": "Point", "coordinates": [ 132.76834643, 33.84723788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北吉田町１９４−１−３" }, "geometry": { "type": "Point", "coordinates": [ 132.70945594, 33.83404751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北久米町７００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.79294536, 33.81842116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北土居町５-１５-１６" }, "geometry": { "type": "Point", "coordinates": [ 132.78002644, 33.8088446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸南１丁目２４−２５" }, "geometry": { "type": "Point", "coordinates": [ 132.73876105, 33.8132287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉４００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.760595810000012, 33.81547446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉北２丁目９−３" }, "geometry": { "type": "Point", "coordinates": [ 132.7574156, 33.82385645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町渋草１１０６番地" }, "geometry": { "type": "Point", "coordinates": [ 133.04007483, 33.70632879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町西谷３４２０" }, "geometry": { "type": "Point", "coordinates": [ 132.953656599999988, 33.50184309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町中津１４８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.05775097, 33.54481351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町入野カルト川１２７９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.897440210000013, 33.66541483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町柳井川７８０" }, "geometry": { "type": "Point", "coordinates": [ 133.00633419, 33.5562497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市新田町３−２−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.26097135, 33.95768878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市東雲町２丁目６番１１号" }, "geometry": { "type": "Point", "coordinates": [ 133.301796200000013, 33.965607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市本郷３丁目５番１８号" }, "geometry": { "type": "Point", "coordinates": [ 133.28256776, 33.93162115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町釜木２１７" }, "geometry": { "type": "Point", "coordinates": [ 132.171143160000014, 33.40516647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町二名津２７９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.13957556, 33.40179211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町湊浦３６の６" }, "geometry": { "type": "Point", "coordinates": [ 132.35408858, 33.48691476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市三芳２１７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0581044, 33.95549777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町大字新屋敷甲５１７−４" }, "geometry": { "type": "Point", "coordinates": [ 133.11061442, 33.89734927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町長野１１１４" }, "geometry": { "type": "Point", "coordinates": [ 133.047169239999988, 33.88364619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市城川町古市４１５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77670741, 33.36935936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市明浜町高山甲３３２５" }, "geometry": { "type": "Point", "coordinates": [ 132.43131878, 33.32028043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町野村１２−６４６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.64247834, 33.37872131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市肱川町宇和川３３５３" }, "geometry": { "type": "Point", "coordinates": [ 132.678107970000013, 33.46510216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市大洲６００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.54613427000001, 33.50657958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市長浜甲１６９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.483401609999987, 33.61252862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市徳森字宮方３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.57836794, 33.53280117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市北只１５３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.54497909, 33.49419429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市西岡８２４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.85673226, 33.80320901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市田窪１４１６−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.86217854, 33.79156019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町平山９０１" }, "geometry": { "type": "Point", "coordinates": [ 132.53769838, 32.97510242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市郷字西明寺４−４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.4546815, 33.46452476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市松柏字高須８０３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.43589083, 33.45888792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町昌農内字上蔵４１" }, "geometry": { "type": "Point", "coordinates": [ 132.72492843, 33.79892774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町宮内８１５" }, "geometry": { "type": "Point", "coordinates": [ 132.79076641, 33.74993429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町総津１６９" }, "geometry": { "type": "Point", "coordinates": [ 132.801288559999989, 33.63809058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市市場打田８１４" }, "geometry": { "type": "Point", "coordinates": [ 132.69635742, 33.73522615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市中山町中山子４５６−８" }, "geometry": { "type": "Point", "coordinates": [ 132.70024067, 33.66864749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市丸之内５丁目８−８" }, "geometry": { "type": "Point", "coordinates": [ 132.56241361, 33.22215729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寄松３７１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.54767851, 33.19919562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町沖村甲２２４９" }, "geometry": { "type": "Point", "coordinates": [ 132.52914127, 33.29086154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町立間尻甲４２４" }, "geometry": { "type": "Point", "coordinates": [ 132.54180209, 33.27274346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市高串２番耕地１５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.57073103, 33.25112361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市三間町宮野下甲１５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.607154619999989, 33.29000642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寿町２−２９３−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.55948629, 33.22309149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市中央町１丁目１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.56699717, 33.22016224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町岩松古川甲５９０−２６" }, "geometry": { "type": "Point", "coordinates": [ 132.522376040000012, 33.12713733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町岩渕８５２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.547832129999989, 33.12445437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町須下雲泊４２７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.41201444, 33.06499088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市保田字二又甲６２３−７" }, "geometry": { "type": "Point", "coordinates": [ 132.54773072, 33.18859679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡上島町岩城２１３７" }, "geometry": { "type": "Point", "coordinates": [ 133.14542635, 34.24585994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡上島町弓削下弓削２０２" }, "geometry": { "type": "Point", "coordinates": [ 133.20444383, 34.25867835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡上島町生名２１０６" }, "geometry": { "type": "Point", "coordinates": [ 133.17703702, 34.27784211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町内子字上沖甲８４６" }, "geometry": { "type": "Point", "coordinates": [ 132.6544005, 33.55105331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町平岡甲１７８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.65802703, 33.532221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宮ヶ崎６９０−９" }, "geometry": { "type": "Point", "coordinates": [ 133.00734, 34.01644789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宮窪町宮窪５７６３" }, "geometry": { "type": "Point", "coordinates": [ 133.07588666, 34.17680096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市郷桜井４−１−３２" }, "geometry": { "type": "Point", "coordinates": [ 133.03802871, 34.01672849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市郷六ヶ内町２丁目４−３５" }, "geometry": { "type": "Point", "coordinates": [ 132.99769027, 34.04401676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市玉川町大字長谷３２６番地１" }, "geometry": { "type": "Point", "coordinates": [ 132.937860050000012, 34.00385722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市古谷甲５４８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.00492853, 34.0084085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市高市１９８−８" }, "geometry": { "type": "Point", "coordinates": [ 133.00871189, 34.02883246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市国分字上河原甲２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0172942, 34.02832313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市松木字一寸田４０−２" }, "geometry": { "type": "Point", "coordinates": [ 133.00434077, 34.03005043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市常盤町４丁目９−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.99653726, 34.06270286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町浦戸字小新田甲５５９" }, "geometry": { "type": "Point", "coordinates": [ 132.961712580000011, 34.21923659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町宮浦沖御堂" }, "geometry": { "type": "Point", "coordinates": [ 133.002214470000013, 34.24806492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町大字宗方３４９０番地" }, "geometry": { "type": "Point", "coordinates": [ 132.95235534, 34.20369864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町宮脇４９０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.924736059999987, 34.06210046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町新町甲１０１６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.927980639999987, 34.06996649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市長沢字甲切堤甲２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.04904302, 33.99326952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市南鳥生町３丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.00968631, 34.05302748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市波方町波方甲１５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.96476404, 34.11808064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市拝志３番１２号" }, "geometry": { "type": "Point", "coordinates": [ 133.0253657, 34.0421811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町大字叶浦新浜甲１６６８−２４" }, "geometry": { "type": "Point", "coordinates": [ 133.07524967, 34.20406144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町大字木浦甲３４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.11057947, 34.20341534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市八町西３丁目２−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.99154682, 34.0442407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市美須賀町４丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.01151524, 34.05993913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市寒川町沢ノ原１２２１" }, "geometry": { "type": "Point", "coordinates": [ 133.51833696, 33.96912192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市金田町金川６５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.59632019, 33.99080104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町字港通４０６９−３６" }, "geometry": { "type": "Point", "coordinates": [ 133.57322357000001, 34.00838998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町大字中村１３１７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.4313952, 33.95697275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市一番町２丁目６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77210865, 33.84156825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市久保外ノ坪１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77257354, 33.93724584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市宮西１丁目４−３７" }, "geometry": { "type": "Point", "coordinates": [ 132.75174643, 33.84604573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市空港通２−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74035448, 33.82866777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市高浜町１−２２３２" }, "geometry": { "type": "Point", "coordinates": [ 132.70214391, 33.88264276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市西垣生町４９２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.7044388, 33.81027257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市谷町１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75240075, 33.88091565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中央１丁目１６−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.74900329, 33.85520398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市天山３丁目１４番３２号" }, "geometry": { "type": "Point", "coordinates": [ 132.775629079999987, 33.82192624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市土居田町１４５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75168779, 33.81951986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市土手内１６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.77316676, 33.97256762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南高井町１３５８番１" }, "geometry": { "type": "Point", "coordinates": [ 132.81075178, 33.79118822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市平井町２８６０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.82196836, 33.80720997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市平井町３１６３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.81918069, 33.80876196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市保免西１−１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.74440375, 33.81643917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市保免西４丁目６−２８" }, "geometry": { "type": "Point", "coordinates": [ 132.74110263, 33.81434714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北井門町５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.78265459, 33.80425284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北条辻字猪ノ木７０５" }, "geometry": { "type": "Point", "coordinates": [ 132.778933349999988, 33.9662145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北土居町６５７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.78135212, 33.80715016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市本町３−５−２０" }, "geometry": { "type": "Point", "coordinates": [ 132.75854776, 33.84695022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸西３−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.71943706, 33.81215286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸中４−２−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.72650051, 33.81576097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町久万１４７９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.90202998, 33.65284915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町大字久万町２９０" }, "geometry": { "type": "Point", "coordinates": [ 132.899811160000013, 33.65881494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町中組９６７" }, "geometry": { "type": "Point", "coordinates": [ 133.03808866, 33.67787433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市一宮町２丁目４−３５" }, "geometry": { "type": "Point", "coordinates": [ 133.27510141, 33.95890682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市外山町１４−４７" }, "geometry": { "type": "Point", "coordinates": [ 133.30880794, 33.93718207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市庄内町１−７−２１" }, "geometry": { "type": "Point", "coordinates": [ 133.288608540000013, 33.95720045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市上泉町１４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.311585400000013, 33.93722038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市瀬戸町１−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.29585757000001, 33.94520196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市多喜浜３１４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.32895789, 33.97376049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市中西町１６−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.30416175, 33.92334358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市萩生字岸ノ下１１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.263078830000012, 33.92718888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市下島山字美サビ甲１３５６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.20300837, 33.93131295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市河原津甲１１０３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.06196959, 33.97263651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市桑村４１−７" }, "geometry": { "type": "Point", "coordinates": [ 133.0653609, 33.94319996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市国安９７６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0559314, 33.93659159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市今在家７２７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.124123340000011, 33.92044666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市周布３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.086422989999988, 33.92624351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町妙口甲２９２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.08200125, 33.88465187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市新田字市塚新田１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.1908746, 33.92963875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市神拝字局乙１３３−７" }, "geometry": { "type": "Point", "coordinates": [ 133.178890419999988, 33.9267656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市石田水渡２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.10309068, 33.9192319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市大町１２１５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.18690271, 33.90580219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町今井４１０−５" }, "geometry": { "type": "Point", "coordinates": [ 133.05892652, 33.89994587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市飯岡３５４１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.21236152, 33.91408102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町卯之町１丁目５２０番地" }, "geometry": { "type": "Point", "coordinates": [ 132.50818973, 33.36666606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市三瓶町朝立日吉崎７−２８６−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.422310470000014, 33.37980795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市新谷乙１８１３" }, "geometry": { "type": "Point", "coordinates": [ 132.61389284, 33.53445444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市西大洲字山辺甲９７３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.52953206, 33.50519754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市田口字北正山甲２７" }, "geometry": { "type": "Point", "coordinates": [ 132.54736538, 33.51612892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市徳森字宮方３８５番地" }, "geometry": { "type": "Point", "coordinates": [ 132.579968439999988, 33.53270066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市白滝２８５" }, "geometry": { "type": "Point", "coordinates": [ 132.527000179999987, 33.57792769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市平野町野田マンドコロ甲３３６９" }, "geometry": { "type": "Point", "coordinates": [ 132.51980812, 33.49306428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市牛渕千田８２１−６" }, "geometry": { "type": "Point", "coordinates": [ 132.84801234, 33.79006942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市川内町則之内乙三島２５７２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.91590605, 33.79499714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市野田３丁目５１４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.83542162, 33.79301641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町久良２６４６−４" }, "geometry": { "type": "Point", "coordinates": [ 132.55404943, 32.93906978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町御荘平城１９７４" }, "geometry": { "type": "Point", "coordinates": [ 132.56077719000001, 32.96291453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町御荘平城３９２０" }, "geometry": { "type": "Point", "coordinates": [ 132.56221682, 32.95937172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町御荘平城７３" }, "geometry": { "type": "Point", "coordinates": [ 132.54823643, 32.96590758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町赤水４７１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.52651258, 32.95948399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町船越１２９８−４" }, "geometry": { "type": "Point", "coordinates": [ 132.5041036, 32.94416844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町僧都５４" }, "geometry": { "type": "Point", "coordinates": [ 132.58571819, 33.01973645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町増田５１８３" }, "geometry": { "type": "Point", "coordinates": [ 132.64960216, 32.96216095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町蓮乗寺４６７−４" }, "geometry": { "type": "Point", "coordinates": [ 132.588171609999989, 32.95323567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市江戸岡１２５４" }, "geometry": { "type": "Point", "coordinates": [ 132.43022473, 33.45727671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市松柏９３８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.442760459999988, 33.46200438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市保内町宮内１−６５８番地２" }, "geometry": { "type": "Point", "coordinates": [ 132.39850037, 33.48876088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市保内町宮内字山崎前１−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.404098440000013, 33.48356726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町下鍵山平林甲６６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.798304980000012, 33.33219976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町近永５９２" }, "geometry": { "type": "Point", "coordinates": [ 132.6739278, 33.25668874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市保内町川ノ石和田町１−２３４−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.3972362, 33.47693756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町下鍵山大内野８５−９" }, "geometry": { "type": "Point", "coordinates": [ 132.796334120000012, 33.33391599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町清水字２７２" }, "geometry": { "type": "Point", "coordinates": [ 132.6865216, 33.30053766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字上高柳字古屋敷６０３−３" }, "geometry": { "type": "Point", "coordinates": [ 132.72577895, 33.8007759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字筒井字外側９１７" }, "geometry": { "type": "Point", "coordinates": [ 132.71563053, 33.78617179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字北黒田５６７−７" }, "geometry": { "type": "Point", "coordinates": [ 132.7041811, 33.7852296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町大南７８５" }, "geometry": { "type": "Point", "coordinates": [ 132.79262221, 33.73493468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市稲荷字明見５４８" }, "geometry": { "type": "Point", "coordinates": [ 132.70236388, 33.74805269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市宮の下２１７" }, "geometry": { "type": "Point", "coordinates": [ 132.76120577, 33.78209643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町高田甲４６０" }, "geometry": { "type": "Point", "coordinates": [ 132.519504680000011, 33.11957814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町山財５３８２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.566679240000013, 33.11941288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町嵐１２９" }, "geometry": { "type": "Point", "coordinates": [ 132.48385, 33.07361857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市和霊町道連１２２３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.56785713, 33.23124173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市衣干町１丁目１−１９" }, "geometry": { "type": "Point", "coordinates": [ 133.01577142, 34.04938918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市郷本町１丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.995718540000013, 34.04790489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市高部乙１５６番地１" }, "geometry": { "type": "Point", "coordinates": [ 132.97748067, 34.09357284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上徳７３７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.00660774, 34.0365244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町宮脇甲１４０１" }, "geometry": { "type": "Point", "coordinates": [ 132.92619453, 34.06250729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町九王立岩甲２０７０" }, "geometry": { "type": "Point", "coordinates": [ 132.929123440000012, 34.07229832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市地堀５丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.96236398, 34.10404539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市中寺山ノ窪５９７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.991781839999987, 34.04091515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町有津甲８３８" }, "geometry": { "type": "Point", "coordinates": [ 133.09760481, 34.20487439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市別宮町８丁目１−５９" }, "geometry": { "type": "Point", "coordinates": [ 132.99104644, 34.07293166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市金生町下分８１１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.57983051, 34.00247646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市上分町４９５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.58521872, 33.99536642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市上分町７５５−５" }, "geometry": { "type": "Point", "coordinates": [ 133.59026229, 33.99047532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町１０１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.57155452, 34.01052432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町上野２９９４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.37598128, 33.94384335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町入野１０７８" }, "geometry": { "type": "Point", "coordinates": [ 133.42136143, 33.95468235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市萱町６丁目１０５−５" }, "geometry": { "type": "Point", "coordinates": [ 132.75464566, 33.8539511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市久万の台７１０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.742447590000012, 33.8612343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市空港通２丁目３１３" }, "geometry": { "type": "Point", "coordinates": [ 132.74171204000001, 33.8283322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市古川北４−４−1２" }, "geometry": { "type": "Point", "coordinates": [ 132.76589585, 33.80987617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市古川北４丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.76685269, 33.80880897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市小村町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.814874839999987, 33.77726042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市上高野町１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.81040644, 33.855984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市水泥町５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.82528961, 33.80434682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市太山寺町８７２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.733429480000012, 33.89497641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中島町小浜１０５５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.631053259999987, 33.9695703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市朝生田町１３" }, "geometry": { "type": "Point", "coordinates": [ 132.77474557, 33.8240104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市辻６０７−８" }, "geometry": { "type": "Point", "coordinates": [ 132.77242751, 33.96809293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市味酒町２丁目１７−６" }, "geometry": { "type": "Point", "coordinates": [ 132.756063149999989, 33.84516217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市来住町４７−４" }, "geometry": { "type": "Point", "coordinates": [ 132.807025610000011, 33.80130761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市一宮町１丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 133.28508112, 33.96031118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市郷１丁目３番１号" }, "geometry": { "type": "Point", "coordinates": [ 133.30524614, 33.96569945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市松原町１丁目７８" }, "geometry": { "type": "Point", "coordinates": [ 133.29544585, 33.94108536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市新田町１−１−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.26798205, 33.96082434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市前田町４−１５" }, "geometry": { "type": "Point", "coordinates": [ 133.264131889999987, 33.95601036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市土橋１丁目１２−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.29230404, 33.93428611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市萩生５５０−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.27326634, 33.9292958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町九町１番耕地５３４−５" }, "geometry": { "type": "Point", "coordinates": [ 132.305130780000013, 33.47438526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町湊浦５８９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.36292806, 33.49244061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市下島山甲１３６５" }, "geometry": { "type": "Point", "coordinates": [ 133.202093139999988, 33.93174947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市周布１１３８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.08123998, 33.909877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町志川２３５" }, "geometry": { "type": "Point", "coordinates": [ 133.02674446, 33.85779038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町下松葉３６３番地" }, "geometry": { "type": "Point", "coordinates": [ 132.50566465, 33.3734699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町大字野村１２−７４８" }, "geometry": { "type": "Point", "coordinates": [ 132.642567969999988, 33.37511925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市長浜町上老松（仮換地）７−１街区１−１、１−２、２角地" }, "geometry": { "type": "Point", "coordinates": [ 132.4943908, 33.59989821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市田窪字大坪１０６８−３" }, "geometry": { "type": "Point", "coordinates": [ 132.855366909999987, 33.79061716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市沖新田１５８５" }, "geometry": { "type": "Point", "coordinates": [ 132.41990902, 33.45943217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市産業通１０番１４号" }, "geometry": { "type": "Point", "coordinates": [ 132.4315858, 33.45433074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町近永１１８８" }, "geometry": { "type": "Point", "coordinates": [ 132.6806753, 33.25530304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字清延" }, "geometry": { "type": "Point", "coordinates": [ 132.693352800000014, 33.33137664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字中野川５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.67633829, 33.24902759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡松野町松丸４７" }, "geometry": { "type": "Point", "coordinates": [ 132.70515644, 33.22922069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡広田村総津１１２３番地" }, "geometry": { "type": "Point", "coordinates": [ 132.79666207, 33.63329779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字永田８０−２" }, "geometry": { "type": "Point", "coordinates": [ 132.728523, 33.78531571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡中山町大字佐礼谷甲８２８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71958883, 33.68205786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡中山町大字中山丑２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.70974089, 33.64480815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町大字宮内６２９" }, "geometry": { "type": "Point", "coordinates": [ 132.78819904, 33.75239078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町大南６８２" }, "geometry": { "type": "Point", "coordinates": [ 132.792964680000011, 33.73896059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町麻生３６番地" }, "geometry": { "type": "Point", "coordinates": [ 132.788959190000014, 33.78143911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市市場字鳩岡甲１２７番" }, "geometry": { "type": "Point", "coordinates": [ 132.70040917, 33.74493994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市上野６２５番地" }, "geometry": { "type": "Point", "coordinates": [ 132.742303099999987, 33.77203418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市下波３１３０" }, "geometry": { "type": "Point", "coordinates": [ 132.45981372, 33.16769984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市高串２番耕地１３７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.57365976, 33.25471207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市三浦東６９５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.51186274, 33.18766595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡岩城村１５３１" }, "geometry": { "type": "Point", "coordinates": [ 133.146798280000013, 34.24534961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡弓削町下弓削１２０番地" }, "geometry": { "type": "Point", "coordinates": [ 133.20285992, 34.25934766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町大字内子甲８８１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.65371911, 33.55064097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町大瀬１３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71230222, 33.57457898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市阿方甲２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.967232349999989, 34.06247011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町種90番地" }, "geometry": { "type": "Point", "coordinates": [ 132.87313095, 34.05406491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町池原６４番地１" }, "geometry": { "type": "Point", "coordinates": [ 132.85692465, 34.02636569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町浜１１４１番地" }, "geometry": { "type": "Point", "coordinates": [ 132.844130259999986, 34.03827171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市吉海町大字幸新田２０７番地" }, "geometry": { "type": "Point", "coordinates": [ 133.04053385, 34.14226196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宮ヶ崎甲218" }, "geometry": { "type": "Point", "coordinates": [ 133.01268903, 34.01979176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市玉川町大野甲１５２−５" }, "geometry": { "type": "Point", "coordinates": [ 132.942885749999988, 34.02182503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町井口５２９０" }, "geometry": { "type": "Point", "coordinates": [ 133.04025067, 34.26850851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町甘崎３８７８" }, "geometry": { "type": "Point", "coordinates": [ 133.05313843, 34.2357394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町盛2244−1" }, "geometry": { "type": "Point", "coordinates": [ 133.02638325, 34.29375905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町浦戸2−14" }, "geometry": { "type": "Point", "coordinates": [ 132.965690419999987, 34.2183373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町台217、218、219番地" }, "geometry": { "type": "Point", "coordinates": [ 132.99684808, 34.23920324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市波方町大字樋口字折内甲１６６４−４" }, "geometry": { "type": "Point", "coordinates": [ 132.94980547, 34.0981262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町木浦甲４６３７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.11686153, 34.20470489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町有津甲２２７０−４" }, "geometry": { "type": "Point", "coordinates": [ 133.09767992, 34.20779749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市北日吉町１−１２−１５" }, "geometry": { "type": "Point", "coordinates": [ 132.99135453, 34.0663025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市下柏町６７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56387086, 33.98783435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町大字中村１１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.429694149999989, 33.95977506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市富郷町寒川山４５０番地" }, "geometry": { "type": "Point", "coordinates": [ 133.51026669, 33.91361409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市豊岡町大町字上セキヤ１７５４番地" }, "geometry": { "type": "Point", "coordinates": [ 133.48318767, 33.96717363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市猿川７２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.83773014, 33.97487395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市菅沢町１９３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.81705599, 33.90291696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市下伊台町1042" }, "geometry": { "type": "Point", "coordinates": [ 132.798710410000012, 33.87690133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市下難波甲１０２−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.78823064, 33.98370387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市夏目甲２２０" }, "geometry": { "type": "Point", "coordinates": [ 132.77583343, 33.94438067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市三番町８丁目３２８−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.75221743, 33.83824978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市水泥町８４２番地" }, "geometry": { "type": "Point", "coordinates": [ 132.83540301, 33.80592836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市生石町５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74386752, 33.83339778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市石手２丁目８−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.79851905000001, 33.84731713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市浅海本谷甲６８１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.80232482, 34.0105972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中島大浦１６２４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.63031028, 33.97626664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市東方町甲９２４−５" }, "geometry": { "type": "Point", "coordinates": [ 132.81556348, 33.76724442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市畑寺７４４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.8029014, 33.83621688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北久米町755-1" }, "geometry": { "type": "Point", "coordinates": [ 132.79142604, 33.81944063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市堀江町甲１０６５番地" }, "geometry": { "type": "Point", "coordinates": [ 132.74799918, 33.90167249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市来住町１３９４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.79552107, 33.80502101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町下畑野川甲３２０番地" }, "geometry": { "type": "Point", "coordinates": [ 132.92789549, 33.67204869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町西明神３０４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.88973511, 33.67362726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町中黒岩２１５８番地" }, "geometry": { "type": "Point", "coordinates": [ 132.97540996, 33.6127133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町直瀬甲２８８４番地" }, "geometry": { "type": "Point", "coordinates": [ 132.959425329999988, 33.70501782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡小田町大字寺村１５０６番地第一" }, "geometry": { "type": "Point", "coordinates": [ 132.78801386, 33.56950439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡小田町大字上田渡８２０" }, "geometry": { "type": "Point", "coordinates": [ 132.78541464, 33.61275369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡小田町中川６６８番地" }, "geometry": { "type": "Point", "coordinates": [ 132.833515760000012, 33.57521492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町湊浦１９９４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.35387122, 33.48926803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡三崎町三崎１１３" }, "geometry": { "type": "Point", "coordinates": [ 132.12338069, 33.38694717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡瀬戸町大久１１７６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.189830699999987, 33.41407211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡保内町須川３０番地" }, "geometry": { "type": "Point", "coordinates": [ 132.41476781, 33.48377088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市玉之江２３２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.10011291, 33.91261013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市州之内甲１６３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.18030435, 33.8995232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町願連寺５１５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.070218430000011, 33.91309817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町高松甲１５１８番地１" }, "geometry": { "type": "Point", "coordinates": [ 133.03687989, 33.88074835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市福成寺３５５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.04891041, 33.95037236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町下松葉５２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.506302369999986, 33.37220738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市三瓶町朝立字向山７−１１６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.42494958, 33.38171946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市城川町下相１１８８" }, "geometry": { "type": "Point", "coordinates": [ 132.74782283, 33.38090647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市城川町魚成３７０２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.70643325, 33.37596331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市明浜町俵津８番耕地５１０" }, "geometry": { "type": "Point", "coordinates": [ 132.49272622, 33.32575278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町高瀬７７２" }, "geometry": { "type": "Point", "coordinates": [ 132.63488819, 33.41401863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町大野ヶ原１２２" }, "geometry": { "type": "Point", "coordinates": [ 132.869510670000011, 33.47976578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町鳥鹿野７４８" }, "geometry": { "type": "Point", "coordinates": [ 132.58763665, 33.40231637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町野村１２−６３６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.64207682, 33.37827591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市若宮レイメン９５８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.555393360000011, 33.52225965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市長浜町黒田字築地甲６１７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.49002288, 33.61643754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市東大洲１５８９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.57274862, 33.52965645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市八多喜町字清水甲１４１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.540783260000012, 33.56171447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市下林甲１３６６−４" }, "geometry": { "type": "Point", "coordinates": [ 132.87483891, 33.78128146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市南方１５６２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.90503507, 33.79916664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町広見３３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.64674896, 32.96418515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町船越４４２番地" }, "geometry": { "type": "Point", "coordinates": [ 132.50783654, 32.94870444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町柏３８７番地" }, "geometry": { "type": "Point", "coordinates": [ 132.4979478, 33.01805124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町平城３６２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.5691358, 32.95871624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市穴井スカノハマ３−７４９−３" }, "geometry": { "type": "Point", "coordinates": [ 132.39684646, 33.39888298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市真網代丙２４８番地" }, "geometry": { "type": "Point", "coordinates": [ 132.39357963, 33.41391269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市川上町川名津１０２０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.40660177, 33.42431304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市大字合田２１４１−９" }, "geometry": { "type": "Point", "coordinates": [ 132.41598306, 33.44207323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市大字太平１−８１２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.42764505, 33.46671626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市日土町２−２８５" }, "geometry": { "type": "Point", "coordinates": [ 132.42404779, 33.49561442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市日土町５−３５１０−３" }, "geometry": { "type": "Point", "coordinates": [ 132.45531341, 33.5042057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字永野市８６番地−１" }, "geometry": { "type": "Point", "coordinates": [ 132.68556005, 33.25444222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字小松１４００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74257968, 33.30698765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字清水４３７" }, "geometry": { "type": "Point", "coordinates": [ 132.68807066, 33.30206262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡吉田町大字奥浦甲２１２番地" }, "geometry": { "type": "Point", "coordinates": [ 132.48660358, 33.27473287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡吉田町大字沖村甲２３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.52009304, 33.29288679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡吉田町大字法花津字中ノ町６番耕地７７番３" }, "geometry": { "type": "Point", "coordinates": [ 132.51776709, 33.31886725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡吉田町大字立間２番耕地２２６６" }, "geometry": { "type": "Point", "coordinates": [ 132.54087913, 33.29307504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡吉田町大字立間尻甲２０１７−４" }, "geometry": { "type": "Point", "coordinates": [ 132.53960326, 33.27347955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡三間町迫目３３２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.60291117, 33.28301726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡津島町大字高田甲６７０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.52429096, 33.13474881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡津島町北灘乙７８０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.464964650000013, 33.13909938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字中川原583-8" }, "geometry": { "type": "Point", "coordinates": [ 132.75545402, 33.79881723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字筒井1394-6" }, "geometry": { "type": "Point", "coordinates": [ 132.70163697000001, 33.79323335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市中山町中山丑200-3" }, "geometry": { "type": "Point", "coordinates": [ 132.71128499, 33.64818339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町立間2番地2500" }, "geometry": { "type": "Point", "coordinates": [ 132.54057612, 33.29055849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町五百木2827" }, "geometry": { "type": "Point", "coordinates": [ 132.70922901, 33.5704859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町平岡甲1-3" }, "geometry": { "type": "Point", "coordinates": [ 132.65788908, 33.5347205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市喜田村6丁目2-26" }, "geometry": { "type": "Point", "coordinates": [ 133.02400767, 34.04333859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宮窪町余所国1369" }, "geometry": { "type": "Point", "coordinates": [ 133.058031879999987, 34.19134336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大三島町宮浦5654" }, "geometry": { "type": "Point", "coordinates": [ 132.99683607, 34.24847522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市片山2丁目7-8" }, "geometry": { "type": "Point", "coordinates": [ 132.98010914, 34.05195916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島宮川１丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.54480012, 33.98585121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市中曽根町2636" }, "geometry": { "type": "Point", "coordinates": [ 133.53862417, 33.97600506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市中之庄町宮北414-1" }, "geometry": { "type": "Point", "coordinates": [ 133.53317972, 33.9759567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町津根1773" }, "geometry": { "type": "Point", "coordinates": [ 133.45219552, 33.96099964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市衣山2丁目1-32" }, "geometry": { "type": "Point", "coordinates": [ 132.74210477, 33.85103251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市鴨川2丁目17-1" }, "geometry": { "type": "Point", "coordinates": [ 132.75179807, 33.87511344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市三津2丁目15-20" }, "geometry": { "type": "Point", "coordinates": [ 132.71180987, 33.86472577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市三番町6丁目4-17" }, "geometry": { "type": "Point", "coordinates": [ 132.758964350000014, 33.83834019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市森松町1032-5" }, "geometry": { "type": "Point", "coordinates": [ 132.78764977, 33.79286188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市西垣生町710-2" }, "geometry": { "type": "Point", "coordinates": [ 132.7083809, 33.81385182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市辰巳町7-28" }, "geometry": { "type": "Point", "coordinates": [ 132.718345879999987, 33.86829799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市湊町4丁目1-2" }, "geometry": { "type": "Point", "coordinates": [ 132.76751901, 33.8353131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和気町1丁目473-1" }, "geometry": { "type": "Point", "coordinates": [ 132.73842657, 33.89547323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市喜光地町1丁目11-20" }, "geometry": { "type": "Point", "coordinates": [ 133.302159030000013, 33.93634387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市西の土居町2丁目7" }, "geometry": { "type": "Point", "coordinates": [ 133.27568982, 33.95095824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市船木字松岡甲4424-1" }, "geometry": { "type": "Point", "coordinates": [ 133.328992660000011, 33.93937008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市多喜浜6-3-63" }, "geometry": { "type": "Point", "coordinates": [ 133.343936219999989, 33.9761429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町妙口甲147-4" }, "geometry": { "type": "Point", "coordinates": [ 133.08996414, 33.89190084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市石延4-5" }, "geometry": { "type": "Point", "coordinates": [ 133.05715641, 33.932058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町高松甲295-1" }, "geometry": { "type": "Point", "coordinates": [ 133.05310104, 33.89472886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市氷見乙705-1" }, "geometry": { "type": "Point", "coordinates": [ 133.135229869999989, 33.89515478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市野々市字野々市下組42-13" }, "geometry": { "type": "Point", "coordinates": [ 133.13989765, 33.89492542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市則之内天神丙901-1" }, "geometry": { "type": "Point", "coordinates": [ 132.95769428, 33.79388768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字奈良388" }, "geometry": { "type": "Point", "coordinates": [ 132.638477279999989, 33.24649312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字神崎129" }, "geometry": { "type": "Point", "coordinates": [ 132.74704503000001, 33.7852293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市栄町港2-401−1" }, "geometry": { "type": "Point", "coordinates": [ 132.56181704, 33.22238718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市朝美1-9-5" }, "geometry": { "type": "Point", "coordinates": [ 132.74514468000001, 33.84482881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南吉田町1725" }, "geometry": { "type": "Point", "coordinates": [ 132.712994009999989, 33.82833772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市湊町7-6−11" }, "geometry": { "type": "Point", "coordinates": [ 132.75617189, 33.83626531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市柳原822" }, "geometry": { "type": "Point", "coordinates": [ 132.772595700000011, 33.95920895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸中6-4−27" }, "geometry": { "type": "Point", "coordinates": [ 132.73409916, 33.81738607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市今在家44−2" }, "geometry": { "type": "Point", "coordinates": [ 133.10659424, 33.91494699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市西岡314" }, "geometry": { "type": "Point", "coordinates": [ 132.86299875, 33.80336343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市下吾川馬塚９５５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.70842126, 33.76593427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市双海町上灘甲５７２９" }, "geometry": { "type": "Point", "coordinates": [ 132.63753607000001, 33.68857024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市中山町中山丑８３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.71016677, 33.64478526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町城廻５０２" }, "geometry": { "type": "Point", "coordinates": [ 132.657229769999987, 33.56021142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町城廻８６５" }, "geometry": { "type": "Point", "coordinates": [ 132.65938121, 33.56124783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市衣干町１−２−２９" }, "geometry": { "type": "Point", "coordinates": [ 133.01762021, 34.0510206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町種３７８９" }, "geometry": { "type": "Point", "coordinates": [ 132.86924867, 34.05339396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市吉海町仁江１２５９" }, "geometry": { "type": "Point", "coordinates": [ 133.05590485, 34.14931704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市玉川町長谷甲９８５−６" }, "geometry": { "type": "Point", "coordinates": [ 132.937777360000013, 34.01270271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市恵美須町１−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.004761980000012, 34.06784866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市常盤町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.00478647, 34.06895652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町大字脇甲１０１７" }, "geometry": { "type": "Point", "coordinates": [ 132.919353159999986, 34.06064189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市天保山町２−２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.01007632, 34.06636877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市金田町半田甲４７７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.6028914, 33.99233624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島金子１−１−９" }, "geometry": { "type": "Point", "coordinates": [ 133.538514819999989, 33.98144142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市新宮村上山字北浦２１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.6715197, 33.95702587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町４０６３−１４" }, "geometry": { "type": "Point", "coordinates": [ 133.57196822, 34.0105854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市村松町８８２" }, "geometry": { "type": "Point", "coordinates": [ 133.555706609999987, 33.99431144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市豊岡町長田字中洲１６７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.47026137, 33.96493502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市安城寺町１０６５−３" }, "geometry": { "type": "Point", "coordinates": [ 132.7415585, 33.87919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市古川西３丁目５−２５" }, "geometry": { "type": "Point", "coordinates": [ 132.76029743, 33.80710873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市枝松１−４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.78679143, 33.83625971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市水泥町５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.826263110000014, 33.80333685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市保免西３−１１−１８" }, "geometry": { "type": "Point", "coordinates": [ 132.74397506, 33.81578247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市堀江町甲１５５７" }, "geometry": { "type": "Point", "coordinates": [ 132.749471559999989, 33.90433533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸中６−１２−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.736584380000011, 33.81940607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市神拝字乙１３７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.17817284, 33.9271752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市大町登道１５５９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.18329415, 33.91251106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町卯之町２−４７４" }, "geometry": { "type": "Point", "coordinates": [ 132.50946188, 33.36448821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町下松葉甲２８９" }, "geometry": { "type": "Point", "coordinates": [ 132.50323204, 33.37909538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市三瓶町安土１６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.420899279999986, 33.37746311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市野村町野村１０−４９０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.64269250000001, 33.37199476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市肱川町宇和川２７８６" }, "geometry": { "type": "Point", "coordinates": [ 132.67850241, 33.45805247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市成能字大地原甲５１３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.65018046, 33.48346448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市長浜甲６８７−５" }, "geometry": { "type": "Point", "coordinates": [ 132.48510288, 33.61437505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市徳森字宮方２７９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.5773222, 33.53243874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市南方１６５２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.89969367, 33.7999275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市南方５２７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.91185563, 33.79872509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町城辺乙４６７" }, "geometry": { "type": "Point", "coordinates": [ 132.57402199, 32.96300269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町増田４７４７" }, "geometry": { "type": "Point", "coordinates": [ 132.656395800000013, 32.96817156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町近永６３０" }, "geometry": { "type": "Point", "coordinates": [ 132.67529187, 33.25687563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町小松１５３６" }, "geometry": { "type": "Point", "coordinates": [ 132.745054970000012, 33.30643846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡松野町大字松丸３５１" }, "geometry": { "type": "Point", "coordinates": [ 132.71016404, 33.22675586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町三角１５３−３" }, "geometry": { "type": "Point", "coordinates": [ 132.787203909999988, 33.77216524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市上吾川松本１２" }, "geometry": { "type": "Point", "coordinates": [ 132.7082168, 33.75827818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市米湊８５５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.70004364, 33.75481436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市丸之内４−３−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.56222772000001, 33.22056027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町河内甲１６６１" }, "geometry": { "type": "Point", "coordinates": [ 132.50629534, 33.29079618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町北小路甲１７１−２" }, "geometry": { "type": "Point", "coordinates": [ 132.53952995, 33.28228923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市川内字八月田甲１０７７−４" }, "geometry": { "type": "Point", "coordinates": [ 132.55138267000001, 33.2015753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市喜田村６−３−４０" }, "geometry": { "type": "Point", "coordinates": [ 133.022950650000013, 34.0440814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市共栄町４−６−８" }, "geometry": { "type": "Point", "coordinates": [ 132.99745293, 34.07100716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市高部字旭方甲８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.974666899999988, 34.10529232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市桜井２−６−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.03712805, 34.02151471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市馬越町３−２−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.98159908, 34.05594177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市寒川町１６４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.52438142, 33.97105913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島紙屋町２９２−２８" }, "geometry": { "type": "Point", "coordinates": [ 133.54944902, 33.99004746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町４０５８−７" }, "geometry": { "type": "Point", "coordinates": [ 133.57157295, 34.01567511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市空港通２−１０−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.74430483, 33.82877165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市高木町１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74151788, 33.88379554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中央１−１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.7511134, 33.85471075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市土居田町６５２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.74228424, 33.82304909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市藤原町５４３−４" }, "geometry": { "type": "Point", "coordinates": [ 132.75915876, 33.8315077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市道後町２−１−６" }, "geometry": { "type": "Point", "coordinates": [ 132.78253476, 33.84758685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南久米町２１８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.80294197, 33.81747423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南土居町５３３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.79564756, 33.80050582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市柳原６６" }, "geometry": { "type": "Point", "coordinates": [ 132.77128761, 33.95255188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町大川４４５６" }, "geometry": { "type": "Point", "coordinates": [ 132.93927163, 33.61982006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市郷２−２−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.30853464, 33.96358307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市西原町１−２−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.26818517000001, 33.96288425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市大生院岸影９６１−９" }, "geometry": { "type": "Point", "coordinates": [ 133.250696190000014, 33.92124408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市喜多川６３０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.168604179999988, 33.92238228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市朔日市字船元７７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.18431044, 33.92847651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市楢木８" }, "geometry": { "type": "Point", "coordinates": [ 133.14966322, 33.89458903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市城川町嘉喜尾４８３７−２" }, "geometry": { "type": "Point", "coordinates": [ 132.73368405, 33.37985222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市肱川町宇和川３４０２" }, "geometry": { "type": "Point", "coordinates": [ 132.6804548, 33.47175319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市長浜甲６７０−３" }, "geometry": { "type": "Point", "coordinates": [ 132.48357202, 33.61465847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市南方２１５６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.89294449, 33.80196566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町御荘平城３０３９" }, "geometry": { "type": "Point", "coordinates": [ 132.57024155, 32.96266961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町中浦８３１" }, "geometry": { "type": "Point", "coordinates": [ 132.49320473, 32.96446994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町福浦１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.50085667, 32.92208995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町大字永田５００−５" }, "geometry": { "type": "Point", "coordinates": [ 132.721710230000014, 33.7921875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市新宮町新宮６４" }, "geometry": { "type": "Point", "coordinates": [ 133.64095255, 33.94610582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.56512756, 34.0013105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町大字蕪崎８３０" }, "geometry": { "type": "Point", "coordinates": [ 133.42621014, 33.97612829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市水泥町１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.82881704, 33.80014437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市天山２丁目５−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.77707365, 33.81939022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市東野２丁目２−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.79859787, 33.84084793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市問屋町９−４３" }, "geometry": { "type": "Point", "coordinates": [ 132.749862259999986, 33.86325632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市坂井町１−５−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.2896943, 33.94771548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市泉川１８１３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.31907845, 33.93819422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市沢津町１−４−１９" }, "geometry": { "type": "Point", "coordinates": [ 133.29465568, 33.9756732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市周布１６９７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.0741826, 33.91626102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町西高柳113-1" }, "geometry": { "type": "Point", "coordinates": [ 132.72337471, 33.8044919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡松前町南黒田397" }, "geometry": { "type": "Point", "coordinates": [ 132.70916864, 33.77654157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市上野800-1" }, "geometry": { "type": "Point", "coordinates": [ 132.74333227, 33.77373782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市双海町串甲80-6" }, "geometry": { "type": "Point", "coordinates": [ 132.57912916, 33.65160589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市伊吹町1424" }, "geometry": { "type": "Point", "coordinates": [ 132.56770013, 33.24207868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市高串字中田1-381" }, "geometry": { "type": "Point", "coordinates": [ 132.57383242, 33.24716808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市祝森甲3333-1" }, "geometry": { "type": "Point", "coordinates": [ 132.552268059999989, 33.16941461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市新田町2-2-5" }, "geometry": { "type": "Point", "coordinates": [ 132.558826610000011, 33.21284358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市菊間町浜1467-2" }, "geometry": { "type": "Point", "coordinates": [ 132.84863808, 34.04134357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市恵美須町3-1-39" }, "geometry": { "type": "Point", "coordinates": [ 133.00765123, 34.06592679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市松木字角田214-8" }, "geometry": { "type": "Point", "coordinates": [ 133.00417969, 34.03096807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大新田町5丁目6‐36" }, "geometry": { "type": "Point", "coordinates": [ 132.99130234, 34.08274341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宅間甲148" }, "geometry": { "type": "Point", "coordinates": [ 132.95009066, 34.06749473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市町谷甲194-4" }, "geometry": { "type": "Point", "coordinates": [ 133.005614040000012, 34.02928025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市長沢甲1252-1" }, "geometry": { "type": "Point", "coordinates": [ 133.03852661, 34.00842844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市別名233-1" }, "geometry": { "type": "Point", "coordinates": [ 132.97512661, 34.04087998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市金生町下分1091-1" }, "geometry": { "type": "Point", "coordinates": [ 133.57391511, 33.99778055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市上分町361-4" }, "geometry": { "type": "Point", "coordinates": [ 133.58349768, 33.99075127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市新宮町新瀬川308" }, "geometry": { "type": "Point", "coordinates": [ 133.63962342, 33.92841496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町3695-1" }, "geometry": { "type": "Point", "coordinates": [ 133.577537690000014, 34.02124535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市河中町甲162-1" }, "geometry": { "type": "Point", "coordinates": [ 132.86955421, 33.90008273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市鴨川2-11-35" }, "geometry": { "type": "Point", "coordinates": [ 132.752017059999986, 33.87489021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市古三津5-17-27" }, "geometry": { "type": "Point", "coordinates": [ 132.72558167, 33.85655937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市高岡町74-1" }, "geometry": { "type": "Point", "coordinates": [ 132.72539763, 33.82803548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市枝松5-3-12" }, "geometry": { "type": "Point", "coordinates": [ 132.78334293, 33.82708373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市小川字夏目木甲273-1" }, "geometry": { "type": "Point", "coordinates": [ 132.76112794, 33.92572364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市松末1-3-43" }, "geometry": { "type": "Point", "coordinates": [ 132.79166591, 33.82660695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市森松町727-1" }, "geometry": { "type": "Point", "coordinates": [ 132.787712660000011, 33.79194193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市西長戸町295-1" }, "geometry": { "type": "Point", "coordinates": [ 132.74152442, 33.86879321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市樽味4-6-2" }, "geometry": { "type": "Point", "coordinates": [ 132.78690481000001, 33.8380296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市白水台4-1-9" }, "geometry": { "type": "Point", "coordinates": [ 132.78204749, 33.87400966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北斉院町690-1" }, "geometry": { "type": "Point", "coordinates": [ 132.7270168, 33.84122615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市来住町1293-1" }, "geometry": { "type": "Point", "coordinates": [ 132.79561428, 33.80795399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉南4-1-39" }, "geometry": { "type": "Point", "coordinates": [ 132.76060854, 33.81395853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県上浮穴郡久万高原町上黒岩2589" }, "geometry": { "type": "Point", "coordinates": [ 132.96380011, 33.6190756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市喜光地町1-1-4" }, "geometry": { "type": "Point", "coordinates": [ 133.29525797, 33.93451595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市郷2-5-7" }, "geometry": { "type": "Point", "coordinates": [ 133.31140903, 33.96627924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市北新町13-65" }, "geometry": { "type": "Point", "coordinates": [ 133.26900117, 33.95822937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町三机乙4364-12" }, "geometry": { "type": "Point", "coordinates": [ 132.24545858, 33.45611733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町三崎1495" }, "geometry": { "type": "Point", "coordinates": [ 132.1208363, 33.38943702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市三津屋東32-4" }, "geometry": { "type": "Point", "coordinates": [ 133.09118074, 33.93348064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市周布626-3" }, "geometry": { "type": "Point", "coordinates": [ 133.081932529999989, 33.92300889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市州之内甲649-2" }, "geometry": { "type": "Point", "coordinates": [ 133.17306191, 33.89775434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町新屋敷乙34-3" }, "geometry": { "type": "Point", "coordinates": [ 133.10763623, 33.88581323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町新屋敷藍刈乙34-7" }, "geometry": { "type": "Point", "coordinates": [ 133.10942853, 33.88540418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市壬生川604-1" }, "geometry": { "type": "Point", "coordinates": [ 133.0834851, 33.94193025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市飯岡唐戸1355-3" }, "geometry": { "type": "Point", "coordinates": [ 133.23392564, 33.92055753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市田窪1897-1" }, "geometry": { "type": "Point", "coordinates": [ 132.85999583, 33.79770082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町御荘平城4643-1" }, "geometry": { "type": "Point", "coordinates": [ 132.56493522, 32.9522045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市郷3番耕地46番地1" }, "geometry": { "type": "Point", "coordinates": [ 132.459048810000013, 33.46669424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町上原町２７１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.78858686, 33.7657939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市下吾川１９８２" }, "geometry": { "type": "Point", "coordinates": [ 132.70383768, 33.77131311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町西小路７３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.53774256, 33.2781722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町立間２−５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.53865603, 33.29933731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市御殿町２０５３−１４" }, "geometry": { "type": "Point", "coordinates": [ 132.562540649999988, 33.21610644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市三間町宮野下５８２" }, "geometry": { "type": "Point", "coordinates": [ 132.60537037, 33.28944168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市石応太田１区５６０" }, "geometry": { "type": "Point", "coordinates": [ 132.52358819, 33.21410926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市弁天町１丁目７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.55847087, 33.2253479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市保田甲９９０" }, "geometry": { "type": "Point", "coordinates": [ 132.547513830000014, 33.19251516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市阿方甲３２９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.9663784, 34.05995893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市旭町２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.00104353, 34.06350882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市玉川町法界寺甲３０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.9613651, 34.02832107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市古国分４２１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.035149249999989, 34.03244623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市常盤町５丁目６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.993853089999988, 34.0609165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大新田町５丁目７−３４" }, "geometry": { "type": "Point", "coordinates": [ 132.99138613, 34.08032295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市中寺２４５−８" }, "geometry": { "type": "Point", "coordinates": [ 132.999220150000014, 34.03546537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市東門町４丁目１−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.01204791, 34.06004735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市片原町３−１４３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.00272886, 34.07203876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市上分町５２２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.58509356, 33.99459997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市中曾根町３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.5525482, 33.9806328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町大字入野町９２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.42302264, 33.95512835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市空港通四丁目４番３号" }, "geometry": { "type": "Point", "coordinates": [ 132.736758110000011, 33.82824624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市古三津４丁目１６０−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.73251953, 33.85599203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市山越６丁目６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.751962850000012, 33.85836146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市室町７３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.76374034, 33.83145172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市竹原町１−２−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.75567576, 33.8326991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市湯渡町１０−３５" }, "geometry": { "type": "Point", "coordinates": [ 132.78544421, 33.84122412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市畑寺４丁目１６９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.798735029999989, 33.82620148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市別府町４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.72256359, 33.84410062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市西原町１−４−４３" }, "geometry": { "type": "Point", "coordinates": [ 133.27079064, 33.96378294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市西泉町９−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.29960677, 33.92933727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市多喜浜町１４２−１７" }, "geometry": { "type": "Point", "coordinates": [ 133.34076995, 33.97572903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市中村町本郷１−１４−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.28772188, 33.93313942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市八幡１−１５−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.30599089, 33.97932396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市三津屋２１０−５" }, "geometry": { "type": "Point", "coordinates": [ 133.08847787, 33.93512799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市新田１１４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.19287504, 33.92944916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市神拝４３５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.17764531, 33.91578653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市城川町土居３４１−２" }, "geometry": { "type": "Point", "coordinates": [ 132.767615009999986, 33.38632666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町中浦６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.500434969999986, 32.96487001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町満倉２７１６−２" }, "geometry": { "type": "Point", "coordinates": [ 132.60896035, 32.94983229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市沖新田１５１０−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.41994463, 33.45798873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市保内町宮内１−３３８" }, "geometry": { "type": "Point", "coordinates": [ 132.40007872000001, 33.48456234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市五反田1-73" }, "geometry": { "type": "Point", "coordinates": [ 132.43600915, 33.44860292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町高尾田７６３" }, "geometry": { "type": "Point", "coordinates": [ 132.79233, 33.77819056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町宮内５６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.789348460000014, 33.76019326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市小村町３２５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.81418148, 33.78123891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寿町２丁目３−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.559904710000012, 33.22388741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市朔日市65" }, "geometry": { "type": "Point", "coordinates": [ 133.19190384, 33.92150487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市新須賀町４丁目１３−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.28776, 33.97265522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市若宮５７３" }, "geometry": { "type": "Point", "coordinates": [ 132.548729869999988, 33.51827048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市政枝町２丁目１３−３１" }, "geometry": { "type": "Point", "coordinates": [ 133.28346013, 33.94226148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市松柏乙１０４３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.439610789999989, 33.4604587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市枝松５−８−３０" }, "geometry": { "type": "Point", "coordinates": [ 132.786490210000011, 33.82885573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町津根１９０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.454955750000011, 33.96198043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市和霊町１１７６−８" }, "geometry": { "type": "Point", "coordinates": [ 132.56888973, 33.23282677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市中沢町１丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.55816053, 33.20933043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県今治市南高下町３−２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.01398708, 34.05011689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県新居浜市上泉町８−５" }, "geometry": { "type": "Point", "coordinates": [ 133.30636456, 33.93648102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市周布１６８８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.07417773, 33.91662957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県今治市東村南１丁目７−３" }, "geometry": { "type": "Point", "coordinates": [ 133.0331251, 34.03508711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市高岡町１４８" }, "geometry": { "type": "Point", "coordinates": [ 132.72469557, 33.8284664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市東石井５丁目１１−２５" }, "geometry": { "type": "Point", "coordinates": [ 132.77527081, 33.81804888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県宇和島市明倫町１丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.55693933, 33.21985794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県新居浜市江口町１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.27451247, 33.95880297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市北条１２００−２" }, "geometry": { "type": "Point", "coordinates": [ 133.09976812, 33.9393613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市大可賀３丁目１４５３−１１" }, "geometry": { "type": "Point", "coordinates": [ 132.70927207, 33.85321056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市石田２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.102891129999989, 33.91943551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市三番町８丁目３６０−６" }, "geometry": { "type": "Point", "coordinates": [ 132.75218107, 33.83861301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西予市宇和町小原６６６" }, "geometry": { "type": "Point", "coordinates": [ 132.48451578, 33.39413965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県南宇和郡愛南町御荘平城３６４４" }, "geometry": { "type": "Point", "coordinates": [ 132.5599734, 32.95397741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市千舟町８丁目７６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75258438, 33.8368457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寿町２丁目９−１２" }, "geometry": { "type": "Point", "coordinates": [ 132.56007895, 33.22517951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡鬼北町大字近永１３８０" }, "geometry": { "type": "Point", "coordinates": [ 132.67942020000001, 33.25493228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県北宇和郡松野町大字蕨生６３３" }, "geometry": { "type": "Point", "coordinates": [ 132.744335979999988, 33.22588796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市津島町岩松甲６０６" }, "geometry": { "type": "Point", "coordinates": [ 132.521508829999988, 33.1191337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町久良２０８６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.56250161, 32.94516673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町深浦１９２０" }, "geometry": { "type": "Point", "coordinates": [ 132.58894006, 32.94333854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市八町西５丁目３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.9929515, 34.04068891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市東門町５丁目１５−２３" }, "geometry": { "type": "Point", "coordinates": [ 133.01608253, 34.06034172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予市上三谷１１８８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.73108933, 33.77116474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町立間２−１００−１" }, "geometry": { "type": "Point", "coordinates": [ 132.53888898, 33.29654245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市余戸南２丁目２５−３３" }, "geometry": { "type": "Point", "coordinates": [ 132.73568638, 33.81178992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北土居５丁目８−５８" }, "geometry": { "type": "Point", "coordinates": [ 132.7808272, 33.80722155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市周布６１１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.08305282, 33.92428667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市土橋２丁目１−４２" }, "geometry": { "type": "Point", "coordinates": [ 133.294092189999986, 33.93422205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町上松葉３２５" }, "geometry": { "type": "Point", "coordinates": [ 132.50354479, 33.38345992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市河辺町植松５５４" }, "geometry": { "type": "Point", "coordinates": [ 132.7398824, 33.48742654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市新田１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.18332736, 33.92690417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市西岡３７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.86763122, 33.80181392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市山之内１６３４−８" }, "geometry": { "type": "Point", "coordinates": [ 132.903949039999986, 33.86072001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市則之内２５９６−７" }, "geometry": { "type": "Point", "coordinates": [ 132.92551419, 33.79488077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県東温市南方２１９０" }, "geometry": { "type": "Point", "coordinates": [ 132.89084609, 33.80241403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町高尾田７３３" }, "geometry": { "type": "Point", "coordinates": [ 132.79214499, 33.78129173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県伊予郡砥部町三角１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.78723279, 33.77278254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市吉田町南君３０４９−２" }, "geometry": { "type": "Point", "coordinates": [ 132.518380580000013, 33.26550629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市白滝甲１５０" }, "geometry": { "type": "Point", "coordinates": [ 132.52823994, 33.577006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県八幡浜市保内町磯崎１３６１" }, "geometry": { "type": "Point", "coordinates": [ 132.4171599, 33.54231317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町九町４−７４１" }, "geometry": { "type": "Point", "coordinates": [ 132.31388897, 33.47812409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町九町２−５８２" }, "geometry": { "type": "Point", "coordinates": [ 132.30602854, 33.48199186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西宇和郡伊方町与侈６８" }, "geometry": { "type": "Point", "coordinates": [ 132.076022200000011, 33.38257231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市三瓶町皆江１８６７" }, "geometry": { "type": "Point", "coordinates": [ 132.411642699999987, 33.34372196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町明間３０７５−１" }, "geometry": { "type": "Point", "coordinates": [ 132.58463882, 33.34695777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市東鳥生町４丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.01741378, 34.05225325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市朝生田町５丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77210731, 33.82071232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県越智郡上島町岩城５１０８" }, "geometry": { "type": "Point", "coordinates": [ 133.150801339999987, 34.2700099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市吉海町名１９" }, "geometry": { "type": "Point", "coordinates": [ 133.04071344, 34.1414015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉南２丁目１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.761208720000013, 33.81637902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市新谷甲２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0012887, 34.02720978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大新田町５丁目６−５０" }, "geometry": { "type": "Point", "coordinates": [ 132.99135726, 34.08167103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南梅本町甲１２７２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.834810119999986, 33.79654436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島中央１丁目６−１６" }, "geometry": { "type": "Point", "coordinates": [ 133.54264631, 33.98403773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市保免西２丁目３−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.74206519, 33.81580231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市星岡１丁目２７−２１" }, "geometry": { "type": "Point", "coordinates": [ 132.78882576, 33.82000557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市恵美須町３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.0085611, 34.06647032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北藤原町１５−５" }, "geometry": { "type": "Point", "coordinates": [ 132.75812041, 33.83495068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市三町３丁目１０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.79153568000001, 33.82448762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市中央１丁目２−２３" }, "geometry": { "type": "Point", "coordinates": [ 132.75318153, 33.85291872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市三番町７丁目４−９" }, "geometry": { "type": "Point", "coordinates": [ 132.75636554, 33.83836337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市東長戸４丁目１−３３" }, "geometry": { "type": "Point", "coordinates": [ 132.75526452, 33.86950299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市本町６丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 132.75916713, 33.85284391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南久米町１３８" }, "geometry": { "type": "Point", "coordinates": [ 132.80571749, 33.81663078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南高井町５４４" }, "geometry": { "type": "Point", "coordinates": [ 132.817390929999988, 33.79077348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南高井町１７３９" }, "geometry": { "type": "Point", "coordinates": [ 132.79975818, 33.79115616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市南吉田町３８０−４" }, "geometry": { "type": "Point", "coordinates": [ 132.71344161, 33.82142653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市山越１丁目７−５２" }, "geometry": { "type": "Point", "coordinates": [ 132.758933789999986, 33.85802937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上浦町井口６６５６" }, "geometry": { "type": "Point", "coordinates": [ 133.040862159999989, 34.26324084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉南４丁目２−２７" }, "geometry": { "type": "Point", "coordinates": [ 132.76061141, 33.81482368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和泉北３丁目２２−２２" }, "geometry": { "type": "Point", "coordinates": [ 132.75568941, 33.82136874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市井門町５５１−６" }, "geometry": { "type": "Point", "coordinates": [ 132.783516600000013, 33.80120616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市寒川町２５５４−４" }, "geometry": { "type": "Point", "coordinates": [ 133.51083413, 33.9676498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市和気町１丁目１１２−５" }, "geometry": { "type": "Point", "coordinates": [ 132.73861008, 33.89087151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市大町１９３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.19269689, 33.90844015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川滝町下山１８９１−３" }, "geometry": { "type": "Point", "coordinates": [ 133.63512118, 33.98983583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市川之江町２５２８−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.57563912, 34.01830739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市妻鳥町１４０６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.5726886, 33.99041497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市三島紙屋町１−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.55070034, 33.98670162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市船木２３６４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.33153558, 33.93910648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市具定町４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.52637617, 33.97217109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市八幡３丁目１−５２" }, "geometry": { "type": "Point", "coordinates": [ 133.31399334, 33.98160815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県松山市北条辻１０５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.77756628, 33.96174158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市三津屋南６−３２" }, "geometry": { "type": "Point", "coordinates": [ 133.09282524, 33.93156012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県四国中央市土居町野田１３５０" }, "geometry": { "type": "Point", "coordinates": [ 133.46813935, 33.96522461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町大頭甲５９４" }, "geometry": { "type": "Point", "coordinates": [ 133.07010784, 33.87904514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市丹原町寺尾甲３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.039325170000012, 33.8621094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市百之浦１２６０−１" }, "geometry": { "type": "Point", "coordinates": [ 132.52719869, 33.22295599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市喜田村５丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.023651519999987, 34.04430744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市祇園町１丁目１−５６" }, "geometry": { "type": "Point", "coordinates": [ 133.007238910000012, 34.05518819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市小泉４丁目４−３８" }, "geometry": { "type": "Point", "coordinates": [ 132.98099423, 34.04821874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市山方町２丁目甲１１４１" }, "geometry": { "type": "Point", "coordinates": [ 132.98293222, 34.06088806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市大浦甲１５７" }, "geometry": { "type": "Point", "coordinates": [ 132.55358567, 33.2370061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市蛤３７３−２" }, "geometry": { "type": "Point", "coordinates": [ 132.5293504, 33.22277764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市宮窪町宮窪２９３４" }, "geometry": { "type": "Point", "coordinates": [ 133.073958260000012, 34.17199609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市高木町４−４" }, "geometry": { "type": "Point", "coordinates": [ 133.28542019, 33.95258777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市高田１丁目３−６０" }, "geometry": { "type": "Point", "coordinates": [ 133.31188967, 33.96683409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市多喜浜４００−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.33599679, 33.97887868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市多喜浜５丁目５−３８" }, "geometry": { "type": "Point", "coordinates": [ 133.3510952, 33.9757888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市南小松原町２−２８" }, "geometry": { "type": "Point", "coordinates": [ 133.29516386, 33.9696795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市中須賀町２丁目１０−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.27113176, 33.96817388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市西の土居町２丁目１４−２９" }, "geometry": { "type": "Point", "coordinates": [ 133.279534, 33.95105626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県新居浜市萩生１３１２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.25990102, 33.92591859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市坂下津甲４０７−１９１" }, "geometry": { "type": "Point", "coordinates": [ 132.55073031, 33.21960116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市別名４９８" }, "geometry": { "type": "Point", "coordinates": [ 132.97229793, 34.04119375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市清水町１丁目８−７" }, "geometry": { "type": "Point", "coordinates": [ 132.76400282, 33.84881679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市三番町１丁目１４−２" }, "geometry": { "type": "Point", "coordinates": [ 132.77456833, 33.83874902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市小坂４丁目１９−１６" }, "geometry": { "type": "Point", "coordinates": [ 132.78021009, 33.82956973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市立花２丁目６−２８" }, "geometry": { "type": "Point", "coordinates": [ 132.77279059, 33.82930297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県東温市北方３１９５" }, "geometry": { "type": "Point", "coordinates": [ 132.89372203, 33.80247914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市大街道３丁目２−４１" }, "geometry": { "type": "Point", "coordinates": [ 132.77130362, 33.84378563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市北立花町３−９" }, "geometry": { "type": "Point", "coordinates": [ 132.77137092000001, 33.83407173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県大洲市柚木３３７−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.54880442000001, 33.50511969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県大洲市大洲７２７−６" }, "geometry": { "type": "Point", "coordinates": [ 132.54251438, 33.50717652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県宇和島市吉田町東小路甲７１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.54055059, 33.2800304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市ひうち３−９" }, "geometry": { "type": "Point", "coordinates": [ 133.173911370000013, 33.93879114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県新居浜市田所町３−９" }, "geometry": { "type": "Point", "coordinates": [ 133.28711476, 33.96251263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県伊予市下吾川１７０２−３" }, "geometry": { "type": "Point", "coordinates": [ 132.70096233000001, 33.76811369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県四国中央市三島紙屋町６−７２" }, "geometry": { "type": "Point", "coordinates": [ 133.55026672, 33.99119136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県今治市片原町１丁目" }, "geometry": { "type": "Point", "coordinates": [ 133.00558591, 34.06921956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市湯渡町１０−３２" }, "geometry": { "type": "Point", "coordinates": [ 132.78519258, 33.84119501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市森松町６５８" }, "geometry": { "type": "Point", "coordinates": [ 132.78805483, 33.7912346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市三津１丁目７−２９" }, "geometry": { "type": "Point", "coordinates": [ 132.71134726, 33.86637974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市三津１丁目１１−２８" }, "geometry": { "type": "Point", "coordinates": [ 132.71272876, 33.86627533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市北吉田町７７−１３" }, "geometry": { "type": "Point", "coordinates": [ 132.70513703, 33.8368087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県大洲市森山甲１０９９" }, "geometry": { "type": "Point", "coordinates": [ 132.65402738, 33.48323807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市三番町７丁目８−１０" }, "geometry": { "type": "Point", "coordinates": [ 132.75572576, 33.83902055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市小坂３丁目４−３３" }, "geometry": { "type": "Point", "coordinates": [ 132.78072130000001, 33.83168532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市西垣生町７７５−５" }, "geometry": { "type": "Point", "coordinates": [ 132.70803067, 33.81403649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県今治市波方町小部甲２６７" }, "geometry": { "type": "Point", "coordinates": [ 132.92945807000001, 34.10289346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県伊予郡松前町大字筒井１２６６" }, "geometry": { "type": "Point", "coordinates": [ 132.70006505, 33.78392877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県宇和島市桝形町３丁目２０１−６" }, "geometry": { "type": "Point", "coordinates": [ 132.56085395, 33.22120675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県今治市波方町大浦甲１５４７" }, "geometry": { "type": "Point", "coordinates": [ 132.965625499999987, 34.11486111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県新居浜市坂井町３丁目１３−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.29754866, 33.94674495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県西条市小松町大頭甲１２１２" }, "geometry": { "type": "Point", "coordinates": [ 133.07486031, 33.88708127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県今治市吉海町本庄３２６" }, "geometry": { "type": "Point", "coordinates": [ 133.02577697000001, 34.15307844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県伊予郡砥部町八倉６４−１" }, "geometry": { "type": "Point", "coordinates": [ 132.773595300000011, 33.78948831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市住吉２丁目１１−４３" }, "geometry": { "type": "Point", "coordinates": [ 132.715506760000011, 33.86560078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市山西町６３８−２３" }, "geometry": { "type": "Point", "coordinates": [ 132.72470388, 33.84969619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県大洲市平野町野田１６２９" }, "geometry": { "type": "Point", "coordinates": [ 132.50907618, 33.48400033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市余戸中４丁目１５−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.72624818, 33.81881667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県松山市湊町２丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 132.77250183000001, 33.83568824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県大洲市新谷町甲１１７−３" }, "geometry": { "type": "Point", "coordinates": [ 132.599696669999986, 33.53725515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市大洲片原町643" }, "geometry": { "type": "Point", "coordinates": [ 132.545281280000012, 33.50673416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市古川字砂盛甲２９７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.16576156, 33.91505955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町甲７４２−２" }, "geometry": { "type": "Point", "coordinates": [ 132.65033072, 33.5488733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町川中甲１４３１" }, "geometry": { "type": "Point", "coordinates": [ 132.68191896, 33.60798481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町大字古田甲上町１３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 132.65466133000001, 33.53741256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西予市宇和町下松葉池下3番地" }, "geometry": { "type": "Point", "coordinates": [ 132.50263207, 33.38019228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県大洲市菅田町字池下甲１９８３" }, "geometry": { "type": "Point", "coordinates": [ 132.58499314, 33.5100686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県南宇和郡愛南町中浦577-2" }, "geometry": { "type": "Point", "coordinates": [ 132.506108399999988, 32.9649968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県宇和島市高串字中窪２番耕地４６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.57181503000001, 33.25884034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県宇和島市坂下津甲４０７−１９" }, "geometry": { "type": "Point", "coordinates": [ 132.55149862, 33.22069503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県今治市阿方甲２９５" }, "geometry": { "type": "Point", "coordinates": [ 132.969213599999989, 34.06129637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県今治市上浦町井口５８５３" }, "geometry": { "type": "Point", "coordinates": [ 133.039374149999986, 34.26517216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県四国中央市妻鳥町中新開８６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.560054760000014, 34.00004703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県四国中央市三島金子１丁目字金子２２００−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.53493497, 33.98354404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県松山市谷町甲８０" }, "geometry": { "type": "Point", "coordinates": [ 132.75167344, 33.87831136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県新居浜市観音原町乙１−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.3086891, 33.9536237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県新居浜市観音原町甲２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.30760353, 33.95345143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市ひうち字西ひうち３−４０" }, "geometry": { "type": "Point", "coordinates": [ 133.17562777, 33.94017826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市ひうち字西ひうち３−９" }, "geometry": { "type": "Point", "coordinates": [ 133.174087469999989, 33.93884026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県西条市福武字出晴甲８９０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.20197088, 33.9112589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県大洲市新谷乙５１４" }, "geometry": { "type": "Point", "coordinates": [ 132.58121574, 33.53167925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県大洲市長浜町上老松字成前甲６８２−７" }, "geometry": { "type": "Point", "coordinates": [ 132.49795666, 33.5963563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県大洲市東大洲１０４１−２" }, "geometry": { "type": "Point", "coordinates": [ 132.56745048, 33.52708725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県八幡浜市大字五反田ヒノウラ２番耕地１４２３−１" }, "geometry": { "type": "Point", "coordinates": [ 132.44511293, 33.43304221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県八幡浜市保内町川之石字江ノ口１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.40203452, 33.48106396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市上徳甲２８６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.01472573, 34.03088386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市大西町九王甲１２−１" }, "geometry": { "type": "Point", "coordinates": [ 132.93057396, 34.07364436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県今治市伯方町木浦甲４６３２−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.11968791000001, 34.2030138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市寄松甲１５４" }, "geometry": { "type": "Point", "coordinates": [ 132.55514677, 33.20450668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県宇和島市伊吹町甲１１８０" }, "geometry": { "type": "Point", "coordinates": [ 132.569368379999986, 33.23722792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県喜多郡内子町五十崎甲２１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.63055705, 33.53615282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "愛媛県喜多郡内子町五十崎甲１２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 132.655473269999987, 33.53642882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県喜多郡内子町内子甲５５６−１" }, "geometry": { "type": "Point", "coordinates": [ 132.649988189999988, 33.54636499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "愛媛県大洲市長浜丙１０５１−１" }, "geometry": { "type": "Point", "coordinates": [ 132.46322548, 33.59767803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町新屋敷甲１３４４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.105581339999986, 33.89647379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "愛媛県西条市小松町新屋敷甲１１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.11163116, 33.91031458 ] } }
+
+]
+}

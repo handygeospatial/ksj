@@ -4,7 +4,7 @@ task :default do
   t = 'P07'
   y = '10'
   e = 'g_FuelFillStation'
-  1.upto(14) {|i|
+  15.upto(47) {|i|
     s = sprintf('%02d', i)
     dst = "#{t}-#{y}_#{s}.geojson"
     FileUtils.rm(dst) if File.exist?(dst)

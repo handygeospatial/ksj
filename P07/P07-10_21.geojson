@@ -1,0 +1,2158 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡安八町東結１１４８" }, "geometry": { "type": "Point", "coordinates": [ 136.667546969999989, 35.36166755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町上印食５丁目８３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.78770362, 35.39322189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市上中町長間字沼２５８３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.695338279999987, 35.30553006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市宮地１７５４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.282654040000011, 35.76871132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町金山１９７７" }, "geometry": { "type": "Point", "coordinates": [ 137.157936260000014, 35.66247487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市小川字平岩１８６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25673649, 35.79099137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市少ヶ野６２３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25351999, 35.79231162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市森３２６" }, "geometry": { "type": "Point", "coordinates": [ 137.24863278, 35.80141235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市野尻９６８" }, "geometry": { "type": "Point", "coordinates": [ 137.310460549999988, 35.75961761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡七宗町神淵４７７７" }, "geometry": { "type": "Point", "coordinates": [ 137.08591497, 35.57352015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡川辺町上川辺上細田７２９" }, "geometry": { "type": "Point", "coordinates": [ 137.08498902, 35.51132264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町河岐1627-4" }, "geometry": { "type": "Point", "coordinates": [ 137.18919828, 35.57769049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町黒川字橋本２０９" }, "geometry": { "type": "Point", "coordinates": [ 137.31950502, 35.59435739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町八百津８４１３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.13641959, 35.4776077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町中１９４３" }, "geometry": { "type": "Point", "coordinates": [ 137.12044911000001, 35.43538414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市久々利岡本８３４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.10050752, 35.40913514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見字塚本２３５９−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.058518959999986, 35.41413785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市矢戸字北雲３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.02243094, 35.4062791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町馬目道上９２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63884703, 35.22376453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市平田町西島１２６７" }, "geometry": { "type": "Point", "coordinates": [ 136.65443904, 35.24364387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼三ツ池町３−１００" }, "geometry": { "type": "Point", "coordinates": [ 136.89523334, 35.40312226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼西町３丁目４" }, "geometry": { "type": "Point", "coordinates": [ 136.93069945, 35.40289678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原瑞穂町２−３４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.84623237, 35.41269047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市稲口字原比３７４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.91515633, 35.47271383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市関口町１−２−４０" }, "geometry": { "type": "Point", "coordinates": [ 136.928426339999987, 35.48054285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市武芸川町高野３３４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.85608424, 35.52210137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市武芸川町谷口８２２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.82337189, 35.54390037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部大川一丁目４８番１" }, "geometry": { "type": "Point", "coordinates": [ 136.74748925, 35.38419436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市芥見長山三丁目２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.84748907, 35.45300026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩滝西２−１５９" }, "geometry": { "type": "Point", "coordinates": [ 136.84411544, 35.42707657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市京町３−９" }, "geometry": { "type": "Point", "coordinates": [ 136.75679057, 35.42527601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市鏡島１４１" }, "geometry": { "type": "Point", "coordinates": [ 136.71318832, 35.41005694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市玉姓町１−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.75407643, 35.41459601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市金園町９−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.77662736, 35.41654096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市光栄町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.774036880000011, 35.44808025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市三田洞字唐木８３４−２" }, "geometry": { "type": "Point", "coordinates": [ 136.78889401, 35.47979361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市市橋３丁目１番地３号" }, "geometry": { "type": "Point", "coordinates": [ 136.726292339999986, 35.40194208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市折立字稲場８５７−１、８５７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.73260349, 35.45764375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市前一色２−２１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.80187128, 35.4076626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茶屋新田４−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.696150710000012, 35.3634455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市中屋西２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.836259719999987, 35.49110125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市中鶉７丁目２３" }, "geometry": { "type": "Point", "coordinates": [ 136.73017585, 35.37831466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市野一色５−１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.807893009999987, 35.41338856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市大和町河辺７５" }, "geometry": { "type": "Point", "coordinates": [ 136.913613489999989, 35.7861701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町字中溝１６６０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.43547608, 35.36479243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市武並町竹折１６４５−１７" }, "geometry": { "type": "Point", "coordinates": [ 137.34181981, 35.43366721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市明智町８３９−５" }, "geometry": { "type": "Point", "coordinates": [ 137.387581, 35.30221236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市下岡本町２９４８−４" }, "geometry": { "type": "Point", "coordinates": [ 137.244197179999986, 36.15401977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市花里町６−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.25306982, 36.14255469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市久々野町１５１９番地２" }, "geometry": { "type": "Point", "coordinates": [ 137.275341559999987, 36.05300879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上岡本町５−１９０" }, "geometry": { "type": "Point", "coordinates": [ 137.23454014, 36.13681916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市西之一色町３丁目１１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.24878762, 36.13155013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市石浦町５丁目６６番地" }, "geometry": { "type": "Point", "coordinates": [ 137.26411159, 36.11592913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市岩佐８１７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.79621584, 35.54600532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高富犂１６０４" }, "geometry": { "type": "Point", "coordinates": [ 136.787345820000013, 35.49821273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市富永７２８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.787563119999987, 35.56146587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市本田字高田３６５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67298781, 35.41403826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市釜戸町１５５２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.29901722, 35.40740402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市寺河戸町西本町１２１３−３" }, "geometry": { "type": "Point", "coordinates": [ 137.25019427, 35.36880898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市西小田町３−１１６" }, "geometry": { "type": "Point", "coordinates": [ 137.23695908, 35.36034065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市日吉町４０４６" }, "geometry": { "type": "Point", "coordinates": [ 137.24557649, 35.40841145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市明世町戸狩８４１" }, "geometry": { "type": "Point", "coordinates": [ 137.24831516, 35.37029913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市薬師町４−３０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.22935815, 35.36307219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市笠原町神戸２１２５−２" }, "geometry": { "type": "Point", "coordinates": [ 137.15837166, 35.29931924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市榎戸町２丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 136.56216337, 35.38268961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市笠木町７１２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.5982452, 35.37606609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市上面４丁目９２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.64488008, 35.35675654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市西之川町２−７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6061781, 35.38589705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市浅草４−５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61604304, 35.30831266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市築捨町２−６８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62195734, 35.33909055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市墨俣町さい川１０１" }, "geometry": { "type": "Point", "coordinates": [ 136.68013341, 35.36870565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市林町８丁目１８０１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.618772259999986, 35.37364261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村御母衣３１６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.903607599999987, 36.16544723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市茄子川字中垣外１６４２−４４" }, "geometry": { "type": "Point", "coordinates": [ 137.46486818, 35.46638557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市子野９９３−３" }, "geometry": { "type": "Point", "coordinates": [ 137.516129909999989, 35.50594599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市田瀬９９９−５" }, "geometry": { "type": "Point", "coordinates": [ 137.461740490000011, 35.62127721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市付知町尾ヶ平" }, "geometry": { "type": "Point", "coordinates": [ 137.43161576, 35.65951195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市落合字清水平２４２１" }, "geometry": { "type": "Point", "coordinates": [ 137.536470150000014, 35.52824931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉寺田２丁目３１番地" }, "geometry": { "type": "Point", "coordinates": [ 137.19261579, 35.36752571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町袈裟丸１２２９" }, "geometry": { "type": "Point", "coordinates": [ 137.15083847, 36.25895105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町上町９４３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.18955553, 36.22435642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町上町字下落１２９４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.19433375, 36.21968759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市下米田町東栃井１９９" }, "geometry": { "type": "Point", "coordinates": [ 137.067901979999988, 35.47296026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市山手町１−２１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.019877509999986, 35.4524845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市松森２７４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.90480585, 35.5299884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町字追分２２７４番地１" }, "geometry": { "type": "Point", "coordinates": [ 136.53497288, 35.3746303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市文殊字前８３９番７" }, "geometry": { "type": "Point", "coordinates": [ 136.68547202, 35.48452808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町本郷９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56378091, 35.44905544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市大畑町大洞４８−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.12377666, 35.31336929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市明和町１−１１５" }, "geometry": { "type": "Point", "coordinates": [ 137.1041595, 35.35235187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市明和町１−８１−８" }, "geometry": { "type": "Point", "coordinates": [ 137.10416909, 35.34882381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市綾野１丁目２６３６" }, "geometry": { "type": "Point", "coordinates": [ 136.59279102, 35.34539376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市安井町１−２４" }, "geometry": { "type": "Point", "coordinates": [ 136.627540259999989, 35.3547288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市横曽根町４の１７６の１" }, "geometry": { "type": "Point", "coordinates": [ 136.615563150000014, 35.30209649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市河間町３−２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6027091, 35.38264188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市貝曽根町下河原１３６１" }, "geometry": { "type": "Point", "coordinates": [ 136.63243899, 35.37806677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市割田２−１０５" }, "geometry": { "type": "Point", "coordinates": [ 136.60717309, 35.33837732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市寺内町４丁目１５８" }, "geometry": { "type": "Point", "coordinates": [ 136.61480008, 35.35590607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市上石津町一之瀬１９８０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.48656236, 35.3205111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市神田町２−７０" }, "geometry": { "type": "Point", "coordinates": [ 136.60793006, 35.36011254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市赤坂新町３丁目１４８の１" }, "geometry": { "type": "Point", "coordinates": [ 136.5901484, 35.3911263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市赤坂町２４９" }, "geometry": { "type": "Point", "coordinates": [ 136.582349130000011, 35.39018261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市築捨町４−６９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6212698, 35.33483286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市中曽根町６１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.58377201, 35.35950092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市東外側町２−３６" }, "geometry": { "type": "Point", "coordinates": [ 136.613547509999989, 35.36385212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市内原１−１９７" }, "geometry": { "type": "Point", "coordinates": [ 136.6173633, 35.31753362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市内原２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61880618, 35.31914041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市北方町１丁目８３３" }, "geometry": { "type": "Point", "coordinates": [ 136.61458312, 35.39703373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市林町７丁目１８５" }, "geometry": { "type": "Point", "coordinates": [ 136.623986839999986, 35.37230989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村鳩谷" }, "geometry": { "type": "Point", "coordinates": [ 136.903560309999989, 36.2639807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村鳩谷６５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.90198673, 36.26587011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村平瀬３９６の１" }, "geometry": { "type": "Point", "coordinates": [ 136.90239734, 36.17668422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市かやノ木町１−４１" }, "geometry": { "type": "Point", "coordinates": [ 137.500076869999987, 35.49030937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市加子母５４４０" }, "geometry": { "type": "Point", "coordinates": [ 137.38444564, 35.69281798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市茄子川字青木１９８４" }, "geometry": { "type": "Point", "coordinates": [ 137.4515979, 35.46229592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市高山１２３７−８" }, "geometry": { "type": "Point", "coordinates": [ 137.4436296, 35.53544732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市坂下９００−７" }, "geometry": { "type": "Point", "coordinates": [ 137.53317113, 35.5727042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市新町１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.50523052, 35.49873774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市瀬戸山の田１３７２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.49920788, 35.51946282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市千旦林５２７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.47558178, 35.47271017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市中津川２４０８−６" }, "geometry": { "type": "Point", "coordinates": [ 137.51245996, 35.48693704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市苗木４６７４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.45619912, 35.53141455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市福岡９７８−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.45199542, 35.56239734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市福岡野尻１２０９の１" }, "geometry": { "type": "Point", "coordinates": [ 137.44809697, 35.55385959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市落合８３７−５" }, "geometry": { "type": "Point", "coordinates": [ 137.52561477, 35.51175036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市下石町１４３４の１" }, "geometry": { "type": "Point", "coordinates": [ 137.19224906, 35.32345615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市妻木町１４００" }, "geometry": { "type": "Point", "coordinates": [ 137.191679490000013, 35.31232358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡安八町東結１００６" }, "geometry": { "type": "Point", "coordinates": [ 136.67183121, 35.3615626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡神戸町丈六道１８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60676364, 35.42691392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡神戸町神戸１０６６" }, "geometry": { "type": "Point", "coordinates": [ 136.607854870000011, 35.41839281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町長池３６８" }, "geometry": { "type": "Point", "coordinates": [ 136.75001796, 35.35369075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町みやまち１−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.77378209, 35.39553889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町伏屋６丁目１８８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.784914680000014, 35.382925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市江吉良町小作山７２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6951177, 35.31412323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市上中町長間字沼２５９１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6938956, 35.30481893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市正木町曲利字葭場１０３３" }, "geometry": { "type": "Point", "coordinates": [ 136.71600331, 35.3257894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町丸の内４丁目６１" }, "geometry": { "type": "Point", "coordinates": [ 136.69896703, 35.3271068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町狐穴字砂入３１９" }, "geometry": { "type": "Point", "coordinates": [ 136.704871239999989, 35.31759448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市宮地川合１７５７の１" }, "geometry": { "type": "Point", "coordinates": [ 137.282182510000013, 35.76885946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町金山上市場１９１６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.156551940000014, 35.66129225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町祖師野２２２" }, "geometry": { "type": "Point", "coordinates": [ 137.13777588, 35.7140185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市小坂町坂下３９１" }, "geometry": { "type": "Point", "coordinates": [ 137.25379138, 35.94225026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市森１４０の１" }, "geometry": { "type": "Point", "coordinates": [ 137.24599532, 35.80365515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市東上田４９６" }, "geometry": { "type": "Point", "coordinates": [ 137.23362554, 35.83043724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町上村６４３の１" }, "geometry": { "type": "Point", "coordinates": [ 137.218295860000012, 35.86484242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町上呂６６２−３" }, "geometry": { "type": "Point", "coordinates": [ 137.20448098, 35.90940585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町萩原１４５８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.208158379999986, 35.87412944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡坂祝町取組１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.98712878, 35.42633041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡七宗町上麻生２３３７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.11910898, 35.5425308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡川辺町西栃井６０２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.05917151, 35.47914089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡川辺町石神字内田８５５の３" }, "geometry": { "type": "Point", "coordinates": [ 137.07271312, 35.5022514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町河岐１６０２" }, "geometry": { "type": "Point", "coordinates": [ 137.19142566, 35.57595712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町黒川１４６３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.34199516000001, 35.58623767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町坂ノ東１４９９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.169072449999987, 35.62506367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町八百津３１７６の１" }, "geometry": { "type": "Point", "coordinates": [ 137.14855523, 35.47692937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市下恵土字針田４１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.042995280000014, 35.42328635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見１５７５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.06251326, 35.41865564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市今渡１６６４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.044217, 35.43420197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市今渡字中鳴子２１８６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.0298918, 35.42682667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市桜ケ丘６−２３１−２" }, "geometry": { "type": "Point", "coordinates": [ 137.11466281, 35.37678602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市皐ケ丘１丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 137.100051220000012, 35.38309487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市川合７７４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.06016377, 35.43773894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市中恵土２１７８−６" }, "geometry": { "type": "Point", "coordinates": [ 137.06493859, 35.42923336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市土田２５４５" }, "geometry": { "type": "Point", "coordinates": [ 137.02020364, 35.43090461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町長瀬８９８" }, "geometry": { "type": "Point", "coordinates": [ 136.666983890000012, 35.20541367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町馬目４１０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.643825240000012, 35.22245166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町安江１１１７" }, "geometry": { "type": "Point", "coordinates": [ 136.62817951, 35.18549796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町奥条字町裏２８９" }, "geometry": { "type": "Point", "coordinates": [ 136.59589614, 35.22528173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町志津９４３の１" }, "geometry": { "type": "Point", "coordinates": [ 136.57071883, 35.24650867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町松山字松山４７５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63420768, 35.15391571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市平田町今尾１７５９" }, "geometry": { "type": "Point", "coordinates": [ 136.62826005, 35.24769404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼三ツ池町３丁目４２１" }, "geometry": { "type": "Point", "coordinates": [ 136.89554659, 35.40271622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼西町３−７７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.932978240000011, 35.40275699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼東町５丁目５６" }, "geometry": { "type": "Point", "coordinates": [ 136.9423448, 35.40248281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼宝積寺町３−１１３" }, "geometry": { "type": "Point", "coordinates": [ 136.96112826000001, 35.40694869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市三井東町１−８６" }, "geometry": { "type": "Point", "coordinates": [ 136.842751639999989, 35.3938225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原花園町４−８６" }, "geometry": { "type": "Point", "coordinates": [ 136.85351906, 35.4076547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原寺島町２丁目５７の２" }, "geometry": { "type": "Point", "coordinates": [ 136.864122830000014, 35.41647544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加緑町４−３８" }, "geometry": { "type": "Point", "coordinates": [ 136.82280576, 35.39116841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下有知字重竹９６２" }, "geometry": { "type": "Point", "coordinates": [ 136.89767526, 35.51001809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市志津野２６５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.97093, 35.51576254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小瀬２３８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.88994833000001, 35.49901197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小瀬２８２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89850105, 35.49062478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小瀬字首次２８３２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.89546751, 35.48961364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市上之保先谷１９０６" }, "geometry": { "type": "Point", "coordinates": [ 137.02291144, 35.61115712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市西欠ノ下６８の３" }, "geometry": { "type": "Point", "coordinates": [ 136.91931935, 35.47777943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市倉知字築坪２５８７の１" }, "geometry": { "type": "Point", "coordinates": [ 136.89889699, 35.46583182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市東新町４−７９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.935334680000011, 35.48157643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部新所３丁目１７２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.75771645, 35.38247469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部大川２−７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.74738727, 35.38131123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部中島３丁目５の２" }, "geometry": { "type": "Point", "coordinates": [ 136.75149475, 35.38975497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市粟野東４丁目１００" }, "geometry": { "type": "Point", "coordinates": [ 136.78426226, 35.48876434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市粟野東５−９２" }, "geometry": { "type": "Point", "coordinates": [ 136.78372183, 35.48164984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市安食４１９" }, "geometry": { "type": "Point", "coordinates": [ 136.72720318, 35.49767025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加納愛宕町２１" }, "geometry": { "type": "Point", "coordinates": [ 136.75116349000001, 35.40855806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加納上本町１丁目９" }, "geometry": { "type": "Point", "coordinates": [ 136.76145956, 35.4039403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加納新本町１丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 136.75291546, 35.4061215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市橋本町２丁目１８" }, "geometry": { "type": "Point", "coordinates": [ 136.75357979, 35.41022454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市江添１丁目５の２２" }, "geometry": { "type": "Point", "coordinates": [ 136.726750470000013, 35.39803121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市香取町３−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.72856316, 35.41284578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市今川字諏訪３１４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.72919448, 35.4639741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市細畑１丁目３番" }, "geometry": { "type": "Point", "coordinates": [ 136.78524282, 35.40953029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市春近古市場南１４１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.83916423, 35.49099572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市上土居長池９３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.75868902, 35.45432934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市城東通２−２８" }, "geometry": { "type": "Point", "coordinates": [ 136.76545954, 35.39860828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市常盤町３３" }, "geometry": { "type": "Point", "coordinates": [ 136.76475689, 35.42625747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西鏡島２丁目１２０" }, "geometry": { "type": "Point", "coordinates": [ 136.71211355, 35.40772391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西川手８−９８" }, "geometry": { "type": "Point", "coordinates": [ 136.76289186, 35.38135769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西明見町２２" }, "geometry": { "type": "Point", "coordinates": [ 136.76299569, 35.3979483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西鶉１丁目３０の２" }, "geometry": { "type": "Point", "coordinates": [ 136.729219269999987, 35.38428458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市蔵前３−６−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.80104685, 35.39683789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市則武中２丁目２３−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.73883085, 35.44113666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市旦島中１丁目２番１号" }, "geometry": { "type": "Point", "coordinates": [ 136.7262122, 35.43466212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茶屋新田３−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.701546760000014, 35.36716971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市忠節町１丁目３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.75973566, 35.42989918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市東金宝町２丁目２" }, "geometry": { "type": "Point", "coordinates": [ 136.762356329999989, 35.41508502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市東鶉３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.74415287, 35.38258203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市南鶉３丁目２２の１" }, "geometry": { "type": "Point", "coordinates": [ 136.73605468, 35.37612717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市日野南４−１８−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.81068362, 35.42969492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市敷島町３丁目３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.74300806, 35.41175487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福光西２−７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.769924690000011, 35.45412552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市平和通１の１７" }, "geometry": { "type": "Point", "coordinates": [ 136.772770799999989, 35.44655276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北一色３丁目１０の１４" }, "geometry": { "type": "Point", "coordinates": [ 136.78594802, 35.41086167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北島２丁目１の６" }, "geometry": { "type": "Point", "coordinates": [ 136.727700520000013, 35.4268926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北野西３６２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.830865429999989, 35.50307623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町宮東１の１００の２" }, "geometry": { "type": "Point", "coordinates": [ 136.73626357, 35.36457009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町本郷３−１４３" }, "geometry": { "type": "Point", "coordinates": [ 136.741760480000011, 35.36808167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条江東町３丁目３" }, "geometry": { "type": "Point", "coordinates": [ 136.746086670000011, 35.38826836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条大溝町１−１−２６" }, "geometry": { "type": "Point", "coordinates": [ 136.741055609999989, 35.39413263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条南３丁目４" }, "geometry": { "type": "Point", "coordinates": [ 136.739988899999986, 35.39393031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市大和町徳永１１９" }, "geometry": { "type": "Point", "coordinates": [ 136.90430987, 35.80614611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町五町３丁目２−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.94215666, 35.75827519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町城南町ヤナシマ２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.9480225, 35.74457979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市美並町上田窪田６８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.94685574, 35.64044577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市和良町沢４５５の１" }, "geometry": { "type": "Point", "coordinates": [ 137.08006445, 35.74545338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市和良町沢８０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.07621483, 35.74387299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町７３６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.43776932, 35.36407596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市山岡町原８２９" }, "geometry": { "type": "Point", "coordinates": [ 137.35200902, 35.32601778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市上矢作町本字３０９５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.49289504, 35.30030935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町字原２１９４−５８" }, "geometry": { "type": "Point", "coordinates": [ 137.43676266, 35.45623178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町雀子ヶ根２０８７−２１９" }, "geometry": { "type": "Point", "coordinates": [ 137.431673280000012, 35.45497306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野２７８−５" }, "geometry": { "type": "Point", "coordinates": [ 137.410336230000013, 35.45140945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市一之宮町３４４６" }, "geometry": { "type": "Point", "coordinates": [ 137.248662919999987, 36.08489522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市奥飛騨温泉郷一重ヶ根１５０４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.52892004, 36.23839961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市奥飛騨温泉郷今見４" }, "geometry": { "type": "Point", "coordinates": [ 137.501317449999988, 36.24933637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市奥飛騨温泉郷平湯７６８−１１" }, "geometry": { "type": "Point", "coordinates": [ 137.551054560000011, 36.1847348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市下岡本町１７３５−２" }, "geometry": { "type": "Point", "coordinates": [ 137.2451534, 36.15275408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市花里町４−１１１" }, "geometry": { "type": "Point", "coordinates": [ 137.25249457000001, 36.14021026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市花里町４丁目７８" }, "geometry": { "type": "Point", "coordinates": [ 137.25287246, 36.1384827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市久々野町無数河６８４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.27316511, 36.04964131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市山田町１４４６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.22857493, 36.14036805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市山田町２４６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.21901471000001, 36.14823076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市松之木町２００−１" }, "geometry": { "type": "Point", "coordinates": [ 137.27682196, 36.14958768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市松之木町２８" }, "geometry": { "type": "Point", "coordinates": [ 137.283050909999986, 36.15022807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上岡本町４−２００" }, "geometry": { "type": "Point", "coordinates": [ 137.23916871, 36.13759296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上切町６９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23361805, 36.16358657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上宝町長倉６６６−１８" }, "geometry": { "type": "Point", "coordinates": [ 137.40526096, 36.26980046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上宝町本郷２５１１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.366475400000013, 36.28619981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市清見町夏厩８６７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.082179520000011, 36.14015838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市清見町三日町２９２" }, "geometry": { "type": "Point", "coordinates": [ 137.18557411, 36.12819321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市西之一色町１−１０８" }, "geometry": { "type": "Point", "coordinates": [ 137.249170459999988, 36.13452341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市西之一色町３丁目１２７６の１" }, "geometry": { "type": "Point", "coordinates": [ 137.250262639999988, 36.12911582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市石浦町５−４５１" }, "geometry": { "type": "Point", "coordinates": [ 137.26291418, 36.11746264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市荘川町黒谷４５" }, "geometry": { "type": "Point", "coordinates": [ 136.985570270000011, 36.01636734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市丹生川町旗鉾２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.45379972, 36.17452832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市丹生川町坊方字大沼１２１９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.32303525, 36.16910216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市朝日町一之宿８９０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.39001406, 36.0194427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市朝日町西洞字若林" }, "geometry": { "type": "Point", "coordinates": [ 137.351599990000011, 35.99358607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市朝日町浅井６０７" }, "geometry": { "type": "Point", "coordinates": [ 137.374190489999989, 36.07948264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市朝日町万石字中野１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.35272439, 36.08875336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高富１０８９" }, "geometry": { "type": "Point", "coordinates": [ 136.787416979999989, 35.49401485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市松尾２５５の１" }, "geometry": { "type": "Point", "coordinates": [ 136.72024044, 35.54300107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市大字東深瀬字針崎７０７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.78987078, 35.51097165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市稲里北通５２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.685696220000011, 35.38576094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市古橋外浦１８８" }, "geometry": { "type": "Point", "coordinates": [ 136.65030875, 35.39524789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市別府９７１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6937804, 35.39425236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市穂積１５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.690824099999986, 35.38943567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市本田三ノ改田１０７７" }, "geometry": { "type": "Point", "coordinates": [ 136.673666700000012, 35.40526393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市野田新田３９９３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.68047931000001, 35.38403197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市一色町２丁目１１７" }, "geometry": { "type": "Point", "coordinates": [ 137.24820344, 35.35931364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市上平町５−１８" }, "geometry": { "type": "Point", "coordinates": [ 137.25745366000001, 35.35805872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市陶町水上１５７−１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.30580082, 35.31176086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市音羽町５丁目１８番地" }, "geometry": { "type": "Point", "coordinates": [ 137.11489329, 35.33836729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市下沢町３−９−２" }, "geometry": { "type": "Point", "coordinates": [ 137.1523502, 35.326369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市金岡町１丁目５３番地" }, "geometry": { "type": "Point", "coordinates": [ 137.11790263, 35.34473194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市市之倉町５丁目８８" }, "geometry": { "type": "Point", "coordinates": [ 137.125852970000011, 35.2983306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市大畑町５丁目１９３" }, "geometry": { "type": "Point", "coordinates": [ 137.13503358, 35.32009141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉岩畑町３−４２" }, "geometry": { "type": "Point", "coordinates": [ 137.18374992, 35.36274671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市曽木町３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25131251, 35.30124287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市鶴里町柿野９３８" }, "geometry": { "type": "Point", "coordinates": [ 137.21506863, 35.26938332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市肥田町肥田下肥田２９９２の４" }, "geometry": { "type": "Point", "coordinates": [ 137.21453736, 35.36263277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町栄２−１−２１" }, "geometry": { "type": "Point", "coordinates": [ 137.18289769, 36.23920814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町新栄町１０の１１" }, "geometry": { "type": "Point", "coordinates": [ 137.18109697, 36.24095342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町大字上町字久中２５３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.19957245, 36.22060406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市神岡町殿字沖野７２４" }, "geometry": { "type": "Point", "coordinates": [ 137.30721938, 36.32736822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市川合町３丁目" }, "geometry": { "type": "Point", "coordinates": [ 137.04712394, 35.44768558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市蜂屋町上蜂屋２５６４の一部" }, "geometry": { "type": "Point", "coordinates": [ 137.02530927, 35.47264627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市蜂屋町上蜂屋字石橋１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.01112781, 35.47113494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市蜂屋町上蜂屋柳坪４６７６" }, "geometry": { "type": "Point", "coordinates": [ 137.02276126000001, 35.45349568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市本郷町６−８２" }, "geometry": { "type": "Point", "coordinates": [ 137.036736710000014, 35.45723809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市上松森６９９" }, "geometry": { "type": "Point", "coordinates": [ 136.90778119, 35.53477643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡関ヶ原町大字関ヶ原３４１番地" }, "geometry": { "type": "Point", "coordinates": [ 136.474922780000014, 35.36326021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町御所野１５０１" }, "geometry": { "type": "Point", "coordinates": [ 136.5257743, 35.36791992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町表佐番切４８０２−３" }, "geometry": { "type": "Point", "coordinates": [ 136.55580212000001, 35.36691855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣郡北方町曲路３−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.69353188, 35.43097065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市宗慶田中５６４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67878578, 35.42938342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市曽井中島１４２４" }, "geometry": { "type": "Point", "coordinates": [ 136.6732709, 35.48575224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市大字上保字西島１０２５" }, "geometry": { "type": "Point", "coordinates": [ 136.67584799, 35.46564224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町谷汲徳積字大正新田１９８１" }, "geometry": { "type": "Point", "coordinates": [ 136.61588518, 35.52696614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町下笠４９７６の１" }, "geometry": { "type": "Point", "coordinates": [ 136.59985142, 35.27498874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町高田２２０３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.566452559999988, 35.30498298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町高田９３０の１" }, "geometry": { "type": "Point", "coordinates": [ 136.56184113, 35.30949659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町高田押越９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.55952632, 35.30525606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡安八町大明神椙の木３９８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65814275, 35.33939767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡輪之内町大薮５０９" }, "geometry": { "type": "Point", "coordinates": [ 136.65558576, 35.29761226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡輪之内町福束字下沼１７０１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62817, 35.29449553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町円城寺高島６７２" }, "geometry": { "type": "Point", "coordinates": [ 136.78461630000001, 35.37772703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町美笠通１−４６" }, "geometry": { "type": "Point", "coordinates": [ 136.75983994, 35.37529317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町伏屋２丁目１" }, "geometry": { "type": "Point", "coordinates": [ 136.78943415, 35.38793326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町平成６丁目９" }, "geometry": { "type": "Point", "coordinates": [ 136.784132629999988, 35.38272827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市船橋町江北西２４１" }, "geometry": { "type": "Point", "coordinates": [ 136.69509962, 35.31875704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市小坂町矢ヶ野７２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25930527, 35.94658631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡七宗町中麻生字久手道下１２３４" }, "geometry": { "type": "Point", "coordinates": [ 137.11390694, 35.53705801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町和知２８４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.09135849, 35.45970793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見６−２１" }, "geometry": { "type": "Point", "coordinates": [ 137.063184400000011, 35.42209849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市坂戸八ツ物１８６" }, "geometry": { "type": "Point", "coordinates": [ 137.037940350000014, 35.41709238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町高須町１１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63440793, 35.2233744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町安江１１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.627664110000012, 35.18638687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町駒野７２６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.606872509999988, 35.22371884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市平田町幡長８２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.66726664, 35.27032991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市三井町５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.83390735, 35.39185824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市須衛町２−４４" }, "geometry": { "type": "Point", "coordinates": [ 136.8850081, 35.42407203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原宮代町３６" }, "geometry": { "type": "Point", "coordinates": [ 136.84525216, 35.42079523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加巾下町６１" }, "geometry": { "type": "Point", "coordinates": [ 136.84669155, 35.40891159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加西那加町５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.83413638, 35.39775188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市円保通２丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.92833829, 35.48837942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市山田字大栗１０８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.86526892, 35.4688634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市市平賀３５５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.93936908, 35.4828468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小瀬字長野１７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89221706, 35.49592108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市倉知蓼原６７３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89884125, 35.4788862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市武芸川町高野５０５" }, "geometry": { "type": "Point", "coordinates": [ 136.85552801, 35.51996265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市宇佐東町６−４" }, "geometry": { "type": "Point", "coordinates": [ 136.73736846, 35.39869379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市下奈良２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.71381655, 35.39285386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加納中広江町２３" }, "geometry": { "type": "Point", "coordinates": [ 136.76262802, 35.40711975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市黒野５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.72179788, 35.45853269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市鷺山１５３０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.75353164, 35.44657794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西河渡２−８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.69421157, 35.41220726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西荘２丁目８番２号" }, "geometry": { "type": "Point", "coordinates": [ 136.72669842, 35.40846605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市大字長良古津字池之尻２−７" }, "geometry": { "type": "Point", "coordinates": [ 136.81979313, 35.44935907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市大福町５−１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.736436880000014, 35.43623738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市中鶉３−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.73301417, 35.38349088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市長良八反田１３４６" }, "geometry": { "type": "Point", "coordinates": [ 136.78570681, 35.44966003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市都通４−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.74697971, 35.41533635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市東改田腰前田２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.71397266, 35.45063489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市東興町５０" }, "geometry": { "type": "Point", "coordinates": [ 136.78422935, 35.416258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市入舟町４−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.780673009999987, 35.41106311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市美園町２−６" }, "geometry": { "type": "Point", "coordinates": [ 136.76268884000001, 35.42016304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市門屋勢引１３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.83157916, 35.4991141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市野一色２−１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.80215468, 35.4163297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市高鷲町ひるがの４６７０−９３１" }, "geometry": { "type": "Point", "coordinates": [ 136.90492563, 36.00429279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市高鷲町大鷲８７２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.87771586, 35.94909239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町為真１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.86059868000001, 35.87058793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町中西４７５" }, "geometry": { "type": "Point", "coordinates": [ 136.890777320000012, 35.89130995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町白鳥７８６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.85657766, 35.88613706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町歩岐島１２８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.83031311, 35.92846024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町稲成字上ノ野１１５８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.95355387, 35.73245097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市美並町上田１２１８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.948262160000013, 35.63434907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市美並町白山８４９" }, "geometry": { "type": "Point", "coordinates": [ 136.956440719999989, 35.66001447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市明宝大谷３３３−４" }, "geometry": { "type": "Point", "coordinates": [ 137.026507290000012, 35.84324227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町７０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.44549468, 35.36347633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町飯羽間" }, "geometry": { "type": "Point", "coordinates": [ 137.43192593, 35.37889094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市串原４１７９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.40889834, 35.26322172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市山岡町下手向４５３−３" }, "geometry": { "type": "Point", "coordinates": [ 137.36534346, 35.34942705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町舟山１１２０" }, "geometry": { "type": "Point", "coordinates": [ 137.42887972, 35.45489965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市中野方町１７５５−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.29906549, 35.5169953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市中野方町２７６６" }, "geometry": { "type": "Point", "coordinates": [ 137.31283506, 35.52394658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野字神田２６８−３５" }, "geometry": { "type": "Point", "coordinates": [ 137.41128917, 35.45029875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野字霜月田２８８−８" }, "geometry": { "type": "Point", "coordinates": [ 137.40795197, 35.45135801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市武並町竹折向流１７０１−８" }, "geometry": { "type": "Point", "coordinates": [ 137.33726539, 35.432388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市明智町５１２" }, "geometry": { "type": "Point", "coordinates": [ 137.38735712, 35.30379274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市桐生町６−９０" }, "geometry": { "type": "Point", "coordinates": [ 137.252866289999986, 36.157581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市国府町八日町３８" }, "geometry": { "type": "Point", "coordinates": [ 137.23663787000001, 36.21995322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上宝町在家" }, "geometry": { "type": "Point", "coordinates": [ 137.364947, 36.28446598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市掛大門９２２−５" }, "geometry": { "type": "Point", "coordinates": [ 136.72629723, 35.5345627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市牛牧２９２８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.67583503, 35.36887363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市古橋字外浦１９２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65088096, 35.39482518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市穂積大字高野１８４７" }, "geometry": { "type": "Point", "coordinates": [ 136.69133259, 35.38368309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市平和町４−５８" }, "geometry": { "type": "Point", "coordinates": [ 137.1192977, 35.32838283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市弁天町２−１６" }, "geometry": { "type": "Point", "coordinates": [ 137.12836841, 35.34080965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市加賀野町２−５６" }, "geometry": { "type": "Point", "coordinates": [ 136.63608266, 35.37708726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市外淵町４" }, "geometry": { "type": "Point", "coordinates": [ 136.62013773000001, 35.32715122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市外野町2−100" }, "geometry": { "type": "Point", "coordinates": [ 136.614756559999989, 35.33749497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市宿地町９０３−４" }, "geometry": { "type": "Point", "coordinates": [ 136.60889923, 35.37539142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市上石津町下山２８３７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.46287503, 35.24813785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市上石津町下多良字下川原２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.472915269999987, 35.29451929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市浅草２丁目１０７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.616726089999986, 35.31162383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市池尻町深田９４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.59717616, 35.38422038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市中之江町３−１４" }, "geometry": { "type": "Point", "coordinates": [ 136.643732840000013, 35.36478337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市墨俣町墨俣８７４" }, "geometry": { "type": "Point", "coordinates": [ 136.68027951, 35.36231612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市牧野町１−２４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.579013260000011, 35.38323522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市本今４−５６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60741513, 35.34618681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市林町１０−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61784405, 35.37811363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村御母衣字上川原１３" }, "geometry": { "type": "Point", "coordinates": [ 136.908798209999986, 36.1532454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市えびす町７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.50501631, 35.49450887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市阿木８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.46565969, 35.39651303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市下野437" }, "geometry": { "type": "Point", "coordinates": [ 137.458614829999988, 35.58265964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市茄子川６２６−３３" }, "geometry": { "type": "Point", "coordinates": [ 137.446450340000013, 35.47800996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市茄子川字堤下２０７７−５９" }, "geometry": { "type": "Point", "coordinates": [ 137.44431677, 35.46031925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市坂下９２６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.5299971, 35.57235876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市苗木１７６７−５" }, "geometry": { "type": "Point", "coordinates": [ 137.46938658, 35.52518921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市蛭川２３１８−３" }, "geometry": { "type": "Point", "coordinates": [ 137.38038007, 35.52698994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市蛭川５２２１" }, "geometry": { "type": "Point", "coordinates": [ 137.39996326, 35.49988312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市付知町若宮７６６６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.43596512, 35.64306272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市落合字沖田７１４" }, "geometry": { "type": "Point", "coordinates": [ 137.53016707, 35.51410714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉仲森町１丁目１１" }, "geometry": { "type": "Point", "coordinates": [ 137.188242550000012, 35.36654241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市鶴里町柿野１２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.21985609, 35.27289601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市河合町小無雁５３" }, "geometry": { "type": "Point", "coordinates": [ 137.112035100000014, 36.30209948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町金森町８−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.18985185, 36.23643863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町袈裟丸８１１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.14548815, 36.26097141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町上町５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.19739397, 36.22244395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市神岡町殿字下夕野１２８９−９" }, "geometry": { "type": "Point", "coordinates": [ 137.30316344, 36.32524318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市加茂川町２−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.00890782, 35.43892206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市山手町２−６２" }, "geometry": { "type": "Point", "coordinates": [ 137.01585986, 35.45021597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市極楽寺字樋口３３１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.88574427, 35.53129095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市大字生櫛字荘ノ下１６８６−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.90107101000001, 35.53006612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡関ヶ原町西野２５７６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.46973164, 35.35882327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡関ヶ原町野上字南桃配１４２８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.487215600000013, 35.36522715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市曽井中島１５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6747042, 35.48131484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町下磯字高田１５７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.627491529999986, 35.43162709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町大字黒野字小奈良７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.62061888, 35.46805749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町市場字北大黒４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.540008769999986, 35.47372855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町上南方上須場６２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56043355, 35.49403449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町下笠三ツ屋２２３８" }, "geometry": { "type": "Point", "coordinates": [ 136.58423574, 35.27153539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町石畑１４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.55209667, 35.29768223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町船付大割田１５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 136.599093079999989, 35.28002714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市正木北町７−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.74972019, 35.45399742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市下真桑字八ツ又東１４２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67634652000001, 35.43629514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡輪之内町福束字下沼1777-1" }, "geometry": { "type": "Point", "coordinates": [ 136.62579405, 35.294701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町八剣7-110" }, "geometry": { "type": "Point", "coordinates": [ 136.7821995, 35.38987288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町上呂2299-1" }, "geometry": { "type": "Point", "coordinates": [ 137.20782336, 35.89757356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡東白川村神土480−1" }, "geometry": { "type": "Point", "coordinates": [ 137.32213843, 35.64111186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町坂ノ東4765−1" }, "geometry": { "type": "Point", "coordinates": [ 137.169336499999986, 35.61235987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町三川2028−3" }, "geometry": { "type": "Point", "coordinates": [ 137.211032280000012, 35.57241808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡白川町上佐見2159" }, "geometry": { "type": "Point", "coordinates": [ 137.27122097, 35.6764803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町久田見2747" }, "geometry": { "type": "Point", "coordinates": [ 137.18964123, 35.51973358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町福地101-3" }, "geometry": { "type": "Point", "coordinates": [ 137.24301051, 35.52893247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡富加町滝田1584" }, "geometry": { "type": "Point", "coordinates": [ 136.98061144, 35.48611004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町中切1436-5" }, "geometry": { "type": "Point", "coordinates": [ 137.158289169999989, 35.42583848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市瀬田1704-2" }, "geometry": { "type": "Point", "coordinates": [ 137.08845759, 35.43062802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津郡海津町馬目372" }, "geometry": { "type": "Point", "coordinates": [ 136.64606056, 35.22305718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津郡南濃町羽沢626-1" }, "geometry": { "type": "Point", "coordinates": [ 136.60254448, 35.21426624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下有知4946-1" }, "geometry": { "type": "Point", "coordinates": [ 136.919841, 35.49691724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市上之保14817-2" }, "geometry": { "type": "Point", "coordinates": [ 137.03813463, 35.61105471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市上之保１９００３‐１" }, "geometry": { "type": "Point", "coordinates": [ 137.06199823, 35.64636356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市宇佐南4‐14‐6" }, "geometry": { "type": "Point", "coordinates": [ 136.729391990000011, 35.39230984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市大和町島2510" }, "geometry": { "type": "Point", "coordinates": [ 136.90761161, 35.79306639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町石徹白第40−1" }, "geometry": { "type": "Point", "coordinates": [ 136.77174161, 35.97393079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町白鳥27−6" }, "geometry": { "type": "Point", "coordinates": [ 136.858718509999989, 35.8796277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町初納1327" }, "geometry": { "type": "Point", "coordinates": [ 137.00707567, 35.7846814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町小那比3112−1" }, "geometry": { "type": "Point", "coordinates": [ 137.028776130000011, 35.65862305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町美山2483-1" }, "geometry": { "type": "Point", "coordinates": [ 137.00710056, 35.73801452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市明宝小川600-2" }, "geometry": { "type": "Point", "coordinates": [ 137.12165889, 35.86217597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市和良町下洞743" }, "geometry": { "type": "Point", "coordinates": [ 137.08856121, 35.75091092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那郡上矢作町下742-2" }, "geometry": { "type": "Point", "coordinates": [ 137.476370010000011, 35.27470892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町飯羽間2586-1" }, "geometry": { "type": "Point", "coordinates": [ 137.432727, 35.3843396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野1251-23" }, "geometry": { "type": "Point", "coordinates": [ 137.3891442, 35.4475257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市高根町大古井345" }, "geometry": { "type": "Point", "coordinates": [ 137.477619010000012, 36.03381086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市国府町金桶56-1" }, "geometry": { "type": "Point", "coordinates": [ 137.22358459, 36.20504391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市国府町広瀬町1560-3" }, "geometry": { "type": "Point", "coordinates": [ 137.20831653, 36.21231855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市三福寺町590" }, "geometry": { "type": "Point", "coordinates": [ 137.2601867, 36.1537374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市丹生川町坊方2004" }, "geometry": { "type": "Point", "coordinates": [ 137.31062889, 36.17025501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市朝日町万石124" }, "geometry": { "type": "Point", "coordinates": [ 137.35121347, 36.08885463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市冬頭町1056" }, "geometry": { "type": "Point", "coordinates": [ 137.24270775, 36.16132516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高富2147" }, "geometry": { "type": "Point", "coordinates": [ 136.78776919, 35.50118609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市音羽町3-25" }, "geometry": { "type": "Point", "coordinates": [ 137.11613742, 35.33417429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大野郡白川村荻町333" }, "geometry": { "type": "Point", "coordinates": [ 136.90666224, 36.26066106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市加子母1445-1" }, "geometry": { "type": "Point", "coordinates": [ 137.33876695, 35.74306226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市坂下2516-10" }, "geometry": { "type": "Point", "coordinates": [ 137.52422306, 35.57240339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市手賀野416-5" }, "geometry": { "type": "Point", "coordinates": [ 137.49812587, 35.4816925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市神坂144-1" }, "geometry": { "type": "Point", "coordinates": [ 137.57095198, 35.51010933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市千旦林1241-1" }, "geometry": { "type": "Point", "coordinates": [ 137.455737699999986, 35.47819853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市福岡1189-1" }, "geometry": { "type": "Point", "coordinates": [ 137.44901979, 35.55602156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町中野1240" }, "geometry": { "type": "Point", "coordinates": [ 137.16457606, 36.24737711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市神岡町森茂1514-1" }, "geometry": { "type": "Point", "coordinates": [ 137.3595369, 36.38304957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市伊深町899-1" }, "geometry": { "type": "Point", "coordinates": [ 137.00480821, 35.50108298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市山之上町3451" }, "geometry": { "type": "Point", "coordinates": [ 137.04235717, 35.47841379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市蜂屋町上蜂屋6-1" }, "geometry": { "type": "Point", "coordinates": [ 137.00510933000001, 35.47155826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡関ヶ原町野上168" }, "geometry": { "type": "Point", "coordinates": [ 136.49260651, 35.36886117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町宮代1020-1" }, "geometry": { "type": "Point", "coordinates": [ 136.536696979999988, 35.35730872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町府中1110-2" }, "geometry": { "type": "Point", "coordinates": [ 136.534589649999987, 35.3840671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣郡北方町春来町2-17" }, "geometry": { "type": "Point", "coordinates": [ 136.687426789999989, 35.43140149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市見延441" }, "geometry": { "type": "Point", "coordinates": [ 136.671334159999986, 35.45948804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市宗慶467-1" }, "geometry": { "type": "Point", "coordinates": [ 136.66637398, 35.42770009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町中之元1114-2" }, "geometry": { "type": "Point", "coordinates": [ 136.61976719, 35.46761032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町上田1289" }, "geometry": { "type": "Point", "coordinates": [ 136.587319720000011, 35.44820521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町草深287" }, "geometry": { "type": "Point", "coordinates": [ 136.563318939999988, 35.44029437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町坂内広瀬938" }, "geometry": { "type": "Point", "coordinates": [ 136.41082205, 35.60325335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町三輪2744-39" }, "geometry": { "type": "Point", "coordinates": [ 136.570452710000012, 35.48315446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町春日六合3068-1" }, "geometry": { "type": "Point", "coordinates": [ 136.48305063, 35.4665362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町東横山500-1" }, "geometry": { "type": "Point", "coordinates": [ 136.45904356, 35.58333372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町東津汲875-3" }, "geometry": { "type": "Point", "coordinates": [ 136.50695858, 35.55648795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町美笠通3丁目13" }, "geometry": { "type": "Point", "coordinates": [ 136.75457798, 35.36790154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市上中町長間字沼2582" }, "geometry": { "type": "Point", "coordinates": [ 136.69461521, 35.30477481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町菅田桐洞3669" }, "geometry": { "type": "Point", "coordinates": [ 137.14673166, 35.64327353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市小川字島尻1846-1" }, "geometry": { "type": "Point", "coordinates": [ 137.25585193, 35.78969441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市乗政536-1" }, "geometry": { "type": "Point", "coordinates": [ 137.2868489, 35.77944663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市馬瀬名丸28" }, "geometry": { "type": "Point", "coordinates": [ 137.174885350000011, 35.88609707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町八百津5087" }, "geometry": { "type": "Point", "coordinates": [ 137.14193149, 35.48083525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市下恵土野区路2929" }, "geometry": { "type": "Point", "coordinates": [ 137.049572469999987, 35.42687888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市東帷子1083-1" }, "geometry": { "type": "Point", "coordinates": [ 137.00924408, 35.40082393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼西町1丁目650" }, "geometry": { "type": "Point", "coordinates": [ 136.93628343, 35.4031737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼大伊木町6丁目87-1" }, "geometry": { "type": "Point", "coordinates": [ 136.91609139, 35.38725825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市小佐野町２丁目２２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.82996062, 35.39017236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原希望町4丁目31-1" }, "geometry": { "type": "Point", "coordinates": [ 136.85567961000001, 35.40742079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小屋名1456" }, "geometry": { "type": "Point", "coordinates": [ 136.875912989999989, 35.48543629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市西本郷通5丁目2-22" }, "geometry": { "type": "Point", "coordinates": [ 136.92060623, 35.49093931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩崎1003-2" }, "geometry": { "type": "Point", "coordinates": [ 136.78121683, 35.47409433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市祇園2丁目49" }, "geometry": { "type": "Point", "coordinates": [ 136.84230158, 35.45672862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市鹿島町2丁目18" }, "geometry": { "type": "Point", "coordinates": [ 136.74285814000001, 35.41582066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市水海道3丁目22-15" }, "geometry": { "type": "Point", "coordinates": [ 136.81115667, 35.40783658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西荘1丁目9-21" }, "geometry": { "type": "Point", "coordinates": [ 136.72738898, 35.40916861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市折立村前880-2" }, "geometry": { "type": "Point", "coordinates": [ 136.7291715, 35.45807183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市曽我屋１丁目１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.70531352, 35.43043393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町向小駄良字東上島991" }, "geometry": { "type": "Point", "coordinates": [ 136.85418289, 35.887362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町稲成398" }, "geometry": { "type": "Point", "coordinates": [ 136.948253779999988, 35.73853865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町中坪1丁目9-10" }, "geometry": { "type": "Point", "coordinates": [ 136.95341181, 35.75789932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市武並町新竹折44" }, "geometry": { "type": "Point", "coordinates": [ 137.36168823, 35.44062941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市明智町大田989-1" }, "geometry": { "type": "Point", "coordinates": [ 137.36688507, 35.30033989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市松之木町290" }, "geometry": { "type": "Point", "coordinates": [ 137.27111, 36.1508191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市上岡本町1-38" }, "geometry": { "type": "Point", "coordinates": [ 137.244734380000011, 36.13745487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市岩佐803" }, "geometry": { "type": "Point", "coordinates": [ 136.79853694, 35.54576507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市一色町4丁目88" }, "geometry": { "type": "Point", "coordinates": [ 137.252651289999989, 35.35717206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市土岐町清水1243" }, "geometry": { "type": "Point", "coordinates": [ 137.26195352, 35.37593847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市陶町水上254-2" }, "geometry": { "type": "Point", "coordinates": [ 137.30925918, 35.31210151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市虎渓山町3丁目103番地1" }, "geometry": { "type": "Point", "coordinates": [ 137.12675166, 35.35185174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市楽田町4丁目59" }, "geometry": { "type": "Point", "coordinates": [ 136.629928400000011, 35.378115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市静里町910-1" }, "geometry": { "type": "Point", "coordinates": [ 136.59474013, 35.35796832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市浅草1丁目386" }, "geometry": { "type": "Point", "coordinates": [ 136.61700586, 35.3092637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市和合新町2-25" }, "geometry": { "type": "Point", "coordinates": [ 136.648151399999989, 35.37217089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市千旦林220" }, "geometry": { "type": "Point", "coordinates": [ 137.479201389999986, 35.47488217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市中津川字地蔵堂913-1" }, "geometry": { "type": "Point", "coordinates": [ 137.51499845, 35.50364743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市福岡１１０４" }, "geometry": { "type": "Point", "coordinates": [ 137.44908039, 35.55708543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市下石阿庄町4丁目7" }, "geometry": { "type": "Point", "coordinates": [ 137.18798454, 35.32055355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市妻木町若宮834" }, "geometry": { "type": "Point", "coordinates": [ 137.19122668, 35.30809289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市土岐津町土岐口786-4" }, "geometry": { "type": "Point", "coordinates": [ 137.182485469999989, 35.34138411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町幸栄町２５" }, "geometry": { "type": "Point", "coordinates": [ 137.1852979, 36.22836168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市松森字下巾上３９９" }, "geometry": { "type": "Point", "coordinates": [ 136.90756257000001, 35.52715675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣郡北方町北方120-1" }, "geometry": { "type": "Point", "coordinates": [ 136.69766239, 35.43816115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市三橋糸貫川通1101-1" }, "geometry": { "type": "Point", "coordinates": [ 136.674976930000014, 35.44797842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市三橋字糸貫川通1101-128" }, "geometry": { "type": "Point", "coordinates": [ 136.67518967, 35.45289449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町橋爪西川原1477-2" }, "geometry": { "type": "Point", "coordinates": [ 136.54197822, 35.32108355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市江吉良町145−1" }, "geometry": { "type": "Point", "coordinates": [ 136.702025670000012, 35.3183686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市上中町中字古名348-1" }, "geometry": { "type": "Point", "coordinates": [ 136.69176242, 35.30402859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町飯柄868" }, "geometry": { "type": "Point", "coordinates": [ 136.719279410000013, 35.31547009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町上恵土531−3" }, "geometry": { "type": "Point", "coordinates": [ 137.0789732, 35.43806743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市塩1204" }, "geometry": { "type": "Point", "coordinates": [ 137.03056073, 35.41437124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市長洞字落合4−1" }, "geometry": { "type": "Point", "coordinates": [ 137.020838809999987, 35.3954177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加不動ケ丘町2−96" }, "geometry": { "type": "Point", "coordinates": [ 136.848608320000011, 35.40665268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市倉知4574-1" }, "geometry": { "type": "Point", "coordinates": [ 136.8850589, 35.45108272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市上西郷6−156−2" }, "geometry": { "type": "Point", "coordinates": [ 136.69595564, 35.48175525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市清本町8−2" }, "geometry": { "type": "Point", "coordinates": [ 136.7375932, 35.40617599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市折立字北浦280−1" }, "geometry": { "type": "Point", "coordinates": [ 136.73153769000001, 35.45856905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市島栄町1−30" }, "geometry": { "type": "Point", "coordinates": [ 136.7464473, 35.43275796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市南殿町2-11" }, "geometry": { "type": "Point", "coordinates": [ 136.76486227, 35.41756379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町梅松3−78" }, "geometry": { "type": "Point", "coordinates": [ 136.74134743, 35.36154369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町流通センター2−2−1" }, "geometry": { "type": "Point", "coordinates": [ 136.71019784, 35.36523227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町城南町205−1" }, "geometry": { "type": "Point", "coordinates": [ 136.94852709, 35.74359251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市京町5-89" }, "geometry": { "type": "Point", "coordinates": [ 137.128294649999987, 35.32179746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市熊野町311" }, "geometry": { "type": "Point", "coordinates": [ 136.58831090000001, 35.37574786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町瑞穂411-1" }, "geometry": { "type": "Point", "coordinates": [ 136.60171333, 35.25383178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市正木町南及3-50-2" }, "geometry": { "type": "Point", "coordinates": [ 136.742084260000013, 35.34427815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡川辺町西栃井１７３６−５" }, "geometry": { "type": "Point", "coordinates": [ 137.06480027, 35.48417519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見２２３４" }, "geometry": { "type": "Point", "coordinates": [ 137.060752079999986, 35.41279778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加桐野外二ケ所大字入会地中野８-５" }, "geometry": { "type": "Point", "coordinates": [ 136.85832824, 35.39800404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町東塚5-43-1" }, "geometry": { "type": "Point", "coordinates": [ 136.75517297, 35.36675714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町北塚5-117" }, "geometry": { "type": "Point", "coordinates": [ 136.73178841, 35.36604764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町中津屋389-9" }, "geometry": { "type": "Point", "coordinates": [ 136.86770969, 35.85709982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町相生字中山１０６７" }, "geometry": { "type": "Point", "coordinates": [ 136.949896450000011, 35.71349314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市築捨町３丁目３６番地" }, "geometry": { "type": "Point", "coordinates": [ 136.62049421, 35.34143659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町三輪４８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.56881605, 35.48819756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡輪之内町里８５４" }, "geometry": { "type": "Point", "coordinates": [ 136.634689329999986, 35.30323365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町美笠通１−３２" }, "geometry": { "type": "Point", "coordinates": [ 136.75896979, 35.37383474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町狐穴小堤１０６６" }, "geometry": { "type": "Point", "coordinates": [ 136.71596752, 35.32341845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市森９７９−３２" }, "geometry": { "type": "Point", "coordinates": [ 137.24437477, 35.8045702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町宮田畑１４６５" }, "geometry": { "type": "Point", "coordinates": [ 137.23923876, 35.9283383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市土田３８４６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.01583481, 35.42995093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町安江１５１２" }, "geometry": { "type": "Point", "coordinates": [ 136.62090838, 35.19098362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市南濃町津屋西園２８３７−７" }, "geometry": { "type": "Point", "coordinates": [ 136.56168915, 35.24733986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原吉野町２−５２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.85615642, 35.41736023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加野畑町１−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.82979637, 35.40700083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市旭ケ丘１−１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.9280982, 35.48409554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下有知２８５９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.90679739, 35.52014368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市下奈良１−４−６" }, "geometry": { "type": "Point", "coordinates": [ 136.71303304, 35.39326064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市菅生６−１−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.729490379999987, 35.42512758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市則武中央通７６１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.746515069999987, 35.44256961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市本郷町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.75109498, 35.42148711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市藪田南１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 136.72613872, 35.39447018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市稲津町小里１０１２−５" }, "geometry": { "type": "Point", "coordinates": [ 137.273581510000014, 35.34661229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市稲津町小里１２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.26948367, 35.34965483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市陶町大川８８８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.29442223, 35.30986072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市小泉町８−１２９" }, "geometry": { "type": "Point", "coordinates": [ 137.10135939, 35.34694478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市笠縫町４７９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.60671883, 35.37819945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町袈裟丸５７０" }, "geometry": { "type": "Point", "coordinates": [ 137.14188133, 36.26182491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市西町６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.99430895, 35.45209942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市太田本町１−４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.019624240000013, 35.43959537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市島町１−４−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.028842059999988, 35.44098913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市蕨生浅野１７１" }, "geometry": { "type": "Point", "coordinates": [ 136.892908580000011, 35.58297091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市政田１９３６" }, "geometry": { "type": "Point", "coordinates": [ 136.63923005, 35.43056734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市政田２５８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64508024, 35.43989298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市文殊１３０９" }, "geometry": { "type": "Point", "coordinates": [ 136.680085350000013, 35.48548276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町栗笠" }, "geometry": { "type": "Point", "coordinates": [ 136.59522139, 35.30093011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町飯田１３３３" }, "geometry": { "type": "Point", "coordinates": [ 136.57182864, 35.32627776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町米野１８３" }, "geometry": { "type": "Point", "coordinates": [ 136.8057492, 35.37956569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市桑原町東方１０６５" }, "geometry": { "type": "Point", "coordinates": [ 136.68126066, 35.27103121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市足近町６−６３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.72911241, 35.35248209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町狐穴３５２３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.71127489, 35.32652963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市竹鼻町飯柄４８３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7140039, 35.31092961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町上村６７２−３" }, "geometry": { "type": "Point", "coordinates": [ 137.215652659999989, 35.8661797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町美佐野２９０９−１" }, "geometry": { "type": "Point", "coordinates": [ 137.17111076, 35.41518421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見町３−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.06272561, 35.42432105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町高須町１０１３" }, "geometry": { "type": "Point", "coordinates": [ 136.63434704, 35.22125498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市鵜沼各務原町１−１５５" }, "geometry": { "type": "Point", "coordinates": [ 136.902453290000011, 35.4032283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市前渡東町３−２５１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.88738837, 35.38511421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市蘇原東島町３−１５０" }, "geometry": { "type": "Point", "coordinates": [ 136.877773, 35.41401452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加信長町２−９５" }, "geometry": { "type": "Point", "coordinates": [ 136.85515211, 35.39892179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加不動丘１−１０−２" }, "geometry": { "type": "Point", "coordinates": [ 136.84572807, 35.40717151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市栄町３−２−２５" }, "geometry": { "type": "Point", "coordinates": [ 136.90808396, 35.48659662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市上白金１１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.85812177, 35.47480183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市西田原６３５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.947264569999987, 35.46170558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市相生町３７" }, "geometry": { "type": "Point", "coordinates": [ 136.92053648000001, 35.48261367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市大杉５５９−１１" }, "geometry": { "type": "Point", "coordinates": [ 136.95556219, 35.44572681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市中之保５６９９" }, "geometry": { "type": "Point", "coordinates": [ 137.009643180000012, 35.56829365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市洞戸市場８８０" }, "geometry": { "type": "Point", "coordinates": [ 136.81702408000001, 35.59958185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市武芸川町八幡８４６" }, "geometry": { "type": "Point", "coordinates": [ 136.84662286, 35.53115532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部中島３−７２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.74799737, 35.38986249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部菱野２−３０" }, "geometry": { "type": "Point", "coordinates": [ 136.75413624, 35.38608839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市宇佐東町１６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.73507451, 35.3973373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加納城南通１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.759718279999987, 35.39847601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市芥見大船２−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.84725542000001, 35.45806399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩田東２−１３１" }, "geometry": { "type": "Point", "coordinates": [ 136.840124800000012, 35.43649991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市鹿島町７−８" }, "geometry": { "type": "Point", "coordinates": [ 136.73302693, 35.41358487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市正木北町８−１８" }, "geometry": { "type": "Point", "coordinates": [ 136.74719993, 35.45404292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市早田栄町５−３３" }, "geometry": { "type": "Point", "coordinates": [ 136.75890382, 35.43678543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市則松５−３５" }, "geometry": { "type": "Point", "coordinates": [ 136.69941162, 35.49498772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市長良松風町１−３４" }, "geometry": { "type": "Point", "coordinates": [ 136.77354539000001, 35.44414428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市入舟町３−８" }, "geometry": { "type": "Point", "coordinates": [ 136.77749359, 35.41169661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福光西３−１２−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.77094058, 35.45667567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市明徳町１３" }, "geometry": { "type": "Point", "coordinates": [ 136.75741889, 35.42247255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市竜田町２−４" }, "geometry": { "type": "Point", "coordinates": [ 136.76707801, 35.41461285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市高鷲町大鷲４１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.86689765, 35.94448902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市高鷲町鷲見５２４５−８" }, "geometry": { "type": "Point", "coordinates": [ 136.91083163, 35.98730794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市高鷲町鷲見５４１５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.909101779999986, 35.98800421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市大和町徳永７１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89926936, 35.81182555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市白鳥町白鳥４１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.85874653, 35.88108311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町小野２−４−１２" }, "geometry": { "type": "Point", "coordinates": [ 136.96750025, 35.75508581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市山岡町下手向１１６３" }, "geometry": { "type": "Point", "coordinates": [ 137.36562102, 35.34358683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市山岡町上手向２２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.39496281000001, 35.35033433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町１２０７−６" }, "geometry": { "type": "Point", "coordinates": [ 137.41895323, 35.45526477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町２１９４−２６２" }, "geometry": { "type": "Point", "coordinates": [ 137.43679977, 35.45436845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市武並町竹折１６２８−４" }, "geometry": { "type": "Point", "coordinates": [ 137.34355746, 35.43414093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市久々野町大西４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.2926502, 36.08222583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市三福寺町３６３" }, "geometry": { "type": "Point", "coordinates": [ 137.26254592, 36.15153629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市昭和町３−１１１" }, "geometry": { "type": "Point", "coordinates": [ 137.24886626, 36.15018835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市清見町三日町１３８６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.19118476, 36.13114891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市荘川町牧戸８５" }, "geometry": { "type": "Point", "coordinates": [ 136.948181150000011, 36.04980836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市本母町２８１−３" }, "geometry": { "type": "Point", "coordinates": [ 137.24845338, 36.16134763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市名田町２−１０３" }, "geometry": { "type": "Point", "coordinates": [ 137.25570466, 36.13500919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市田栗７９−７" }, "geometry": { "type": "Point", "coordinates": [ 136.748097519999988, 35.58899392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市牛牧１１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67147286, 35.38025612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市美江寺７９８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65507935, 35.41234342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市西小田町５−８０" }, "geometry": { "type": "Point", "coordinates": [ 137.22762973, 35.36145177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市穂並３−５２" }, "geometry": { "type": "Point", "coordinates": [ 137.24714588, 35.3529121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市明世町戸狩８２２" }, "geometry": { "type": "Point", "coordinates": [ 137.247607359999989, 35.37065234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市栄町３−４１" }, "geometry": { "type": "Point", "coordinates": [ 137.124015429999986, 35.33294363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市笠原町向島１７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.158543329999986, 35.30355401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市笠原町神戸２０２９" }, "geometry": { "type": "Point", "coordinates": [ 137.16240416, 35.29672165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市笠原町平園２６１０" }, "geometry": { "type": "Point", "coordinates": [ 137.1493122, 35.30694195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市虎渓山町７−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.13029058, 35.35648346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市光ケ丘５−３９" }, "geometry": { "type": "Point", "coordinates": [ 137.1111071, 35.34634903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市幸町３−７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.09218836, 35.35510121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市池田町９−４０" }, "geometry": { "type": "Point", "coordinates": [ 137.1016258, 35.33212857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市東町４−９−１５" }, "geometry": { "type": "Point", "coordinates": [ 137.15042964, 35.32847374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市明治町２−４" }, "geometry": { "type": "Point", "coordinates": [ 137.13322799, 35.33638336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市旭町６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63059325, 35.35970444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市三本木３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.65044663, 35.36043732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市小野２−４−３" }, "geometry": { "type": "Point", "coordinates": [ 136.644314720000011, 35.36771177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市赤坂町２１４８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.586505859999988, 35.39324041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市浅草２−６１" }, "geometry": { "type": "Point", "coordinates": [ 136.61700323, 35.31341954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市中川町３−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.61846039, 35.37890928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市長松町字鼠原８７１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.56252023, 35.36736455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市長沢町５−５" }, "geometry": { "type": "Point", "coordinates": [ 136.640292679999988, 35.35463246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市島里１−８０" }, "geometry": { "type": "Point", "coordinates": [ 136.61918122, 35.32148282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市駒場１３９７−３" }, "geometry": { "type": "Point", "coordinates": [ 137.48710449, 35.48580961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市坂下１６０８" }, "geometry": { "type": "Point", "coordinates": [ 137.526402280000013, 35.57248579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市山口４９１" }, "geometry": { "type": "Point", "coordinates": [ 137.5389202, 35.56521098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市手賀野字西沼２３３−５" }, "geometry": { "type": "Point", "coordinates": [ 137.49408961, 35.47952915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市付知町５９００−１" }, "geometry": { "type": "Point", "coordinates": [ 137.4293485, 35.65555002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市下石町１９３４−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20348356, 35.32360943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市下石町字上流６６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.1872624, 35.32149785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉郷町４−４９" }, "geometry": { "type": "Point", "coordinates": [ 137.1801553, 35.36175493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市駄知町小川町１８６５−９" }, "geometry": { "type": "Point", "coordinates": [ 137.2266644, 35.32775016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市土岐津町土岐口１７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.17449596, 35.35090285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市肥田町浅野８１３−５" }, "geometry": { "type": "Point", "coordinates": [ 137.204105, 35.3613277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市宮川町打保７６５" }, "geometry": { "type": "Point", "coordinates": [ 137.18149764, 36.38458178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市古川町高野３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.17946325, 36.23235854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市神岡町梨ケ根５８" }, "geometry": { "type": "Point", "coordinates": [ 137.28272759, 36.32087845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市御門町１−１−２０" }, "geometry": { "type": "Point", "coordinates": [ 137.030119109999987, 35.44061893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市前平町１" }, "geometry": { "type": "Point", "coordinates": [ 137.01045187, 35.45298402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市御手洗９０２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.86536161, 35.58036872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市長瀬字大正７５１" }, "geometry": { "type": "Point", "coordinates": [ 136.902013540000013, 35.57095112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町表佐１４０" }, "geometry": { "type": "Point", "coordinates": [ 136.54110447, 35.36607394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣郡北方町平成１−３６" }, "geometry": { "type": "Point", "coordinates": [ 136.67952297, 35.43344429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市根尾板所６４３−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.615949910000012, 35.63380101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市三橋１−３７" }, "geometry": { "type": "Point", "coordinates": [ 136.674867080000013, 35.45093942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町小岩１８３２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.63945308000001, 35.4644643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町大字下磯３１３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62805402, 35.43157773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町中之元８２５−３" }, "geometry": { "type": "Point", "coordinates": [ 136.60906304, 35.46855173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町谷汲徳積１３６７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.61070317, 35.52785204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町押越９２３−５" }, "geometry": { "type": "Point", "coordinates": [ 136.55889557, 35.3047773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町橋爪１４７５" }, "geometry": { "type": "Point", "coordinates": [ 136.544444700000014, 35.32167954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市加子母３９０２番地の１" }, "geometry": { "type": "Point", "coordinates": [ 137.37388901, 35.71074204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市八幡町５番６１号" }, "geometry": { "type": "Point", "coordinates": [ 137.501564230000014, 35.49128966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市前平町３丁目９５番地１" }, "geometry": { "type": "Point", "coordinates": [ 137.003865499999989, 35.4520992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市牧野字緑ケ丘１９３２" }, "geometry": { "type": "Point", "coordinates": [ 137.05691363, 35.44644429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃市泉町４３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.912575229999987, 35.54823851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町宮代３０１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.53410112, 35.36571187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市早野２５" }, "geometry": { "type": "Point", "coordinates": [ 136.66432927, 35.45186661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町稲富１２２８番地１" }, "geometry": { "type": "Point", "coordinates": [ 136.64761908, 35.48732974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町黒野８１−２" }, "geometry": { "type": "Point", "coordinates": [ 136.62483913, 35.46801089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町粕ケ原１３６３番地" }, "geometry": { "type": "Point", "coordinates": [ 136.57044964, 35.46214035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県養老郡養老町金屋４２７−１番地" }, "geometry": { "type": "Point", "coordinates": [ 136.56681488000001, 35.31828174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡神戸町下宮大橋向２８４番地" }, "geometry": { "type": "Point", "coordinates": [ 136.60904493000001, 35.41019964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町上印食９−９５" }, "geometry": { "type": "Point", "coordinates": [ 136.78530719, 35.38995792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市小熊町島５丁目３２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.70838668, 35.33398431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市足近２−１８９−１浅井運輸指定" }, "geometry": { "type": "Point", "coordinates": [ 136.72574713, 35.34946945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市福寿町本郷町田３５９−２" }, "geometry": { "type": "Point", "coordinates": [ 136.68481673, 35.32002731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市小坂町小坂矢ケ野９２" }, "geometry": { "type": "Point", "coordinates": [ 137.26010786, 35.94872963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡坂祝町酒倉深田１丁目６１８番１" }, "geometry": { "type": "Point", "coordinates": [ 137.00234232, 35.43213845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡川辺町中川辺１０８９" }, "geometry": { "type": "Point", "coordinates": [ 137.06712556, 35.49138996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町下石原４１３４番３" }, "geometry": { "type": "Point", "coordinates": [ 137.13936583, 35.47773753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町伏見高倉３５７−２" }, "geometry": { "type": "Point", "coordinates": [ 137.095999189999986, 35.4390195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市広見２５１９" }, "geometry": { "type": "Point", "coordinates": [ 137.050740889999986, 35.41363676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町金廻５０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.67013254, 35.16204158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市各務山の前四丁目６０８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.910199729999988, 35.40505012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市三井東町１−１２１" }, "geometry": { "type": "Point", "coordinates": [ 136.843533689999987, 35.39364688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市前渡東町二丁目２１３" }, "geometry": { "type": "Point", "coordinates": [ 136.88774536, 35.38578914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市大佐野町２丁目８３８" }, "geometry": { "type": "Point", "coordinates": [ 136.83937275, 35.38507547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加住吉町４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.85299622, 35.39836586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加土山町２−８２" }, "geometry": { "type": "Point", "coordinates": [ 136.81709446, 35.41476229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加野畑町１−１１４番地" }, "geometry": { "type": "Point", "coordinates": [ 136.831547300000011, 35.40706421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下有知境松４０８９番地" }, "geometry": { "type": "Point", "coordinates": [ 136.91107569, 35.49747757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市観音前７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.92144252, 35.48212533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市山田１６９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.86162563, 35.47326393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市富之保２１４６番地の７" }, "geometry": { "type": "Point", "coordinates": [ 137.015032889999986, 35.58017226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市加野４丁目２８番地１４号" }, "geometry": { "type": "Point", "coordinates": [ 136.82996916, 35.46160852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市芥見４丁目８番地の１" }, "geometry": { "type": "Point", "coordinates": [ 136.84567984, 35.45097199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩地１−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.80790669000001, 35.40786344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩田東３丁目３６６" }, "geometry": { "type": "Point", "coordinates": [ 136.83797113, 35.44217332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市橋本町三丁目２０番地" }, "geometry": { "type": "Point", "coordinates": [ 136.75134902, 35.4105912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市鏡島精華１−１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.72227657, 35.41077693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市金園町４丁目２７番地" }, "geometry": { "type": "Point", "coordinates": [ 136.766039979999988, 35.41732147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市手力町３８−７" }, "geometry": { "type": "Point", "coordinates": [ 136.8029281, 35.39094475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市菅生８−６−２０" }, "geometry": { "type": "Point", "coordinates": [ 136.73533534, 35.42472974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市正木中４丁目１２番１５" }, "geometry": { "type": "Point", "coordinates": [ 136.74297067, 35.45242566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西改田川向１５２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.70523683, 35.45054765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市西野町７丁目１２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.747727880000014, 35.42358004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市中鶉３丁目８５番地" }, "geometry": { "type": "Point", "coordinates": [ 136.730949110000012, 35.38270993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福光西２丁目８番１５号" }, "geometry": { "type": "Point", "coordinates": [ 136.76785733, 35.45430031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北一色２丁目８−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.78561485, 35.41457681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北野南１００番地" }, "geometry": { "type": "Point", "coordinates": [ 136.833021620000011, 35.50309771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町栄町２４２番地" }, "geometry": { "type": "Point", "coordinates": [ 136.75698391, 35.36525111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市八幡町吉野６２０−２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.95305542, 35.71124499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市岩村町菅沼１６７７番地" }, "geometry": { "type": "Point", "coordinates": [ 137.43375665, 35.36583953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野２８８−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.407819890000013, 35.4509641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市下一之町８０" }, "geometry": { "type": "Point", "coordinates": [ 137.26044159, 36.14406709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市花岡町３丁目１０２番地" }, "geometry": { "type": "Point", "coordinates": [ 137.250893499999989, 36.15050707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市桐生町７−７４" }, "geometry": { "type": "Point", "coordinates": [ 137.25056923, 36.15731521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市新宮町１６１５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.214648759999989, 36.13836114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市千島町２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.25203939, 36.12889774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市問屋町６９番地" }, "geometry": { "type": "Point", "coordinates": [ 137.24410465, 36.15698156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市田の上２３１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.64980411, 35.41275067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市別府２２７番地１" }, "geometry": { "type": "Point", "coordinates": [ 136.68921133, 35.39683067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市音羽町５−３６" }, "geometry": { "type": "Point", "coordinates": [ 137.11551978, 35.33812046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市住吉町１丁目７番地" }, "geometry": { "type": "Point", "coordinates": [ 137.12451081, 35.34254078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市久瀬川町２丁目９番地" }, "geometry": { "type": "Point", "coordinates": [ 136.604018849999989, 35.35661585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市内原１丁目１８８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.61791201, 35.31893874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町下原町515-1" }, "geometry": { "type": "Point", "coordinates": [ 137.161779630000012, 35.66686448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市森858" }, "geometry": { "type": "Point", "coordinates": [ 137.2454153, 35.80361725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町萩原1485" }, "geometry": { "type": "Point", "coordinates": [ 137.20796818, 35.8757584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町御嵩342-1" }, "geometry": { "type": "Point", "coordinates": [ 137.14058619, 35.43097013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市下切字観音堂2605-1" }, "geometry": { "type": "Point", "coordinates": [ 137.06106902, 35.40686446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市東田原字石原1083-1" }, "geometry": { "type": "Point", "coordinates": [ 136.95607555, 35.47134254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上郡高鷲村鷲見4946" }, "geometry": { "type": "Point", "coordinates": [ 136.9090153, 35.97518084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市土岐口中町4-59" }, "geometry": { "type": "Point", "coordinates": [ 137.176232559999988, 35.34417477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市田島町4-3" }, "geometry": { "type": "Point", "coordinates": [ 137.02660038, 35.44834827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡川島町山上" }, "geometry": { "type": "Point", "coordinates": [ 136.83164607, 35.36169659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県益田郡萩原町上呂字サイラノ３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.20376599, 35.92339835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児郡御嵩町中北田２０８９" }, "geometry": { "type": "Point", "coordinates": [ 137.1230361, 35.43455168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市川島松原町字" }, "geometry": { "type": "Point", "coordinates": [ 136.82816513, 35.36353618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市前渡東町５−５７" }, "geometry": { "type": "Point", "coordinates": [ 136.88912332000001, 35.3882706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加新加納町字稲荷２３１０" }, "geometry": { "type": "Point", "coordinates": [ 136.83035231, 35.39687704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下之保町多良木赤尾５１５９" }, "geometry": { "type": "Point", "coordinates": [ 136.99674184, 35.53713551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市小屋名１４９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.86416663, 35.48230797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市倉知字北弥三洞３２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89112823, 35.46284246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市細畑４−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.7908462, 35.39982265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市清本町１−５５" }, "geometry": { "type": "Point", "coordinates": [ 136.74148914, 35.40693226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福光西１−６−２３" }, "geometry": { "type": "Point", "coordinates": [ 136.769690989999987, 35.45108984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市大和町剣３９９" }, "geometry": { "type": "Point", "coordinates": [ 136.89675513, 35.81672435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市下沢町３−３５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.15384655, 35.32449329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市静里町１５８" }, "geometry": { "type": "Point", "coordinates": [ 136.586934750000012, 35.35911584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市駄知町１４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23145868, 35.33043321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市国府町上広瀬字４８２の１" }, "geometry": { "type": "Point", "coordinates": [ 137.24164578, 36.20048924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市茜部中島３−６８" }, "geometry": { "type": "Point", "coordinates": [ 136.748531250000013, 35.38897979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町上印食5-171" }, "geometry": { "type": "Point", "coordinates": [ 136.78537129, 35.39357783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市則武１８３７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.7478389, 35.43839803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市明和町1-133" }, "geometry": { "type": "Point", "coordinates": [ 137.10375991, 35.35124845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市片野町4丁目531" }, "geometry": { "type": "Point", "coordinates": [ 137.261730129999989, 36.12470949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町清水２３６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.60072695, 35.46979427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市錦町1-26" }, "geometry": { "type": "Point", "coordinates": [ 137.12390532, 35.32923451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市松坂町1-77" }, "geometry": { "type": "Point", "coordinates": [ 137.09056941, 35.36364215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市田栗１６４−５" }, "geometry": { "type": "Point", "coordinates": [ 136.742206970000012, 35.58987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町古中島201" }, "geometry": { "type": "Point", "coordinates": [ 136.66746956, 35.17306685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市大畑町７−１４０" }, "geometry": { "type": "Point", "coordinates": [ 137.137243070000011, 35.31783845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市平和通2-3" }, "geometry": { "type": "Point", "coordinates": [ 136.91839263, 35.48278383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条片田1-12-7" }, "geometry": { "type": "Point", "coordinates": [ 136.74734186, 35.39540153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市東栄町１丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 136.77399838, 35.41453604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市川部2-51" }, "geometry": { "type": "Point", "coordinates": [ 136.7067472, 35.43842001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市下有知５２１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.90992316, 35.50634147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市本町5-6-5" }, "geometry": { "type": "Point", "coordinates": [ 137.130504409999986, 35.33506127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣郡北方町加茂３１７−５" }, "geometry": { "type": "Point", "coordinates": [ 136.68631364, 35.43999042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市久瀬川町5-28-1" }, "geometry": { "type": "Point", "coordinates": [ 136.59838836, 35.35784974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町小衣斐387-1" }, "geometry": { "type": "Point", "coordinates": [ 136.62486847, 35.46108404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市岩佐１４３６" }, "geometry": { "type": "Point", "coordinates": [ 136.79622427000001, 35.54349354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島市福寿町間島６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.697753830000011, 35.3353579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市日野南１丁目１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.80191953, 35.42899748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市綾野6-118" }, "geometry": { "type": "Point", "coordinates": [ 136.589957489999989, 35.34250703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町和田９７８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.57051894, 35.47543603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町伊岐津志２５３１−６" }, "geometry": { "type": "Point", "coordinates": [ 137.13435481, 35.47284118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町金山２４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.15689636, 35.65812206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市神明町１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.92144804, 35.47722857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市鶴田町３−７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.76860008, 35.41387961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県羽島市新生町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 136.70649623, 35.33059425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市加納坂井町２" }, "geometry": { "type": "Point", "coordinates": [ 136.74917205, 35.40958847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県美濃加茂市前平町１−６５" }, "geometry": { "type": "Point", "coordinates": [ 137.00992843, 35.45214961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市東鶉２−６４−４" }, "geometry": { "type": "Point", "coordinates": [ 136.740785210000013, 35.38464427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市木田５−５５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.72525445, 35.45205149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県羽島郡笠松町緑町６８" }, "geometry": { "type": "Point", "coordinates": [ 136.75938265, 35.37683255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県各務原市鵜沼各務原町７−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.89947865, 35.39645124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県各務原市鵜沼三ツ池町６−４３３" }, "geometry": { "type": "Point", "coordinates": [ 136.894758560000014, 35.3940484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞穂市別府２２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.67367972, 35.39357534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市外渕３−５３−２" }, "geometry": { "type": "Point", "coordinates": [ 136.6164939, 35.33627919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市田口町３" }, "geometry": { "type": "Point", "coordinates": [ 136.625240780000013, 35.34692683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市西本郷通５−１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.91898135, 35.49087151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市十六所２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.904768639999986, 35.48010009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県可児市下恵土６１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.04626694000001, 35.41567648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県美濃市大字極楽寺一本杉２９３−７" }, "geometry": { "type": "Point", "coordinates": [ 136.882674759999986, 35.53302573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県多治見市平和町１−１６３" }, "geometry": { "type": "Point", "coordinates": [ 137.12287516, 35.32844966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県土岐市土岐津町土岐口１６１９−３" }, "geometry": { "type": "Point", "coordinates": [ 137.17271087, 35.35077111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県恵那市大井町１２１３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.41788888, 35.45579152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県中津川市千旦林８１４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.47006464, 35.47063172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市石浦町２−４４７" }, "geometry": { "type": "Point", "coordinates": [ 137.26432476, 36.1145062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市国府町上広瀬６３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.26148462, 36.19614789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県可児市久々利２１００−２" }, "geometry": { "type": "Point", "coordinates": [ 137.09220851, 35.40577122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市入舟町４−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.78140049000001, 35.41154049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市鶴田町３−２２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.770169399999986, 35.41136607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市山口３０９６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.543515649999989, 35.54705177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市神岡町山田２２０６" }, "geometry": { "type": "Point", "coordinates": [ 137.25236086000001, 36.30187409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市牛牧１４２１" }, "geometry": { "type": "Point", "coordinates": [ 136.67229866, 35.38105031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市芥見東山５−１３" }, "geometry": { "type": "Point", "coordinates": [ 136.853107920000014, 35.46074173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市宮川町林１４５" }, "geometry": { "type": "Point", "coordinates": [ 137.14081723000001, 36.327924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県飛騨市河合町角川１５８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.10720901, 36.30487819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町２６９５−３３５" }, "geometry": { "type": "Point", "coordinates": [ 137.42012902, 35.47782228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市川合町４丁目２２６６−８" }, "geometry": { "type": "Point", "coordinates": [ 137.04884918, 35.4515583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡八百津町久田見２４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 137.189899630000014, 35.51867048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市滝呂町６丁目１３８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.14122565, 35.31247689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町極楽寺１４８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.5681746, 35.49214653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条大溝２丁目６−１７" }, "geometry": { "type": "Point", "coordinates": [ 136.738981059999986, 35.39065149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市川部５丁目５" }, "geometry": { "type": "Point", "coordinates": [ 136.71049872, 35.43816916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市落合３０５−１" }, "geometry": { "type": "Point", "coordinates": [ 137.52947002, 35.51276146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市昭和町１丁目１６７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.24901745, 36.13865319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市芋島１丁目１１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.80384125, 35.39142436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市河渡４丁目１４５" }, "geometry": { "type": "Point", "coordinates": [ 136.6979389, 35.4127237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市只越１０５２−２" }, "geometry": { "type": "Point", "coordinates": [ 136.68983816, 35.39903164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市京町４丁目２３" }, "geometry": { "type": "Point", "coordinates": [ 137.129924820000014, 35.3222053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡大野町大字黒野１７０６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63799703, 35.46518549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市上加納山４７１７−４４" }, "geometry": { "type": "Point", "coordinates": [ 136.775212939999989, 35.42331433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市小佐野町２丁目２０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.829502710000014, 35.39000358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町宮田１４７２−３" }, "geometry": { "type": "Point", "coordinates": [ 137.23893564, 35.9282121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高富１７１３" }, "geometry": { "type": "Point", "coordinates": [ 136.78799437, 35.4971431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市出戸２２６−５" }, "geometry": { "type": "Point", "coordinates": [ 136.785021089999987, 35.59681652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市中洞３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.799677519999989, 35.5529247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡坂祝町黒岩８３７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.97579115, 35.44704444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡東白川村越原１００９−２" }, "geometry": { "type": "Point", "coordinates": [ 137.35571683, 35.66779081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡東白川村五加１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.29182308, 35.62292728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町萩原１５０５−９" }, "geometry": { "type": "Point", "coordinates": [ 137.2076184, 35.87772021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市西之一色町１丁目９３−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.249608669999986, 36.13508887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市金山町金山１８８０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.156833299999988, 35.66045088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市丹生川町日面２９２−２" }, "geometry": { "type": "Point", "coordinates": [ 137.41676408, 36.17691002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市丹生川町町方１３８２" }, "geometry": { "type": "Point", "coordinates": [ 137.306042139999988, 36.16918482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県高山市奥飛騨温泉郷一重ヶ根" }, "geometry": { "type": "Point", "coordinates": [ 137.54186662, 36.2197283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市六条大溝３丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.736593660000011, 35.39113908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市岩崎８９７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.78237353, 35.47578352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県下呂市萩原町萩原８５０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.21180480000001, 35.87083488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市今渡２０３２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.036587309999987, 35.42772173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡輪之内町福束新田１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.6261514, 35.28241587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町三宅８丁目１６" }, "geometry": { "type": "Point", "coordinates": [ 136.80121612, 35.38975373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市長旗町２丁目１８−２" }, "geometry": { "type": "Point", "coordinates": [ 136.76167523, 35.41463301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市粟野東５丁目８８" }, "geometry": { "type": "Point", "coordinates": [ 136.7837161, 35.481312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市入舟町５丁目５" }, "geometry": { "type": "Point", "coordinates": [ 136.783522369999986, 35.4114582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市折立７９８" }, "geometry": { "type": "Point", "coordinates": [ 136.734108139999989, 35.45701705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高富１２１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.78470599, 35.49187015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市忠節町１丁目２６" }, "geometry": { "type": "Point", "coordinates": [ 136.759029090000013, 35.42936705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福富天神前７５" }, "geometry": { "type": "Point", "coordinates": [ 136.824228260000012, 35.48565171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市福光東３丁目１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 136.775378530000012, 35.45696537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市則武西１丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.73495825, 35.44117302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市荒尾玉池２丁目５" }, "geometry": { "type": "Point", "coordinates": [ 136.57541856, 35.3750675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市三本木２丁目７" }, "geometry": { "type": "Point", "coordinates": [ 136.652507070000013, 35.36052363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県大垣市藤江町６丁目２" }, "geometry": { "type": "Point", "coordinates": [ 136.6240808, 35.36335606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市北一色７丁目１４−２１" }, "geometry": { "type": "Point", "coordinates": [ 136.79081582, 35.41699468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市姫町１丁目１００" }, "geometry": { "type": "Point", "coordinates": [ 137.0728456, 35.38105865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町北方１５８７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.54506995, 35.50355758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市坂上町４丁目４６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.13914431, 35.33461658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町下印食３丁目２７" }, "geometry": { "type": "Point", "coordinates": [ 136.77169472, 35.38951575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町伏屋１８９９" }, "geometry": { "type": "Point", "coordinates": [ 136.79527375, 35.37915537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡岐南町平成６丁目１７" }, "geometry": { "type": "Point", "coordinates": [ 136.78406089, 35.38187022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県羽島郡笠松町下本町５７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.76165923, 35.36520688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市海津町草場１４５" }, "geometry": { "type": "Point", "coordinates": [ 136.661317559999986, 35.22270662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市平田町今尾１０３０−１" }, "geometry": { "type": "Point", "coordinates": [ 136.63185257, 35.251159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県海津市平田町三郷８９８−３" }, "geometry": { "type": "Point", "coordinates": [ 136.6443663, 35.25932659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県不破郡垂井町表佐４９７３" }, "geometry": { "type": "Point", "coordinates": [ 136.558737259999987, 35.36701455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町市場４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54076944, 35.47324642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市羽崎５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 137.08175913, 35.4150268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町小島１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.54578498, 35.4820004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡揖斐川町谷汲長瀬１７１２−１" }, "geometry": { "type": "Point", "coordinates": [ 136.639077250000014, 35.51962744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町本郷１３７７−４" }, "geometry": { "type": "Point", "coordinates": [ 136.57058597, 35.44490066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町本郷５７０−３" }, "geometry": { "type": "Point", "coordinates": [ 136.57117664, 35.44960546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市穂積１６３７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.69255297, 35.3877096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞穂市馬場上光町１丁目１８" }, "geometry": { "type": "Point", "coordinates": [ 136.68539664, 35.41437089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県本巣市見延５５５" }, "geometry": { "type": "Point", "coordinates": [ 136.667778770000012, 35.46259579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県安八郡神戸町大字川西４６５−２７" }, "geometry": { "type": "Point", "coordinates": [ 136.60877549, 35.41065505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町１１３２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.42041889, 35.45468291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県山県市高木１５０５−４" }, "geometry": { "type": "Point", "coordinates": [ 136.78907351, 35.50564285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市稲河町１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.92835722, 35.47328307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市新町１３" }, "geometry": { "type": "Point", "coordinates": [ 136.91979541, 35.4845556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市千疋１１−７" }, "geometry": { "type": "Point", "coordinates": [ 136.85901922, 35.49099453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市広見２０２５−２" }, "geometry": { "type": "Point", "coordinates": [ 136.86766497, 35.51428758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市平和通５丁目９−６" }, "geometry": { "type": "Point", "coordinates": [ 136.91347339, 35.48264347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県中津川市手賀野３６２−１" }, "geometry": { "type": "Point", "coordinates": [ 137.49939903, 35.4815938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市飯地町１６２−２" }, "geometry": { "type": "Point", "coordinates": [ 137.29030935, 35.4818815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県多治見市白山町１丁目７" }, "geometry": { "type": "Point", "coordinates": [ 137.12275326, 35.33730593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町２０８７−１９１" }, "geometry": { "type": "Point", "coordinates": [ 137.43012564, 35.45469792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町久須見１１１３−２８" }, "geometry": { "type": "Point", "coordinates": [ 137.387743160000014, 35.46163104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市長島町中野４４９" }, "geometry": { "type": "Point", "coordinates": [ 137.40419333, 35.45074667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県美濃加茂市加茂野町今泉１５４７−６" }, "geometry": { "type": "Point", "coordinates": [ 136.97637939, 35.46159621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉西山町１丁目１９" }, "geometry": { "type": "Point", "coordinates": [ 137.17632434, 35.35929969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市泉町河合３１８" }, "geometry": { "type": "Point", "coordinates": [ 137.21102205, 35.36654608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市駄知町１４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.23222859, 35.32967032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県土岐市肥田町肥田１４９２−３" }, "geometry": { "type": "Point", "coordinates": [ 137.21868984, 35.34784138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県各務原市那加幸町１９" }, "geometry": { "type": "Point", "coordinates": [ 136.83257601, 35.40469476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県瑞浪市陶町猿爪３７８−４" }, "geometry": { "type": "Point", "coordinates": [ 137.32817039, 35.31953213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市武芸川町谷口１２３６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.825727379999989, 35.54371541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県飛騨市古川町壱之町８−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.18569451, 36.2354271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市清住町２丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 136.76205248, 35.41103523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市東新町４丁目９６−２" }, "geometry": { "type": "Point", "coordinates": [ 136.93602175, 35.48169169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市大新町１丁目４５" }, "geometry": { "type": "Point", "coordinates": [ 137.258160260000011, 36.1471147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県恵那市中野方町１４９１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.297845, 35.51721746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市堀端町１３０" }, "geometry": { "type": "Point", "coordinates": [ 137.26357531, 36.14189035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市則武８０１−４" }, "geometry": { "type": "Point", "coordinates": [ 136.74530933, 35.44275066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県中津川市蛭川町切区２５２９−２" }, "geometry": { "type": "Point", "coordinates": [ 137.38939363, 35.53628954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県中津川市坂下１４２７−１３" }, "geometry": { "type": "Point", "coordinates": [ 137.51963679, 35.58320754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県加茂郡七宗町上麻生２４０２" }, "geometry": { "type": "Point", "coordinates": [ 137.12102142, 35.54359827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県加茂郡八百津町八百津３４６８−１" }, "geometry": { "type": "Point", "coordinates": [ 137.14600995, 35.4752184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市松之木町２８７０" }, "geometry": { "type": "Point", "coordinates": [ 137.27313698, 36.14825414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市初田町２丁目３２" }, "geometry": { "type": "Point", "coordinates": [ 137.2533834, 36.14588733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県各務原市鵜沼各務原町４丁目３８" }, "geometry": { "type": "Point", "coordinates": [ 136.904905649999989, 35.40366535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県各務原市鵜沼朝日町５丁目４３" }, "geometry": { "type": "Point", "coordinates": [ 136.90395625, 35.38982139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市大新町４丁目８２" }, "geometry": { "type": "Point", "coordinates": [ 137.2570302, 36.15040071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市問屋町５０" }, "geometry": { "type": "Point", "coordinates": [ 137.24415635, 36.15830488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市神田町２丁目９３" }, "geometry": { "type": "Point", "coordinates": [ 137.25473322, 36.14881198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市西旭ケ丘６−６" }, "geometry": { "type": "Point", "coordinates": [ 136.92666968, 35.48152272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市土岐町６２１７" }, "geometry": { "type": "Point", "coordinates": [ 137.26628721, 35.37516387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市森下町１丁目５３−１０" }, "geometry": { "type": "Point", "coordinates": [ 137.25813045000001, 36.12987556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市寺河戸町１１２４" }, "geometry": { "type": "Point", "coordinates": [ 137.25443345, 35.3664145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市寺河戸町１０６３" }, "geometry": { "type": "Point", "coordinates": [ 137.252989219999989, 35.36500628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県羽島郡笠松町県町２" }, "geometry": { "type": "Point", "coordinates": [ 136.76396840000001, 35.3673278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市岡本町１丁目２３−６" }, "geometry": { "type": "Point", "coordinates": [ 137.2478261, 36.14199723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市名田町５丁目１０" }, "geometry": { "type": "Point", "coordinates": [ 137.25628977, 36.1402086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市近島２丁目７−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.74065869, 35.43112437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市竜田町３丁目９" }, "geometry": { "type": "Point", "coordinates": [ 136.76752521, 35.41367131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県多治見市十九田町１丁目２１" }, "geometry": { "type": "Point", "coordinates": [ 137.123607740000011, 35.34056776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県多治見市豊岡町１丁目４８" }, "geometry": { "type": "Point", "coordinates": [ 137.124688529999986, 35.33411855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市大平町１丁目３４" }, "geometry": { "type": "Point", "coordinates": [ 136.924894529999989, 35.48421552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市寺河戸町１２３８−２" }, "geometry": { "type": "Point", "coordinates": [ 137.25017817, 35.37015267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県恵那市大井町１２０６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.417754159999987, 35.45544033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県中津川市太田町３丁目４−２８" }, "geometry": { "type": "Point", "coordinates": [ 137.50299462000001, 35.49841825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県美濃市段町１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.90773407, 35.53927565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市綾野１丁目２８０１" }, "geometry": { "type": "Point", "coordinates": [ 136.59063397, 35.34613674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市馬場町２０" }, "geometry": { "type": "Point", "coordinates": [ 136.61017283000001, 35.35745854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市本今３丁目５３−１" }, "geometry": { "type": "Point", "coordinates": [ 136.606167910000011, 35.35413093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市上岡本町４丁目８５" }, "geometry": { "type": "Point", "coordinates": [ 137.24197629, 36.14007393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市上竹町４７" }, "geometry": { "type": "Point", "coordinates": [ 136.76385184, 35.42620585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市蔵前３丁目２２−１６" }, "geometry": { "type": "Point", "coordinates": [ 136.80289628, 35.39742538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市宇佐１丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 136.73571303, 35.40127264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市岩田西３丁目２４" }, "geometry": { "type": "Point", "coordinates": [ 136.83728066, 35.44303478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県岐阜市岩崎８９８" }, "geometry": { "type": "Point", "coordinates": [ 136.782437890000011, 35.47588569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市天満町４丁目６２" }, "geometry": { "type": "Point", "coordinates": [ 137.25378985, 36.13859525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市千島町４８−５" }, "geometry": { "type": "Point", "coordinates": [ 137.25446689, 36.13115586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市山田町１５３９−１４" }, "geometry": { "type": "Point", "coordinates": [ 137.22742512, 36.13688232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市桐生町２丁目１８５" }, "geometry": { "type": "Point", "coordinates": [ 137.25237494000001, 36.15393213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県高山市下岡本町１３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.24435933, 36.14709178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県羽島郡岐南町八剣３丁目３１" }, "geometry": { "type": "Point", "coordinates": [ 136.7788162, 35.39342399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県可児市川合２０２０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.05852102, 35.44423222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市釜戸町３１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 137.30416757, 35.40967211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県不破郡関ケ原町大字関ケ原３１９９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.468937180000012, 35.36140627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県不破郡垂井町２３０９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.53401309, 35.37303834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県土岐市駄知町１９８６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.227372730000013, 35.32675219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県土岐市下石町３３７−７" }, "geometry": { "type": "Point", "coordinates": [ 137.182857500000011, 35.33069658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県美濃加茂市本郷町９丁目６−２６" }, "geometry": { "type": "Point", "coordinates": [ 137.040869289999989, 35.45153961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県土岐市土岐津町土岐口７０５−４" }, "geometry": { "type": "Point", "coordinates": [ 137.18616848, 35.33802075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県郡上市大和町万場３１８８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.875604259999989, 35.83566829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県郡上市白鳥町白鳥１０１７−７２" }, "geometry": { "type": "Point", "coordinates": [ 136.856629770000012, 35.88246278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県揖斐郡揖斐川町三輪３５１−５" }, "geometry": { "type": "Point", "coordinates": [ 136.57122772, 35.48511083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県瑞浪市稲津町小里５６４−２" }, "geometry": { "type": "Point", "coordinates": [ 137.27765882, 35.34755118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県羽島郡笠松町長池１７８−４" }, "geometry": { "type": "Point", "coordinates": [ 136.754326959999986, 35.35587349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市富沢町２８−１" }, "geometry": { "type": "Point", "coordinates": [ 136.73581973, 35.41520939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県羽島郡笠松町北及１８１７−１" }, "geometry": { "type": "Point", "coordinates": [ 136.745131679999986, 35.35443333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県各務原市鵜沼朝日町１丁目２５５" }, "geometry": { "type": "Point", "coordinates": [ 136.896755789999986, 35.38913094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県各務原市那加本町２８" }, "geometry": { "type": "Point", "coordinates": [ 136.836333270000011, 35.39817527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県各務原市山脇町６丁目１２４" }, "geometry": { "type": "Point", "coordinates": [ 136.854180539999987, 35.38169896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県揖斐郡池田町池野５５７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.57287444, 35.4383917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県羽島郡笠松町上新町１６１" }, "geometry": { "type": "Point", "coordinates": [ 136.76197201, 35.3731284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県加茂郡川辺町中川辺５６−２" }, "geometry": { "type": "Point", "coordinates": [ 137.06774418, 35.486556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県海津市平田町今尾３０６６−３" }, "geometry": { "type": "Point", "coordinates": [ 136.62432654, 35.25129065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県大垣市墨俣町上宿６９２" }, "geometry": { "type": "Point", "coordinates": [ 136.68070733, 35.35711818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県土岐市妻木町５３２" }, "geometry": { "type": "Point", "coordinates": [ 137.189822889999988, 35.30394923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市一松道１丁目４７" }, "geometry": { "type": "Point", "coordinates": [ 136.767908619999986, 35.40910527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県高山市国府町蓑輪８１" }, "geometry": { "type": "Point", "coordinates": [ 137.23408695, 36.21881393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県羽島郡岐南町平成２丁目８７" }, "geometry": { "type": "Point", "coordinates": [ 136.78077453, 35.38697484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県多治見市本町５丁目３５" }, "geometry": { "type": "Point", "coordinates": [ 137.13056082, 35.33422591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県瑞穂市稲里２０３−６" }, "geometry": { "type": "Point", "coordinates": [ 136.68159814, 35.38968994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県羽島市竹鼻町狐穴３２７７−２" }, "geometry": { "type": "Point", "coordinates": [ 136.704412240000011, 35.32612495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県高山市下岡本町１７８２−４" }, "geometry": { "type": "Point", "coordinates": [ 137.24349819, 36.15269458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市柳津町上佐波２丁目１２１" }, "geometry": { "type": "Point", "coordinates": [ 136.72203016, 35.37310413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県土岐市土岐津町土岐口２１５７−６" }, "geometry": { "type": "Point", "coordinates": [ 137.18538777, 35.35448536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県関市吉野町８−９" }, "geometry": { "type": "Point", "coordinates": [ 136.93232446, 35.48625292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市西明見町８" }, "geometry": { "type": "Point", "coordinates": [ 136.76404559, 35.39752057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市溝旗町１丁目３０" }, "geometry": { "type": "Point", "coordinates": [ 136.764362330000012, 35.41646148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県高山市下切町９３１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.245156040000012, 36.18063262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県多治見市坂上町３丁目７７" }, "geometry": { "type": "Point", "coordinates": [ 137.13860204, 35.33514332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県多治見市高根町４丁目２２" }, "geometry": { "type": "Point", "coordinates": [ 137.094046279999986, 35.36139238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県多治見市宝町４丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 137.106138789999989, 35.34134664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県関市東福野町３−３" }, "geometry": { "type": "Point", "coordinates": [ 136.906404470000012, 35.48797431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県瑞浪市土岐町８２５５" }, "geometry": { "type": "Point", "coordinates": [ 137.2555777, 35.36788381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県恵那市大井町２０８７−８" }, "geometry": { "type": "Point", "coordinates": [ 137.434404089999987, 35.4572052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県美濃加茂市太田本町４丁目４−２９" }, "geometry": { "type": "Point", "coordinates": [ 137.0112751, 35.43807943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県土岐市下石町３０４−２４７" }, "geometry": { "type": "Point", "coordinates": [ 137.17792981, 35.315612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県関市貴船町６５" }, "geometry": { "type": "Point", "coordinates": [ 136.91267639, 35.48579415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県岐阜市芋島３丁目９−３" }, "geometry": { "type": "Point", "coordinates": [ 136.80922945, 35.39145545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岐阜県土岐市土岐津町高山３６０" }, "geometry": { "type": "Point", "coordinates": [ 137.189251399999989, 35.35269123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市洞戸菅谷３６０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.80607164, 35.59573238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県岐阜市柳津町栄町２１８番地" }, "geometry": { "type": "Point", "coordinates": [ 136.75752945, 35.36533333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県可児市大森字立石1512-12" }, "geometry": { "type": "Point", "coordinates": [ 137.08928703, 35.3850603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県関市板取6549-4" }, "geometry": { "type": "Point", "coordinates": [ 136.80861748, 35.69083591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県郡上市明宝畑佐下田島673" }, "geometry": { "type": "Point", "coordinates": [ 137.05809119, 35.85785984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県恵那市大井町字学頭１２１３−２" }, "geometry": { "type": "Point", "coordinates": [ 137.41729609, 35.45561042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県揖斐郡池田町池野１９８-１" }, "geometry": { "type": "Point", "coordinates": [ 136.57563843, 35.43665232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県下呂市東上田２１２１−５" }, "geometry": { "type": "Point", "coordinates": [ 137.23947453, 35.8253095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県海津市海津町西小島村東１４５" }, "geometry": { "type": "Point", "coordinates": [ 136.626893630000012, 35.21479049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県関市平賀７７３" }, "geometry": { "type": "Point", "coordinates": [ 136.94797191, 35.49156822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県郡上市大和町神路１８７７−３" }, "geometry": { "type": "Point", "coordinates": [ 136.92417561, 35.79403492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県郡上市白鳥町向小駄良７６０−４" }, "geometry": { "type": "Point", "coordinates": [ 136.85487677, 35.88550185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県瑞浪市土岐町益見７９８７" }, "geometry": { "type": "Point", "coordinates": [ 137.26451934, 35.36257142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県大垣市荒川町６５８" }, "geometry": { "type": "Point", "coordinates": [ 136.567454199999986, 35.35751566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県中津川市榧ノ木２５７６−１" }, "geometry": { "type": "Point", "coordinates": [ 137.50007216, 35.49093294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岐阜県揖斐郡池田町八幡２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 136.57143532, 35.42878619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岐阜県加茂郡七宗町神淵４７２１" }, "geometry": { "type": "Point", "coordinates": [ 137.087284790000012, 35.57503265 ] } }
+
+]
+}

@@ -1,0 +1,1182 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町渋田３０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.47832105, 34.27497255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町毛原下５８−４" }, "geometry": { "type": "Point", "coordinates": [ 135.436866220000013, 34.14390627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町下津５００−６" }, "geometry": { "type": "Point", "coordinates": [ 135.15043375, 34.10958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町橘本９４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.19469651, 34.12705015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町小南１９０" }, "geometry": { "type": "Point", "coordinates": [ 135.16593482, 34.12739472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町上１５８−８" }, "geometry": { "type": "Point", "coordinates": [ 135.15379166, 34.11130573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市幡川１９７番地" }, "geometry": { "type": "Point", "coordinates": [ 135.23006114, 34.15283513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市名高字浜４７２" }, "geometry": { "type": "Point", "coordinates": [ 135.21241196, 34.15229583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市根来４７４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.31065345, 34.27857816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市西野２３" }, "geometry": { "type": "Point", "coordinates": [ 135.30580434, 34.25904658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町前田５５９" }, "geometry": { "type": "Point", "coordinates": [ 135.31864355, 34.22397709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市桃山町黒川７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40441906, 34.21290299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市桃山町段５６６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.343494130000011, 34.24634334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市粉河９５６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40099038, 34.26823428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市名手市場４５６" }, "geometry": { "type": "Point", "coordinates": [ 135.439750909999987, 34.27497792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市あやの台１丁目５０" }, "geometry": { "type": "Point", "coordinates": [ 135.65288283000001, 34.33663941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口名古曽９４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.55951065, 34.30255341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市薗２０" }, "geometry": { "type": "Point", "coordinates": [ 135.150825489999988, 33.895769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市湯川町財部２１０" }, "geometry": { "type": "Point", "coordinates": [ 135.14929186, 33.90001929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市橋本２丁目１−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.987535939999987, 33.71772237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市熊野川町田長２１８" }, "geometry": { "type": "Point", "coordinates": [ 135.88937898, 33.79964435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市熊野川町日足３８１" }, "geometry": { "type": "Point", "coordinates": [ 135.87392964, 33.80509863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市熊野川町能城１０６−1" }, "geometry": { "type": "Point", "coordinates": [ 135.879118760000011, 33.79775076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市佐野３丁目１１番１２号" }, "geometry": { "type": "Point", "coordinates": [ 135.96991144, 33.6770347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市除福２丁目２番１４号" }, "geometry": { "type": "Point", "coordinates": [ 135.99553849, 33.72489734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡すさみ町周参見４５８１−４７" }, "geometry": { "type": "Point", "coordinates": [ 135.4944082, 33.54627227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町朝来２０３４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.41329201, 33.70543432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町１１６２" }, "geometry": { "type": "Point", "coordinates": [ 135.35335088, 33.68541781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町３０８６" }, "geometry": { "type": "Point", "coordinates": [ 135.34686697, 33.67851394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町栄５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.393217990000011, 33.65399832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市芳養町大屋４３" }, "geometry": { "type": "Point", "coordinates": [ 135.339255869999988, 33.7462996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市本宮町本宮４３１" }, "geometry": { "type": "Point", "coordinates": [ 135.773350099999988, 33.8351036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市竜神村甲斐の川１１２０" }, "geometry": { "type": "Point", "coordinates": [ 135.42359954, 33.92283057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村龍神５０５−４" }, "geometry": { "type": "Point", "coordinates": [ 135.56059578, 33.99325058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町串本１８７４" }, "geometry": { "type": "Point", "coordinates": [ 135.78159193, 33.46785503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町古座１０３０番地" }, "geometry": { "type": "Point", "coordinates": [ 135.82796036, 33.51481863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町西向２７８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.82179696, 33.51904958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町有田６３１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73686385, 33.48629943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡古座川町西川５７４" }, "geometry": { "type": "Point", "coordinates": [ 135.708844520000014, 33.63641882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町浦神６８５−９" }, "geometry": { "type": "Point", "coordinates": [ 135.88948965, 33.55504323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町市屋１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.92106084, 33.59041882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町上洞６７９" }, "geometry": { "type": "Point", "coordinates": [ 135.34217474, 33.88731481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町皆瀬字鳥居３２４" }, "geometry": { "type": "Point", "coordinates": [ 135.36425688, 33.98262027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町船津５２２" }, "geometry": { "type": "Point", "coordinates": [ 135.26861741, 33.95776321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町土生９８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.18327297, 33.91168886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町和佐５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.209315370000013, 33.89818689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡由良町江ノ駒３２−２" }, "geometry": { "type": "Point", "coordinates": [ 135.11209655, 33.96423424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡由良町大字門前３８４" }, "geometry": { "type": "Point", "coordinates": [ 135.13172595, 33.97088665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡由良町里３５５" }, "geometry": { "type": "Point", "coordinates": [ 135.123347599999988, 33.96495369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町下津木７６９" }, "geometry": { "type": "Point", "coordinates": [ 135.2140096, 33.9778368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町西広６６０" }, "geometry": { "type": "Point", "coordinates": [ 135.15690397, 34.01042195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町２３１５" }, "geometry": { "type": "Point", "coordinates": [ 135.18680007, 34.03932764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町大字湯浅２３１９" }, "geometry": { "type": "Point", "coordinates": [ 135.187254880000012, 34.03997855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町大字湯浅２６５" }, "geometry": { "type": "Point", "coordinates": [ 135.17421901, 34.03505706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町徳田８２６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.25037676, 34.05739485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町楠本１２００−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.35328014000001, 34.10289713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町二川７３８" }, "geometry": { "type": "Point", "coordinates": [ 135.35569314, 34.07126226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市宮原町滝川原５４３" }, "geometry": { "type": "Point", "coordinates": [ 135.1704097, 34.07708799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市宮崎町箕川１３５" }, "geometry": { "type": "Point", "coordinates": [ 135.11952002000001, 34.07947648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市辻堂７４８" }, "geometry": { "type": "Point", "coordinates": [ 135.145871129999989, 34.07483817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市伊太祈曽４２２" }, "geometry": { "type": "Point", "coordinates": [ 135.25254136, 34.20245881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市紀三井寺６２７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.18656797, 34.18103576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吉原７５３" }, "geometry": { "type": "Point", "coordinates": [ 135.203247659999988, 34.19529215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市古屋１５１−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.12126733, 34.2542356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市狐島２４３−５４" }, "geometry": { "type": "Point", "coordinates": [ 135.15049061, 34.24237538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市十三番丁１８" }, "geometry": { "type": "Point", "coordinates": [ 135.16988762, 34.23217031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市小野町３−４６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.16278813, 34.23175757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市松江北６−２−３７" }, "geometry": { "type": "Point", "coordinates": [ 135.129658299999988, 34.25045268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市神前字宮出１７１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.20035891, 34.21599625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西高松１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.17168557, 34.21197124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西庄１０１６" }, "geometry": { "type": "Point", "coordinates": [ 135.10803668, 34.25892819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西田井字前田３５９−1" }, "geometry": { "type": "Point", "coordinates": [ 135.236658119999987, 34.2550987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西浜８８１" }, "geometry": { "type": "Point", "coordinates": [ 135.15886737, 34.20613292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市大垣内田出原６６４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.276138980000013, 34.24042892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市中筋日延９７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.268954330000014, 34.26483373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市南相生丁２２" }, "geometry": { "type": "Point", "coordinates": [ 135.164545010000012, 34.22264783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市梅原２９５" }, "geometry": { "type": "Point", "coordinates": [ 135.13573248, 34.26146272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北新金屋丁５０番地" }, "geometry": { "type": "Point", "coordinates": [ 135.17990131, 34.23706702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北島３９４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.1521123, 34.23878425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市湊１８５０" }, "geometry": { "type": "Point", "coordinates": [ 135.15000361, 34.23687736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市鳴神１０１１" }, "geometry": { "type": "Point", "coordinates": [ 135.20694734, 34.2300676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市毛見１１０１" }, "geometry": { "type": "Point", "coordinates": [ 135.18757982, 34.16670156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市木枕５９" }, "geometry": { "type": "Point", "coordinates": [ 135.25689474, 34.2057752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町花園梁瀬娶地４０３" }, "geometry": { "type": "Point", "coordinates": [ 135.5153101, 34.13505326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町下佐々２２１" }, "geometry": { "type": "Point", "coordinates": [ 135.31294343, 34.15775428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町毛原宮" }, "geometry": { "type": "Point", "coordinates": [ 135.460943969999988, 34.16172785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市岡田５９６" }, "geometry": { "type": "Point", "coordinates": [ 135.211753390000013, 34.16941608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町下２３９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.16323608, 34.12668661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市船尾２１３−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.20385475, 34.15866603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市鳥居２−２" }, "geometry": { "type": "Point", "coordinates": [ 135.219726939999987, 34.15303676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市鳥居６４７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.21015605, 34.14946212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市日方新浜１２９４−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.20533673, 34.15408801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市西国分字ほうじ本６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.32983653, 34.26386755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市池田新２９３" }, "geometry": { "type": "Point", "coordinates": [ 135.3656904, 34.27825458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市桃山町野田原２５６" }, "geometry": { "type": "Point", "coordinates": [ 135.37378386, 34.19265618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市粉河３８４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40697259, 34.27176744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市粉河７８４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40559629, 34.26899805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市隅田町中島１０７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.64753242, 34.32862945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市塩屋町南塩屋１５０" }, "geometry": { "type": "Point", "coordinates": [ 135.16025628, 33.86457224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市湯川町財部６６４−９" }, "geometry": { "type": "Point", "coordinates": [ 135.15387418, 33.89859098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市藤田町吉田７７２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.163963779999989, 33.90781394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市名屋町３丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.154772799999989, 33.88273605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市橋本１−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.9882546, 33.71544354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市神倉２−９−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.98689058, 33.72203141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡すさみ町周参見字上尾路３７６３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.49671791, 33.55391736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町生馬９１２" }, "geometry": { "type": "Point", "coordinates": [ 135.42401797, 33.6908527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町２８７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.36880249, 33.67971746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町大古字下仙場６３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.45993858, 33.57590881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上秋津２１０６" }, "geometry": { "type": "Point", "coordinates": [ 135.4018273, 33.75444051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上芳養４０８６" }, "geometry": { "type": "Point", "coordinates": [ 135.39409837, 33.80335163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新屋敷町５５" }, "geometry": { "type": "Point", "coordinates": [ 135.38171728, 33.72894702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市本宮町大居１９２８−５" }, "geometry": { "type": "Point", "coordinates": [ 135.76395016, 33.85799863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町串本１８４５" }, "geometry": { "type": "Point", "coordinates": [ 135.78201171, 33.47391947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡古座川町佐田９９２４" }, "geometry": { "type": "Point", "coordinates": [ 135.697025020000012, 33.59549139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡太地町大字太地３０７７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.942908640000013, 33.59417366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町井関１０７４" }, "geometry": { "type": "Point", "coordinates": [ 135.91469038, 33.65517871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町宇久井１４６９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.968435590000013, 33.66079147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町下里５６５" }, "geometry": { "type": "Point", "coordinates": [ 135.9199836, 33.58348614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町朝日１２９１" }, "geometry": { "type": "Point", "coordinates": [ 135.93800545, 33.62950422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町南大居５３０" }, "geometry": { "type": "Point", "coordinates": [ 135.891144669999989, 33.59276887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町気佐藤新殿開１７３−２６" }, "geometry": { "type": "Point", "coordinates": [ 135.32049876, 33.77442253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町清川３１２０" }, "geometry": { "type": "Point", "coordinates": [ 135.397517380000011, 33.8516848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町晩稲１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.33413826, 33.78502262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町広４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.17948357, 34.02312436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町名島１１５" }, "geometry": { "type": "Point", "coordinates": [ 135.18193335, 34.01954464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町大字湯浅１４５７" }, "geometry": { "type": "Point", "coordinates": [ 135.185172669999986, 34.03445925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市栄谷１５９" }, "geometry": { "type": "Point", "coordinates": [ 135.15342967, 34.25707612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市狐島５９６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.157532800000013, 34.24792189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市江南３５４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.227132329999989, 34.18791334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市出島１５９−６" }, "geometry": { "type": "Point", "coordinates": [ 135.21506237, 34.24495631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西河岸町９５" }, "geometry": { "type": "Point", "coordinates": [ 135.16047817, 34.22654997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市太田４丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.197092739999988, 34.22921794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市中之島貝柄町４５３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.1872282, 34.24104664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市中之島天王町５１７" }, "geometry": { "type": "Point", "coordinates": [ 135.18683676, 34.24371533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市田尻３１８" }, "geometry": { "type": "Point", "coordinates": [ 135.195806119999986, 34.20287625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市冬野１５２５" }, "geometry": { "type": "Point", "coordinates": [ 135.21218356, 34.17795771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市島字中條２４３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.25312222, 34.25530885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市布引４９７−６" }, "geometry": { "type": "Point", "coordinates": [ 135.186282580000011, 34.17577875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北島４３３−２９" }, "geometry": { "type": "Point", "coordinates": [ 135.15697221, 34.23874685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市毛革屋丁４１" }, "geometry": { "type": "Point", "coordinates": [ 135.18308721, 34.23016094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市木ノ本１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.12568826, 34.25670055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市六十谷野上８４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.200588470000014, 34.25879739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡九度山町九度山１４０７" }, "geometry": { "type": "Point", "coordinates": [ 135.559598029999989, 34.29049894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡高野町高野山２６１" }, "geometry": { "type": "Point", "coordinates": [ 135.57669058, 34.21239453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市名高字中須賀２４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.214913779999989, 34.15232587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市隅田町上兵庫２０１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.64076981, 34.32608912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市隅田町平野１０８" }, "geometry": { "type": "Point", "coordinates": [ 135.66195796, 34.35052609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市賢堂１０６０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.61103141000001, 34.31080517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口町名古曽３５０" }, "geometry": { "type": "Point", "coordinates": [ 135.56571145, 34.30354182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市薗４６３" }, "geometry": { "type": "Point", "coordinates": [ 135.15242989, 33.88854211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市下田町２−３−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.994519090000011, 33.71794672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市三輪崎３−９−２２" }, "geometry": { "type": "Point", "coordinates": [ 135.97950119, 33.68372068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市大橋通４−１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98644522, 33.72830903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡すさみ町周参見４０８７" }, "geometry": { "type": "Point", "coordinates": [ 135.49647241, 33.54912687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町堅田６３０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.38681268, 33.66680573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中万呂３９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.39994389, 33.73761626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市文里二丁目１２９１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.38402614, 33.71980888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町天満５３７" }, "geometry": { "type": "Point", "coordinates": [ 135.933556, 33.63462897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町清水９６８" }, "geometry": { "type": "Point", "coordinates": [ 135.432334270000013, 34.08690339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字庄２８３" }, "geometry": { "type": "Point", "coordinates": [ 135.233343749999989, 34.06663943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市野６９３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.13060647, 34.0789205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市秋月城堀２２５−２" }, "geometry": { "type": "Point", "coordinates": [ 135.20269141, 34.23006428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市小雑賀２１１" }, "geometry": { "type": "Point", "coordinates": [ 135.184500820000011, 34.20585444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市小瀬田字塚本５１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.231058569999988, 34.17994225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市上黒谷１２７" }, "geometry": { "type": "Point", "coordinates": [ 135.26200444, 34.27198721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市神前１６８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.20101935, 34.21600761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西ノ庄３３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.11593316, 34.25688273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西浜９４０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.15887884, 34.2001419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市大谷５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.18097266, 34.26053676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市有家１１６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.19984439000001, 34.22692242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北野７４４" }, "geometry": { "type": "Point", "coordinates": [ 135.25121482, 34.27574487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町動木４４０" }, "geometry": { "type": "Point", "coordinates": [ 135.30842335, 34.17009344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町下２２５" }, "geometry": { "type": "Point", "coordinates": [ 135.16266536, 34.12596747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市森193-5" }, "geometry": { "type": "Point", "coordinates": [ 135.307334379999986, 34.2703166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町長山１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.29306051, 34.21113164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市西大井３２６" }, "geometry": { "type": "Point", "coordinates": [ 135.36182907, 34.26898518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市桃山町市場３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.34543588, 34.24011518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市名手市場２８８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.43769287, 34.27335183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡すさみ町佐本中２０５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.62537876, 33.59013901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町岡１４０６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.44231335, 33.72478204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町生馬１８８８" }, "geometry": { "type": "Point", "coordinates": [ 135.43969445, 33.69016006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡大塔村下川下７６４" }, "geometry": { "type": "Point", "coordinates": [ 135.5870377, 33.74405936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡大塔村合川６３５−６" }, "geometry": { "type": "Point", "coordinates": [ 135.567402859999987, 33.68788227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡大塔村大字鮎川５９４" }, "geometry": { "type": "Point", "coordinates": [ 135.48506679, 33.72988133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡中辺路町栗栖川７６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.5099057, 33.78765516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡日置川町日置蛇原１０１３−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.430007030000013, 33.57196315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町栄６８７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.39627975, 33.65233521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市稲荷町新江原３１８９" }, "geometry": { "type": "Point", "coordinates": [ 135.37612618, 33.74300587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市秋津川６６８" }, "geometry": { "type": "Point", "coordinates": [ 135.42676144, 33.79427862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市秋津町綾代７５２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.38780409, 33.74373016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上秋津２０１０" }, "geometry": { "type": "Point", "coordinates": [ 135.404145480000011, 33.75604147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上芳養９９０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.36494123, 33.8005581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中三栖７７０" }, "geometry": { "type": "Point", "coordinates": [ 135.43397463, 33.74225175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中芳養１０９９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.35412885, 33.7722538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町金屋８４５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.25397393, 34.0580826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町清水８２２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.43225256, 34.08883291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町天満４７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.19936825, 34.06369062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市和佐関戸４８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.25766051, 34.24048191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡高野町大字東富貴４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70285969, 34.26007463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町上町釜滝5-1" }, "geometry": { "type": "Point", "coordinates": [ 135.348629210000013, 34.16575605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町樋下19-1" }, "geometry": { "type": "Point", "coordinates": [ 135.359982300000013, 34.14857665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市且来９７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.23136928, 34.17227416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市阪井1467-1" }, "geometry": { "type": "Point", "coordinates": [ 135.27438686, 34.15800569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市大町7-1" }, "geometry": { "type": "Point", "coordinates": [ 135.32116776, 34.26221705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市学文路226-5" }, "geometry": { "type": "Point", "coordinates": [ 135.5782829, 34.29708955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市新宮1917-1" }, "geometry": { "type": "Point", "coordinates": [ 135.98161452, 33.71937242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市文里2丁目32-7" }, "geometry": { "type": "Point", "coordinates": [ 135.38665610000001, 33.71995314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村福井75" }, "geometry": { "type": "Point", "coordinates": [ 135.43876699, 33.88764568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町串本1805" }, "geometry": { "type": "Point", "coordinates": [ 135.78139689, 33.4719761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡古座川町高池33" }, "geometry": { "type": "Point", "coordinates": [ 135.82237258, 33.52417844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町北道４５６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.32011472, 33.76641242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市宮原町新町71" }, "geometry": { "type": "Point", "coordinates": [ 135.17397413, 34.07991244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市屋形町4丁目23" }, "geometry": { "type": "Point", "coordinates": [ 135.1785754, 34.22452921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市狐島字堂山591-1" }, "geometry": { "type": "Point", "coordinates": [ 135.1581043, 34.24799171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西浜981" }, "geometry": { "type": "Point", "coordinates": [ 135.15874358, 34.19840498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市大谷105" }, "geometry": { "type": "Point", "coordinates": [ 135.17715619, 34.25965673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北町野地毛原７４４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.247109709999989, 34.2750197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市卜半町41" }, "geometry": { "type": "Point", "coordinates": [ 135.169768870000013, 34.23293216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市船尾249" }, "geometry": { "type": "Point", "coordinates": [ 135.19962711, 34.15910037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市高塚風上186-1-1" }, "geometry": { "type": "Point", "coordinates": [ 135.32420251, 34.26282795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市中井阪字轟塚230−2" }, "geometry": { "type": "Point", "coordinates": [ 135.34328582, 34.26009218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市慶賀野212" }, "geometry": { "type": "Point", "coordinates": [ 135.60725489, 34.36012249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市東家4−16−25" }, "geometry": { "type": "Point", "coordinates": [ 135.61068964, 34.31496111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市湯川町財部1116" }, "geometry": { "type": "Point", "coordinates": [ 135.16244692, 33.9008849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村宮代158-1" }, "geometry": { "type": "Point", "coordinates": [ 135.497848549999986, 33.9147794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町南谷1413" }, "geometry": { "type": "Point", "coordinates": [ 135.22200107, 33.86007286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町高津尾141" }, "geometry": { "type": "Point", "coordinates": [ 135.288832969999987, 33.96093989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高町荊木41−1" }, "geometry": { "type": "Point", "coordinates": [ 135.145128410000012, 33.92279713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町水尻65−3" }, "geometry": { "type": "Point", "coordinates": [ 135.19413877, 34.05424535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市宮崎町2343−7" }, "geometry": { "type": "Point", "coordinates": [ 135.10171455, 34.07858846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市屋形町3−1" }, "geometry": { "type": "Point", "coordinates": [ 135.17855816, 34.22835836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市秋葉町1−3" }, "geometry": { "type": "Point", "coordinates": [ 135.17007372, 34.20226143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吹屋町5" }, "geometry": { "type": "Point", "coordinates": [ 135.19024644000001, 34.22627499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西浜字中川向ヒの坪1660−400" }, "geometry": { "type": "Point", "coordinates": [ 135.147095, 34.21307753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市和歌浦東4-2-8" }, "geometry": { "type": "Point", "coordinates": [ 135.17429945, 34.18898741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市馬場町１−２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.213487289999989, 34.15834476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市中島840-3" }, "geometry": { "type": "Point", "coordinates": [ 135.297225450000013, 34.2608043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市中井阪１０３" }, "geometry": { "type": "Point", "coordinates": [ 135.34500929, 34.25668129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町岩田２１０４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.440634429999989, 33.70907448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市稲成町西沖代４４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.3721946, 33.73921949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市下万呂字裏代４７６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.3921344, 33.73927117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町" }, "geometry": { "type": "Point", "coordinates": [ 135.51542074, 34.29833947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市大野中９３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.225364500000012, 34.15966807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市岡田６６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.33225680000001, 34.25763293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市市脇３２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.59867372, 34.31366903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町岩崎１３８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40735356, 33.68030081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町３３４０−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.35027702, 33.68550747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市鮎川５９７−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.48343198, 33.72786707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市下万呂４１４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.39521717, 33.73815815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新庄町１８７７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.405119219999989, 33.71357279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市神小浜８０１" }, "geometry": { "type": "Point", "coordinates": [ 135.3924302, 33.72055927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市湊１３５９" }, "geometry": { "type": "Point", "coordinates": [ 135.384500300000013, 33.73671712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市湊６５７" }, "geometry": { "type": "Point", "coordinates": [ 135.38522447, 33.72988565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町田３４５" }, "geometry": { "type": "Point", "coordinates": [ 135.15076935, 34.05347759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字久野原２０２１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.45301892, 34.09411182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字金屋２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.25410109, 34.06270516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字二川５８６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.35689057, 34.07274603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市古江見１５６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.12391114, 34.08105626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市港町１９" }, "geometry": { "type": "Point", "coordinates": [ 135.11361377, 34.08978021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市伊太祈曽７７" }, "geometry": { "type": "Point", "coordinates": [ 135.25117217, 34.20455186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吉原７４５" }, "geometry": { "type": "Point", "coordinates": [ 135.203136879999988, 34.19631394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吉田３９２番地" }, "geometry": { "type": "Point", "coordinates": [ 135.188249, 34.23609159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市栗栖番頭免６４６" }, "geometry": { "type": "Point", "coordinates": [ 135.214742840000014, 34.23549298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市狐島３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.14998639, 34.2481226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市黒田１２４" }, "geometry": { "type": "Point", "coordinates": [ 135.19334502000001, 34.23611007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市次郎丸７" }, "geometry": { "type": "Point", "coordinates": [ 135.15367665, 34.25518405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市舟津町４−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.15923554, 34.21854948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市松島９７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.207668610000013, 34.24498806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吹上二丁目１番１９号" }, "geometry": { "type": "Point", "coordinates": [ 135.1696335, 34.2233066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市中之島１６１０" }, "geometry": { "type": "Point", "coordinates": [ 135.18418147, 34.23925055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町笠田中１１" }, "geometry": { "type": "Point", "coordinates": [ 135.47358842, 34.28665969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町御所１" }, "geometry": { "type": "Point", "coordinates": [ 135.48347035, 34.25965426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡九度山町下古沢６４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.55824802, 34.27191209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町小畑１０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.29210146, 34.16227738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町小南１３６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.166793399999989, 34.12804032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市原野３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.2916351, 34.17963284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市阪井９５１" }, "geometry": { "type": "Point", "coordinates": [ 135.264215330000013, 34.15917249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市大野中字八幡４７０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.22264332, 34.15306473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市野上中３６４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.284284469999989, 34.16330669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市冷水４" }, "geometry": { "type": "Point", "coordinates": [ 135.2027592, 34.14393472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市山４３５" }, "geometry": { "type": "Point", "coordinates": [ 135.282277240000013, 34.27518884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市中島６３８" }, "geometry": { "type": "Point", "coordinates": [ 135.28921764, 34.26336848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町井ノ口９９８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.315089769999986, 34.19715959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町上野山２６９" }, "geometry": { "type": "Point", "coordinates": [ 135.30880865, 34.21493436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市北涌４１５" }, "geometry": { "type": "Point", "coordinates": [ 135.443490020000013, 34.26756384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市岸上４０６" }, "geometry": { "type": "Point", "coordinates": [ 135.58684222, 34.31384788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口町大野２０４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.54952506, 34.30468524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市柱本字深山２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.60626979, 34.36598523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市薗４０" }, "geometry": { "type": "Point", "coordinates": [ 135.15097397, 33.89516646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市名田町野島字古谷６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.17526182, 33.83970875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市神倉４−６−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.987275, 33.71933617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市野田９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.99626615, 33.7216276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町朝来１３７７" }, "geometry": { "type": "Point", "coordinates": [ 135.41829705, 33.69514119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町２７６３" }, "geometry": { "type": "Point", "coordinates": [ 135.356995219999988, 33.68021703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町庄川口２６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40584805, 33.66411657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村西３５９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.488147559999987, 33.89478069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村柳瀬１１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.47062668, 33.87935751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町西向３２６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82120541, 33.51798864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町浜の宮１７３" }, "geometry": { "type": "Point", "coordinates": [ 135.935599380000014, 33.64339202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町西本庄８９０" }, "geometry": { "type": "Point", "coordinates": [ 135.327229820000014, 33.80542084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町北道４５６" }, "geometry": { "type": "Point", "coordinates": [ 135.31981692, 33.76667306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町古井５６８" }, "geometry": { "type": "Point", "coordinates": [ 135.26305356, 33.85469924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町大字西ノ地１１５６" }, "geometry": { "type": "Point", "coordinates": [ 135.23981095, 33.80192544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町熊野川３２９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.364429370000011, 33.95536316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町江川１０８４" }, "geometry": { "type": "Point", "coordinates": [ 135.23088687, 33.88677372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡由良町里４１３" }, "geometry": { "type": "Point", "coordinates": [ 135.12557042, 33.96740585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町清水３７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.43081835000001, 34.08338411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町中野２８５" }, "geometry": { "type": "Point", "coordinates": [ 135.26100975, 34.06889533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町田口１３７９" }, "geometry": { "type": "Point", "coordinates": [ 135.20015787, 34.07561674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市宮原町新町１２２" }, "geometry": { "type": "Point", "coordinates": [ 135.1763698, 34.07761704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市辻堂８３０" }, "geometry": { "type": "Point", "coordinates": [ 135.142113630000011, 34.07588771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市餌差町１−３９" }, "geometry": { "type": "Point", "coordinates": [ 135.18473785, 34.2283702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市永穂２２６" }, "geometry": { "type": "Point", "coordinates": [ 135.24801553, 34.25430013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市加太１１９１−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.078365710000014, 34.27516219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市紀三井寺５３９−９" }, "geometry": { "type": "Point", "coordinates": [ 135.18605273, 34.1789698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市手平１−６−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.18629435, 34.21955658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市小松原５−８−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.16672761, 34.21716411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市西浜１０３８−３" }, "geometry": { "type": "Point", "coordinates": [ 135.15870106, 34.19462276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市田尻２９５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.19733857, 34.2016764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市湊６６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.15919009000001, 34.21218264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市野崎中州１９６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.15835919, 34.24724404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市六十谷７４９" }, "geometry": { "type": "Point", "coordinates": [ 135.202557610000014, 34.26224196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市神倉３−１−３３" }, "geometry": { "type": "Point", "coordinates": [ 135.98677179, 33.7192171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上の山１−１２−３７" }, "geometry": { "type": "Point", "coordinates": [ 135.365048519999988, 33.73622565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市本宮町本宮１５７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77181392, 33.83278484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町勝浦天満１５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.93455014, 33.63328707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町埴田１４３７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.32564792, 33.75187661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町島田１１６３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.240502490000011, 33.79707243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町名島８５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.17991847, 34.0202715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町天満５４９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.202546930000011, 34.06321677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市糸我町中番２９３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.17413159, 34.07176107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市初島町里１２４６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.11957669, 34.09919296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市初島町里２１０６" }, "geometry": { "type": "Point", "coordinates": [ 135.115655049999987, 34.09397693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市塩屋４−６−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.177561700000012, 34.19882307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市岩橋１７１７" }, "geometry": { "type": "Point", "coordinates": [ 135.22602034, 34.23294242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市紀三井寺鷹場新田７４９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.185577130000013, 34.18592474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市舟津町３−３１" }, "geometry": { "type": "Point", "coordinates": [ 135.15973932, 34.21974149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市出島３８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.22068715, 34.24540238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市出島４６３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.218228939999989, 34.24851867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市森小手穂北沖田７３９−５" }, "geometry": { "type": "Point", "coordinates": [ 135.224391129999987, 34.20902818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市北中島１−１０−５０" }, "geometry": { "type": "Point", "coordinates": [ 135.1856869, 34.21098511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市大野中６８６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.229328900000013, 34.15537187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市西国分７８４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.3350896, 34.2633806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市名手市場１３５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.43523119, 34.27227152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市隅田町河瀬１７９" }, "geometry": { "type": "Point", "coordinates": [ 135.62409505, 34.31906348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市光陽台１−５−２６" }, "geometry": { "type": "Point", "coordinates": [ 135.606914679999988, 34.36716648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市湯川町財部７８２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.15762611, 33.90005807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市橋本２−５−５３" }, "geometry": { "type": "Point", "coordinates": [ 135.987843809999987, 33.71658338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市佐野１−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.97782863, 33.68267386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市善明寺295-1" }, "geometry": { "type": "Point", "coordinates": [ 135.18657875, 34.26111554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡高野町高野山３８８" }, "geometry": { "type": "Point", "coordinates": [ 135.584794319999986, 34.2129298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市且来１５１" }, "geometry": { "type": "Point", "coordinates": [ 135.23174696, 34.17435608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口町伏原２５１" }, "geometry": { "type": "Point", "coordinates": [ 135.571208399999989, 34.30650859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口町名倉１９３" }, "geometry": { "type": "Point", "coordinates": [ 135.55451839, 34.30240033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡広川町井関６７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.19224007, 34.00264128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町湯浅２９９０" }, "geometry": { "type": "Point", "coordinates": [ 135.17242339, 34.03687275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字粟生５５３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.35250524, 34.05054741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市初島町里２１９１" }, "geometry": { "type": "Point", "coordinates": [ 135.11491909, 34.09223548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市千田鳥居２０６" }, "geometry": { "type": "Point", "coordinates": [ 135.139583280000011, 34.0708855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市延時１４７−４１" }, "geometry": { "type": "Point", "coordinates": [ 135.14702513, 34.25221657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市三番丁５４" }, "geometry": { "type": "Point", "coordinates": [ 135.177934850000014, 34.22711943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市市小路９１" }, "geometry": { "type": "Point", "coordinates": [ 135.16484408, 34.2570385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市南出島７７" }, "geometry": { "type": "Point", "coordinates": [ 135.195201059999988, 34.21837546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市中黒５４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.28633668, 34.2672516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市平尾38-1" }, "geometry": { "type": "Point", "coordinates": [ 135.24780739, 34.20619097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市舟津町2-2-1" }, "geometry": { "type": "Point", "coordinates": [ 135.1597841, 34.22290272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市園部１０５１−８" }, "geometry": { "type": "Point", "coordinates": [ 135.193429689999988, 34.26203024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市御幸辻５０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.60554725, 34.33414644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市市脇１−１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.602779160000011, 34.31413917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡由良町大字里369" }, "geometry": { "type": "Point", "coordinates": [ 135.12386919, 33.96569935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市中之島２７５−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.19473148, 34.24157343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町朝来２３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.41825183, 33.69899321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市湯川町小松原554-1" }, "geometry": { "type": "Point", "coordinates": [ 135.15151737, 33.90553577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市塩屋1丁目6-25" }, "geometry": { "type": "Point", "coordinates": [ 135.17933222, 34.20404252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市西小二里３−６−４３" }, "geometry": { "type": "Point", "coordinates": [ 135.159731130000011, 34.20889094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県新宮市清水元１−１−９" }, "geometry": { "type": "Point", "coordinates": [ 135.997081799999989, 33.72054671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県有田市宮崎町３６８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.108834050000013, 34.08179784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市赤塚５６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.64450659, 34.32164006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市橋谷５３０−４" }, "geometry": { "type": "Point", "coordinates": [ 135.60296802, 34.34757011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市三葛５１８" }, "geometry": { "type": "Point", "coordinates": [ 135.18846801, 34.19933689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市湊１３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.147132129999989, 34.21894025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市太田１１２" }, "geometry": { "type": "Point", "coordinates": [ 135.19489658, 34.22799968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市砂山南４−４−６" }, "geometry": { "type": "Point", "coordinates": [ 135.159900490000012, 34.21299601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市小原田１４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.60878985, 34.32382091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県田辺市下三栖１４７５−１３７" }, "geometry": { "type": "Point", "coordinates": [ 135.42517737, 33.72502272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県東牟婁郡串本町出雲１１８５" }, "geometry": { "type": "Point", "coordinates": [ 135.78052459, 33.45464463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市松ケ丘３丁目１−２８" }, "geometry": { "type": "Point", "coordinates": [ 135.162387599999988, 34.20267209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新庄町４３７" }, "geometry": { "type": "Point", "coordinates": [ 135.400156329999987, 33.72187269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町大字天満１６０５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.9326447, 33.63619783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町北道９１" }, "geometry": { "type": "Point", "coordinates": [ 135.32030029, 33.76972915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市沖野々３１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.27682771, 34.16349112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町大崎４３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.13332695, 34.12980579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市井ノ口２５７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.24486758, 34.23772146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市名屋町３丁目６−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.15598677, 33.88237909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市東家４丁目１８−１８" }, "geometry": { "type": "Point", "coordinates": [ 135.610216189999989, 34.31483469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市清水元２丁目１−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.997920779999987, 33.71681292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町大字高田３１" }, "geometry": { "type": "Point", "coordinates": [ 135.449061519999987, 34.27978248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡那智勝浦町大字勝浦４８５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.94712986, 33.62785908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町下津８０１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.1440811, 34.1095104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新庄町３０２１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.39400609, 33.70188109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市東山１丁目５−６" }, "geometry": { "type": "Point", "coordinates": [ 135.389853140000014, 33.72949343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町北８１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.32753211, 34.21261253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新庄町２９４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.39923814, 33.70581433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市吉田３５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.2769537, 34.26409541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市田屋１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.22753093, 34.25585445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町田１３" }, "geometry": { "type": "Point", "coordinates": [ 135.41766213, 34.14135309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市十三番丁３０" }, "geometry": { "type": "Point", "coordinates": [ 135.16981082, 34.23184003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市粉河４５４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40430186, 34.27485858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市名手市場１０６４" }, "geometry": { "type": "Point", "coordinates": [ 135.43368876, 34.27646168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市小雑賀８０８" }, "geometry": { "type": "Point", "coordinates": [ 135.18559531, 34.19592979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町長山２７７−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.28589911, 34.20599942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市高塚２３０" }, "geometry": { "type": "Point", "coordinates": [ 135.32371792, 34.25769532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市三輪崎２２０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98746899, 33.69620834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市毛見３８７" }, "geometry": { "type": "Point", "coordinates": [ 135.20226372, 34.17111732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町大字大谷２８−８" }, "geometry": { "type": "Point", "coordinates": [ 135.49255406, 34.2926498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町大字佐野９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.48340552, 34.29051532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市杭ノ瀬２２５" }, "geometry": { "type": "Point", "coordinates": [ 135.193164700000011, 34.20935524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町大字妙寺４８６" }, "geometry": { "type": "Point", "coordinates": [ 135.52194225, 34.29833405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市狐島３５０" }, "geometry": { "type": "Point", "coordinates": [ 135.150083310000014, 34.24658118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市川辺１６１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.26175324, 34.25717283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市加納町２２" }, "geometry": { "type": "Point", "coordinates": [ 135.15939842, 34.22483376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字下津野４５２" }, "geometry": { "type": "Point", "coordinates": [ 135.21797754, 34.06558841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡有田川町大字水尻６８１" }, "geometry": { "type": "Point", "coordinates": [ 135.191419739999986, 34.05004227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市中迫１７４" }, "geometry": { "type": "Point", "coordinates": [ 135.313297580000011, 34.26076231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田市糸我町中番４６" }, "geometry": { "type": "Point", "coordinates": [ 135.17621674, 34.07086812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市別院５８０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.28203267, 34.16742858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市重根１０７−６" }, "geometry": { "type": "Point", "coordinates": [ 135.24057634, 34.15392078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市名田町上野３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.1849221, 33.82790867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市名田町野島３４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.16418656, 33.85511434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市和歌町３３" }, "geometry": { "type": "Point", "coordinates": [ 135.179504869999988, 34.22950844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市江川３７−３４" }, "geometry": { "type": "Point", "coordinates": [ 135.36893475, 33.73168425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海草郡紀美野町小畑４８６" }, "geometry": { "type": "Point", "coordinates": [ 135.29978492, 34.16537114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市新庄町１５８０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.405006250000014, 33.7122709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市築港２丁目１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.154630450000013, 34.22389165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市湊１３３４" }, "geometry": { "type": "Point", "coordinates": [ 135.15087893, 34.21545801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市冬野５３６" }, "geometry": { "type": "Point", "coordinates": [ 135.213601180000012, 34.18789596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吹屋町３丁目４０" }, "geometry": { "type": "Point", "coordinates": [ 135.188139729999989, 34.22414785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市吹屋町２丁目３０" }, "geometry": { "type": "Point", "coordinates": [ 135.186345390000014, 34.22598041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市上の山２丁目２９−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.36571887, 33.73331189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市宝来町１４−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.38836822, 33.73252427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市畑屋敷榎丁３６" }, "geometry": { "type": "Point", "coordinates": [ 135.183028470000011, 34.23430466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市文里１丁目７−２２" }, "geometry": { "type": "Point", "coordinates": [ 135.3923613, 33.71731785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市祢宜１１４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.24364236, 34.2397275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市下万呂５８３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.3924265, 33.74070658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市下津町丁１４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.1555415, 34.12255452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市雄松町５丁目４" }, "geometry": { "type": "Point", "coordinates": [ 135.18047368, 34.22018423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市下井阪４６９" }, "geometry": { "type": "Point", "coordinates": [ 135.34011095, 34.25796946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町鬮野川１５９５−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79396965, 33.48677335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高町大字高家４２０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.136704079999987, 33.9247083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県岩出市安上２０５" }, "geometry": { "type": "Point", "coordinates": [ 135.295935859999986, 34.27769202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町大字湯浅２３２８" }, "geometry": { "type": "Point", "coordinates": [ 135.18772929, 34.04060303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市島４４７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.16385761, 33.89109746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市南檜杖７５" }, "geometry": { "type": "Point", "coordinates": [ 135.97100558, 33.7211543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市隅田町垂井６８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.64993712, 34.32998028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県新宮市あけぼの４−１" }, "geometry": { "type": "Point", "coordinates": [ 136.00496217, 33.72154488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市打田３３６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.36980261, 34.25838091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町日置９８１−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.43743109, 33.56833999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県伊都郡かつらぎ町大字背ノ山９２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.45937432, 34.28189462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市桃山町元２８９" }, "geometry": { "type": "Point", "coordinates": [ 135.35098344, 34.24164021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市むつみ３８７−７" }, "geometry": { "type": "Point", "coordinates": [ 135.378734439999988, 33.74150118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市三葛２５３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.185808400000013, 34.19148455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市井ノ口３９８−５" }, "geometry": { "type": "Point", "coordinates": [ 135.247838449999989, 34.23982272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市芳養松原１丁目１−２８" }, "geometry": { "type": "Point", "coordinates": [ 135.357038569999986, 33.74097402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市朝日９２８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.226690960000013, 34.18921413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町３３４０−４６" }, "geometry": { "type": "Point", "coordinates": [ 135.349915, 33.6855303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高川町大字江川２９０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.20939582, 33.8882779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市龍神村湯ノ又５３３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.557184619999987, 33.94464381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町谷口５８３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.328115489999988, 33.79179414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県和歌山市榎原７３−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.13364841, 34.25468938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡みなべ町埴田１７６６" }, "geometry": { "type": "Point", "coordinates": [ 135.325566759999987, 33.75936401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町大字印南１７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.21838879, 33.81380058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町大字印南３２６５" }, "geometry": { "type": "Point", "coordinates": [ 135.219025210000012, 33.81002691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町大字小原１５５" }, "geometry": { "type": "Point", "coordinates": [ 135.300473360000012, 33.87400205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡美浜町大字和田１１３８−９６" }, "geometry": { "type": "Point", "coordinates": [ 135.13098942, 33.89513726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中辺路町栗栖川４０７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.51699475, 33.79248577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中辺路町近露１７０１" }, "geometry": { "type": "Point", "coordinates": [ 135.60965712, 33.80933346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県田辺市中辺路町近露１６８２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.60844721, 33.80902219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町市ノ瀬２０５６−６７" }, "geometry": { "type": "Point", "coordinates": [ 135.466572969999987, 33.71591561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡上富田町下鮎川３８７−３２" }, "geometry": { "type": "Point", "coordinates": [ 135.47846739, 33.71847564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県西牟婁郡白浜町市鹿野１０９７" }, "geometry": { "type": "Point", "coordinates": [ 135.53406092, 33.65763192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町田子６７５" }, "geometry": { "type": "Point", "coordinates": [ 135.69228141, 33.4887504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市和歌浦中２丁目１１−２６" }, "geometry": { "type": "Point", "coordinates": [ 135.16804595, 34.18946688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市福島３２４" }, "geometry": { "type": "Point", "coordinates": [ 135.16566323, 34.25003654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市橋本１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 135.61308126, 34.31507204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市秋月１１９" }, "geometry": { "type": "Point", "coordinates": [ 135.20111649, 34.23107248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市北新博労町１６" }, "geometry": { "type": "Point", "coordinates": [ 135.17798197, 34.2404793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市上三毛５２" }, "geometry": { "type": "Point", "coordinates": [ 135.3046004, 34.24989413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市太田６１６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.19880086, 34.23209302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市中島４０７−９" }, "geometry": { "type": "Point", "coordinates": [ 135.186409739999988, 34.20218652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市関戸３丁目４−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.164806, 34.19677572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市和歌浦中２丁目１２−９" }, "geometry": { "type": "Point", "coordinates": [ 135.170067139999986, 34.1901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市杭ノ瀬１４８" }, "geometry": { "type": "Point", "coordinates": [ 135.192431950000014, 34.21064637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市中之島１５０６" }, "geometry": { "type": "Point", "coordinates": [ 135.18589244, 34.23917405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市小松原５丁目８−７" }, "geometry": { "type": "Point", "coordinates": [ 135.16704981, 34.21716499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市直川１７１３" }, "geometry": { "type": "Point", "coordinates": [ 135.2136735, 34.26326995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県日高郡日高川町大字三百瀬４５６" }, "geometry": { "type": "Point", "coordinates": [ 135.24284875, 33.93931016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市東家４丁目１８−２３" }, "geometry": { "type": "Point", "coordinates": [ 135.60966489, 34.314747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県新宮市熊野地２丁目１３−９" }, "geometry": { "type": "Point", "coordinates": [ 136.0022558, 33.72140341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市隅田町河瀬４１２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.62712448, 34.32233809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市元博労町３６" }, "geometry": { "type": "Point", "coordinates": [ 135.16839851, 34.23487718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県有田郡湯浅町大字湯浅４６" }, "geometry": { "type": "Point", "coordinates": [ 135.17531605, 34.03716306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県西牟婁郡すさみ町周参見４０９５−５" }, "geometry": { "type": "Point", "coordinates": [ 135.49663666, 33.55037318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県田辺市湊１５８０" }, "geometry": { "type": "Point", "coordinates": [ 135.380084079999989, 33.73575446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県新宮市あけぼの５−５０" }, "geometry": { "type": "Point", "coordinates": [ 136.006525399999987, 33.72478226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県御坊市湯川町富安１７１８−４" }, "geometry": { "type": "Point", "coordinates": [ 135.164583920000013, 33.93122373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県御坊市薗１７３" }, "geometry": { "type": "Point", "coordinates": [ 135.15768143, 33.890881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県御坊市薗５１４−６" }, "geometry": { "type": "Point", "coordinates": [ 135.15353534, 33.88747561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県伊都郡九度山町大字九度山５６３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.56426155, 34.2894991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県西牟婁郡上富田町朝来７７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.42975475, 33.69593238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県日高郡みなべ町北道１４９−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.32335065, 33.76823015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県新宮市横町１丁目２−９" }, "geometry": { "type": "Point", "coordinates": [ 135.98737158, 33.72873401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県伊都郡高野町大字高野山７６７" }, "geometry": { "type": "Point", "coordinates": [ 135.58752186000001, 34.21266875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市高野口町名倉８１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.5551034, 34.30598082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県橋本市高野口町小田５０４−５" }, "geometry": { "type": "Point", "coordinates": [ 135.55840651, 34.29703436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県伊都郡かつらぎ町大字東渋田３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.48106266, 34.27793041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県紀の川市貴志川町北４１５" }, "geometry": { "type": "Point", "coordinates": [ 135.33284662, 34.21736281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県紀の川市粉河１８１３" }, "geometry": { "type": "Point", "coordinates": [ 135.40405908, 34.27453806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県有田市初島町浜１３７３" }, "geometry": { "type": "Point", "coordinates": [ 135.117343580000011, 34.10026777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市松江北６丁目１２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.12333809, 34.25214949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県田辺市紺屋町５８−９" }, "geometry": { "type": "Point", "coordinates": [ 135.3742268, 33.73466045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県岩出市高塚４６" }, "geometry": { "type": "Point", "coordinates": [ 135.320377619999988, 34.25388857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県紀の川市粉河８５９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.405320139999986, 34.27177949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市田野２８１" }, "geometry": { "type": "Point", "coordinates": [ 135.15249909, 34.18603515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県橋本市高野口町名古曽７４５−５８" }, "geometry": { "type": "Point", "coordinates": [ 135.56043127, 34.30645278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市北出島１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.194544869999987, 34.22330089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県東牟婁郡那智勝浦町大字勝浦５６０" }, "geometry": { "type": "Point", "coordinates": [ 135.948133680000012, 33.62892432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県日高郡由良町大字里３２１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.12335932, 33.96220315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市神子浜２丁目３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.38515307, 33.72447817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県東牟婁郡古座川町平井６８６" }, "geometry": { "type": "Point", "coordinates": [ 135.69094132, 33.64157468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市北野１３６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.24909569, 34.2661707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県紀の川市粉河４１０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.40727834, 34.27063244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県日高郡日高川町大字千津川５３００−１" }, "geometry": { "type": "Point", "coordinates": [ 135.17447553, 33.92696351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市山地１０４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.13336514, 34.07169123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市狐島３８８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.15278099, 34.24392031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市箕島４４８" }, "geometry": { "type": "Point", "coordinates": [ 135.11546653, 34.08513918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市宮崎町３９７−６" }, "geometry": { "type": "Point", "coordinates": [ 135.105184439999988, 34.08165336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田郡湯浅町大字湯浅９３６" }, "geometry": { "type": "Point", "coordinates": [ 135.17901379, 34.03613963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市湊５３３" }, "geometry": { "type": "Point", "coordinates": [ 135.38255331, 33.72832489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県西牟婁郡すさみ町周参見４２１４" }, "geometry": { "type": "Point", "coordinates": [ 135.49426471000001, 33.54826502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県伊都郡かつらぎ町大字妙寺４６３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.52053494, 34.29794132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市新庄町１４６１" }, "geometry": { "type": "Point", "coordinates": [ 135.406492899999989, 33.7144824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市文里１丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.39183194, 33.71748999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市文里１丁目１３−３７" }, "geometry": { "type": "Point", "coordinates": [ 135.389329339999989, 33.71616097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市湊９６０" }, "geometry": { "type": "Point", "coordinates": [ 135.38279504, 33.73370398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市吹屋町４丁目３" }, "geometry": { "type": "Point", "coordinates": [ 135.188845210000011, 34.22584213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市湊１３５０−６" }, "geometry": { "type": "Point", "coordinates": [ 135.38622236, 33.73809869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市新万２７−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.39817407000001, 33.73344102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県海草郡紀美野町吉野３２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.330446880000011, 34.15850657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市上芳養１" }, "geometry": { "type": "Point", "coordinates": [ 135.3578389, 33.79219962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県海南市井田２５" }, "geometry": { "type": "Point", "coordinates": [ 135.22078245, 34.15617983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市宮崎町２３４３−５" }, "geometry": { "type": "Point", "coordinates": [ 135.101498279999987, 34.07896503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市宮崎町２３４２−４２" }, "geometry": { "type": "Point", "coordinates": [ 135.09801303, 34.07966463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市千田１４４５" }, "geometry": { "type": "Point", "coordinates": [ 135.138503719999989, 34.06401189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田市千田２１０３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.15221323, 34.06732844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市新庄町１８４９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.40431872, 33.71332531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県日高郡由良町大字吹井１８７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.10602296, 33.97067761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県西牟婁郡白浜町安居１０５７" }, "geometry": { "type": "Point", "coordinates": [ 135.48514122, 33.61373983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市西庄" }, "geometry": { "type": "Point", "coordinates": [ 135.109029920000012, 34.25984605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県西牟婁郡白浜町細野２７８４" }, "geometry": { "type": "Point", "coordinates": [ 135.3795451, 33.68022491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県新宮市徐福１丁目７−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.99512364, 33.72654324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県有田郡有田川町大字金屋５３５−５" }, "geometry": { "type": "Point", "coordinates": [ 135.255639980000012, 34.05824477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県伊都郡高野町大字高野山６７５" }, "geometry": { "type": "Point", "coordinates": [ 135.583141649999988, 34.21600441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市北町１８" }, "geometry": { "type": "Point", "coordinates": [ 135.17385224, 34.23600042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県岩出市西野１８６" }, "geometry": { "type": "Point", "coordinates": [ 135.310564950000014, 34.25670795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県和歌山市小松原通３丁目６０" }, "geometry": { "type": "Point", "coordinates": [ 135.16889125, 34.22160609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県紀の川市上田井１０６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.38672459, 34.26371086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県日高郡みなべ町気佐藤４８" }, "geometry": { "type": "Point", "coordinates": [ 135.31806219, 33.76943831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県西牟婁郡白浜町才野１６２２−１２５" }, "geometry": { "type": "Point", "coordinates": [ 135.36098309, 33.66179076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "和歌山県田辺市上屋敷１丁目１−３２" }, "geometry": { "type": "Point", "coordinates": [ 135.37611431, 33.73267538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県海南市船尾２６０−１００" }, "geometry": { "type": "Point", "coordinates": [ 135.19391832, 34.1536516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県御坊市薗字中嶋５８３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.15321935, 33.88497269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡日高町萩原８８６" }, "geometry": { "type": "Point", "coordinates": [ 135.14390751, 33.92682856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀ﾉ川市井田95-1" }, "geometry": { "type": "Point", "coordinates": [ 135.417135, 34.26939055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県紀の川市貴志川町前田175" }, "geometry": { "type": "Point", "coordinates": [ 135.31486515, 34.21895848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県橋本市高野口町大野181" }, "geometry": { "type": "Point", "coordinates": [ 135.550132670000011, 34.3046405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県東牟婁郡串本町田原字上地477-8" }, "geometry": { "type": "Point", "coordinates": [ 135.870607150000012, 33.53680237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県日高郡印南町大字印南１２１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.21462781, 33.814583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "和歌山県有田郡湯浅町２９８６" }, "geometry": { "type": "Point", "coordinates": [ 135.17144864, 34.03673284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県紀の川市東野９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.420124820000012, 34.26688656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県御坊市塩屋町北塩屋１３９９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.16904473, 33.86840106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県西牟婁郡白浜町大浦２７０３−６" }, "geometry": { "type": "Point", "coordinates": [ 135.35375355, 33.67559179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県東牟婁郡串本町串本１７１７" }, "geometry": { "type": "Point", "coordinates": [ 135.77622259, 33.46018272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県東牟婁郡那智勝浦町宇久井８０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.97039163, 33.66117347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県有田郡広川町名島４６" }, "geometry": { "type": "Point", "coordinates": [ 135.179579819999987, 34.02215723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県有田郡有田川町水尻" }, "geometry": { "type": "Point", "coordinates": [ 135.190712749999989, 34.05017087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市小倉４５７" }, "geometry": { "type": "Point", "coordinates": [ 135.29734502, 34.25215392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県和歌山市布施屋字上新田７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.26242194, 34.24657687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "和歌山県西牟婁郡白浜町１１３０−３６" }, "geometry": { "type": "Point", "coordinates": [ 135.350734859999989, 33.68518599 ] } }
+
+]
+}

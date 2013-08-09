@@ -1,0 +1,1010 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市寒川町石田東甲１２７６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.213503480000014, 34.26279693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町山田下２１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.948646020000012, 34.22513944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町陶字宮藪２６９２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.958674980000012, 34.25653493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町新開2410-2" }, "geometry": { "type": "Point", "coordinates": [ 133.82907827, 34.31224949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市三本松町１丁目１番１５号" }, "geometry": { "type": "Point", "coordinates": [ 133.64485568, 34.12431967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市村黒町３６３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67489873, 34.12945177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町丸井４０９−７" }, "geometry": { "type": "Point", "coordinates": [ 133.69427998, 34.09493592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町大野原６８３９" }, "geometry": { "type": "Point", "coordinates": [ 133.6600818, 34.07529389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市柞田町字広野甲２３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.6535398, 34.11753969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市川西町南字岸ノ上８５６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.83246256000001, 34.24778002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市飯山町東坂元１９７４−５" }, "geometry": { "type": "Point", "coordinates": [ 133.86364358, 34.26855541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県香川郡直島町字内新田１６６５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.990561899999989, 34.46015638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市郷東町５６７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.014122500000013, 34.34828152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町大野１００６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02948326, 34.2665927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市今里町４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.057195869999987, 34.32351107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三谷町３８５−３" }, "geometry": { "type": "Point", "coordinates": [ 134.072323720000014, 34.27800463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町１４７３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.08950988, 34.33438421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市植松町２３０" }, "geometry": { "type": "Point", "coordinates": [ 133.980490479999986, 34.35418863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市新田町甲４７０−１３" }, "geometry": { "type": "Point", "coordinates": [ 134.10512613, 34.32828009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市成合町９４６−２" }, "geometry": { "type": "Point", "coordinates": [ 134.01482133, 34.29583816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西ハゼ町字土居２７１" }, "geometry": { "type": "Point", "coordinates": [ 134.029782430000012, 34.3171489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥上町２３３４" }, "geometry": { "type": "Point", "coordinates": [ 134.05121576, 34.27080425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥上町３８−３" }, "geometry": { "type": "Point", "coordinates": [ 134.043273629999987, 34.29413323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市檀紙町１５０２−６" }, "geometry": { "type": "Point", "coordinates": [ 133.998239250000012, 34.30611061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市中山町８１１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.97063723, 34.35746918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市朝日町２−２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.063809170000013, 34.3480014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市勅使町１２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02421819, 34.31098395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市東ハゼ町３番地の１" }, "geometry": { "type": "Point", "coordinates": [ 134.04202713, 34.32124133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市藤塚町１−３−２８" }, "geometry": { "type": "Point", "coordinates": [ 134.046990419999986, 34.33473821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市伏石町２１３５−１３" }, "geometry": { "type": "Point", "coordinates": [ 134.05664062, 34.30825355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市仏生山町甲３８７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.04621502, 34.28487631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市六条町字下川東１０２番地１" }, "geometry": { "type": "Point", "coordinates": [ 134.08915496, 34.29678579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市王越町乃生１１６９−２" }, "geometry": { "type": "Point", "coordinates": [ 133.90581043, 34.37130488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市加茂町６２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.90682142, 34.31124691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市川津町２９２３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.85283812, 34.2904953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市中央町３−４" }, "geometry": { "type": "Point", "coordinates": [ 133.84991764, 34.31839798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市番の州町７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.82706693, 34.33759092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市府中町９６９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.92483458000001, 34.29191008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町下勝間２７８６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.717543080000013, 34.1810955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市財田町財田上１６３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.799543269999987, 34.10995214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市三野町吉津宗吉甲６０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69785267, 34.20054964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市豊中町上高野１９３６−４" }, "geometry": { "type": "Point", "coordinates": [ 133.70137212, 34.14418902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町草壁本町６１５−６" }, "geometry": { "type": "Point", "coordinates": [ 134.30016547, 34.47882386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町池田８７６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.232281300000011, 34.48294635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町福田甲１１８８−３" }, "geometry": { "type": "Point", "coordinates": [ 134.34457199, 34.54078979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町渕崎甲２０６７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.19167443, 34.48767135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市原田町字土居１２５６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.78782476, 34.25115209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町吉野２４９２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.875580570000011, 34.18433845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町長尾７−８" }, "geometry": { "type": "Point", "coordinates": [ 133.87715884, 34.1857867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡琴平町榎井６９−７" }, "geometry": { "type": "Point", "coordinates": [ 133.83110197, 34.19143649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町大字道福寺４５１−３" }, "geometry": { "type": "Point", "coordinates": [ 133.762812739999987, 34.26273347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市引田町引田７８４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.40135146, 34.22465151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字氷上字花丸９１６番３" }, "geometry": { "type": "Point", "coordinates": [ 134.13567552, 34.26403945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市鴨庄３０７５" }, "geometry": { "type": "Point", "coordinates": [ 134.20455408, 34.3276165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市大川町富田中３００９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.23560422, 34.26074571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市長尾西字１０５８−４" }, "geometry": { "type": "Point", "coordinates": [ 134.16924781, 34.26539013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市津田町津田１６６０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.248047359999987, 34.29180029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市津田町鶴羽の端１６１４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.275329770000013, 34.28022545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町滝宮４５１" }, "geometry": { "type": "Point", "coordinates": [ 133.92691467, 34.2469244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町陶４１６９−５" }, "geometry": { "type": "Point", "coordinates": [ 133.94595240000001, 34.25405141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町大字東分字本村東１６５９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.837708139999989, 34.29598233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市植田町南原１１３３" }, "geometry": { "type": "Point", "coordinates": [ 133.680037989999988, 34.12147366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町姫浜１２２６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.64038463, 34.08373757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町和田浜１６０２" }, "geometry": { "type": "Point", "coordinates": [ 133.63682795, 34.07152045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市本大町１８６８" }, "geometry": { "type": "Point", "coordinates": [ 133.71023752, 34.1261584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市茂木町５−６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.66119274, 34.13340689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町栗熊東１１７１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.8967935, 34.23959201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市郡家町八幡下２６５０番１" }, "geometry": { "type": "Point", "coordinates": [ 133.81183589, 34.25762337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市広島町甲路１７３１" }, "geometry": { "type": "Point", "coordinates": [ 133.69234906, 34.35697801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市今津町５０８" }, "geometry": { "type": "Point", "coordinates": [ 133.78158263, 34.27751403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市大手町２丁目４−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.798833589999987, 34.29031187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町東８丁目５９" }, "geometry": { "type": "Point", "coordinates": [ 133.8074988, 34.29529391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市柞原町９００−１" }, "geometry": { "type": "Point", "coordinates": [ 133.808566649999989, 34.2742082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県香川郡直島町３６９９" }, "geometry": { "type": "Point", "coordinates": [ 133.97674749, 34.45771343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県香川郡直島町４０５４" }, "geometry": { "type": "Point", "coordinates": [ 133.979145210000013, 34.4763567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩江町安原下第２号１６５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.041842409999987, 34.19584571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩江町安原上２７５" }, "geometry": { "type": "Point", "coordinates": [ 134.073414570000011, 34.18023975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩上町１１−８" }, "geometry": { "type": "Point", "coordinates": [ 134.05235388, 34.33615755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鬼無町是竹９１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.99632988, 34.33686756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市錦町１−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.045445660000013, 34.34590926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市元山町字上馬の口１３７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.090023550000012, 34.30719584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市御厩町１７０３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.983848349999988, 34.30700929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町国分１０４５−７" }, "geometry": { "type": "Point", "coordinates": [ 133.9435187, 34.3010034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町新居５９０−５" }, "geometry": { "type": "Point", "coordinates": [ 133.96642881, 34.30044978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鹿角町字間夫２０３−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.036276969999989, 34.30394998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町字片田１６４１−５" }, "geometry": { "type": "Point", "coordinates": [ 134.0895815, 34.33903468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市松島町１−８−２５" }, "geometry": { "type": "Point", "coordinates": [ 134.06173125, 34.34037081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市松縄町３５−７" }, "geometry": { "type": "Point", "coordinates": [ 134.06552119, 34.32210923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市上天神町７７３−１、７７３−８" }, "geometry": { "type": "Point", "coordinates": [ 134.03740002, 34.30859131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西植田町新開１００３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.08446296, 34.24968308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西町１４−３７" }, "geometry": { "type": "Point", "coordinates": [ 134.02509411, 34.34752206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市川島本町１５７" }, "geometry": { "type": "Point", "coordinates": [ 134.08585315, 34.27595518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市檀紙町１６４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.996681059999986, 34.30542921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市中間町字川向４３−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.00240917, 34.28734633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市朝日町５丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.075793940000011, 34.35206243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鶴市町字明見９７９−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.012077940000012, 34.33482458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市天神前１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.047195749999986, 34.340021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市東植田町２０７３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.09806111, 34.24112444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市林町字浴１９６３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.070806729999987, 34.3070523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市六条町字下川西１１９７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.083842229999988, 34.30260323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市加茂町４２５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.91631995, 34.30262793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市西大浜北１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.84763435, 34.3218991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市府中町５５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.910595910000012, 34.3027689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市府中町迯田４０９１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.90967643, 34.2824717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市林田町下所２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.89470882, 34.3285195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町下勝間六ツ松１３８０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.71544731, 34.17158541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市財田町財田上６７８１−３" }, "geometry": { "type": "Point", "coordinates": [ 133.803499749999986, 34.12250829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市三野町大見甲１０００" }, "geometry": { "type": "Point", "coordinates": [ 133.72364749, 34.20815163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町安田甲２１９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.31504504, 34.48005694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町安田字植松甲１４４−１７４" }, "geometry": { "type": "Point", "coordinates": [ 134.311457929999989, 34.47866899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町草壁本町字松山１０５７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.29666766, 34.47978632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町池田２２８−２７" }, "geometry": { "type": "Point", "coordinates": [ 134.22625172, 34.48091149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町池田字上地３４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.23857143, 34.48300337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町福田６３５" }, "geometry": { "type": "Point", "coordinates": [ 134.34313612, 34.54425331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町上庄甲１３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.202251209999986, 34.49286108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町上庄字大黒１５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.19722852000001, 34.49124806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町豊島家浦８９０" }, "geometry": { "type": "Point", "coordinates": [ 134.063136140000012, 34.48989072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町渕崎字要鉄甲１３５９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.186000009999987, 34.48701497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市上吉田町１０７−２" }, "geometry": { "type": "Point", "coordinates": [ 133.790124029999987, 34.23239534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市中村町１７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76318145, 34.24282289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町買田５０６−２" }, "geometry": { "type": "Point", "coordinates": [ 133.82774477000001, 34.17976046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町東港町１１" }, "geometry": { "type": "Point", "coordinates": [ 133.75408421, 34.27987196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町本通１−１１−２０" }, "geometry": { "type": "Point", "coordinates": [ 133.748731850000013, 34.26813898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市町田６９８−５" }, "geometry": { "type": "Point", "coordinates": [ 134.30301942, 34.25270411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市志度３６７" }, "geometry": { "type": "Point", "coordinates": [ 134.170215750000011, 34.3227008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市造田４２８" }, "geometry": { "type": "Point", "coordinates": [ 134.17552111, 34.28281251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市津田町鶴羽９３５−５" }, "geometry": { "type": "Point", "coordinates": [ 134.26530595, 34.27646234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市津田町鶴羽９３９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.26304214000001, 34.27562115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市富田東３７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.24878436, 34.25806278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町大字東分字板橋東２９７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.83410853, 34.2926775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町大野原３６１２" }, "geometry": { "type": "Point", "coordinates": [ 133.66348933, 34.09071233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町栗熊西１８０３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.87296776, 34.23043022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町富熊字本村１６６−５" }, "geometry": { "type": "Point", "coordinates": [ 133.867840159999986, 34.25377677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市郡家町字八幡下２３９８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.80806178, 34.25551895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市庵治町６２３" }, "geometry": { "type": "Point", "coordinates": [ 134.12827818, 34.38213773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩江町上西５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.07641295, 34.15139055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市郷東町西新開４６９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0100768, 34.34861307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市元山町１２６９−２" }, "geometry": { "type": "Point", "coordinates": [ 134.081795129999989, 34.31578451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香西東町４４１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.00807669, 34.34371916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町大野３−１" }, "geometry": { "type": "Point", "coordinates": [ 134.030133, 34.26686897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香南町横井１０１２−２" }, "geometry": { "type": "Point", "coordinates": [ 134.00816162000001, 34.24025754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市桜町１丁目１０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.052797950000013, 34.33071876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三条町字下所１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.044085169999988, 34.31060558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市寺井町１０５３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0275888, 34.27777681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市十川東町字佐古７２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.1091696, 34.26950948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町字川南４５６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.09162884, 34.32255626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市瀬戸内町４６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03662191, 34.34879222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市成合町字原１５８７−３" }, "geometry": { "type": "Point", "coordinates": [ 134.01926176, 34.29878871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西宝町２丁目９−２０" }, "geometry": { "type": "Point", "coordinates": [ 134.027702229999989, 34.34276333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥下町６９３" }, "geometry": { "type": "Point", "coordinates": [ 134.0582632, 34.301223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市勅使町１７０−６" }, "geometry": { "type": "Point", "coordinates": [ 134.0119494, 34.3076267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市東ハゼ町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.0401331, 34.31915252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市福岡町３丁目５−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.07342369, 34.34645664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市牟礼町牟礼２６２５−４１" }, "geometry": { "type": "Point", "coordinates": [ 134.121606179999986, 34.35082653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市木太町２区１３３９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.07396952, 34.31915645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市木太町五区２６７９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.08153827000001, 34.33973419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市江尻町新開２２８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.869932619999986, 34.3264307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市仁尾町仁尾南草木２２１の１" }, "geometry": { "type": "Point", "coordinates": [ 133.650279610000013, 34.19028823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間２０９５" }, "geometry": { "type": "Point", "coordinates": [ 133.67015906, 34.22299412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町安田２３０−４" }, "geometry": { "type": "Point", "coordinates": [ 134.31471738, 34.48039506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町淵崎甲２１６２−４" }, "geometry": { "type": "Point", "coordinates": [ 134.19507664, 34.487016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市吉原町２８の１" }, "geometry": { "type": "Point", "coordinates": [ 133.75074747, 34.23663215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡琴平町苗田吉川９４３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.82084189, 34.19707163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市引田町引田１９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.39750704, 34.22489474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市鴨部１６１１−２" }, "geometry": { "type": "Point", "coordinates": [ 134.22240154, 34.31257233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市志度字花池尻2453" }, "geometry": { "type": "Point", "coordinates": [ 134.16980831, 34.31640478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市大川町富田西２８７８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.21974511, 34.26573512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町山田上甲１２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.96619948, 34.22046661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町千疋４５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.98076515, 34.24457146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町萓原５７０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.93721493000001, 34.25005675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市植田町１７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67178273, 34.12759642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市柞田町甲５０６" }, "geometry": { "type": "Point", "coordinates": [ 133.67203644, 34.11292489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町岡田下５１６−３" }, "geometry": { "type": "Point", "coordinates": [ 133.85868177, 34.2242643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県香川郡香川町川東上９５５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03457684, 34.23184894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市一宮町字猿松１５８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02132506, 34.29044692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町新居１３４６−６" }, "geometry": { "type": "Point", "coordinates": [ 133.96103073, 34.29784698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市府中町５１６７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.91725607, 34.29673876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市林田町２３８５−３" }, "geometry": { "type": "Point", "coordinates": [ 133.89326141, 34.33453167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊郡大野原町中姫字桑木１１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.669419190000013, 34.08493196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊郡豊浜町和田甲３４３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.644111110000011, 34.06872716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町佐股甲１４８５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.73990898, 34.15834635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町上高瀬１３４−1" }, "geometry": { "type": "Point", "coordinates": [ 133.71919755, 34.19004371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町上麻３８８０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.7687676, 34.17631162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市財田町財田上６２４３−３" }, "geometry": { "type": "Point", "coordinates": [ 133.815205850000012, 34.13387589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市山本町財田西１４５５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.74180574, 34.12034037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市豊中町笠田笠岡３１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.71033229, 34.1620919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市豊中町比地大２５６５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.68980774, 34.16643305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間６００−１" }, "geometry": { "type": "Point", "coordinates": [ 133.68019347, 34.22073731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市原田町３０５" }, "geometry": { "type": "Point", "coordinates": [ 133.791920510000011, 34.24886157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町吉野１２１５−４" }, "geometry": { "type": "Point", "coordinates": [ 133.858442989999986, 34.1849031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡琴平町上櫛梨２０８" }, "geometry": { "type": "Point", "coordinates": [ 133.814958389999987, 34.206627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市湊１３５５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.353378639999988, 34.24371391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市落合１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.31250089, 34.25109393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字氷上１２０８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.127823189999987, 34.26476595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市寒川町石田東甲３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.2036607, 34.26580373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市多和中山下100-3" }, "geometry": { "type": "Point", "coordinates": [ 134.15644985, 34.16943134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市粟井町常次1146" }, "geometry": { "type": "Point", "coordinates": [ 133.69484526, 34.09801928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市観音寺町甲258-4" }, "geometry": { "type": "Point", "coordinates": [ 133.66384696, 34.12537738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市吉岡町310" }, "geometry": { "type": "Point", "coordinates": [ 133.68832437, 34.1252495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町大野原4446-1" }, "geometry": { "type": "Point", "coordinates": [ 133.65150716, 34.08861374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町栗熊東1170-7" }, "geometry": { "type": "Point", "coordinates": [ 133.896389, 34.2401544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市垂水町２９６０−２" }, "geometry": { "type": "Point", "coordinates": [ 133.82905896, 34.24280347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町東6丁目134" }, "geometry": { "type": "Point", "coordinates": [ 133.813156310000011, 34.30067718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市飯山町下法軍寺465-7" }, "geometry": { "type": "Point", "coordinates": [ 133.856749189999988, 34.25562249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市飯山町西坂元141-4" }, "geometry": { "type": "Point", "coordinates": [ 133.847894950000011, 34.26593092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市栗林町1丁目9-1" }, "geometry": { "type": "Point", "coordinates": [ 134.0463782, 34.32957048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市元山町字馬ノ口321-1" }, "geometry": { "type": "Point", "coordinates": [ 134.09208163, 34.31349621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市御厩町大塚477-1" }, "geometry": { "type": "Point", "coordinates": [ 133.99024752, 34.3059904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香西南町468-3" }, "geometry": { "type": "Point", "coordinates": [ 134.00035094, 34.34084526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香西北町170-3" }, "geometry": { "type": "Point", "coordinates": [ 133.99542205, 34.35151872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町川東上2011-13" }, "geometry": { "type": "Point", "coordinates": [ 134.034728550000011, 34.23570007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町大野679-1" }, "geometry": { "type": "Point", "coordinates": [ 134.02842246, 34.26052901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市高松町字斉田2554-41" }, "geometry": { "type": "Point", "coordinates": [ 134.105998989999989, 34.33940751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町国分425-5" }, "geometry": { "type": "Point", "coordinates": [ 133.94977241, 34.30158575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市松福町2丁目4-18" }, "geometry": { "type": "Point", "coordinates": [ 134.065333110000012, 34.34354851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市城東町1丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 134.05605596, 34.34765914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市前田西町字穂村85-10" }, "geometry": { "type": "Point", "coordinates": [ 134.11097032, 34.30043942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥上町字立石1870-3" }, "geometry": { "type": "Point", "coordinates": [ 134.05409862, 34.28132713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鶴市町2015-5" }, "geometry": { "type": "Point", "coordinates": [ 134.01395426, 34.3400489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市田村町字西浦548-1" }, "geometry": { "type": "Point", "coordinates": [ 134.02811456, 34.31219021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市伏石町2016-27" }, "geometry": { "type": "Point", "coordinates": [ 134.05375217, 34.31813437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市牟礼町牟礼2223-1" }, "geometry": { "type": "Point", "coordinates": [ 134.12363345, 34.34368747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市木太町3830-1" }, "geometry": { "type": "Point", "coordinates": [ 134.07968065, 34.32129551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市林町1438-15" }, "geometry": { "type": "Point", "coordinates": [ 134.07575064, 34.30474702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市加茂町甲531-1" }, "geometry": { "type": "Point", "coordinates": [ 133.90504284, 34.31435602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町上高瀬土井388-1" }, "geometry": { "type": "Point", "coordinates": [ 133.71922938, 34.19392197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町豊島家浦2148-1" }, "geometry": { "type": "Point", "coordinates": [ 134.06013782, 34.48744786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡琴平町新神明町514-7" }, "geometry": { "type": "Point", "coordinates": [ 133.81393319, 34.19430756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町西浜乙699-1" }, "geometry": { "type": "Point", "coordinates": [ 133.745307950000011, 34.27241542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市伊座字甚古谷557-1" }, "geometry": { "type": "Point", "coordinates": [ 134.38002727, 34.23754184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市落合246-1" }, "geometry": { "type": "Point", "coordinates": [ 134.31465036, 34.25155043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字下高岡白山1124-1" }, "geometry": { "type": "Point", "coordinates": [ 134.15196303, 34.26275466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字鹿伏字下所265-1" }, "geometry": { "type": "Point", "coordinates": [ 134.13610393, 34.26886407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字池戸3285-5" }, "geometry": { "type": "Point", "coordinates": [ 134.11924532, 34.27725083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市城西町1−7−7" }, "geometry": { "type": "Point", "coordinates": [ 133.79695019, 34.28395905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市高屋町1478−1" }, "geometry": { "type": "Point", "coordinates": [ 133.90187609, 34.33823635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市高屋町1543−1" }, "geometry": { "type": "Point", "coordinates": [ 133.90151501, 34.337427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市中央町1−6" }, "geometry": { "type": "Point", "coordinates": [ 133.85170306, 34.31847731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市観音寺町甲1793" }, "geometry": { "type": "Point", "coordinates": [ 133.65229298, 34.12349544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原萩原723-4" }, "geometry": { "type": "Point", "coordinates": [ 133.68180901, 34.06841824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町新名964-1" }, "geometry": { "type": "Point", "coordinates": [ 133.71768333, 34.18455602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市志度町越窓６９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.16657583, 34.32417519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市長尾西１１０３" }, "geometry": { "type": "Point", "coordinates": [ 134.17097403, 34.26159414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町枌所東１２−３" }, "geometry": { "type": "Point", "coordinates": [ 133.99101145, 34.20634937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町浜２番丁２０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.81169469, 34.30906534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市植田町南原１０２９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67831245, 34.1199389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町和田浜高須賀１５１" }, "geometry": { "type": "Point", "coordinates": [ 133.6367497, 34.07489303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市本大町１６０３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69414047, 34.13396621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市綾歌町富熊９７５−５" }, "geometry": { "type": "Point", "coordinates": [ 133.876572540000012, 34.24548052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町字北原８１１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.81139406, 34.27771499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町東４−８５０" }, "geometry": { "type": "Point", "coordinates": [ 133.814255839999987, 34.29314555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市飯山町川原９３３−１２" }, "geometry": { "type": "Point", "coordinates": [ 133.85538971, 34.26525845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市飯山町東小川１９５８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.841432989999987, 34.24750492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市柞原町９７２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.806968649999988, 34.27096617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市一宮町１４１−４" }, "geometry": { "type": "Point", "coordinates": [ 134.032974630000012, 34.28558167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市円座町道下３４５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.99865252, 34.29339135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩江町安原上６３４" }, "geometry": { "type": "Point", "coordinates": [ 134.07383646, 34.17747457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市花園町１−１６−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.061212329999989, 34.33477391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香西北町５２１−６" }, "geometry": { "type": "Point", "coordinates": [ 133.988295959999988, 34.35359593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町安原下第３号１３６" }, "geometry": { "type": "Point", "coordinates": [ 134.0326302, 34.21506495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町国分１８８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.954330309999989, 34.29696647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市松縄町１１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.0615395, 34.31418399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西山崎町４００−１" }, "geometry": { "type": "Point", "coordinates": [ 133.99791966, 34.27886042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西町１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02793268, 34.34749731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市太田下町字中下所２３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.04645342, 34.31013797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市中新町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 134.04740972, 34.33754626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市勅使町字大隅１２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02473731, 34.31180736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市仏生山町甲２３９−３" }, "geometry": { "type": "Point", "coordinates": [ 134.03829346, 34.28448564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市木太町２５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.07744018, 34.33388583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市由良町１２８５−８" }, "geometry": { "type": "Point", "coordinates": [ 134.086701729999987, 34.28654816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市加茂町７８−３" }, "geometry": { "type": "Point", "coordinates": [ 133.90807885000001, 34.31003157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市江尻町字新開１９１−３６２" }, "geometry": { "type": "Point", "coordinates": [ 133.86961896, 34.32539086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市川津町中原３８６２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.84472972, 34.2993088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市入船町１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.85533218, 34.31864068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市富士見町２−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 133.84951644, 34.30654979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町下勝間２４７８" }, "geometry": { "type": "Point", "coordinates": [ 133.71767717, 34.18215239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町下麻１０５１" }, "geometry": { "type": "Point", "coordinates": [ 133.76391709, 34.1754767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市三野町下高瀬２０９３−６" }, "geometry": { "type": "Point", "coordinates": [ 133.70873638, 34.20402259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市三野町下高瀬字下新田１２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69229635, 34.20695076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市仁尾町仁尾丁１４５０−３０" }, "geometry": { "type": "Point", "coordinates": [ 133.64654808, 34.19740284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市豊中町比地大９８１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.68890138, 34.16971936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町大浜甲１２４５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.61100133, 34.23380119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間３８１８" }, "geometry": { "type": "Point", "coordinates": [ 133.65828345, 34.22990137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間６８０−８" }, "geometry": { "type": "Point", "coordinates": [ 133.6764097, 34.22045348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町大部甲３３２５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.28235475, 34.54498725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市原田町１４１３−２" }, "geometry": { "type": "Point", "coordinates": [ 133.78553589, 34.25192672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市原田町下五条１２４８" }, "geometry": { "type": "Point", "coordinates": [ 133.7872501, 34.25094625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市原田町土居１５７８" }, "geometry": { "type": "Point", "coordinates": [ 133.7861641, 34.25413922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市中村町８５８番地" }, "geometry": { "type": "Point", "coordinates": [ 133.76494466, 34.24429122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町吉野下１４８３５" }, "geometry": { "type": "Point", "coordinates": [ 133.85285235, 34.18241229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町川東９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 133.97339384, 34.12006055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町帆山字下原３０９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.85064105, 34.15925882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市三本松１７０６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.3392847, 34.24926213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市松原５２０−５" }, "geometry": { "type": "Point", "coordinates": [ 134.36784502, 34.24458264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市馬宿１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.42111044, 34.21512139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市志度１９３５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.18532108, 34.3209189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市津田町津田９３３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.248496960000011, 34.28970257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町羽床下３６−３" }, "geometry": { "type": "Point", "coordinates": [ 133.91382152, 34.2326936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町山田下３１６５" }, "geometry": { "type": "Point", "coordinates": [ 133.953021650000011, 34.22219476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡綾川町畑田７０８−２" }, "geometry": { "type": "Point", "coordinates": [ 133.97839357, 34.26263335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市坂本町５−１７−２７" }, "geometry": { "type": "Point", "coordinates": [ 133.659936859999988, 34.12313989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町大野原６１８９" }, "geometry": { "type": "Point", "coordinates": [ 133.65504952, 34.08032379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町箕浦１８４２−２" }, "geometry": { "type": "Point", "coordinates": [ 133.63397877, 34.05281233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町箕浦２３９６" }, "geometry": { "type": "Point", "coordinates": [ 133.6323025, 34.0610836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市豊浜町箕浦甲１８２３" }, "geometry": { "type": "Point", "coordinates": [ 133.637756309999986, 34.05768442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市昭和町３０" }, "geometry": { "type": "Point", "coordinates": [ 133.76544561, 34.29678859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市新浜町１−１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.788543049999987, 34.29324445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市田村町７６４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.79662595, 34.26493723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町西４−１６７" }, "geometry": { "type": "Point", "coordinates": [ 133.8168852, 34.28043395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市庵治町新開６３９２−４８" }, "geometry": { "type": "Point", "coordinates": [ 134.12632636, 34.38288146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市一宮町１５１７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.01832298, 34.29132478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市円座町１０５７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.0085446, 34.29018966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市屋島西町１３８８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.09483384, 34.34501947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市屋島西町２４８４−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.08910837, 34.35140888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市下田井町３５５−９" }, "geometry": { "type": "Point", "coordinates": [ 134.08922132, 34.29297064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町川東下７４７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.027312419999987, 34.24325406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香南町由佐８１４−４" }, "geometry": { "type": "Point", "coordinates": [ 134.01804646, 34.23877283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市高松町２３０８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.11720698, 34.34036631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町新居１６２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.97604263, 34.30851464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市今里町１−２８−２８" }, "geometry": { "type": "Point", "coordinates": [ 134.05920955, 34.32363426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三谷町１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.077682540000012, 34.27700974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町７８６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.09279572, 34.32539473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市松島町２−７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.06697204, 34.33932675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市中間町４５３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.993962149999987, 34.29396686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市牟礼町原４１２−７" }, "geometry": { "type": "Point", "coordinates": [ 134.161473730000012, 34.32817587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市牟礼町原６５５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.15661215, 34.33219062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市林町１６６７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.068473759999989, 34.30602461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市昭和町１−２−３１" }, "geometry": { "type": "Point", "coordinates": [ 133.86814648, 34.31895707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間６７８４−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.68589751, 34.21835853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡小豆島町馬木甲８４２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.31747893, 34.47693426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町甲５１６５−３０" }, "geometry": { "type": "Point", "coordinates": [ 134.1728105, 34.48796693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市大麻町３８４−８" }, "geometry": { "type": "Point", "coordinates": [ 133.8117794, 34.19909336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町吉野下２７１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.838913850000012, 34.19553934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町本通３−６−２１" }, "geometry": { "type": "Point", "coordinates": [ 133.74991671, 34.26377724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市西山３２７" }, "geometry": { "type": "Point", "coordinates": [ 134.33164491, 34.21037529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町井戸字高木５６４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.159179099999989, 34.25233415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町池戸２８４３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.12503899, 34.27218881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市志度４７０−２" }, "geometry": { "type": "Point", "coordinates": [ 134.17150289, 34.32218584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町浜八番丁１３１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.82254477, 34.30975754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市観音寺町甲１２１３−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.65409145000001, 34.12691949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市観音寺町甲３４４７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.650027669999986, 34.13411247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市柞田町字熊岡乙２４６０" }, "geometry": { "type": "Point", "coordinates": [ 133.64636443, 34.10138709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市柞田町字中出甲６０８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.67043253, 34.11197336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市土器町東８−１０３" }, "geometry": { "type": "Point", "coordinates": [ 133.806298379999987, 34.29433021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市柞原町字上庄４０９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.803272850000013, 34.26867763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町川東下１３１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.027443580000011, 34.24817595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市今里町２−３０−１４" }, "geometry": { "type": "Point", "coordinates": [ 134.06080474, 34.32343809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市牟礼町牟礼９７５−１" }, "geometry": { "type": "Point", "coordinates": [ 134.12934655, 34.34285137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町下麻８６０" }, "geometry": { "type": "Point", "coordinates": [ 133.75648453, 34.17524045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市山本町辻字山本１９０４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.7265511, 34.11393964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市仁尾町仁尾丁３４５" }, "geometry": { "type": "Point", "coordinates": [ 133.64741132, 34.19581814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市豊中町笠田笠岡１９２７−１−２" }, "geometry": { "type": "Point", "coordinates": [ 133.70505717, 34.15293907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市金蔵寺町１２５３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.77764255, 34.25064984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市上吉田町３８４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.78796004, 34.23499802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市三本松１７２２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.340743909999986, 34.24890308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香川町川東下572-1" }, "geometry": { "type": "Point", "coordinates": [ 134.03029783, 34.24009382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三条町313-4" }, "geometry": { "type": "Point", "coordinates": [ 134.046282319999989, 34.31553538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町字川南396-1" }, "geometry": { "type": "Point", "coordinates": [ 134.08984012, 34.32266439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市太田下町3007番地9" }, "geometry": { "type": "Point", "coordinates": [ 134.0519761, 34.30444587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市伏石町2149番地16" }, "geometry": { "type": "Point", "coordinates": [ 134.06262566, 34.30708399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市与北町3238-1" }, "geometry": { "type": "Point", "coordinates": [ 133.79191004, 34.23609773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市湊1910-5" }, "geometry": { "type": "Point", "coordinates": [ 134.3621144, 34.24328379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町上高岡字池下352-2" }, "geometry": { "type": "Point", "coordinates": [ 134.13939642, 34.25327794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市出作町５１６" }, "geometry": { "type": "Point", "coordinates": [ 133.675007099999988, 34.11630666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市昭和町２−４−２" }, "geometry": { "type": "Point", "coordinates": [ 133.655442959999988, 34.11973832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町大野原３８５４" }, "geometry": { "type": "Point", "coordinates": [ 133.65468274, 34.09139664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町萩原１３３９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.677091780000012, 34.07405077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市流岡町７４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.681363260000012, 34.13143921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香西東町３５６" }, "geometry": { "type": "Point", "coordinates": [ 134.00705417, 34.34336072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町新名字前谷６４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.94078876, 34.29654095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三名町５７６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.03386723, 34.29326292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市西内町３−１６" }, "geometry": { "type": "Point", "coordinates": [ 134.04626565, 34.3484223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊郡高瀬町上高瀬８３９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.71910817, 34.19559689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市財田町財田中５４５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.75789708, 34.11091289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市山本町財田西７４６番地" }, "geometry": { "type": "Point", "coordinates": [ 133.73465736, 34.11760678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町箱６６８" }, "geometry": { "type": "Point", "coordinates": [ 133.58910678, 34.25630566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町吉ケ浦甲６１９０" }, "geometry": { "type": "Point", "coordinates": [ 134.176256099999989, 34.48758664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡琴平町五條" }, "geometry": { "type": "Point", "coordinates": [ 133.829108850000011, 34.18859682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市三本松" }, "geometry": { "type": "Point", "coordinates": [ 134.33360074, 34.24968925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市白鳥１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.35576469, 34.24369123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市太田下町1856-3" }, "geometry": { "type": "Point", "coordinates": [ 134.04377517, 34.30791849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市中津町1456" }, "geometry": { "type": "Point", "coordinates": [ 133.7755492, 34.28288397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町1693" }, "geometry": { "type": "Point", "coordinates": [ 134.09219250000001, 34.33523515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県観音寺市昭和町３−６−３" }, "geometry": { "type": "Point", "coordinates": [ 133.6525052, 34.12291583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県仲多度郡まんのう町長尾１１４０−３" }, "geometry": { "type": "Point", "coordinates": [ 133.85163726, 34.19633054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市朝日町４−２４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.05842777, 34.35623878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市伏石町７０８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.05172538, 34.30919913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県東かがわ市湊１３１６−５" }, "geometry": { "type": "Point", "coordinates": [ 134.351007790000011, 34.24397026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県東かがわ市馬篠９４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.28999925, 34.26718594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市昭和町１４" }, "geometry": { "type": "Point", "coordinates": [ 133.771989889999986, 34.28900949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市川西町南１" }, "geometry": { "type": "Point", "coordinates": [ 133.8307362, 34.262256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市三条町５０−３" }, "geometry": { "type": "Point", "coordinates": [ 134.04308094000001, 34.31420819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市北浜町６−１０" }, "geometry": { "type": "Point", "coordinates": [ 134.05616697, 34.35067548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県坂出市築港町２丁目３１０−９６" }, "geometry": { "type": "Point", "coordinates": [ 133.84764539, 34.32708033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県坂出市昭和町２−６−１８" }, "geometry": { "type": "Point", "coordinates": [ 133.86074743, 34.328461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市綾歌町岡田東下土居４００" }, "geometry": { "type": "Point", "coordinates": [ 133.86482873, 34.23354552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市昭和町１５" }, "geometry": { "type": "Point", "coordinates": [ 133.77136604, 34.28866748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県観音寺市坂本町５−４−５" }, "geometry": { "type": "Point", "coordinates": [ 133.665207939999988, 34.12387756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市朝日町４丁目１４−１" }, "geometry": { "type": "Point", "coordinates": [ 134.06301428, 34.35584625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市江尻町１１４２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.87123365, 34.31857985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥下町４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.0592332, 34.29905095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市寒川町石田東甲１３６９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.2110601, 34.26201379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市塩江町安原上東３３９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.08270524, 34.17312098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市木太町２９０９" }, "geometry": { "type": "Point", "coordinates": [ 134.083331930000014, 34.33044722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市円座町１０１５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.0115314, 34.28959908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市円座町４０７−２" }, "geometry": { "type": "Point", "coordinates": [ 134.003495789999988, 34.29258525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市富士見町２丁目７−２６" }, "geometry": { "type": "Point", "coordinates": [ 133.84825078, 34.30185044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市朝日町４丁目１５−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.062511449999988, 34.35552123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町造田１３５０" }, "geometry": { "type": "Point", "coordinates": [ 133.91142592, 34.16845427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鶴市町５１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.002930709999987, 34.32449444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市仁尾町仁尾丁１０２９" }, "geometry": { "type": "Point", "coordinates": [ 133.64351965, 34.20291953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市新田町１０２５" }, "geometry": { "type": "Point", "coordinates": [ 133.706755460000011, 34.10646076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市川津町３６３４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.84940755, 34.29507895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市江尻町３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.870437720000012, 34.32203669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県丸亀市福島町４２" }, "geometry": { "type": "Point", "coordinates": [ 133.793961599999989, 34.29268779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市林田町２０９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.89796733, 34.32632563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市仏生山町甲１４１２−１" }, "geometry": { "type": "Point", "coordinates": [ 134.035008839999989, 34.27247323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市上吉田町１８４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.78942529, 34.23276911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市柞田町山田乙２８３８−１" }, "geometry": { "type": "Point", "coordinates": [ 133.64704447, 34.103148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市上吉田町原５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.78956896, 34.23199449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県善通寺市大麻町３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.81071738, 34.19900314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市王越町木沢６７５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.92404762000001, 34.36995265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市生島町６００" }, "geometry": { "type": "Point", "coordinates": [ 133.963495529999989, 34.3606139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市朝日町５丁目４−２５" }, "geometry": { "type": "Point", "coordinates": [ 134.07526864, 34.34984888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市三名町３６７−４" }, "geometry": { "type": "Point", "coordinates": [ 134.032560679999989, 34.29024787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市錦町１丁目７−３" }, "geometry": { "type": "Point", "coordinates": [ 134.04582344, 34.3479354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市田村町３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 134.02991713, 34.31424006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市多肥上町１１１２−３" }, "geometry": { "type": "Point", "coordinates": [ 134.05266282, 34.29527831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市春日町１７０５−７" }, "geometry": { "type": "Point", "coordinates": [ 134.09269036, 34.33965245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市鬼無町是竹９１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.99637991, 34.33721019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市香南町吉光１８７−６" }, "geometry": { "type": "Point", "coordinates": [ 134.012473449999987, 34.25300681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市山本町財田西３７１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.72673196, 34.11859494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市山本町神田４３０９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.75100276, 34.1269668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県木田郡三木町大字氷上４０４３−３" }, "geometry": { "type": "Point", "coordinates": [ 134.12447221, 34.24850511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町炭所西９４８−３２" }, "geometry": { "type": "Point", "coordinates": [ 133.8915567, 34.18761109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市寒川町神前１７８５−２" }, "geometry": { "type": "Point", "coordinates": [ 134.20620907, 34.28086185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市高瀬町上高瀬３２５６−１" }, "geometry": { "type": "Point", "coordinates": [ 133.73560652, 34.19341963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡まんのう町七箇３３２９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.85216326, 34.15623201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町大字道福寺３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.76026545, 34.26390754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市鴨庄２４８９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.21107451, 34.32281166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県東かがわ市引田６１−６" }, "geometry": { "type": "Point", "coordinates": [ 134.4097142, 34.22126708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県観音寺市大野原町丸井６７２−１" }, "geometry": { "type": "Point", "coordinates": [ 133.69006399, 34.08990049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市小田１５１４−８" }, "geometry": { "type": "Point", "coordinates": [ 134.23537638, 34.33679126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県三豊市詫間町詫間４１８８" }, "geometry": { "type": "Point", "coordinates": [ 133.65868178, 34.23028596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市西平山町９７" }, "geometry": { "type": "Point", "coordinates": [ 133.79553013, 34.29329136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市南条町３１" }, "geometry": { "type": "Point", "coordinates": [ 133.79422212, 34.28789475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市松縄町１１３２−１７" }, "geometry": { "type": "Point", "coordinates": [ 134.06077547000001, 34.3141894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市香西本町２６４" }, "geometry": { "type": "Point", "coordinates": [ 134.00363769, 34.34425031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県観音寺市吉岡町７１４" }, "geometry": { "type": "Point", "coordinates": [ 133.688094869999986, 34.13263461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市松福町２丁目１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 134.066634459999989, 34.34114104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県丸亀市川西町北１３５０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.82100627, 34.26903859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市仏生山町甲２５１８−５" }, "geometry": { "type": "Point", "coordinates": [ 134.048981809999987, 34.27692462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市高松町２３５９" }, "geometry": { "type": "Point", "coordinates": [ 134.11585003, 34.34144257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市末広町６−９" }, "geometry": { "type": "Point", "coordinates": [ 134.05756985, 34.34395676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市国分寺町新名６２９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.96143643, 34.29112328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県綾歌郡宇多津町大字東分１３６１−４" }, "geometry": { "type": "Point", "coordinates": [ 133.83049614, 34.29083893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県綾歌郡綾川町陶５６９３−１" }, "geometry": { "type": "Point", "coordinates": [ 133.94751351, 34.25061565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県仲多度郡琴平町榎井７６５" }, "geometry": { "type": "Point", "coordinates": [ 133.82438319, 34.19009189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県善通寺市善通寺町５丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.776015879999989, 34.22776087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県坂出市本町３丁目４−１３" }, "geometry": { "type": "Point", "coordinates": [ 133.85070405, 34.3173539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県坂出市林田町４２８５−１４６" }, "geometry": { "type": "Point", "coordinates": [ 133.87549662, 34.33594452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市西ハゼ町２９９" }, "geometry": { "type": "Point", "coordinates": [ 134.0330667, 34.31894523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市玉藻町１０−３２" }, "geometry": { "type": "Point", "coordinates": [ 134.05271166, 34.35165036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県丸亀市風袋町１６１" }, "geometry": { "type": "Point", "coordinates": [ 133.8011553, 34.29265639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市北浜町１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 134.05521151, 34.35001166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市小村町５４５" }, "geometry": { "type": "Point", "coordinates": [ 134.10213918, 34.290721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市一宮町１１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 134.028244089999987, 34.2904422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市高松町１５−９" }, "geometry": { "type": "Point", "coordinates": [ 134.10652375, 34.3359551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県東かがわ市馬篠９４" }, "geometry": { "type": "Point", "coordinates": [ 134.29005802, 34.26702886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県坂出市寿町１丁目４−２２" }, "geometry": { "type": "Point", "coordinates": [ 133.85092186, 34.31507778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市勅使町１６６−４" }, "geometry": { "type": "Point", "coordinates": [ 134.01177124, 34.30704787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県仲多度郡琴平町上櫛梨６１１−１" }, "geometry": { "type": "Point", "coordinates": [ 133.812605749999989, 34.21025622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県綾歌郡宇多津町２０３０" }, "geometry": { "type": "Point", "coordinates": [ 133.825945639999986, 34.30873676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県高松市三谷町２６６１−８" }, "geometry": { "type": "Point", "coordinates": [ 134.07136793, 34.27039254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県小豆郡土庄町淵崎甲１２９３" }, "geometry": { "type": "Point", "coordinates": [ 134.183953229999986, 34.48634582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県善通寺市上吉田町１丁目９−３" }, "geometry": { "type": "Point", "coordinates": [ 133.78801285, 34.23068462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県坂出市与島町４３４−３" }, "geometry": { "type": "Point", "coordinates": [ 133.81953153, 34.38751629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県坂出市白金町３丁目１０−１１" }, "geometry": { "type": "Point", "coordinates": [ 133.84527395, 34.31718445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県綾歌郡宇多津町浜４番丁４０−５" }, "geometry": { "type": "Point", "coordinates": [ 133.81770275, 34.31394335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市上福岡町６５７−１" }, "geometry": { "type": "Point", "coordinates": [ 134.065182600000014, 34.33423928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県仲多度郡多度津町北鴨２−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 133.768077659999989, 34.27637197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県さぬき市長尾町東８８３−２" }, "geometry": { "type": "Point", "coordinates": [ 134.17572064, 34.26438345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県坂出市川崎町１" }, "geometry": { "type": "Point", "coordinates": [ 133.82752761, 34.33510631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県高松市国分寺町国分字向７２２−４" }, "geometry": { "type": "Point", "coordinates": [ 133.94692097, 34.29646094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県さぬき市小田字奥ノ谷９４７" }, "geometry": { "type": "Point", "coordinates": [ 134.238699700000012, 34.32761165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県さぬき市造田野間田８２４" }, "geometry": { "type": "Point", "coordinates": [ 134.18561071, 34.27881546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県観音寺市出作町字荒神岡１２０４−１" }, "geometry": { "type": "Point", "coordinates": [ 133.68140428000001, 34.11760067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市庵治町丸山６３９１−１３４" }, "geometry": { "type": "Point", "coordinates": [ 134.11852832, 34.36609417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市円座町西村８１−１" }, "geometry": { "type": "Point", "coordinates": [ 134.002481640000013, 34.29033643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県高松市朝日町４−４９６−６４" }, "geometry": { "type": "Point", "coordinates": [ 134.06077785, 34.35619681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県三豊市高瀬町下勝間六ッ松１３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 133.715211720000013, 34.17271422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県三豊市詫間町松崎水出２８０５−２" }, "geometry": { "type": "Point", "coordinates": [ 133.689530929999989, 34.23634401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県三豊市詫間町詫間字松下６９０２" }, "geometry": { "type": "Point", "coordinates": [ 133.68002124, 34.23155475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県小豆郡小豆島町池田柿の木谷３８３６" }, "geometry": { "type": "Point", "coordinates": [ 134.24744397, 34.47861593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県小豆郡小豆島町池田柿ノ木谷３９１８−１" }, "geometry": { "type": "Point", "coordinates": [ 134.24649134, 34.48093116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県小豆郡土庄町字谷ノ奥乙１１７７" }, "geometry": { "type": "Point", "coordinates": [ 134.18346859, 34.48075207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県仲多度郡まんのう町買田２７７−１" }, "geometry": { "type": "Point", "coordinates": [ 133.832888419999989, 34.16840185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県木田郡三木町大字井戸二条２４６８" }, "geometry": { "type": "Point", "coordinates": [ 134.1602115, 34.26448876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "香川県仲多度郡琴平町２２０" }, "geometry": { "type": "Point", "coordinates": [ 133.82040666, 34.18810177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "香川県小豆郡土庄町甲２６９９−１" }, "geometry": { "type": "Point", "coordinates": [ 134.161936, 34.46507578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町甲６１９３" }, "geometry": { "type": "Point", "coordinates": [ 134.178554530000014, 34.48625287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "香川県小豆郡土庄町甲１３６０−７０" }, "geometry": { "type": "Point", "coordinates": [ 134.18117325, 34.47766992 ] } }
+
+]
+}

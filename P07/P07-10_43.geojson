@@ -1,0 +1,1940 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町宮原１４５４" }, "geometry": { "type": "Point", "coordinates": [ 131.06296533, 33.13052782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村両併字東豆２４０８−７" }, "geometry": { "type": "Point", "coordinates": [ 131.11342269, 32.82511776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南小国町赤馬場字赤馬場１６６−６" }, "geometry": { "type": "Point", "coordinates": [ 131.07070084, 33.09902105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南小国町大字満願寺字西黒川６４３２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.14365691, 33.07609787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町南海東字城浦１９９５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.73823366, 32.57944468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋２９１" }, "geometry": { "type": "Point", "coordinates": [ 130.67676981, 32.6477891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町豊福３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.70285879, 32.62912358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市豊野町山崎字鐙１６８３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.73584996, 32.64425862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市南段原町１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.66071972, 32.67965688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町佐俣１２０" }, "geometry": { "type": "Point", "coordinates": [ 130.81693585, 32.62254219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町小市野１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.79095363, 32.61445529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町津久礼２７３１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.82923459, 32.86256504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町引水字東原７２５" }, "geometry": { "type": "Point", "coordinates": [ 130.88705374, 32.87919899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町字錦野４１７" }, "geometry": { "type": "Point", "coordinates": [ 130.89749323, 32.86104246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字大津１４９３" }, "geometry": { "type": "Point", "coordinates": [ 130.87413643, 32.87991462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大津字門出１２４６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.86922188, 32.87596949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市七城町林原字村上２８９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.74947612, 32.95478853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市出田字中道２４４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.793626960000012, 32.95187642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡球磨村大字大瀬字坂口１５９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.604804449999989, 32.28205608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町西字大王原１６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.82802358, 32.19697674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町多良木宮床２８１７" }, "geometry": { "type": "Point", "coordinates": [ 130.92935714, 32.25817865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡湯前町３０５８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.97701036, 32.26639933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町大字長州外浜２８９２" }, "geometry": { "type": "Point", "coordinates": [ 130.453077939999986, 32.92649534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町大字長州前浜２４６０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.44905649, 32.93275396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町四ツ原６５３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.543665589999989, 33.00953448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市小天７５４０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.58440872, 32.86382095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市大字横島９１８６" }, "geometry": { "type": "Point", "coordinates": [ 130.55046689, 32.86595601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市大倉１４１１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.57233101, 32.92381015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市天水町小天２５４９" }, "geometry": { "type": "Point", "coordinates": [ 130.60914953, 32.85280813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市部田見１６３５−４" }, "geometry": { "type": "Point", "coordinates": [ 130.576275869999989, 32.88122074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市両迫間５８２" }, "geometry": { "type": "Point", "coordinates": [ 130.57947622, 32.93760898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市下南部３−１１−１６２" }, "geometry": { "type": "Point", "coordinates": [ 130.75818804, 32.82109339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町河内２６１４" }, "geometry": { "type": "Point", "coordinates": [ 130.59531123, 32.8268128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市亀甲字西池上２０７９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.700142559999989, 32.93113313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市戸島７−１０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.80351244, 32.81750603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市江越２丁目２２−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.69983614, 32.77196416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市佐土原２−４−１７０" }, "geometry": { "type": "Point", "coordinates": [ 130.77833117, 32.79046531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市砂原町５６９" }, "geometry": { "type": "Point", "coordinates": [ 130.65761264, 32.76238044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市四方寄町字上野屋敷１５９６−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.707643389999987, 32.86498097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市小山４−６−１２６" }, "geometry": { "type": "Point", "coordinates": [ 130.79451996, 32.82565516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山３−３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.653771260000013, 32.77701846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山半田町１−１１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.65866114, 32.77458868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城南町今吉野７２６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.73929607, 32.72005116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町鎧田１４４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69662723, 32.87996442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町舟島７１２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.71287873, 32.94655999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市大字田尻字平碇３４１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67378505, 32.70697909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市坪井３−８−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.71554595, 32.81160918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市島崎２丁目８番１０号" }, "geometry": { "type": "Point", "coordinates": [ 130.68858155, 32.8104381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市東野４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.77051627, 32.7750091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市南高江町２−１５−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.68358672, 32.74791146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市畠口町１３７０" }, "geometry": { "type": "Point", "coordinates": [ 130.62780693, 32.75408117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市八王寺町３０−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.71448457, 32.78192605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市麻生田３−１５−５５" }, "geometry": { "type": "Point", "coordinates": [ 130.7465729, 32.8495338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市宮内松ヶ浦１０５７−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.450039, 32.98600471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市幾久富１７５８−１７４" }, "geometry": { "type": "Point", "coordinates": [ 130.78050228, 32.86802324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市方保田３８８" }, "geometry": { "type": "Point", "coordinates": [ 130.72153501, 32.99381337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町広崎６３５" }, "geometry": { "type": "Point", "coordinates": [ 130.79056818, 32.78063879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町田原２０５" }, "geometry": { "type": "Point", "coordinates": [ 130.85210806, 32.8032431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡甲佐町有安字中川原７１３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.80971129, 32.66987903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町今泉６４３８−２１７" }, "geometry": { "type": "Point", "coordinates": [ 130.39343613, 32.49771459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町大字中３０９９" }, "geometry": { "type": "Point", "coordinates": [ 130.40989141, 32.56432707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市姫戸町二間戸３３３４" }, "geometry": { "type": "Point", "coordinates": [ 130.4018177, 32.42939247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市西間下町５１４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.753023399999989, 32.20109351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市鶴田町８６７番地" }, "geometry": { "type": "Point", "coordinates": [ 130.76265177, 32.22571697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市宝来町１３０４" }, "geometry": { "type": "Point", "coordinates": [ 130.74855509, 32.21164218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡苓北町志岐太田尾１２２３" }, "geometry": { "type": "Point", "coordinates": [ 130.06206789, 32.5148993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市亀場町亀川１７２５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.196362099999988, 32.44240034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市港町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.193936189999988, 32.4559957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市佐伊津町２５９３" }, "geometry": { "type": "Point", "coordinates": [ 130.19275389, 32.49368355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市本渡町本渡川端２５７８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.17965863, 32.45716961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市旭中央通り６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.6165556, 32.50223481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町内田５１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.65152335, 32.56249149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市川田町西字佃４２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.65397051, 32.51387121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市大字柿迫３１２０" }, "geometry": { "type": "Point", "coordinates": [ 130.81015844, 32.54812357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市日奈久中西町４５４" }, "geometry": { "type": "Point", "coordinates": [ 130.57214604, 32.43205912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町高森１３１７" }, "geometry": { "type": "Point", "coordinates": [ 131.120355030000013, 32.81620711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町高森１５９５−１" }, "geometry": { "type": "Point", "coordinates": [ 131.1248856, 32.81938465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町大字高森１７３２" }, "geometry": { "type": "Point", "coordinates": [ 131.129988, 32.81642024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡産山村山鹿５６４" }, "geometry": { "type": "Point", "coordinates": [ 131.21396557, 32.99593636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町下城４１５６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.03579453, 33.18253217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町大字宮原２３３５" }, "geometry": { "type": "Point", "coordinates": [ 131.064169349999986, 33.10790051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡西原村小森１" }, "geometry": { "type": "Point", "coordinates": [ 130.903465219999987, 32.8312943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡西原村大字布田字乾原１０３５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.88397476, 32.8373389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村下野字山田１４７" }, "geometry": { "type": "Point", "coordinates": [ 130.99010295, 32.90189238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村中松３４６−３" }, "geometry": { "type": "Point", "coordinates": [ 131.05157549, 32.82935068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村中松字中東原２５５４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.04811303, 32.84067984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村中松川地郷１２３４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.04113019, 32.83556658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村立野１８２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.978795960000014, 32.87898654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南小国町大字満願寺５６２１−４" }, "geometry": { "type": "Point", "coordinates": [ 131.18720016, 33.07187119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町宮地１９２６" }, "geometry": { "type": "Point", "coordinates": [ 131.117757860000012, 32.94829577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町大字宮地４３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.106250390000014, 32.93796978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市黒川１５６４" }, "geometry": { "type": "Point", "coordinates": [ 131.07893038, 32.93527076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市西町９０７−１" }, "geometry": { "type": "Point", "coordinates": [ 131.099395539999989, 32.93774955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市赤水８１０−９" }, "geometry": { "type": "Point", "coordinates": [ 130.99304421, 32.91552994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市蔵原字向田８２０−３" }, "geometry": { "type": "Point", "coordinates": [ 131.0860075, 32.93821271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市内牧１２１３−５" }, "geometry": { "type": "Point", "coordinates": [ 131.04847683, 32.97068395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市波野小地野６７" }, "geometry": { "type": "Point", "coordinates": [ 131.217112609999987, 32.9566951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町花岡１６７５−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.49783475000001, 32.30452236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町大岩２６２９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.58152852, 32.34911739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町大字海浦２５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.48494491, 32.33263277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町大字小田浦１６１０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.501232710000011, 32.34792466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町湯浦１１２−６３" }, "geometry": { "type": "Point", "coordinates": [ 130.499482379999989, 32.27862593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町三角浦１１６０−３３" }, "geometry": { "type": "Point", "coordinates": [ 130.46935238, 32.60655984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町三角浦首入１１６０" }, "geometry": { "type": "Point", "coordinates": [ 130.469520609999989, 32.60667087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町中村１１３５−６" }, "geometry": { "type": "Point", "coordinates": [ 130.51937143, 32.62584669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町河江６９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.7046574, 32.59605002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町大字江頭八の坪２１９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.702401110000011, 32.59080843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町南小川２１５" }, "geometry": { "type": "Point", "coordinates": [ 130.699562930000013, 32.58294698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町南小川５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.71348046, 32.58064458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町浦川内１８６−６" }, "geometry": { "type": "Point", "coordinates": [ 130.70648179, 32.6518021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋５４７" }, "geometry": { "type": "Point", "coordinates": [ 130.683219150000014, 32.65161722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町豊福１６４２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.70105945, 32.63628318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市不知火町御領１３８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.673148160000011, 32.65440743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市不知火町高良１９２２" }, "geometry": { "type": "Point", "coordinates": [ 130.6630166, 32.64541041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市豊野町山崎２６６" }, "geometry": { "type": "Point", "coordinates": [ 130.746812659999989, 32.64353979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市住吉町８７５" }, "geometry": { "type": "Point", "coordinates": [ 130.58907865, 32.70464008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市城之浦町１０３" }, "geometry": { "type": "Point", "coordinates": [ 130.66748621, 32.69096443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市水町６９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.67070026, 32.69164502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市走潟町２５２６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.64524744, 32.70864709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市長浜町３６６" }, "geometry": { "type": "Point", "coordinates": [ 130.56553483, 32.69470217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町甲佐平桑野７８" }, "geometry": { "type": "Point", "coordinates": [ 130.895451799999989, 32.64558576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町大字大窪９２５" }, "geometry": { "type": "Point", "coordinates": [ 130.850631209999989, 32.61578859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町光の森７丁目３１番地４" }, "geometry": { "type": "Point", "coordinates": [ 130.78761347, 32.86078531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町辛川１１７５−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.818308910000013, 32.85139811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字津久礼２７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.809031010000012, 32.86136491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町津久礼２６８５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.80723887, 32.86153438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町字真木３００−１" }, "geometry": { "type": "Point", "coordinates": [ 130.92104297, 32.9142484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字室字東迫尻６０９" }, "geometry": { "type": "Point", "coordinates": [ 130.86093582, 32.87570189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市隈府６４２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.80287789, 32.97678107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市隈府字逢帰１５８７−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.81353088, 32.99240408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市七城町甲佐町９０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.7659897, 32.96885844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市七城町流川１５５" }, "geometry": { "type": "Point", "coordinates": [ 130.767381769999986, 32.98116693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市大字隈府１３１１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.81297726, 32.98410912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市大字重味２２６３" }, "geometry": { "type": "Point", "coordinates": [ 130.88653428, 33.01388137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町深田西９９４" }, "geometry": { "type": "Point", "coordinates": [ 130.871787149999989, 32.24321989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町須恵６２２" }, "geometry": { "type": "Point", "coordinates": [ 130.89763338, 32.25963092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田西３２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.85560254, 32.20954577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田東１２２５" }, "geometry": { "type": "Point", "coordinates": [ 130.897391520000014, 32.23739089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田東３５９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.888138559999987, 32.2313317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡球磨村神瀬甲８５６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.611159390000012, 32.30674086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡球磨村渡字栗林１１９２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.713168090000011, 32.22879185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町一武２１１１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.84356122, 32.19942051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町大字西字鳥越１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78347869000001, 32.19698993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡五木村甲５６１７" }, "geometry": { "type": "Point", "coordinates": [ 130.85766024, 32.44074338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡五木村字田口甲２９９７−４７" }, "geometry": { "type": "Point", "coordinates": [ 130.82670563, 32.39980672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡山江村山田丁字蕨野２４８０上り線" }, "geometry": { "type": "Point", "coordinates": [ 130.767226810000011, 32.26182325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡水上村岩野１７６−５" }, "geometry": { "type": "Point", "coordinates": [ 131.00743741, 32.31353176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡相良村大字四浦東７３９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.84503638000001, 32.28467486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡相良村大字川辺下永谷４３７２" }, "geometry": { "type": "Point", "coordinates": [ 130.84295291, 32.27631184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町久米３１０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.96039067000001, 32.25051656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町多良木１４５４" }, "geometry": { "type": "Point", "coordinates": [ 130.93461062, 32.261596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町大字多良木１４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.94576066, 32.2679373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町大字多良木３０８９" }, "geometry": { "type": "Point", "coordinates": [ 130.92617912, 32.25539124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町槻木字源蔵屋敷４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 131.02306113, 32.20307605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡湯前町上里１８７３" }, "geometry": { "type": "Point", "coordinates": [ 130.9848983, 32.28026438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町大字永塩１９４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46885156, 32.9345355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町長洲８６９" }, "geometry": { "type": "Point", "coordinates": [ 130.44149137, 32.93726522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町関町２０５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.54527661, 33.06292029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町久重３３７９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.52700913000001, 33.03874366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町大字宮尾２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.517434689999988, 33.01194632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町津田字下津留１５２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62399334, 33.04114759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市横島町横島８９４２" }, "geometry": { "type": "Point", "coordinates": [ 130.55267934, 32.8725505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岩崎４６０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.55962829, 32.93513751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市高瀬町５１７" }, "geometry": { "type": "Point", "coordinates": [ 130.56244867, 32.92737027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市石貫２９７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.56573026, 32.96664567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町庄山７５９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.519424640000011, 32.93330533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市天水町部田見字大道下２７２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.57782652, 32.87620789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市立願寺２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.550870769999989, 32.9342062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市奥古閑町１０１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62981595, 32.72329742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市下南部３−１０−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.7569236, 32.82025203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町河内３０５３" }, "geometry": { "type": "Point", "coordinates": [ 130.60167257, 32.82307967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町船津１０５６" }, "geometry": { "type": "Point", "coordinates": [ 130.58570595, 32.83348289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市花園７−４０−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.68705277, 32.82788775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市会富町１５１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.658273259999987, 32.75272418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市改寄町１５６３" }, "geometry": { "type": "Point", "coordinates": [ 130.71931197, 32.89497041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市近見８−３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.696359949999987, 32.76226443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市迎町２−１−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.70317053, 32.79133168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市月出１−５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.76229887, 32.80248424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市健軍２−１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.751744230000014, 32.78179137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領８−１１−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.77755029, 32.83606894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領８−２−３７" }, "geometry": { "type": "Point", "coordinates": [ 130.76913958, 32.82906853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市国府１−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.72801263, 32.79248173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市国府３−２１−８１" }, "geometry": { "type": "Point", "coordinates": [ 130.72182005, 32.78695601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市黒髪７−６４" }, "geometry": { "type": "Point", "coordinates": [ 130.745910939999987, 32.81987095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市佐土原２−９−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.78271439, 32.79204104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市四方寄町１２９２" }, "geometry": { "type": "Point", "coordinates": [ 130.708010230000014, 32.8650976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市鹿子木町８２" }, "geometry": { "type": "Point", "coordinates": [ 130.70278597, 32.87096238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市若葉２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.76315552, 32.7778314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市秋津町秋田３４４３−５６" }, "geometry": { "type": "Point", "coordinates": [ 130.76852933, 32.7630147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市小峯１−４−８" }, "geometry": { "type": "Point", "coordinates": [ 130.77299048, 32.8025339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市松尾町上松尾４４１３" }, "geometry": { "type": "Point", "coordinates": [ 130.61082649, 32.79820971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上熊本２丁目１７−４２" }, "geometry": { "type": "Point", "coordinates": [ 130.699489809999989, 32.815895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上熊本３−１６−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.69871002, 32.82469585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上水前寺１−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.74394836, 32.7958903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上水前寺２−２３−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.74490609, 32.79473279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上代７−２８−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.66467236, 32.77685545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城南町築地１０８８" }, "geometry": { "type": "Point", "coordinates": [ 130.75275844, 32.71632313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城南町鰐瀬１２９３" }, "geometry": { "type": "Point", "coordinates": [ 130.757946440000012, 32.67791161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町岩野８５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.69180621000001, 32.9119454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町植木１１４" }, "geometry": { "type": "Point", "coordinates": [ 130.69225473, 32.90287839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町正清２７７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.712721570000014, 32.96183529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町大井５８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69970005, 32.92885665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町米塚９６５" }, "geometry": { "type": "Point", "coordinates": [ 130.71246449, 32.95197192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町味取観音平３２４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.696889629999987, 32.92572867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町鈴麦２２９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.64048957, 32.91944022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市新町３−３−９" }, "geometry": { "type": "Point", "coordinates": [ 130.696719879999989, 32.80314986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市神水本町１−８" }, "geometry": { "type": "Point", "coordinates": [ 130.73765752, 32.78612259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市水道町４−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.71362399, 32.80463024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市世安町１" }, "geometry": { "type": "Point", "coordinates": [ 130.69987505, 32.78599757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市清水亀井町１８−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.721849709999987, 32.83969899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市清水本町１７−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.72154579, 32.83284664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市川口町１９３２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62611318, 32.71665949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市銭塘町２１２７" }, "geometry": { "type": "Point", "coordinates": [ 130.641060720000013, 32.73186758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市銭塘町２６９８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.64471894, 32.73945114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市帯山７−２１−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.758733080000013, 32.80503732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺西１−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.75901191, 32.81195022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺南４−５" }, "geometry": { "type": "Point", "coordinates": [ 130.7743558, 32.81132799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺南６−６−４５" }, "geometry": { "type": "Point", "coordinates": [ 130.77996432, 32.80748403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺南７−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.77304823, 32.81494753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市鶴羽田町字下鶴５６８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.72369661, 32.85463579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田迎６丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.71586914, 32.7791471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田迎町田井島７２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.72563746, 32.7665768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田迎町良町３７" }, "geometry": { "type": "Point", "coordinates": [ 130.71977772, 32.76418422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田崎町３８０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.677694190000011, 32.78420693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市東野２−４−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.77170944, 32.77749001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市萩原町２−４４" }, "geometry": { "type": "Point", "coordinates": [ 130.70966105, 32.78380737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市萩原町４−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.710151880000012, 32.78118982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市八景水谷１−２４−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.7250709, 32.84858049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市八幡１１−８−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.68394493, 32.73932174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市飛田町３５８" }, "geometry": { "type": "Point", "coordinates": [ 130.7172065, 32.84812596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市尾ノ上１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.74934235, 32.78841657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市富合町廻江８４５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67730334, 32.71924846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市平成２−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.70319497, 32.7794446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市平田１−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69338771, 32.77112482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市麻生田１丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.740717460000013, 32.84720188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市野口２丁目８番１号" }, "geometry": { "type": "Point", "coordinates": [ 130.67241454, 32.76514163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市流通団地１−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.70526643, 32.76798278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市竜田町弓削３３５" }, "geometry": { "type": "Point", "coordinates": [ 130.77729849, 32.84861668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市龍田７−３５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.76282129, 32.84111605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市宮内１８６" }, "geometry": { "type": "Point", "coordinates": [ 130.43926367, 32.98216199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市菰屋１７９９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.46046125, 32.96018125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市荒尾字上府本道４１８６" }, "geometry": { "type": "Point", "coordinates": [ 130.4646308, 32.98508548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市高浜字前１８２５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.464123089999987, 32.94013529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市蔵満１８６１" }, "geometry": { "type": "Point", "coordinates": [ 130.44976008, 32.96320496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市万田字陣内６１５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.438542289999987, 32.99786437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市栄２１４９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.767017470000013, 32.90554787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市栄３７６６−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.76512605, 32.88602067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市幾久富字建山１９０９" }, "geometry": { "type": "Point", "coordinates": [ 130.768960279999988, 32.86227906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市合生８７" }, "geometry": { "type": "Point", "coordinates": [ 130.77231598, 32.92025033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市須屋５７２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.73102155, 32.85480628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市野々島５０３３" }, "geometry": { "type": "Point", "coordinates": [ 130.73364956, 32.90506952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市菊鹿町大字松尾８３" }, "geometry": { "type": "Point", "coordinates": [ 130.77985798, 33.01294159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市山鹿１８０９" }, "geometry": { "type": "Point", "coordinates": [ 130.6870893, 33.0119706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿央町広２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.68482125, 32.97357317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿央町北谷１２３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.65708061, 32.95589245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿本町下高橋２７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.74644874, 32.99882768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿本町来民１６０６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.737790639999986, 33.00165812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市中央通６０１" }, "geometry": { "type": "Point", "coordinates": [ 130.68416202, 33.01626931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市南島８７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.688018910000011, 33.00014232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町古閑１３４−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.78826956, 32.79415193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町寺迫９１５" }, "geometry": { "type": "Point", "coordinates": [ 130.82249754, 32.78981603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町井寺４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78874542, 32.750258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町鯰字皆根１７８８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.74033732, 32.74804275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡甲佐町大字岩下４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.81051868, 32.65103406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡甲佐町大字芝原６２" }, "geometry": { "type": "Point", "coordinates": [ 130.77382239, 32.71410518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町城平字原６４６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.99016561, 32.68956476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町大平７２−１" }, "geometry": { "type": "Point", "coordinates": [ 131.09179046, 32.69205362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町馬見原２０１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.15256727, 32.68323945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町浜町１０９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.99058828, 32.68421187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町浜町１６０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.98753618, 32.68420001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町阿村５７０２−８" }, "geometry": { "type": "Point", "coordinates": [ 130.44473445, 32.52625769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町合津３３２４" }, "geometry": { "type": "Point", "coordinates": [ 130.427165, 32.50512665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町合津４２１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.42915516, 32.51310287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町合津４２７６−５６８" }, "geometry": { "type": "Point", "coordinates": [ 130.429308170000013, 32.51492847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町今泉１８２９−５" }, "geometry": { "type": "Point", "coordinates": [ 130.417266680000012, 32.49285912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町維和３５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.479866460000011, 32.57774208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町上２３２４−９" }, "geometry": { "type": "Point", "coordinates": [ 130.42992745, 32.58798635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町中９８５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.420312489999986, 32.5756715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町登立１４１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.43943866, 32.59368588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町登立筒之浦２８８０−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.43886158, 32.60294222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市姫戸町二間戸５９１３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.4031489, 32.42177255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市姫戸町姫浦浅畑５９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.43593418, 32.48077007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市龍ヶ岳町大道迎１４９７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.35591523, 32.38755613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市鬼木町６０５" }, "geometry": { "type": "Point", "coordinates": [ 130.768496770000013, 32.22490532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市鬼木町９８３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.76615306, 32.22501083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市鬼木町字高木７８３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.76295349, 32.2224749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市上青井町１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.75518237, 32.21353959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市西間下町字鳶岩１１３４" }, "geometry": { "type": "Point", "coordinates": [ 130.75379541, 32.20020563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市大畑町清水２５２２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.80454365, 32.16187283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市中青井町青井田３７９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.750501570000011, 32.21299454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市二日町２０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.76361399000001, 32.21467754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市葛渡字中須７５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46056557, 32.17328734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市古賀町２−５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.39919404, 32.21242787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市古城３−２６８" }, "geometry": { "type": "Point", "coordinates": [ 130.42396918, 32.20938516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市深川２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.44504712, 32.18266191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市天神町２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.40505113, 32.21083835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡苓北町志岐字草場５０６−６" }, "geometry": { "type": "Point", "coordinates": [ 130.04738495, 32.50544382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栄町９−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.19213768, 32.45544874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市下浦町金焼９５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.248181890000012, 32.39916246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町河浦５０３９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.078670820000013, 32.33768025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町赤松原３２−８" }, "geometry": { "type": "Point", "coordinates": [ 130.0735374, 32.32026448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市亀場町亀川６３" }, "geometry": { "type": "Point", "coordinates": [ 130.20288858, 32.44509439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市亀場町亀川下潟１８９０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.19944304, 32.44867159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市久玉町１４１１−１４６" }, "geometry": { "type": "Point", "coordinates": [ 130.032814370000011, 32.21628164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市久玉町１４７２" }, "geometry": { "type": "Point", "coordinates": [ 130.03320058, 32.2201552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市牛深町２２８６" }, "geometry": { "type": "Point", "coordinates": [ 130.02610153, 32.1931916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市魚貫町５５３６" }, "geometry": { "type": "Point", "coordinates": [ 130.010977739999987, 32.23952438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町手野二丁目４３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.14052468, 32.52741728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町二江２７３９" }, "geometry": { "type": "Point", "coordinates": [ 130.118779069999988, 32.54425776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町二江字新浜４７３１" }, "geometry": { "type": "Point", "coordinates": [ 130.12366397, 32.54570148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市御所浦町御所浦３８５０" }, "geometry": { "type": "Point", "coordinates": [ 130.33949574, 32.33889652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市港町４−１６" }, "geometry": { "type": "Point", "coordinates": [ 130.198303939999988, 32.45647641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市志柿町２７１２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.235903549999989, 32.4615977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市志柿町５４２２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20972053, 32.43897806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市新和町大宮地字割石４８６２" }, "geometry": { "type": "Point", "coordinates": [ 130.19479918, 32.38873651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市深海町１９０４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.09244715, 32.25533811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町湯船原７３４" }, "geometry": { "type": "Point", "coordinates": [ 130.27321648, 32.41667548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市倉岳町棚底９１１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.341695539999989, 32.41347306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市太田町６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.19639913, 32.45168485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町下田北１３２７−９" }, "geometry": { "type": "Point", "coordinates": [ 130.00893656, 32.42292581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町高浜南５５８" }, "geometry": { "type": "Point", "coordinates": [ 129.995984740000011, 32.37602113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町大江７４１８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.99542237, 32.32381869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市楠浦町２８８５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.19482269, 32.41300599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市八幡町４番１号" }, "geometry": { "type": "Point", "coordinates": [ 130.1871912, 32.46753238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市本渡町広瀬３４" }, "geometry": { "type": "Point", "coordinates": [ 130.20049812, 32.46589737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市本渡町本戸馬場一ノ勢１９８１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.17001235, 32.47304543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町上津浦１２４２" }, "geometry": { "type": "Point", "coordinates": [ 130.293767269999989, 32.49143652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町上津浦２７１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.31148754, 32.5103324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町須子字長続３０９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.33658359, 32.51433756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町楠甫２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.370189290000013, 32.50891289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町早尾字今宮" }, "geometry": { "type": "Point", "coordinates": [ 130.68174589, 32.54423504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市古閑浜町字西塩浜３２９６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.604080329999988, 32.53971495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市港町６９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.5744456, 32.50960288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市高下西町１８２７" }, "geometry": { "type": "Point", "coordinates": [ 130.608164960000011, 32.48466822 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市坂本町荒瀬１２４３" }, "geometry": { "type": "Point", "coordinates": [ 130.64028066, 32.42640329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市坂本町中谷は１３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.654057349999988, 32.44626177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市上片町高取１６０９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.64302143, 32.50364384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市千反町２−１８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.59887662, 32.49742337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市川田町東３" }, "geometry": { "type": "Point", "coordinates": [ 130.65380747, 32.51440133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市泉町下岳小鹿倉２９８２" }, "geometry": { "type": "Point", "coordinates": [ 130.791499679999987, 32.57392307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市泉町椎原３８" }, "geometry": { "type": "Point", "coordinates": [ 130.90633514000001, 32.49179088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市中片町５７２" }, "geometry": { "type": "Point", "coordinates": [ 130.64067194, 32.50948925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市田中西町１７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.59977325, 32.52100373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市田中西町５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.60449682, 32.51929886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市二見下大野町２３８６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.55596609, 32.40703119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市日奈久竹之内町３０４９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.58280401, 32.43772446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市毘舎丸町６−３７" }, "geometry": { "type": "Point", "coordinates": [ 130.61356966, 32.51008962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市北の丸町３−３３" }, "geometry": { "type": "Point", "coordinates": [ 130.59555287, 32.50929936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡西原村大字布田１０００-５" }, "geometry": { "type": "Point", "coordinates": [ 130.87874904, 32.83648634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市内牧" }, "geometry": { "type": "Point", "coordinates": [ 131.04235602, 32.97588172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市岩古曽町" }, "geometry": { "type": "Point", "coordinates": [ 130.67954397, 32.68717864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市北段原町３９" }, "geometry": { "type": "Point", "coordinates": [ 130.65697947000001, 32.68739178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町室東迫尻７７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.85892443, 32.87567428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大林１４６７-５" }, "geometry": { "type": "Point", "coordinates": [ 130.90750585, 32.87985313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田西３０４５-１３" }, "geometry": { "type": "Point", "coordinates": [ 130.859588050000013, 32.21348549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町高浜土井辻１１５１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.45725148, 32.93821328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町原口１５３" }, "geometry": { "type": "Point", "coordinates": [ 130.60267715, 32.98372519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市亀甲８３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.55398478, 32.92692909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市中１７８９" }, "geometry": { "type": "Point", "coordinates": [ 130.550562649999989, 32.9284984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市花園５丁目１３-１１" }, "geometry": { "type": "Point", "coordinates": [ 130.69387558, 32.81766359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市花立３丁目-３９-２２" }, "geometry": { "type": "Point", "coordinates": [ 130.774256689999987, 32.78403333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領１丁目６−４８" }, "geometry": { "type": "Point", "coordinates": [ 130.7606558, 32.81782002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領５-１３-１１" }, "geometry": { "type": "Point", "coordinates": [ 130.769120390000012, 32.82844336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市幸田２丁目１０-５５" }, "geometry": { "type": "Point", "coordinates": [ 130.71001869, 32.7646446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市紺屋今町２-１５" }, "geometry": { "type": "Point", "coordinates": [ 130.704830460000011, 32.79648381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市桜木４丁目１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78290343, 32.77898918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出仲間１丁目１-２" }, "geometry": { "type": "Point", "coordinates": [ 130.71302752, 32.77404702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市小山３丁目２−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.786862430000014, 32.82672403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市小島下町楢崎２３４８" }, "geometry": { "type": "Point", "coordinates": [ 130.63863683, 32.78207706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山上代町２０３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.673624679999989, 32.78342682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町鐙田字向坂１０３８" }, "geometry": { "type": "Point", "coordinates": [ 130.69467021, 32.88207581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町舞尾６６９" }, "geometry": { "type": "Point", "coordinates": [ 130.6830381, 32.89681186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町舞尾石佛５８２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.690469979999989, 32.89912878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町味取３３４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69763126, 32.9265182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市清水町山室字中屋敷２９０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.717065389999988, 32.84249646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市帯山９丁目４番３号" }, "geometry": { "type": "Point", "coordinates": [ 130.761943800000012, 32.80567038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市保田窪３丁目３−６５" }, "geometry": { "type": "Point", "coordinates": [ 130.750330100000014, 32.80734724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市本山町１０８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.70057879, 32.7871897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市荒尾字中牟田２０３８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.442306409999986, 32.97433599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市荒尾西大谷４４４２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46033768, 32.98629776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市大正町１丁目２-２６" }, "geometry": { "type": "Point", "coordinates": [ 130.43357315, 32.99516946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市御代志１７４０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.74928046, 32.88439602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市御代志２０８４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.74004739, 32.89287378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市須屋２２４６-１" }, "geometry": { "type": "Point", "coordinates": [ 130.73458163, 32.87433264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市山鹿字黒田６２７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.70059726, 33.01895908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市下漆田町１６７８-１０" }, "geometry": { "type": "Point", "coordinates": [ 130.79514018, 32.18641769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市鬼木町字芦原７０３" }, "geometry": { "type": "Point", "coordinates": [ 130.76560723, 32.22551973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町御領新町１２２０８" }, "geometry": { "type": "Point", "coordinates": [ 130.19139352, 32.5167493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町宝出５番８１１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.631882100000013, 32.58451871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市郡築１２番町２０７" }, "geometry": { "type": "Point", "coordinates": [ 130.58397951, 32.55008737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市千丁町新牟田９４-６" }, "geometry": { "type": "Point", "coordinates": [ 130.63948388, 32.53133457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市中片町字元水町４１２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.63924547, 32.50936885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市佐伊津町南平又１９３８-１５" }, "geometry": { "type": "Point", "coordinates": [ 130.196866480000011, 32.48754615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市新和町小宮地５５１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.183778679999989, 32.36241621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市深海町浦河内４３６２" }, "geometry": { "type": "Point", "coordinates": [ 130.08897998, 32.25409921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町河内４６８４-３" }, "geometry": { "type": "Point", "coordinates": [ 130.30145119, 32.44391089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町馬場字差原９９-５" }, "geometry": { "type": "Point", "coordinates": [ 130.269187210000013, 32.41671356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市倉岳町棚底房崎１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.346522920000012, 32.41952984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町下田南３０３２-２" }, "geometry": { "type": "Point", "coordinates": [ 130.00889038, 32.39916907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町大江１７５３" }, "geometry": { "type": "Point", "coordinates": [ 129.994039210000011, 32.33650347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町福連木３６１１-２" }, "geometry": { "type": "Point", "coordinates": [ 130.07385389, 32.41798964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町下津浦２７３８" }, "geometry": { "type": "Point", "coordinates": [ 130.29566109000001, 32.47936513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町須子樫ノ戸２９３７-１" }, "geometry": { "type": "Point", "coordinates": [ 130.34390628, 32.5188889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町鹿島７７５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.66454184, 32.58315745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町若州１０" }, "geometry": { "type": "Point", "coordinates": [ 130.645806310000012, 32.6043802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市永碇町８４９" }, "geometry": { "type": "Point", "coordinates": [ 130.59545832, 32.5196279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市海士江町下城2738-1" }, "geometry": { "type": "Point", "coordinates": [ 130.622423, 32.52715508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町内田６９７-８" }, "geometry": { "type": "Point", "coordinates": [ 130.64940691000001, 32.5604409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町北新地７０５" }, "geometry": { "type": "Point", "coordinates": [ 130.615798719999987, 32.57112518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町両出７３" }, "geometry": { "type": "Point", "coordinates": [ 130.63364783, 32.55843885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市郡築六番町４６-１" }, "geometry": { "type": "Point", "coordinates": [ 130.57329747, 32.53384763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市改寄町１１９９番地" }, "geometry": { "type": "Point", "coordinates": [ 130.71886447, 32.89383491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市池田４丁目５−８" }, "geometry": { "type": "Point", "coordinates": [ 130.69659725, 32.82837078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町久留７３４番地" }, "geometry": { "type": "Point", "coordinates": [ 130.07798011, 32.30585496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市大浜町１−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.19250464000001, 32.45954348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町下田北１３７１番地" }, "geometry": { "type": "Point", "coordinates": [ 130.01203723, 32.42500928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町大字高森１９６９-１" }, "geometry": { "type": "Point", "coordinates": [ 131.122963340000013, 32.82570379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町大字草部１０２３" }, "geometry": { "type": "Point", "coordinates": [ 131.20994002, 32.79272837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町津留６５７-６" }, "geometry": { "type": "Point", "coordinates": [ 131.26283479, 32.82962967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡産山村大字山鹿４６８-２" }, "geometry": { "type": "Point", "coordinates": [ 131.21703279, 32.99624845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町大字宮原２３１２−２" }, "geometry": { "type": "Point", "coordinates": [ 131.06377881, 33.11043552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡西原村河原８１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.8865701, 32.81387673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡西原村大字小森２９１３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.90435839, 32.83852747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村久石2642-2" }, "geometry": { "type": "Point", "coordinates": [ 131.03289009, 32.82249021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村大字一関１０３２−７" }, "geometry": { "type": "Point", "coordinates": [ 131.07004045, 32.83372416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村大字河陽２９８９" }, "geometry": { "type": "Point", "coordinates": [ 131.0133478, 32.84744205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町宮地１８０８-１" }, "geometry": { "type": "Point", "coordinates": [ 131.12091909, 32.95144713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町坂梨８５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.13724247, 32.93742047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市内牧１６５８−５" }, "geometry": { "type": "Point", "coordinates": [ 131.05665292, 32.96442181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市波野波野２７０２-２" }, "geometry": { "type": "Point", "coordinates": [ 131.18971407, 32.91833188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県芦北郡芦北町宮浦１４−４" }, "geometry": { "type": "Point", "coordinates": [ 130.51775249, 32.29678071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県芦北郡芦北町小田浦７８７-１０" }, "geometry": { "type": "Point", "coordinates": [ 130.50593167, 32.35115529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県芦北郡芦北町湯浦4１７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.505757429999989, 32.26778558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県芦北郡津奈木町岩城５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.45493762000001, 32.23152977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町戸馳５２０７" }, "geometry": { "type": "Point", "coordinates": [ 130.494305630000014, 32.60026145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町中村１３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.52770242, 32.62568827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町波多２８６４-４２" }, "geometry": { "type": "Point", "coordinates": [ 130.48959012, 32.61558954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町南海東２０４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.742202209999988, 32.58185714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町北新田４３５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.70195583, 32.60347678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町久具３３０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.68831555, 32.64839248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市不知火町永尾７０７-６" }, "geometry": { "type": "Point", "coordinates": [ 130.6139358, 32.632035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市不知火町高良１９６４" }, "geometry": { "type": "Point", "coordinates": [ 130.66415686, 32.64616151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市豊野町糸石３９０2-1" }, "geometry": { "type": "Point", "coordinates": [ 130.7484087, 32.64077181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市下綱田町１２４４" }, "geometry": { "type": "Point", "coordinates": [ 130.552166089999986, 32.66944169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市住吉町６７８" }, "geometry": { "type": "Point", "coordinates": [ 130.60092493, 32.70160975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市神馬町６０９" }, "geometry": { "type": "Point", "coordinates": [ 130.64745445, 32.67705416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市走潟町２０３４" }, "geometry": { "type": "Point", "coordinates": [ 130.64690662000001, 32.7046365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市野鶴町２４０" }, "geometry": { "type": "Point", "coordinates": [ 130.631129460000011, 32.69444597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町大字塚原１８６" }, "geometry": { "type": "Point", "coordinates": [ 130.74573249, 32.68865633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町大字島田302" }, "geometry": { "type": "Point", "coordinates": [ 130.704461, 32.71324862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町三和２２６" }, "geometry": { "type": "Point", "coordinates": [ 130.87318299, 32.6233465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町馬場１７８" }, "geometry": { "type": "Point", "coordinates": [ 130.79309823, 32.63986321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字曲手４８８-３" }, "geometry": { "type": "Point", "coordinates": [ 130.83505237, 32.84741108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大津１２84-1" }, "geometry": { "type": "Point", "coordinates": [ 130.87113588, 32.87396164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市旭志新明２６９４−６" }, "geometry": { "type": "Point", "coordinates": [ 130.855074300000012, 32.94487436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市旭志川辺１９３５-２" }, "geometry": { "type": "Point", "coordinates": [ 130.831387869999986, 32.93129928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市隈府７８２" }, "geometry": { "type": "Point", "coordinates": [ 130.81068947, 32.98018195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市七城町菰入４３８-１" }, "geometry": { "type": "Point", "coordinates": [ 130.75979203, 32.96671584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市重味２３３９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.895124040000013, 33.01665696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市深川４１１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.80160751, 32.96991069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市泗水町豊水３１７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.770231880000011, 32.92567749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町岡原北９０８-２" }, "geometry": { "type": "Point", "coordinates": [ 130.93224582, 32.24021653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町上南１９６２" }, "geometry": { "type": "Point", "coordinates": [ 130.902279779999986, 32.21811243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町深田東１７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.872415929999988, 32.24824269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田西２５９０-８" }, "geometry": { "type": "Point", "coordinates": [ 130.871904410000013, 32.22412756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡球磨村大字渡乙１６４８-２" }, "geometry": { "type": "Point", "coordinates": [ 130.69277369, 32.23833293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町一武１450" }, "geometry": { "type": "Point", "coordinates": [ 130.838827540000011, 32.20067391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町大字西桑木原１０６１" }, "geometry": { "type": "Point", "coordinates": [ 130.81937448, 32.19579424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町大字木上西３" }, "geometry": { "type": "Point", "coordinates": [ 130.84166683, 32.22598131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡山江村山田乙２１１７" }, "geometry": { "type": "Point", "coordinates": [ 130.76709388, 32.24148488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡相良村大字深水１３２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.80751061, 32.24315225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町大字多良木２７４８-１" }, "geometry": { "type": "Point", "coordinates": [ 130.949365949999986, 32.26893259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡湯前町１９０２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.98162319, 32.27838909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡玉東町白木１０８６-２" }, "geometry": { "type": "Point", "coordinates": [ 130.6305575, 32.90564294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡長洲町大字清願寺2771-3" }, "geometry": { "type": "Point", "coordinates": [ 130.470710630000013, 32.91962372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町小原２１９２-４" }, "geometry": { "type": "Point", "coordinates": [ 130.56278722, 33.044826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町かま門１９２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60821905, 32.99142475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町西吉地３４４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.59338369, 33.07587786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町板楠２８６３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62340114, 33.06692393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市横島町横島４５２３" }, "geometry": { "type": "Point", "coordinates": [ 130.55503629, 32.8765782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市滑石１６８０" }, "geometry": { "type": "Point", "coordinates": [ 130.531063350000011, 32.89920956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市寺田１１３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.58881277, 32.92101211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市石貫字上小畑４２０５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.56254784, 32.95566331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町高道１２４２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.514582069999989, 32.90622246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町鍋２５１５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.49576001, 32.90877329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市大浜町３１７４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.544229410000014, 32.8899245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市天水町小天６７３９" }, "geometry": { "type": "Point", "coordinates": [ 130.59245157, 32.86001257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市北牟田字居屋敷32-1" }, "geometry": { "type": "Point", "coordinates": [ 130.56532052, 32.89972517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市奥古閑町字加藤１４３８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.62999975, 32.72938974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町大字東門寺１５７" }, "geometry": { "type": "Point", "coordinates": [ 130.64515984, 32.84365373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市会富町字一反田１１１３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.652795880000014, 32.75325065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市戸島３丁目１４−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.7946106, 32.82394538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町植木１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.6926522, 32.90487417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市石原町１８３" }, "geometry": { "type": "Point", "coordinates": [ 130.77625384000001, 32.84104169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市池上町９２２-３" }, "geometry": { "type": "Point", "coordinates": [ 130.673016499999989, 32.79265776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市富合町志々水１８９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.67187316, 32.7104775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市上井手１２１４" }, "geometry": { "type": "Point", "coordinates": [ 130.4921345, 32.99967319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市川登４６５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.47190913, 32.96081016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市幾久富１３７９" }, "geometry": { "type": "Point", "coordinates": [ 130.793335469999988, 32.89231088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市野々島４８５４" }, "geometry": { "type": "Point", "coordinates": [ 130.738861969999988, 32.90667958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市菊鹿町下内田４０４" }, "geometry": { "type": "Point", "coordinates": [ 130.763051280000013, 33.02364695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市菊鹿町上内田５８４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.773785769999989, 33.06428445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市久原５４３９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.721706930000011, 33.02801434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿央町持松159-7" }, "geometry": { "type": "Point", "coordinates": [ 130.70031024, 32.98598511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿北町岩野１３０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.68949752, 33.11108137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿北町多久１３８３-３" }, "geometry": { "type": "Point", "coordinates": [ 130.736197659999988, 33.10616448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿本町来民６７７" }, "geometry": { "type": "Point", "coordinates": [ 130.74108668, 33.0017553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市杉６６４" }, "geometry": { "type": "Point", "coordinates": [ 130.682499439999987, 33.03597411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市南島１２1３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.68551867, 33.00518756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡鹿北町芋生４１９６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.69512935, 33.08458056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡植木町大字内１１５０" }, "geometry": { "type": "Point", "coordinates": [ 130.68152873, 32.93516152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡植木町大字木留１２４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.66324838, 32.87944556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町惣領1506-2" }, "geometry": { "type": "Point", "coordinates": [ 130.80049198, 32.78337647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字宮園７２１-３" }, "geometry": { "type": "Point", "coordinates": [ 130.81699113, 32.79332518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字砥川１９８５-１" }, "geometry": { "type": "Point", "coordinates": [ 130.81130173, 32.75800513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字福原５２６-１" }, "geometry": { "type": "Point", "coordinates": [ 130.830851059999986, 32.78425394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町田原１８０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.84974362, 32.80241126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町大字上島１９４２-３" }, "geometry": { "type": "Point", "coordinates": [ 130.74369857, 32.74205364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町大字北甘木２２０６" }, "geometry": { "type": "Point", "coordinates": [ 130.77135729, 32.74615393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字上野塔本２８２９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.86036299, 32.73920399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字滝尾５９３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.82422367, 32.70053117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字木倉１７２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.80021566, 32.71831463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡甲佐町大字横田１４１-６" }, "geometry": { "type": "Point", "coordinates": [ 130.81075621, 32.6544813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡甲佐町大字白旗１８５３-３" }, "geometry": { "type": "Point", "coordinates": [ 130.778075910000013, 32.70365273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町下名連石５５４−２" }, "geometry": { "type": "Point", "coordinates": [ 131.00254734, 32.72990396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町金内３４４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.94994526, 32.73074852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町黒川５６４-５" }, "geometry": { "type": "Point", "coordinates": [ 131.03177089, 32.71199719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町太平317-1" }, "geometry": { "type": "Point", "coordinates": [ 131.08664307, 32.68928823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町大字南田字西馬原２５０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.97783815, 32.68469559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町鶴ヶ田２８５１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.08951355, 32.71858388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町馬見原２５５-１" }, "geometry": { "type": "Point", "coordinates": [ 131.15509957, 32.6833073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町柏１０２７" }, "geometry": { "type": "Point", "coordinates": [ 131.17653895, 32.74188497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町畑１０４６-２" }, "geometry": { "type": "Point", "coordinates": [ 131.010112209999988, 32.68627423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町教良木２９３９-１" }, "geometry": { "type": "Point", "coordinates": [ 130.37191012, 32.46530947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町上１５１２-３" }, "geometry": { "type": "Point", "coordinates": [ 130.42948224, 32.58795985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市上薩摩瀬町８６１" }, "geometry": { "type": "Point", "coordinates": [ 130.74010943, 32.21359144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市ひばりが丘３８" }, "geometry": { "type": "Point", "coordinates": [ 130.4206384, 32.20988738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡苓北町志岐３５０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.05462734, 32.51195239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町河浦４８４４" }, "geometry": { "type": "Point", "coordinates": [ 130.0755174, 32.33022633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町新合２２５-２" }, "geometry": { "type": "Point", "coordinates": [ 130.11565206, 32.33832367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市久玉町内の原６３６−２２" }, "geometry": { "type": "Point", "coordinates": [ 130.02855286, 32.20779094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町手野１丁目３０７８-２" }, "geometry": { "type": "Point", "coordinates": [ 130.146577939999986, 32.51400881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町城河原３−３９" }, "geometry": { "type": "Point", "coordinates": [ 130.14976626, 32.49502947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町大字御領１２１５-２" }, "geometry": { "type": "Point", "coordinates": [ 130.19089008, 32.51533689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市坂元町百済来下1999" }, "geometry": { "type": "Point", "coordinates": [ 130.60420044, 32.40049797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市三江湖町３９" }, "geometry": { "type": "Point", "coordinates": [ 130.57574075, 32.48954105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市昭和明徴町８３７" }, "geometry": { "type": "Point", "coordinates": [ 130.601544209999986, 32.55804355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市東陽町南９７４" }, "geometry": { "type": "Point", "coordinates": [ 130.715509340000011, 32.54660404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市平山新町４９５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60965192, 32.47284005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村大字下野400-1" }, "geometry": { "type": "Point", "coordinates": [ 130.992416569999989, 32.90783901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市松山町中柳町1203" }, "geometry": { "type": "Point", "coordinates": [ 130.66950054, 32.67483007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町船津2015" }, "geometry": { "type": "Point", "coordinates": [ 130.58622956, 32.83260818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市四方寄町字南原1670" }, "geometry": { "type": "Point", "coordinates": [ 130.709288820000012, 32.8587413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市富合町田尻戸崎前417-1" }, "geometry": { "type": "Point", "coordinates": [ 130.67430801, 32.70655466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市武蔵ケ丘7丁目3-3" }, "geometry": { "type": "Point", "coordinates": [ 130.77535267, 32.85558512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿北町四丁1421-1" }, "geometry": { "type": "Point", "coordinates": [ 130.69478404, 33.10564258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字御船1049-1" }, "geometry": { "type": "Point", "coordinates": [ 130.799666910000013, 32.7114307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市五和町鬼池113" }, "geometry": { "type": "Point", "coordinates": [ 130.18758705, 32.54332456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町大島子沖ノ田２８８４" }, "geometry": { "type": "Point", "coordinates": [ 130.25468788, 32.47186365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町早尾字山口" }, "geometry": { "type": "Point", "coordinates": [ 130.68123329, 32.54217813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市興善寺町字縄手586-2" }, "geometry": { "type": "Point", "coordinates": [ 130.66028594, 32.52611607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村河陽4314-5" }, "geometry": { "type": "Point", "coordinates": [ 130.99609641, 32.87065832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町久具2008" }, "geometry": { "type": "Point", "coordinates": [ 130.695191060000013, 32.64411493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市画図町重富556" }, "geometry": { "type": "Point", "coordinates": [ 130.7283937, 32.76284831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市近見6-18-40" }, "geometry": { "type": "Point", "coordinates": [ 130.69700006, 32.76282193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市沼山津2-2-2" }, "geometry": { "type": "Point", "coordinates": [ 130.77739822, 32.77745356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上熊本2-5-8" }, "geometry": { "type": "Point", "coordinates": [ 130.6978863, 32.81182132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字小池2726" }, "geometry": { "type": "Point", "coordinates": [ 130.803312010000013, 32.75011845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町白小野939-1" }, "geometry": { "type": "Point", "coordinates": [ 130.96648717, 32.66152649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡産山村山鹿５８２" }, "geometry": { "type": "Point", "coordinates": [ 131.212133669999986, 32.99761082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町宮地西古神４６０４" }, "geometry": { "type": "Point", "coordinates": [ 131.11581429, 32.93746269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市黒川字堂床１５１７" }, "geometry": { "type": "Point", "coordinates": [ 131.07964438, 32.93387647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市狩尾字日下１８２１−１" }, "geometry": { "type": "Point", "coordinates": [ 131.01021476, 32.95045987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町計石２９６３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.47947141, 32.30112394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町佐敷３６３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.5018407, 32.30567051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町湯浦２２３−４７" }, "geometry": { "type": "Point", "coordinates": [ 130.501479679999989, 32.27291705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋４５９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67887604, 32.65039512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町下宮地７８４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.728232170000013, 32.70166487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町大字阿高字古川１５２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.72938362, 32.69970473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町辛川水落６０９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.82870743, 32.83426747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡合志町幾久富１７５８−５１４" }, "geometry": { "type": "Point", "coordinates": [ 130.77909118, 32.87149218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字引水字柳塘９４３１" }, "geometry": { "type": "Point", "coordinates": [ 130.88531573, 32.87820443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大林１３８０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.912027130000013, 32.87868275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市木柑子１４２７" }, "geometry": { "type": "Point", "coordinates": [ 130.78577163, 32.94227525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市野間口１０９７" }, "geometry": { "type": "Point", "coordinates": [ 130.78183632, 32.97670319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市亘６５８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.82043488, 32.98925073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町大字西１８５番地１８" }, "geometry": { "type": "Point", "coordinates": [ 130.78744572, 32.19535243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市伊倉北方３１０４" }, "geometry": { "type": "Point", "coordinates": [ 130.57229802, 32.90545044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市沖新町１２２５" }, "geometry": { "type": "Point", "coordinates": [ 130.61272179, 32.75902533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市錦ケ丘２９−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.759117550000013, 32.79035726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市戸島町３２２８−１６" }, "geometry": { "type": "Point", "coordinates": [ 130.787441300000012, 32.81324898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領８−４−７０" }, "geometry": { "type": "Point", "coordinates": [ 130.771950839999988, 32.83102325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市佐土原１−１４−４０" }, "geometry": { "type": "Point", "coordinates": [ 130.776198169999986, 32.78991071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市細工町２−７" }, "geometry": { "type": "Point", "coordinates": [ 130.69577848, 32.79622827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出水７−６８０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.729087029999988, 32.76972017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市新屋敷３−１０−６" }, "geometry": { "type": "Point", "coordinates": [ 130.72248732, 32.80498863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市神水１−３８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.746110640000012, 32.78751646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺東４−１５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.77489479, 32.82510604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田井島２−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.71938036, 32.76593682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市南熊本２−７−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.7136439, 32.78900407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市八幡町字村東３０８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.68346139, 32.74674876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市富合町釈迦堂字狐塚６３０" }, "geometry": { "type": "Point", "coordinates": [ 130.70444665, 32.73165611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市保田窪本町１３−３１" }, "geometry": { "type": "Point", "coordinates": [ 130.74875038, 32.81026782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市本荘５−１０−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.70486634, 32.79268922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市野田３−１２−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.6836142, 32.73079415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市辻久保４０８５" }, "geometry": { "type": "Point", "coordinates": [ 130.764132679999989, 32.90551869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿本町御宇田７１７" }, "geometry": { "type": "Point", "coordinates": [ 130.72562517, 33.00392262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市新町１６０１" }, "geometry": { "type": "Point", "coordinates": [ 130.683123060000014, 33.0198307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡菊鹿町上永野５１７" }, "geometry": { "type": "Point", "coordinates": [ 130.78072563, 33.03297998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡植木町大字舞尾５４５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.691253780000011, 32.8997508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町広崎字大友７８８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.78746555, 32.77969282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字辺田見２０１" }, "geometry": { "type": "Point", "coordinates": [ 130.803493010000011, 32.70943039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町中８５８" }, "geometry": { "type": "Point", "coordinates": [ 130.42316563, 32.57989465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市港町１−２−８" }, "geometry": { "type": "Point", "coordinates": [ 130.3914996, 32.20316893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市港町３丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.38527062, 32.19871812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市永碇町６６６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.587588829999987, 32.52238997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町下有佐６１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.673265249999986, 32.56247172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町上鏡１１−２４−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.66049869, 32.57416729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町両出１２２５" }, "geometry": { "type": "Point", "coordinates": [ 130.63244604, 32.55879976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市中片町５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.64140197, 32.50885515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市東片町字岡神２９１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.647935569999987, 32.50711817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市萩原町１−５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.62402201, 32.50171981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町小田浦１５７９−７" }, "geometry": { "type": "Point", "coordinates": [ 130.503613879999989, 32.34882549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町北新田６３−３８" }, "geometry": { "type": "Point", "coordinates": [ 130.70272368, 32.60004246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町曲野２１６５" }, "geometry": { "type": "Point", "coordinates": [ 130.694868390000011, 32.65180881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋１３１５" }, "geometry": { "type": "Point", "coordinates": [ 130.67363228, 32.65378677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.682219690000011, 32.65520485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町光の森５−２３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.78264701, 32.8639022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字杉水３３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.85379035, 32.89822607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田東大正町１７４２−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.89672631, 32.23403679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町上板楠７５０−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.61107762, 33.07315804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市中１６５５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5470661, 32.92797453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市九品寺１−１２−９" }, "geometry": { "type": "Point", "coordinates": [ 130.715635139999989, 32.79792816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領２−２７−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.76346546, 32.82437097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市黒髪６−１３−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.73879308, 32.81504179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市佐土原１−４−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.772413300000011, 32.78934171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市四方寄町５３８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.709579420000011, 32.85983928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出仲間６−１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.720514830000013, 32.7717733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市小島１−３−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.64875218, 32.77784617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上水前寺２−２５−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.7453504, 32.79305216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山上代町１８８７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.66908396, 32.77667966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市世安町３１９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69811991, 32.78356532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市大江１−５−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.723406790000013, 32.80947886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市中央街５−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.7116909, 32.79992791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町東阿高２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.72697119, 32.69571539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市白藤４−２６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.67463787, 32.75006137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市飛田町４２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.71914584000001, 32.85174101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市麻生田３−３−６７" }, "geometry": { "type": "Point", "coordinates": [ 130.74321733, 32.84925731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市荒尾４１８６−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.46882076, 32.9861844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市合生４８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.769392689999989, 32.91810024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿校通２−１３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.70714414, 33.00921981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市津留２４９４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.69130519, 33.0573299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町鯰２８２２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.74192567, 32.74431449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町七滝２１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.86473795, 32.72397725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町９４９−４" }, "geometry": { "type": "Point", "coordinates": [ 130.42345803, 32.57949173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市西間上町２５２０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.76237964, 32.1995123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市中青井町２９９" }, "geometry": { "type": "Point", "coordinates": [ 130.75523787, 32.21498388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市百間町１−６−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.39040806, 32.2019496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町河浦３６２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.07491022, 32.32544536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町新合１００４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.11593425, 32.33813283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市牛深町２８２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.02676779, 32.19719385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市瀬戸町６９" }, "geometry": { "type": "Point", "coordinates": [ 130.206581379999989, 32.45036588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町河内４４１９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.30848832, 32.44370989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町馬場２５７７−５" }, "geometry": { "type": "Point", "coordinates": [ 130.26448721, 32.41694471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市八幡町３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.18805416, 32.46683658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町高塚１２０６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.696395700000011, 32.57942039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町大野９９０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.69431807, 32.57482836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市旭中央通り２０−９" }, "geometry": { "type": "Point", "coordinates": [ 130.607014670000012, 32.50422869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市港町３５" }, "geometry": { "type": "Point", "coordinates": [ 130.57777966, 32.50934921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市出町５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60959774, 32.50803405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市揚町７８５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.58754556, 32.46825914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡玉東町稲佐４２２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.61231344, 32.9192188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上南部４−１−２９" }, "geometry": { "type": "Point", "coordinates": [ 130.77026798, 32.83458339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市松尾町上松尾４３９" }, "geometry": { "type": "Point", "coordinates": [ 130.64330738000001, 32.78572929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市白山3-1-1" }, "geometry": { "type": "Point", "coordinates": [ 130.72565373, 32.79478376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市善道寺町１５５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.6702703, 32.68389446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡富合町大字清藤３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67569053, 32.71500169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字津久礼２１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.79075774, 32.85750321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町室１０１５" }, "geometry": { "type": "Point", "coordinates": [ 130.858897430000013, 32.87785048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡錦町大字西７１５−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.79629853, 32.19546885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市画図町所島１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.732684549999988, 32.77194699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上南部町２−１−１１５" }, "geometry": { "type": "Point", "coordinates": [ 130.76564862, 32.82663746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山下代町７１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.6561064, 32.77737464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市大橋通６０４" }, "geometry": { "type": "Point", "coordinates": [ 130.68538433, 33.01236708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町井寺字古閑鶴３１６６" }, "geometry": { "type": "Point", "coordinates": [ 130.77349751, 32.75134277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市迎町２−９−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.59905434, 32.49935377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市新浜町１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.58239346, 32.50893981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市田中町２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.61130552, 32.51705413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市敷川内町上割２２９３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60126832, 32.46082556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町豊福1683-1" }, "geometry": { "type": "Point", "coordinates": [ 130.700062839999987, 32.63839316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡玉東町上木葉62-1" }, "geometry": { "type": "Point", "coordinates": [ 130.63562958, 32.91854209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市画図町下無田1149-1" }, "geometry": { "type": "Point", "coordinates": [ 130.73541694, 32.75575929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市御領1丁目834" }, "geometry": { "type": "Point", "coordinates": [ 130.75968434, 32.8173189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出仲間1-4-35" }, "geometry": { "type": "Point", "coordinates": [ 130.71007154, 32.7725221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市武蔵ヶ丘3-9-1" }, "geometry": { "type": "Point", "coordinates": [ 130.76713620000001, 32.85268722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市幾久富1600-2" }, "geometry": { "type": "Point", "coordinates": [ 130.78148434, 32.87825635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市大字杉740-1" }, "geometry": { "type": "Point", "coordinates": [ 130.682093830000014, 33.03904938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市一の宮町宮地１９０４" }, "geometry": { "type": "Point", "coordinates": [ 131.11795852, 32.94878348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市内牧１２０" }, "geometry": { "type": "Point", "coordinates": [ 131.04442837, 32.97499979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市横島町横島１０３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.53903767, 32.87450594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市大倉１５４１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.569217470000012, 32.92480473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市繁根木４１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.556044789999987, 32.92843994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町関下２０９７" }, "geometry": { "type": "Point", "coordinates": [ 130.550731899999988, 33.05444448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市桜木６−２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.777879680000012, 32.78985036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市天草町高浜南２７３５" }, "geometry": { "type": "Point", "coordinates": [ 129.995090440000013, 32.37268381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市竜田町弓削１０４３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.77254793, 32.85091621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市両迫間634" }, "geometry": { "type": "Point", "coordinates": [ 130.579996599999987, 32.93820272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市姫戸町姫浦９０６" }, "geometry": { "type": "Point", "coordinates": [ 130.410646469999989, 32.43675504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市港町１７−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.19525682, 32.45594687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町維和１２９６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46541403, 32.56436816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡城南町隈庄３８２" }, "geometry": { "type": "Point", "coordinates": [ 130.72817569, 32.70283642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字津久礼２５３８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.80273007, 32.85993122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町大字西照寺６７８" }, "geometry": { "type": "Point", "coordinates": [ 130.51315865, 32.93944578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町馬水６６１−４" }, "geometry": { "type": "Point", "coordinates": [ 130.80548488, 32.7859943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市蟹作町274-3" }, "geometry": { "type": "Point", "coordinates": [ 130.78179932, 32.19672237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町内田９７" }, "geometry": { "type": "Point", "coordinates": [ 130.65724261, 32.56717499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市宮内出目125-1" }, "geometry": { "type": "Point", "coordinates": [ 130.43132885, 32.98873271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市築地436-1" }, "geometry": { "type": "Point", "coordinates": [ 130.5245162, 32.93153855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市湖東2-3-1" }, "geometry": { "type": "Point", "coordinates": [ 130.744475310000013, 32.77990529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市天水町部田見2305-1" }, "geometry": { "type": "Point", "coordinates": [ 130.58172253, 32.87264902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿本町御宇田36" }, "geometry": { "type": "Point", "coordinates": [ 130.72955284, 33.00271969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市高植本町１０６１" }, "geometry": { "type": "Point", "coordinates": [ 130.5866116, 32.47101293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市南平和町１７" }, "geometry": { "type": "Point", "coordinates": [ 130.55657172, 32.48516935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町野出９４８" }, "geometry": { "type": "Point", "coordinates": [ 130.621941279999987, 32.83632692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市横手新町7-10" }, "geometry": { "type": "Point", "coordinates": [ 130.60023411, 32.52020281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡相良村柳瀬１２４" }, "geometry": { "type": "Point", "coordinates": [ 130.79240614, 32.22527746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市龍田２−１９−２７" }, "geometry": { "type": "Point", "coordinates": [ 130.75692741, 32.83317633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市花園町５１７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.69389433, 32.67768316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市改寄町１７７２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.709372660000014, 32.89702973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市黒川１５５２" }, "geometry": { "type": "Point", "coordinates": [ 131.05838401, 32.93502851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市城塚町１７６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.61404775, 32.6982285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡苓北町上津深江３９０" }, "geometry": { "type": "Point", "coordinates": [ 130.07040865, 32.51973761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市須屋７１５" }, "geometry": { "type": "Point", "coordinates": [ 130.730699859999987, 32.86055845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市黒川８７-1" }, "geometry": { "type": "Point", "coordinates": [ 131.07543605, 32.93466267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町松橋１３２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67413231, 32.65357569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡湯前町中里２８５０" }, "geometry": { "type": "Point", "coordinates": [ 130.97917676, 32.28310548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市わらび野２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.41091255, 32.21099671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市立岡町７８２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.68649416, 32.6702884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市尾ノ上１−５−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.750239060000013, 32.78829998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市蓮台寺４−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.68798246, 32.77587713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市南熊本３−６−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.71320791, 32.78631824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県菊池市隈府４３９" }, "geometry": { "type": "Point", "coordinates": [ 130.804202909999987, 32.97992408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県八代市弥生町６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.61416261, 32.50156793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県人吉市中青井町３７３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.751206989999986, 32.21332322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県天草市港町６−８" }, "geometry": { "type": "Point", "coordinates": [ 130.19972963, 32.45510099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県天草市牛深町２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.019908030000011, 32.22096935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市田井島１−８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.72381882, 32.76892273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県阿蘇郡小国町大字宮原２７５６" }, "geometry": { "type": "Point", "coordinates": [ 131.05794481, 33.11805596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名郡長洲町清源寺６２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.458190480000013, 32.92258446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県八代市新開町３−８０" }, "geometry": { "type": "Point", "coordinates": [ 130.57464829, 32.50769963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市上熊本２−８−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.701430460000012, 32.81141301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市高平３−４１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.71970969, 32.83775798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県天草市港町１８−６" }, "geometry": { "type": "Point", "coordinates": [ 130.19613462, 32.45659307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名市岱明町下前原６１７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.52229847000001, 32.92778709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市戸島西４丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 130.78529999, 32.81499382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市新開町３−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.578696040000011, 32.50904759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町大野下１０７１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.50042528, 32.91367421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市池田３丁目１−４６" }, "geometry": { "type": "Point", "coordinates": [ 130.70951113000001, 32.83413083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市千丁町太牟田２２９０−２０" }, "geometry": { "type": "Point", "coordinates": [ 130.64337218, 32.55331356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市梶尾町２７８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.72246727000001, 32.87418107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市打越町４０−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.71671584, 32.83110778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町大字多良木２８４３" }, "geometry": { "type": "Point", "coordinates": [ 130.93057187, 32.25841639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市富合町古閑９５０" }, "geometry": { "type": "Point", "coordinates": [ 130.674756339999988, 32.71118755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市楠浦町１０２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20683767, 32.4276054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市野々島２４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.73257426, 32.88982307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市城之浦町２４６" }, "geometry": { "type": "Point", "coordinates": [ 130.66499801, 32.69030919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代郡氷川町鹿野３５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.66803669, 32.59287899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡五木村小鶴１５３７" }, "geometry": { "type": "Point", "coordinates": [ 130.77504094, 32.44706639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市松島町合津３２０３" }, "geometry": { "type": "Point", "coordinates": [ 130.426881619999989, 32.50185408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市龍ヶ岳町高戸３２２６−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.40023936, 32.39933442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市龍ヶ岳町樋島４２１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.40820897, 32.3914926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市倉岳町棚底２４５１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.338585740000013, 32.40781912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市栖本町馬場９３" }, "geometry": { "type": "Point", "coordinates": [ 130.270961019999987, 32.41907311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡苓北町都呂々５−７" }, "geometry": { "type": "Point", "coordinates": [ 130.038822, 32.47248639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町崎津６６４" }, "geometry": { "type": "Point", "coordinates": [ 130.02379034, 32.31381857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市龍田６丁目９−４８" }, "geometry": { "type": "Point", "coordinates": [ 130.758309340000011, 32.83541242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市横島町横島１６０７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.55124715, 32.8808804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市河浦町崎津１１５７" }, "geometry": { "type": "Point", "coordinates": [ 130.02729951, 32.31556817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市下南部３丁目４８０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.75559074, 32.82197227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市倉岳町宮田１１１７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.304362489999988, 32.39788505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市十禅寺３丁目１−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.697953680000012, 32.77898844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市本荘町７２１−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.7017061, 32.78458218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市高下西町１３５４" }, "geometry": { "type": "Point", "coordinates": [ 130.608791380000014, 32.49106565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市中北町３５６３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.58099995, 32.49657453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町大字上坂下３５５２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.55963405, 33.01566737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市上林町７４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.74303156, 32.22818874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町大字多良木１３８３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.93218273, 32.25935135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市鶴羽田町５９９" }, "geometry": { "type": "Point", "coordinates": [ 130.72612913, 32.85520377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市荒尾４１６０−２５０" }, "geometry": { "type": "Point", "coordinates": [ 130.469535830000012, 32.98449803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市松原町１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.66391196, 32.69072579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市蛇籠町４−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.59145214, 32.50434476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡高森町大字永野原６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 131.22459448, 32.78916694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市平山２２６７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.48032016, 32.98932244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市花立２丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.77459005, 32.78065055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市下原田町４１７−４" }, "geometry": { "type": "Point", "coordinates": [ 130.731494, 32.23082329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市走潟町１２０６" }, "geometry": { "type": "Point", "coordinates": [ 130.6478296, 32.69990254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市港町１６−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.1955735, 32.45546446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市宮地岳町２７１７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.12652093, 32.3893694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鍋田７３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.66876915, 33.01794902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市久玉町８２６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.02341869, 32.21970543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市浦田町１４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.65725882000001, 32.68642876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市大倉５１１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.5816558, 32.92131655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市三角町前越１７８１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51752467, 32.62497352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市不知火町永尾３５３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.61652099, 32.6328965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城南町隈庄８７７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.736007519999987, 32.70703657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町馬場６９８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.79143568, 32.64178299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町鍋１８０３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.49031649, 32.90484397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土市網津町１５５４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.60664755, 32.69997027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市岡町谷川１０１８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.663434059999986, 32.53087422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市川田町東１０４８−６" }, "geometry": { "type": "Point", "coordinates": [ 130.65662463000001, 32.52011505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市郡築一番町６３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.57532523, 32.51204937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市高下西町１４４１" }, "geometry": { "type": "Point", "coordinates": [ 130.6074179, 32.48910503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市日置町６８０" }, "geometry": { "type": "Point", "coordinates": [ 130.62182879, 32.5088576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市楠浦町１０４５" }, "geometry": { "type": "Point", "coordinates": [ 130.20627944, 32.43042562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市太田町２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.19868602, 32.45030422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市下原田町４８９" }, "geometry": { "type": "Point", "coordinates": [ 130.722270619999989, 32.22829861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市川登１７９１" }, "geometry": { "type": "Point", "coordinates": [ 130.46524399, 32.97503134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県水俣市袋８９１" }, "geometry": { "type": "Point", "coordinates": [ 130.38340158, 32.17910129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市高瀬３９５" }, "geometry": { "type": "Point", "coordinates": [ 130.56060808, 32.92897781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町江田４００１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.60625133, 32.98056581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市上薩摩瀬町１４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.73963858, 32.21412909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市東陽町南１０４５" }, "geometry": { "type": "Point", "coordinates": [ 130.714252179999988, 32.54758763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名市岱明町開田４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51608662000001, 32.93631852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡南阿蘇村大字河陽４３１７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.996259040000012, 32.86892835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡御船町大字豊秋５９７" }, "geometry": { "type": "Point", "coordinates": [ 130.76587373000001, 32.72581802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡嘉島町大字鯰１８４８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.73882353, 32.74546508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字広崎３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.79265632, 32.78055393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡益城町大字福富７２２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.796282170000012, 32.78161772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町大字下城６８０" }, "geometry": { "type": "Point", "coordinates": [ 131.05652874, 33.14892951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市東陽町北３８０４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.72324286, 32.54891175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県合志市須屋２０２２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.73496103, 32.8648573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町大字田浦町１１９０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.5105235, 32.3642044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡芦北町大字花岡１８２４" }, "geometry": { "type": "Point", "coordinates": [ 130.499130470000011, 32.30661305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県葦北郡津奈木町大字津奈木１２３８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.46436936, 32.23379901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡あさぎり町免田東１６４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.88550134, 32.23614196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市鏡町鏡村５６７" }, "geometry": { "type": "Point", "coordinates": [ 130.66320729, 32.56667525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字杉水１１５５" }, "geometry": { "type": "Point", "coordinates": [ 130.844872110000011, 32.91002419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡和水町高野１３０９" }, "geometry": { "type": "Point", "coordinates": [ 130.63198275, 33.00042088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町大字関町１７６３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.54947015, 33.06194099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿北町四丁１６３０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.69381338, 33.10668933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町上古閑８７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.660851830000013, 32.88025927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇郡小国町大字宮原１８１４−１" }, "geometry": { "type": "Point", "coordinates": [ 131.06215986, 33.12391941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字杉水４８５" }, "geometry": { "type": "Point", "coordinates": [ 130.84266548, 32.92103849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡玉東町大字木葉１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.61796984, 32.91845962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字室２２０−３" }, "geometry": { "type": "Point", "coordinates": [ 130.86363035, 32.8757144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡大津町大字室１５１５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.854776570000013, 32.88918937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字辛川４９６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.830473430000012, 32.83750102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字久保田２８８６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.831346919999987, 32.86557424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字津久礼２４２８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.801209230000012, 32.86007352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字戸次１３６４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.864007289999989, 32.83683833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町大字原水２９０５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.84758903, 32.87376237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市植木町滴水３８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.69070922, 32.8922075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市上南部３丁目３０−４７" }, "geometry": { "type": "Point", "coordinates": [ 130.77669437, 32.83678461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市旭中央通１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.610601519999989, 32.50378229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市本山４丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.701151689999989, 32.78912796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市新町２丁目３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.698764970000013, 32.799661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出町７−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.710068510000013, 32.82754755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市本荘５丁目１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.70741003, 32.7934359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市南熊本３丁目１１−９" }, "geometry": { "type": "Point", "coordinates": [ 130.71146636, 32.78673485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市出水３丁目１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.73346034, 32.7837507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市若葉４丁目２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.763508980000012, 32.77160641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市河内町船津２４６９" }, "geometry": { "type": "Point", "coordinates": [ 130.58992066, 32.82875751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺東５丁目１９−２２" }, "geometry": { "type": "Point", "coordinates": [ 130.77878428, 32.82599852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市長嶺南５丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 130.77947977, 32.80674751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市近見７丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 130.69167866, 32.76028243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市南高江１丁目１０−３２" }, "geometry": { "type": "Point", "coordinates": [ 130.68229281, 32.75600048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市武蔵ケ丘１丁目１４０１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.767261459999986, 32.8509435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市八王寺町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.71437488, 32.78290372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市龍田７丁目３６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.76303289, 32.84156124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市黒川１８０７" }, "geometry": { "type": "Point", "coordinates": [ 131.05011357, 32.9360743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市小川町河江１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.705588690000013, 32.59591621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県荒尾市野原１２５" }, "geometry": { "type": "Point", "coordinates": [ 130.475178379999988, 32.9597555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県荒尾市原万田２１３−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.44707422, 32.97265335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名市岩崎１０２２" }, "geometry": { "type": "Point", "coordinates": [ 130.558123020000011, 32.93062985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名市繁根木５２５" }, "geometry": { "type": "Point", "coordinates": [ 130.559476389999986, 32.92605423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市琴平１丁目９−３６" }, "geometry": { "type": "Point", "coordinates": [ 130.707380550000011, 32.78749585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名郡長洲町大字長洲１１５３" }, "geometry": { "type": "Point", "coordinates": [ 130.442328049999986, 32.9328804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県玉名郡長洲町大字長洲１５７８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.44135318, 32.93157217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県八代市大手町２丁目４−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.61161426000001, 32.50761195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市横手４丁目５−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.68937888, 32.80242492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市高平１丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.71070735, 32.83072974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市鶴羽田町３１０" }, "geometry": { "type": "Point", "coordinates": [ 130.72476751, 32.86226145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市萩原町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.70846129, 32.77941614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市坪井６丁目１９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.71675149, 32.81735138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市高橋町１丁目５−７" }, "geometry": { "type": "Point", "coordinates": [ 130.657023579999986, 32.78471509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県荒尾市増永１１４８" }, "geometry": { "type": "Point", "coordinates": [ 130.43633415, 32.96893024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県人吉市駒井田町１０５７" }, "geometry": { "type": "Point", "coordinates": [ 130.75729314, 32.21746976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県人吉市紺屋町２１" }, "geometry": { "type": "Point", "coordinates": [ 130.75998445, 32.21522553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県菊池郡菊陽町大字原水２０８６−７" }, "geometry": { "type": "Point", "coordinates": [ 130.82689851, 32.87035036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市黒髪６丁目８−３８" }, "geometry": { "type": "Point", "coordinates": [ 130.735067750000013, 32.81513666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県菊池市隈府西正観寺１０２１" }, "geometry": { "type": "Point", "coordinates": [ 130.8133956, 32.98220383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県人吉市合ノ原町４９８−８" }, "geometry": { "type": "Point", "coordinates": [ 130.74364388, 32.23813398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市花園２丁目１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.69472409, 32.81491491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県荒尾市川登１８２３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.46651981, 32.97906123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県荒尾市大島１０３８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.43021196, 32.99587777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代郡氷川町宮原栄久８６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.68287034, 32.55707749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代郡氷川町立神１８５２" }, "geometry": { "type": "Point", "coordinates": [ 130.70026102, 32.55109883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県球磨郡多良木町大字久米５１８" }, "geometry": { "type": "Point", "coordinates": [ 130.96420335, 32.25422673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県宇城市小川町新田出２３０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.67788941, 32.60979131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県球磨郡あさぎり町上北２７７−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.8943195, 32.23374497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市八反田３丁目１５−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.767615049999989, 32.82144866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県天草市御所浦町御所浦下脇２８８２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.35583474, 32.35069468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代市新町７−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.60948388, 32.50628974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代市豊原上町２９２８" }, "geometry": { "type": "Point", "coordinates": [ 130.62383895, 32.48954188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県荒尾市大島町３丁目３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.43038126, 32.99617463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代市揚町１２１" }, "geometry": { "type": "Point", "coordinates": [ 130.59657582, 32.47394951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市田崎本町３−２６" }, "geometry": { "type": "Point", "coordinates": [ 130.68755771, 32.78473647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県合志市幾久富１８６６−３２２" }, "geometry": { "type": "Point", "coordinates": [ 130.77712735, 32.86711992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県菊池郡大津町大字室１３９１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.85484661000001, 32.88616054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県菊池市七城町林原１１１６" }, "geometry": { "type": "Point", "coordinates": [ 130.74484725, 32.96275623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県宇城市三角町中村１０４" }, "geometry": { "type": "Point", "coordinates": [ 130.51757281, 32.63361769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県天草市船之尾町２−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.18780451, 32.45777908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県天草市大浜町４−１９" }, "geometry": { "type": "Point", "coordinates": [ 130.18896005, 32.46012989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県玉名市繁根木２３９" }, "geometry": { "type": "Point", "coordinates": [ 130.55611256, 32.9265736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県宇土市石橋町１４２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.64283613, 32.67856271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県菊池市隈府中央通２７４−３" }, "geometry": { "type": "Point", "coordinates": [ 130.808733030000013, 32.98120744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県上天草市龍ヶ岳町大道２０２０" }, "geometry": { "type": "Point", "coordinates": [ 130.35563242, 32.382293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県天草市浄南町２−７" }, "geometry": { "type": "Point", "coordinates": [ 130.194315460000013, 32.45199628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県八代市新港町２丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 130.55206481, 32.5238733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市植木町舞尾５９３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.690076979999986, 32.8982439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市花立２丁目７−５" }, "geometry": { "type": "Point", "coordinates": [ 130.77517236, 32.78227217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "熊本県熊本市徳王２丁目７−８２" }, "geometry": { "type": "Point", "coordinates": [ 130.708610279999988, 32.84409352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県人吉市宝来町１３０２" }, "geometry": { "type": "Point", "coordinates": [ 130.7483776, 32.21145357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市田迎町大字田井島２５９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.727608339999989, 32.76435726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町上寺４５" }, "geometry": { "type": "Point", "coordinates": [ 130.97766375, 32.7016765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡矢部町杉木３７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.97810567, 32.70491541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市有明町上津浦１２４０" }, "geometry": { "type": "Point", "coordinates": [ 130.29336909, 32.49069965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県八代市千丁町新牟田３７０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.64299595, 32.53686982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇土郡不知火町高良１８５１−７" }, "geometry": { "type": "Point", "coordinates": [ 130.66055764, 32.64533228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県宇城市松橋町浦川内１２４４−６" }, "geometry": { "type": "Point", "coordinates": [ 130.715219170000012, 32.64897504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池郡菊陽町原水4414−1" }, "geometry": { "type": "Point", "coordinates": [ 130.83333789, 32.88243885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市大字北宮字北田３３８" }, "geometry": { "type": "Point", "coordinates": [ 130.80873816, 32.97467078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡湯前町２５８６−１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.98619772, 32.27957506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡免田町甲２６３７−９" }, "geometry": { "type": "Point", "coordinates": [ 130.90197894, 32.23971628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡菊水町江田４３５０" }, "geometry": { "type": "Point", "coordinates": [ 130.604269929999987, 32.97631327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡菊水町焼米３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.64600207, 33.00143726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市今町３８８" }, "geometry": { "type": "Point", "coordinates": [ 131.06970619, 32.97196663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市的石１５３７" }, "geometry": { "type": "Point", "coordinates": [ 131.007383409999989, 32.92722428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県阿蘇市内牧２９４" }, "geometry": { "type": "Point", "coordinates": [ 131.038658129999988, 32.97513374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県下益城郡美里町萱野１５３２" }, "geometry": { "type": "Point", "coordinates": [ 130.80515351, 32.63306134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県球磨郡多良木町多良木５６３" }, "geometry": { "type": "Point", "coordinates": [ 130.93925481, 32.26433515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町大字関町1482-4" }, "geometry": { "type": "Point", "coordinates": [ 130.54438066, 33.05645898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県玉名郡南関町大字上長田６７０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.52857548, 33.02651501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市坪井6-619" }, "geometry": { "type": "Point", "coordinates": [ 130.718437779999988, 32.818914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市飛田町７８７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.70981902, 32.85718624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県荒尾市下井手深瀬２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.461208660000011, 33.00094923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市鹿校2-4-33" }, "geometry": { "type": "Point", "coordinates": [ 130.705432980000012, 33.00973883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県山鹿市南島１２７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.68544572, 33.00743412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上益城郡山都町島木５４６９-５" }, "geometry": { "type": "Point", "coordinates": [ 130.91358642, 32.71107306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県上天草市大矢野町中３００８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.40893416, 32.566171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草市御所浦町御所浦3881-11" }, "geometry": { "type": "Point", "coordinates": [ 130.33809491, 32.33837218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県熊本市城山上代町字高畑２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.67348106, 32.77910377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県鹿本郡鹿北町岩野１１５" }, "geometry": { "type": "Point", "coordinates": [ 130.69034668, 33.11034847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡五和町御領６４４１" }, "geometry": { "type": "Point", "coordinates": [ 130.18935989, 32.51321795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡倉岳町宮田１２２２" }, "geometry": { "type": "Point", "coordinates": [ 130.30730996, 32.39776861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県天草郡龍ヶ岳町樋島３５０５" }, "geometry": { "type": "Point", "coordinates": [ 130.4111131, 32.39434079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県本渡市亀場町食場740" }, "geometry": { "type": "Point", "coordinates": [ 130.178305959999989, 32.43543421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県阿蘇郡高森町高森１５７７" }, "geometry": { "type": "Point", "coordinates": [ 131.12641086, 32.82006053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県阿蘇市一の宮町宮地４７３２" }, "geometry": { "type": "Point", "coordinates": [ 131.11969398, 32.93723926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県阿蘇市黒川１４９９" }, "geometry": { "type": "Point", "coordinates": [ 131.0804678, 32.93520951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県宇土市三拾町野原１５６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.67005308, 32.69321707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県球磨郡あさぎり町免田築地４１７０−１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.913967539999987, 32.24755378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県熊本市長嶺町大峰２０４２−５３" }, "geometry": { "type": "Point", "coordinates": [ 130.78007631, 32.80777761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県山鹿市古閑字辻１３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.71413923, 33.00708603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県人吉市中青井町字間町４０４−２" }, "geometry": { "type": "Point", "coordinates": [ 130.749255760000011, 32.21312366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "熊本県水俣市長野町５３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.42754342, 32.19750391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "熊本県菊池市旭志伊萩３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.85410503, 32.94754984 ] } }
+
+]
+}

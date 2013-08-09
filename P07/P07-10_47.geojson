@@ -1,0 +1,954 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡八重瀬町字東風平１０２５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.71594292, 26.15086191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市高良３丁目１１−４" }, "geometry": { "type": "Point", "coordinates": [ 127.65837017, 26.18903073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡与那国町与那国４６６８−１" }, "geometry": { "type": "Point", "coordinates": [ 122.99144343, 24.46649159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字保栄茂５７６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.68902502, 26.16139842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字与根３２１−７" }, "geometry": { "type": "Point", "coordinates": [ 127.66391829, 26.16471209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字喜屋武２７８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.84537671, 26.36097977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字具志川１４６０" }, "geometry": { "type": "Point", "coordinates": [ 127.87073315, 26.3486907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字天願前原１３６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.85891341, 26.38553315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市石川伊波３０９" }, "geometry": { "type": "Point", "coordinates": [ 127.82341547, 26.41442451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市経塚４５７" }, "geometry": { "type": "Point", "coordinates": [ 127.71905748, 26.23390243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市西原２４４５" }, "geometry": { "type": "Point", "coordinates": [ 127.74056369, 26.25651574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市西洲２−１−７" }, "geometry": { "type": "Point", "coordinates": [ 127.68935417, 26.24986538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市仲間１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 127.71963342, 26.24771225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市仲西３５６−２" }, "geometry": { "type": "Point", "coordinates": [ 127.69826604, 26.24775589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市内間１−２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.70875911, 26.23970317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市牧港４丁目８番１号" }, "geometry": { "type": "Point", "coordinates": [ 127.72765709, 26.26701744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市胡屋５−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.80783097, 26.33049282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字古謝上原１１２１" }, "geometry": { "type": "Point", "coordinates": [ 127.82626761, 26.3433818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字知花１７６" }, "geometry": { "type": "Point", "coordinates": [ 127.81311569, 26.36082588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字知花２５９１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.81652799, 26.36693036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字泡瀬４−３０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.82996158, 26.31590536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市上地３−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.79073691, 26.3356044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市上地４−２３−２２" }, "geometry": { "type": "Point", "coordinates": [ 127.79277797, 26.3363823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市八重島２−７−２" }, "geometry": { "type": "Point", "coordinates": [ 127.80244018, 26.34731225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市美里１１０２−２" }, "geometry": { "type": "Point", "coordinates": [ 127.81932791, 26.34729581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市明道１−２３−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.82395876, 26.35377605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市伊佐３丁目９番１号" }, "geometry": { "type": "Point", "coordinates": [ 127.75519159, 26.29046634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市我如古１−８−１８" }, "geometry": { "type": "Point", "coordinates": [ 127.74886456, 26.25829079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市宜野湾３−４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75849023, 26.25950805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市字宜野湾２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75526952, 26.26482794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市上原１−３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.77654561, 26.27644462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市大山６丁目６番２号" }, "geometry": { "type": "Point", "coordinates": [ 127.74093783, 26.27499934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市野嵩３−３３−２" }, "geometry": { "type": "Point", "coordinates": [ 127.78610074, 26.28718327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市伊良部字前田添１４８−１４" }, "geometry": { "type": "Point", "coordinates": [ 125.21309806, 24.84184616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市伊良部字仲地１６９" }, "geometry": { "type": "Point", "coordinates": [ 125.17337968, 24.82049085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市城辺字砂川９８０−１" }, "geometry": { "type": "Point", "coordinates": [ 125.35175067, 24.73107135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市城辺字福里６２４" }, "geometry": { "type": "Point", "coordinates": [ 125.39158512, 24.75382342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良下里９０５" }, "geometry": { "type": "Point", "coordinates": [ 125.28268489, 24.79710003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良字池間２７７" }, "geometry": { "type": "Point", "coordinates": [ 125.24377897, 24.92688907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良西里２０４１−１" }, "geometry": { "type": "Point", "coordinates": [ 125.32593726, 24.77311982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良西里４０１−１" }, "geometry": { "type": "Point", "coordinates": [ 125.28393753, 24.80325739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良西里８４１−３" }, "geometry": { "type": "Point", "coordinates": [ 125.29603863, 24.79773596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡恩納村字山田２３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.77830941, 26.42927939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡恩納村前兼久９５９" }, "geometry": { "type": "Point", "coordinates": [ 127.80491336, 26.4510265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡国頭村字安波２７３−２" }, "geometry": { "type": "Point", "coordinates": [ 128.28631051, 26.71588407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡国頭村半地３４４" }, "geometry": { "type": "Point", "coordinates": [ 128.16436613, 26.72592551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡今帰仁村字謝名６２０" }, "geometry": { "type": "Point", "coordinates": [ 127.96556205, 26.68683696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡今帰仁村湧川２０２０−２０" }, "geometry": { "type": "Point", "coordinates": [ 127.98249319, 26.64955237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡東村字有銘６９−１" }, "geometry": { "type": "Point", "coordinates": [ 128.12433415000001, 26.60628562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町伊野波２６０番地" }, "geometry": { "type": "Point", "coordinates": [ 127.90445633, 26.65679934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町浜元２３４" }, "geometry": { "type": "Point", "coordinates": [ 127.89117811, 26.67382381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市兼城４７１−３" }, "geometry": { "type": "Point", "coordinates": [ 127.67079249, 26.13869938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市糸満１９４３" }, "geometry": { "type": "Point", "coordinates": [ 127.66672879, 26.13037153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字伊原間９３" }, "geometry": { "type": "Point", "coordinates": [ 124.28414451, 24.5109156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字宮良南端１０５４−４" }, "geometry": { "type": "Point", "coordinates": [ 124.20653461, 24.35697861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字新栄町１２" }, "geometry": { "type": "Point", "coordinates": [ 124.15418677, 24.34293787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字新栄町２８−２" }, "geometry": { "type": "Point", "coordinates": [ 124.15058234, 24.34627762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字新川川花４２２−１" }, "geometry": { "type": "Point", "coordinates": [ 124.15076304, 24.35190858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字石垣平川１５７−１０" }, "geometry": { "type": "Point", "coordinates": [ 124.15818198, 24.34810662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字川平内原８５３" }, "geometry": { "type": "Point", "coordinates": [ 124.13911617, 24.46269161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字登野城６５５−３" }, "geometry": { "type": "Point", "coordinates": [ 124.16594984, 24.33768346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字登野城６９" }, "geometry": { "type": "Point", "coordinates": [ 124.16014136, 24.33809228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字白保東嘉手苅７６３−４" }, "geometry": { "type": "Point", "coordinates": [ 124.24432391, 24.35665587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字兼久１７４−２" }, "geometry": { "type": "Point", "coordinates": [ 127.7656567, 26.22037175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字内間５２５−２" }, "geometry": { "type": "Point", "coordinates": [ 127.76999105, 26.23667872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村伊良皆２４０" }, "geometry": { "type": "Point", "coordinates": [ 127.75558508, 26.38066683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村楚辺１１３９" }, "geometry": { "type": "Point", "coordinates": [ 127.74104438, 26.38451648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村都屋２７９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72917639, 26.3896681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町北前１丁目２０番１" }, "geometry": { "type": "Point", "coordinates": [ 127.75864621, 26.30148364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北中城村瑞慶覧６４０" }, "geometry": { "type": "Point", "coordinates": [ 127.78307412, 26.30922012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡伊平屋村前泊１９２" }, "geometry": { "type": "Point", "coordinates": [ 127.97017646, 27.03985093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡久米島町儀間東大川２６５６−１" }, "geometry": { "type": "Point", "coordinates": [ 126.77232444, 26.33398691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡久米島町大田３３２−１" }, "geometry": { "type": "Point", "coordinates": [ 126.75309669, 26.34351271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡久米島町比嘉２２０" }, "geometry": { "type": "Point", "coordinates": [ 126.79820549, 26.33560481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町字兼城１２７" }, "geometry": { "type": "Point", "coordinates": [ 127.72673844, 26.19513549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町字兼城２６５" }, "geometry": { "type": "Point", "coordinates": [ 127.72921358, 26.19614798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町照屋３２９" }, "geometry": { "type": "Point", "coordinates": [ 127.72648856, 26.18397371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町与那覇５２７" }, "geometry": { "type": "Point", "coordinates": [ 127.74033656, 26.20003903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡北大東村中野２４６" }, "geometry": { "type": "Point", "coordinates": [ 131.30500987, 25.94527129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡与那原町字与那原１３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.76369839, 26.20002862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡与那原町与那原１１７６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75910857, 26.21052019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市安謝６１９−２７" }, "geometry": { "type": "Point", "coordinates": [ 127.69586025, 26.23834512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市具志１−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.65602527, 26.18342389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市港町３丁目２番１号" }, "geometry": { "type": "Point", "coordinates": [ 127.67943906, 26.24357686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市国場５１３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.70119641, 26.19889236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市山下町２−２４" }, "geometry": { "type": "Point", "coordinates": [ 127.66887493, 26.20397719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字古島４５３−２" }, "geometry": { "type": "Point", "coordinates": [ 127.71175653, 26.22603182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字仲井真３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.70792607, 26.19059463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里崎山町３−９７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72322457, 26.21152794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里桃原町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 127.71524011, 26.22325842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市小禄６２４" }, "geometry": { "type": "Point", "coordinates": [ 127.67506621, 26.19117899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市松川１−１−７" }, "geometry": { "type": "Point", "coordinates": [ 127.7005876, 26.21528402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市松川３丁目１６番１号" }, "geometry": { "type": "Point", "coordinates": [ 127.70794364, 26.21657253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市上之屋３４１−３７" }, "geometry": { "type": "Point", "coordinates": [ 127.68606342, 26.22891186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市西２−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 127.66907734, 26.21248457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市前島３丁目２２−８" }, "geometry": { "type": "Point", "coordinates": [ 127.68126321, 26.2231868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市大道７５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.69878108, 26.22150407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市田原１−３−２" }, "geometry": { "type": "Point", "coordinates": [ 127.67017772, 26.19880372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市泊１丁目３番５" }, "geometry": { "type": "Point", "coordinates": [ 127.68809811, 26.22144549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市繁多川２−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.71153107, 26.21044837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市与儀２−２１−８" }, "geometry": { "type": "Point", "coordinates": [ 127.69339964, 26.20135022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県南城市大里字大里富原２６５１−５" }, "geometry": { "type": "Point", "coordinates": [ 127.74820165, 26.18448836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字南風見２０１−３８" }, "geometry": { "type": "Point", "coordinates": [ 123.8792836, 24.27355741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡与那国町字与那国祖納１０" }, "geometry": { "type": "Point", "coordinates": [ 123.00221529, 24.46816562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字豊崎３−４０" }, "geometry": { "type": "Point", "coordinates": [ 127.65476866, 26.1583373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市真玉橋２９５" }, "geometry": { "type": "Point", "coordinates": [ 127.68752346, 26.19093952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市名嘉地３８７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.66365028, 26.18099289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市饒波１１１５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.70043349, 26.18192015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字為又８５９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.98043735, 26.60755891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字許田５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.97082921, 26.55272217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字世富慶８１０" }, "geometry": { "type": "Point", "coordinates": [ 127.99271643, 26.57080979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字東江４−２−６" }, "geometry": { "type": "Point", "coordinates": [ 127.985299, 26.58556077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市大北３−１−７６" }, "geometry": { "type": "Point", "coordinates": [ 127.9963256, 26.6006712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市大北４−２１−５" }, "geometry": { "type": "Point", "coordinates": [ 127.9916707, 26.60786192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字赤道１７３−５" }, "geometry": { "type": "Point", "coordinates": [ 127.82939344, 26.3530873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市与那城屋慶名１９５０" }, "geometry": { "type": "Point", "coordinates": [ 127.91486553, 26.32040631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市与那城西原９９３" }, "geometry": { "type": "Point", "coordinates": [ 127.88681963, 26.3268541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市前田３−１−７" }, "geometry": { "type": "Point", "coordinates": [ 127.73776876, 26.24735648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市前田４−５−７" }, "geometry": { "type": "Point", "coordinates": [ 127.73615867, 26.23724589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市牧港３丁目４０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73029835, 26.25576115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市園田３−９−１６" }, "geometry": { "type": "Point", "coordinates": [ 127.79383851, 26.32682823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字上地３−１２−８" }, "geometry": { "type": "Point", "coordinates": [ 127.79062224, 26.3339388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市字宇地泊１８１−７" }, "geometry": { "type": "Point", "coordinates": [ 127.73194278, 26.26864409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市新城１丁目８−３" }, "geometry": { "type": "Point", "coordinates": [ 127.77322821, 26.28701768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市赤道２−５−２" }, "geometry": { "type": "Point", "coordinates": [ 127.77090612, 26.27122291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町山川１４７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.88600636, 26.6803568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町嘉手苅１１４" }, "geometry": { "type": "Point", "coordinates": [ 127.76597914, 26.22549384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字南上原９６５" }, "geometry": { "type": "Point", "coordinates": [ 127.76995703, 26.24578237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町浜川千原８−１０" }, "geometry": { "type": "Point", "coordinates": [ 127.75191734, 26.32829806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市おもろ町４−２０−２２" }, "geometry": { "type": "Point", "coordinates": [ 127.70109881, 26.22740437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市国場１０８４番地" }, "geometry": { "type": "Point", "coordinates": [ 127.6964346, 26.19664752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里汀良町３丁目１０３" }, "geometry": { "type": "Point", "coordinates": [ 127.729357, 26.22076215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里平良町１−２９" }, "geometry": { "type": "Point", "coordinates": [ 127.72215392, 26.22963597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市上間２７４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.71720823, 26.19766009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字伊良波１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.66741292, 26.17013517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字我那覇６４３" }, "geometry": { "type": "Point", "coordinates": [ 127.67008698, 26.17669199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市屋部３１７" }, "geometry": { "type": "Point", "coordinates": [ 127.94926385, 26.60327816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市宮里３丁目２５−１０" }, "geometry": { "type": "Point", "coordinates": [ 127.96849242, 26.5943644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市仲間３-１-１" }, "geometry": { "type": "Point", "coordinates": [ 127.72621497, 26.24575928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市池原１９８４" }, "geometry": { "type": "Point", "coordinates": [ 127.82822301, 26.3873854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市美里３-９-７" }, "geometry": { "type": "Point", "coordinates": [ 127.81199633, 26.34865892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古郡下地町字洲鎌４９５" }, "geometry": { "type": "Point", "coordinates": [ 125.27812767, 24.74667793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古郡上野村字上野３９３-５" }, "geometry": { "type": "Point", "coordinates": [ 125.31610126, 24.73727064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県具志川市栄野比２１" }, "geometry": { "type": "Point", "coordinates": [ 127.83247351, 26.39153489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県具志川市字豊原７６１-１" }, "geometry": { "type": "Point", "coordinates": [ 127.84995437, 26.34931114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡伊江村字川平１５８-１" }, "geometry": { "type": "Point", "coordinates": [ 127.80715698, 26.70930956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡宜野座村字惣慶１８３０-６" }, "geometry": { "type": "Point", "coordinates": [ 127.97270478, 26.48099918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡国頭村字辺土名１５８１-２" }, "geometry": { "type": "Point", "coordinates": [ 128.176034359999989, 26.74305196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡大宜味村字津波8-2" }, "geometry": { "type": "Point", "coordinates": [ 128.09690973, 26.66137423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町具志堅１５５１-１" }, "geometry": { "type": "Point", "coordinates": [ 127.90665326, 26.69704939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市賀数３４５-１" }, "geometry": { "type": "Point", "coordinates": [ 127.69304946, 26.15259372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市字賀数２４６-４" }, "geometry": { "type": "Point", "coordinates": [ 127.69280499, 26.14820892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市字真栄里９０９-１" }, "geometry": { "type": "Point", "coordinates": [ 127.66872626, 26.11337803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字大浜４８０-１" }, "geometry": { "type": "Point", "coordinates": [ 124.19494388, 24.34234548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字当間５５９-１" }, "geometry": { "type": "Point", "coordinates": [ 127.78874237, 26.2623688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村字伊良皆７２２" }, "geometry": { "type": "Point", "coordinates": [ 127.75526897, 26.39476013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北中城村字仲順２３６−２" }, "geometry": { "type": "Point", "coordinates": [ 127.79741474, 26.30112253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡玉城村字船越１３２１-４" }, "geometry": { "type": "Point", "coordinates": [ 127.75165765, 26.15180729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡具志頭村字大屯１３９７" }, "geometry": { "type": "Point", "coordinates": [ 127.73333574, 26.12937693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡佐敷町字新開１-７" }, "geometry": { "type": "Point", "coordinates": [ 127.77553696, 26.17898837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡大里村字稲嶺２０５３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73961612, 26.16943299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡大里村字古堅１１９０-１" }, "geometry": { "type": "Point", "coordinates": [ 127.74611012, 26.19578068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡東風平町字伊覇４５-１" }, "geometry": { "type": "Point", "coordinates": [ 127.72136145, 26.15689258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南大東村在所１８８" }, "geometry": { "type": "Point", "coordinates": [ 131.23129284, 25.83108107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県平良市字西里１４３４" }, "geometry": { "type": "Point", "coordinates": [ 125.3061901, 24.78858003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市高安1171-1" }, "geometry": { "type": "Point", "coordinates": [ 127.68778308, 26.18609047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市我部祖河１１８０-１" }, "geometry": { "type": "Point", "coordinates": [ 128.000573300000013, 26.61603825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字幸喜１３９０" }, "geometry": { "type": "Point", "coordinates": [ 127.95157242, 26.54145794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市振慶名２００-１" }, "geometry": { "type": "Point", "coordinates": [ 128.00883525, 26.61628892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市饒辺名７７２-１" }, "geometry": { "type": "Point", "coordinates": [ 128.02734831, 26.65341146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町字伊豆味85番地1" }, "geometry": { "type": "Point", "coordinates": [ 127.94879335, 26.65115522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町美浜3丁目1-2" }, "geometry": { "type": "Point", "coordinates": [ 127.75846725, 26.3208732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市古波蔵3丁目1番15号" }, "geometry": { "type": "Point", "coordinates": [ 127.68145577, 26.202093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市辻2丁目29番地" }, "geometry": { "type": "Point", "coordinates": [ 127.66893749, 26.21836869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市東江4丁目22番30号" }, "geometry": { "type": "Point", "coordinates": [ 127.98596979, 26.58117774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市西原２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.85026332, 26.37988511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市石川４３１" }, "geometry": { "type": "Point", "coordinates": [ 127.82509384, 26.42454155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市越来３−８−１６" }, "geometry": { "type": "Point", "coordinates": [ 127.81254391, 26.34633886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市宮里２−１９−２５" }, "geometry": { "type": "Point", "coordinates": [ 127.82159817, 26.33996806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市泡瀬２−５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.83116952, 26.31749307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市我如古２−３６−１０" }, "geometry": { "type": "Point", "coordinates": [ 127.75657459, 26.25443849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市城辺字比嘉８６８−１" }, "geometry": { "type": "Point", "coordinates": [ 125.37936253, 24.7607704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡恩納村字恩納６４９７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.84642201, 26.48388798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡今帰仁村字平敷９５３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.95660637, 26.69297484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市西崎町３−２２１" }, "geometry": { "type": "Point", "coordinates": [ 127.66917715, 26.14507345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市真栄里５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 124.18081041, 24.33792055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字呉屋１０８−２" }, "geometry": { "type": "Point", "coordinates": [ 127.75564685, 26.22725215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村波平８４５" }, "geometry": { "type": "Point", "coordinates": [ 127.72932008, 26.40573759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡八重瀬町長毛２２２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75817638, 26.13141653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市金城３−８−１７" }, "geometry": { "type": "Point", "coordinates": [ 127.66244097, 26.20173302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里石嶺町２−７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72861725, 26.22527577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市松尾１−２０−２２" }, "geometry": { "type": "Point", "coordinates": [ 127.68258836, 26.2109187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市泊２−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.68610062, 26.22383214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県南城市玉城百名５２２" }, "geometry": { "type": "Point", "coordinates": [ 127.79307323, 26.14240085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市高江洲１０８１" }, "geometry": { "type": "Point", "coordinates": [ 127.84114445, 26.3578384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市平良川１４４" }, "geometry": { "type": "Point", "coordinates": [ 127.84956755, 26.36549817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市屋富祖１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.71373216, 26.25075102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市宮城５９０" }, "geometry": { "type": "Point", "coordinates": [ 127.70750634, 26.24606296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市字勢理客４−２−５" }, "geometry": { "type": "Point", "coordinates": [ 127.69166155, 26.24344544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市城間１９８５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.71182935, 26.26160608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市前田３丁目１８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73998877, 26.24291366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市仲間２−５０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72986434, 26.24506639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市牧港５−３−７" }, "geometry": { "type": "Point", "coordinates": [ 127.7169383, 26.26734529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市高原６８３−５" }, "geometry": { "type": "Point", "coordinates": [ 127.8293621, 26.32223066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字高原５−９−９" }, "geometry": { "type": "Point", "coordinates": [ 127.82238773, 26.3231963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市室川１−１９−４０" }, "geometry": { "type": "Point", "coordinates": [ 127.80709663, 26.33142139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市桃原４４１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.82746717, 26.33532975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市泡瀬黒瀬原１４３１−３" }, "geometry": { "type": "Point", "coordinates": [ 127.82977831, 26.31429023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市宇地泊１８７" }, "geometry": { "type": "Point", "coordinates": [ 127.73173648, 26.26818933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市大山３−５−５" }, "geometry": { "type": "Point", "coordinates": [ 127.75162736, 26.28209816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県具志川市江洲３９１" }, "geometry": { "type": "Point", "coordinates": [ 127.82712809, 26.35140594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡宜野座村松田２８４２" }, "geometry": { "type": "Point", "coordinates": [ 127.99288652, 26.50708176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡金武町伊芸２０７" }, "geometry": { "type": "Point", "coordinates": [ 127.88317014, 26.45716039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡今帰仁村仲宗根３７１" }, "geometry": { "type": "Point", "coordinates": [ 127.97753673, 26.68039155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町大浜８５１−９" }, "geometry": { "type": "Point", "coordinates": [ 127.88077654, 26.65384277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市照屋１１９２" }, "geometry": { "type": "Point", "coordinates": [ 127.68704287, 26.13526867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市潮平７７２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67245768, 26.15013094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡嘉手納町水釜１８６" }, "geometry": { "type": "Point", "coordinates": [ 127.7470566, 26.35831131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村喜名４６９" }, "geometry": { "type": "Point", "coordinates": [ 127.75857976, 26.40156575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町砂辺３６５" }, "geometry": { "type": "Point", "coordinates": [ 127.75137002, 26.33184494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北中城村屋宜原５０１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.78579773, 26.31000671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市安謝２−６−１７" }, "geometry": { "type": "Point", "coordinates": [ 127.68717319, 26.23625043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市具志８２６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.65379525, 26.17816418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市三原３−１６−５" }, "geometry": { "type": "Point", "coordinates": [ 127.70115241, 26.21013926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市曙１丁目１４−３５" }, "geometry": { "type": "Point", "coordinates": [ 127.68142643, 26.23542637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市小禄９３１−３" }, "geometry": { "type": "Point", "coordinates": [ 127.67068205, 26.19074125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市小禄３丁目６−３" }, "geometry": { "type": "Point", "coordinates": [ 127.67460484, 26.18954883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市上間１６５−６" }, "geometry": { "type": "Point", "coordinates": [ 127.71235672, 26.19830364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市真嘉比３３２" }, "geometry": { "type": "Point", "coordinates": [ 127.7015861, 26.22806014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市西１−１１−２０" }, "geometry": { "type": "Point", "coordinates": [ 127.67280746, 26.21419281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市壷川３−４−２７" }, "geometry": { "type": "Point", "coordinates": [ 127.67982902, 26.2066376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市壺屋１−２６−１３" }, "geometry": { "type": "Point", "coordinates": [ 127.69435772, 26.21426913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県南城市玉城字仲村渠１２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.78109544, 26.15490794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市高安２７３−３" }, "geometry": { "type": "Point", "coordinates": [ 127.6877888, 26.17495208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県北中城村字和仁屋１８９−３" }, "geometry": { "type": "Point", "coordinates": [ 127.80843466, 26.29914783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市宮里４７" }, "geometry": { "type": "Point", "coordinates": [ 127.83722873, 26.35010333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市勝連南風原４０４３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.88365174, 26.33382674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市勝連平敷屋４３０−２" }, "geometry": { "type": "Point", "coordinates": [ 127.90922261, 26.31035647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市城間２１２２" }, "geometry": { "type": "Point", "coordinates": [ 127.71031779, 26.25790269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市大平１−３６−２" }, "geometry": { "type": "Point", "coordinates": [ 127.70897145, 26.24687352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市山内１−５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.78802511, 26.32728889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市諸見里１−１８−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.79300877, 26.33122663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市池原２１５９" }, "geometry": { "type": "Point", "coordinates": [ 127.82750489, 26.38565247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市伊佐３−３０５" }, "geometry": { "type": "Point", "coordinates": [ 127.7570833, 26.28989377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市志真志５１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75898594, 26.25597205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市野嵩３−４−６" }, "geometry": { "type": "Point", "coordinates": [ 127.78153178, 26.28701285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良字下里１１７６−３" }, "geometry": { "type": "Point", "coordinates": [ 125.29146165, 24.79208582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良字荷川取２７５−１" }, "geometry": { "type": "Point", "coordinates": [ 125.28972991, 24.81735321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡恩納村真栄田２４２６" }, "geometry": { "type": "Point", "coordinates": [ 127.75434864, 26.42944114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡宜野座村漢那１３７２−６" }, "geometry": { "type": "Point", "coordinates": [ 127.95590331, 26.47569555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡金武町金武２５８" }, "geometry": { "type": "Point", "coordinates": [ 127.919736, 26.45370418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡本部町崎本部石山原３２００−１" }, "geometry": { "type": "Point", "coordinates": [ 127.89904308, 26.60633116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市真栄里慶田山４８８−１" }, "geometry": { "type": "Point", "coordinates": [ 124.18428365, 24.33858243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市登野城１３９４−１" }, "geometry": { "type": "Point", "coordinates": [ 124.16863556, 24.34737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村北上原４２８" }, "geometry": { "type": "Point", "coordinates": [ 127.77560852, 26.26610669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村古堅６３８−２" }, "geometry": { "type": "Point", "coordinates": [ 127.74710266, 26.36972184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡読谷村長浜１７７２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73274407, 26.41414495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町桑江４７２−７" }, "geometry": { "type": "Point", "coordinates": [ 127.76929384, 26.3261758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡伊是名村仲田１０４４番地" }, "geometry": { "type": "Point", "coordinates": [ 127.94246602, 26.93269471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町兼城５１１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.71912067, 26.19607851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町津嘉山１６８３" }, "geometry": { "type": "Point", "coordinates": [ 127.71328914, 26.1831722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡八重瀬町字宜次７０９" }, "geometry": { "type": "Point", "coordinates": [ 127.71904572, 26.17548422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡八重瀬町字具志頭６３１" }, "geometry": { "type": "Point", "coordinates": [ 127.74156906, 26.12130141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡与那原町上与那原４７２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.74726136, 26.19967418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市鏡原町３４−４８" }, "geometry": { "type": "Point", "coordinates": [ 127.67651602, 26.19703076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市古波蔵２−２５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.68830396, 26.19880041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市三原１−２２−４５" }, "geometry": { "type": "Point", "coordinates": [ 127.69935674, 26.21163806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字宇栄原３−３４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.66058753, 26.1905333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字小禄１２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67210756, 26.19911216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市曙町２−４−２１" }, "geometry": { "type": "Point", "coordinates": [ 127.68682452, 26.24103235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市松山１−３４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67636395, 26.22000292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市仲井真１４８" }, "geometry": { "type": "Point", "coordinates": [ 127.70607274, 26.19637437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市東町１９−１２" }, "geometry": { "type": "Point", "coordinates": [ 127.67364712, 26.21165162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市牧志２−２０−２０" }, "geometry": { "type": "Point", "coordinates": [ 127.68823389, 26.21930714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県南城市大里高平１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.74458256, 26.1723326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市座安１５７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.6679929, 26.1681706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市渡橋名２１０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67773173, 26.16915606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市大東１−２１−９" }, "geometry": { "type": "Point", "coordinates": [ 127.98562103, 26.59019097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市東江５−１７−１８" }, "geometry": { "type": "Point", "coordinates": [ 127.9846699, 26.57823172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市辺野古港原９１３−１９" }, "geometry": { "type": "Point", "coordinates": [ 128.02869807, 26.52280682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市名護３３６２" }, "geometry": { "type": "Point", "coordinates": [ 127.98253822, 26.60369411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市比屋根１８４４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.81374543, 26.32071649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市高安４１５" }, "geometry": { "type": "Point", "coordinates": [ 127.68239138, 26.17682253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字安次嶺５３１−３" }, "geometry": { "type": "Point", "coordinates": [ 127.65097249, 26.20393727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市港川2-20-1" }, "geometry": { "type": "Point", "coordinates": [ 127.71343581, 26.26253363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市真栄原1-4-5" }, "geometry": { "type": "Point", "coordinates": [ 127.7475334, 26.25855538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北中城村字島袋1418" }, "geometry": { "type": "Point", "coordinates": [ 127.80331314, 26.31826344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市曙3-10-7" }, "geometry": { "type": "Point", "coordinates": [ 127.68531609, 26.24138919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字田場１００" }, "geometry": { "type": "Point", "coordinates": [ 127.86304595, 26.36977215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡東村平良920" }, "geometry": { "type": "Point", "coordinates": [ 128.146520149999986, 26.63273694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県浦添市仲間１丁目２２−９" }, "geometry": { "type": "Point", "coordinates": [ 127.72423968, 26.25405117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市石川嘉手苅141-6" }, "geometry": { "type": "Point", "coordinates": [ 127.81329096, 26.42063141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡宜野座村漢那２２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.94448211, 26.47114015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡金武町字金武5542" }, "geometry": { "type": "Point", "coordinates": [ 127.92774356, 26.45746634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字小那覇1212" }, "geometry": { "type": "Point", "coordinates": [ 127.77515426, 26.22880745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字小波津５４４−２" }, "geometry": { "type": "Point", "coordinates": [ 127.75804342, 26.2239188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市真志喜1-9-1" }, "geometry": { "type": "Point", "coordinates": [ 127.73905775, 26.27123425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡南風原町字大名180" }, "geometry": { "type": "Point", "coordinates": [ 127.73749459, 26.2063331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市久米２−１６−３６" }, "geometry": { "type": "Point", "coordinates": [ 127.67720585, 26.21654224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字与儀３６３" }, "geometry": { "type": "Point", "coordinates": [ 127.8161208, 26.31147819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市座安291-2" }, "geometry": { "type": "Point", "coordinates": [ 127.66781029, 26.16618369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市大謝名3-1-1" }, "geometry": { "type": "Point", "coordinates": [ 127.73982505, 26.26305452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字塩屋463-3" }, "geometry": { "type": "Point", "coordinates": [ 127.8612894, 26.34550638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市伊差川２６９" }, "geometry": { "type": "Point", "coordinates": [ 128.00236788, 26.60881502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市大南2-2-11" }, "geometry": { "type": "Point", "coordinates": [ 127.97719956, 26.59268545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市樋川1-29-1" }, "geometry": { "type": "Point", "coordinates": [ 127.69096692, 26.20731773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市新栄町79-2" }, "geometry": { "type": "Point", "coordinates": [ 124.14540041, 24.34978626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字翁長834-3" }, "geometry": { "type": "Point", "coordinates": [ 127.75328225, 26.23564328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字翁長539-2" }, "geometry": { "type": "Point", "coordinates": [ 127.74709094, 26.23854716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡伊江村川平740" }, "geometry": { "type": "Point", "coordinates": [ 127.79869915, 26.70881748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市石川東山本町2-4-1" }, "geometry": { "type": "Point", "coordinates": [ 127.83524085, 26.43466093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市南桃原3-34-1" }, "geometry": { "type": "Point", "coordinates": [ 127.78245269, 26.32495506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市喜友名1-1-21" }, "geometry": { "type": "Point", "coordinates": [ 127.76760126, 26.28405696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県中頭郡西原町字小橋川９０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.7630321, 26.22645756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県名護市大北３−１９−３" }, "geometry": { "type": "Point", "coordinates": [ 127.997731, 26.60220172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県名護市宮里７−２２−３１" }, "geometry": { "type": "Point", "coordinates": [ 127.97596534, 26.60272879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県島尻郡南風原町新川３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72356122, 26.20816952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県島尻郡南風原町字兼城６０９−５" }, "geometry": { "type": "Point", "coordinates": [ 127.72345116, 26.1939489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県島尻郡与那原町字与那原５−５" }, "geometry": { "type": "Point", "coordinates": [ 127.76521657, 26.19989356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県浦添市字前田３−１−８" }, "geometry": { "type": "Point", "coordinates": [ 127.73781936, 26.24746319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市宇栄原１−２６−１５" }, "geometry": { "type": "Point", "coordinates": [ 127.66205758, 26.1922518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県宜野湾市愛知４５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.76912984, 26.27036187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市国場３３６" }, "geometry": { "type": "Point", "coordinates": [ 127.70534194, 26.19305709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市国場１０８２" }, "geometry": { "type": "Point", "coordinates": [ 127.69523144, 26.19628427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県豊見城市字伊良波７０５−２" }, "geometry": { "type": "Point", "coordinates": [ 127.667397, 26.16826829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県宮古島市平良西仲宗根２−３９" }, "geometry": { "type": "Point", "coordinates": [ 125.27832896, 24.81149279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県石垣市美崎町６−６" }, "geometry": { "type": "Point", "coordinates": [ 124.15419445, 24.33833129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県石垣市字新川４１５−３" }, "geometry": { "type": "Point", "coordinates": [ 124.15114799, 24.35166246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県糸満市西崎町５−１５" }, "geometry": { "type": "Point", "coordinates": [ 127.65963473, 26.14831832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県中頭郡北谷町字上勢頭８１５" }, "geometry": { "type": "Point", "coordinates": [ 127.77083261, 26.32772084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県中頭郡北谷町伊平４２４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.7645025, 26.32741794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県うるま市字西原８８−２" }, "geometry": { "type": "Point", "coordinates": [ 127.84899479, 26.38064503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県名護市大中４−１−２１" }, "geometry": { "type": "Point", "coordinates": [ 127.99205928, 26.59817674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市壺川１−１２−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.68125104, 26.20519378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県浦添市牧港４−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73000154, 26.26608455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市西３−１１−４９" }, "geometry": { "type": "Point", "coordinates": [ 127.66580394, 26.21681136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市比屋根７丁目１５−５" }, "geometry": { "type": "Point", "coordinates": [ 127.81879211, 26.31478736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市田原３丁目１２−５" }, "geometry": { "type": "Point", "coordinates": [ 127.66603351, 26.19387763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市首里石嶺町３丁目９" }, "geometry": { "type": "Point", "coordinates": [ 127.72726228, 26.23336143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字翁長５６７" }, "geometry": { "type": "Point", "coordinates": [ 127.74434554, 26.24008316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字幸地８９５−６" }, "geometry": { "type": "Point", "coordinates": [ 127.73789491, 26.229201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市銘苅２２６" }, "geometry": { "type": "Point", "coordinates": [ 127.70126159, 26.23483359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市港町３丁目７−２２" }, "geometry": { "type": "Point", "coordinates": [ 127.67413347, 26.24454265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字田井等６７５" }, "geometry": { "type": "Point", "coordinates": [ 128.01284034, 26.61797398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市久保田３丁目１０−２" }, "geometry": { "type": "Point", "coordinates": [ 127.79401005, 26.31800299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市識名２丁目４−４３" }, "geometry": { "type": "Point", "coordinates": [ 127.70980877, 26.20783716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市照屋２丁目２４−３" }, "geometry": { "type": "Point", "coordinates": [ 127.81418307, 26.33341831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町字桑江６１７−５" }, "geometry": { "type": "Point", "coordinates": [ 127.77140136, 26.32259757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡恩納村字冨着５０" }, "geometry": { "type": "Point", "coordinates": [ 127.81259729, 26.45982951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市字国場２２１−２" }, "geometry": { "type": "Point", "coordinates": [ 127.70145404, 26.19535254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字屋宜４８６" }, "geometry": { "type": "Point", "coordinates": [ 127.79292685, 26.27174993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡与那原町字東浜６８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.76260172, 26.20580565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県豊見城市字豊見城５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67923885, 26.18263086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市平良字西里３５３" }, "geometry": { "type": "Point", "coordinates": [ 125.28368143, 24.80384656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市与那城平安座８１８６" }, "geometry": { "type": "Point", "coordinates": [ 127.94848754, 26.34042151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市大西４丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 127.97885803, 26.59794363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市山内２丁目１−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.78841077, 26.3218982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市松山１丁目３−２１" }, "geometry": { "type": "Point", "coordinates": [ 127.67977824, 26.21707726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県那覇市若狭２丁目１９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.67432232, 26.22180266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市石川伊波３１０−６" }, "geometry": { "type": "Point", "coordinates": [ 127.82380313, 26.41441801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市字赤道２５９−８" }, "geometry": { "type": "Point", "coordinates": [ 127.83003445, 26.3562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県石垣市字平得５１９−１" }, "geometry": { "type": "Point", "coordinates": [ 124.18218232, 24.3475912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市字照屋８３３−２" }, "geometry": { "type": "Point", "coordinates": [ 127.68341495, 26.13169586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市西崎２丁目２４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.66245482, 26.14159194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市字古謝８８３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.8384435, 26.33606918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市登川２４９１" }, "geometry": { "type": "Point", "coordinates": [ 127.81972314, 26.37045763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市松本７丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.80547303, 26.35736049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市嘉間良１丁目２２−９" }, "geometry": { "type": "Point", "coordinates": [ 127.80331237, 26.34331679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡粟国村字浜３１１" }, "geometry": { "type": "Point", "coordinates": [ 127.23308763, 26.58089991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡伊平屋村字島尻３４５−３" }, "geometry": { "type": "Point", "coordinates": [ 127.94410342, 27.01794963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市伊良部字国仲６４５−１" }, "geometry": { "type": "Point", "coordinates": [ 125.16513635, 24.82329691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市伊良部字長浜１４１３−５" }, "geometry": { "type": "Point", "coordinates": [ 125.16837959, 24.82900416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古島市伊良部字長浜１３６０−６０" }, "geometry": { "type": "Point", "coordinates": [ 125.16666769, 24.83333778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡座間味村字座間味１７７" }, "geometry": { "type": "Point", "coordinates": [ 127.30059636, 26.22794307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字西表１００４" }, "geometry": { "type": "Point", "coordinates": [ 123.75617523, 24.39547849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡座間味村字阿嘉５０" }, "geometry": { "type": "Point", "coordinates": [ 127.28328071, 26.19032944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字黒島１４９９" }, "geometry": { "type": "Point", "coordinates": [ 124.01611703, 24.23637639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字南風見仲３６−１８" }, "geometry": { "type": "Point", "coordinates": [ 123.88030633, 24.28399576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字波照間２７８０" }, "geometry": { "type": "Point", "coordinates": [ 123.77578884, 24.06056813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡与那国町字与那国４０２２" }, "geometry": { "type": "Point", "coordinates": [ 122.94471691, 24.45259972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市比屋根４丁目２９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.820207, 26.31445112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宮古郡多良間村字塩川２７８" }, "geometry": { "type": "Point", "coordinates": [ 124.70418108, 24.66824797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字久場１９８４" }, "geometry": { "type": "Point", "coordinates": [ 127.81563936, 26.28212475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県沖縄市高原４丁目１５−１３" }, "geometry": { "type": "Point", "coordinates": [ 127.82152723, 26.32133851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡金武町字屋嘉２６３４" }, "geometry": { "type": "Point", "coordinates": [ 127.8470068, 26.44148049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡金武町字屋嘉２３９" }, "geometry": { "type": "Point", "coordinates": [ 127.8542003, 26.4520526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県国頭郡伊江村字川平３３６−２" }, "geometry": { "type": "Point", "coordinates": [ 127.80336798, 26.70952936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市与那城８５１" }, "geometry": { "type": "Point", "coordinates": [ 127.89682488, 26.32751633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県うるま市勝連平安名２７００−２" }, "geometry": { "type": "Point", "coordinates": [ 127.89549825, 26.31688605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡嘉手納町屋良１０５４−１１" }, "geometry": { "type": "Point", "coordinates": [ 127.77325419, 26.36711972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡粟国村字浜１４５" }, "geometry": { "type": "Point", "coordinates": [ 127.23551221, 26.58067364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町字吉原４５０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.77795289, 26.31809393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県宜野湾市野嵩１丁目３８−１０" }, "geometry": { "type": "Point", "coordinates": [ 127.783754, 26.28432488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字泊１０６" }, "geometry": { "type": "Point", "coordinates": [ 127.80303567, 26.27845664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡中城村字和宇慶８４３−２" }, "geometry": { "type": "Point", "coordinates": [ 127.78018876, 26.24387909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字我謝４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75557756, 26.21715961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡西原町字与那城１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.76185485, 26.21942749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県南城市知念字久原４３０" }, "geometry": { "type": "Point", "coordinates": [ 127.80258852, 26.18433839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県中頭郡北谷町字桑江４５３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.76700576, 26.32597602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県八重山郡竹富町字上原４２３" }, "geometry": { "type": "Point", "coordinates": [ 123.79584718, 24.42235808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県那覇市小禄５２５" }, "geometry": { "type": "Point", "coordinates": [ 127.67498021, 26.19432167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県宮古島市平良字久貝１０６８" }, "geometry": { "type": "Point", "coordinates": [ 125.28171348, 24.78729905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県中頭郡西原町字小那覇１４０８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.77827226, 26.23455996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県豊見城市字嘉数２６８−２" }, "geometry": { "type": "Point", "coordinates": [ 127.70157292, 26.19251266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市登川２８３５" }, "geometry": { "type": "Point", "coordinates": [ 127.81420069, 26.37414241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市園田２丁目３１−１３" }, "geometry": { "type": "Point", "coordinates": [ 127.80012782, 26.32663836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市字古謝１１３７−３" }, "geometry": { "type": "Point", "coordinates": [ 127.8272809, 26.34387315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県中頭郡北谷町字吉原９５３" }, "geometry": { "type": "Point", "coordinates": [ 127.77156096, 26.31266393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県中頭郡読谷村字儀間４９−３" }, "geometry": { "type": "Point", "coordinates": [ 127.72399734, 26.42047196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市知花６丁目３７−１９" }, "geometry": { "type": "Point", "coordinates": [ 127.81752291, 26.36516281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市字古謝１７５−３" }, "geometry": { "type": "Point", "coordinates": [ 127.8342499, 26.3351188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県国頭郡国頭村字半地４８０" }, "geometry": { "type": "Point", "coordinates": [ 128.16433724, 26.7264476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県うるま市字赤野８４０−１" }, "geometry": { "type": "Point", "coordinates": [ 127.8666432, 26.37670419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宜野湾市字宇地泊６３７" }, "geometry": { "type": "Point", "coordinates": [ 127.72859696, 26.27216357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宜野湾市新城２丁目３７−３" }, "geometry": { "type": "Point", "coordinates": [ 127.7698761, 26.2888076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宜野湾市野嵩３丁目５−２" }, "geometry": { "type": "Point", "coordinates": [ 127.7808944, 26.28807367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宜野湾市上原１丁目２５−９" }, "geometry": { "type": "Point", "coordinates": [ 127.77367644, 26.2755199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県石垣市字真栄里４９０−１" }, "geometry": { "type": "Point", "coordinates": [ 124.18370695, 24.33861411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県うるま市石川１３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.8243094, 26.43590471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市牧志１丁目８−１２" }, "geometry": { "type": "Point", "coordinates": [ 127.68414974, 26.21658409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市小禄１丁目５−１５" }, "geometry": { "type": "Point", "coordinates": [ 127.6812975, 26.1939771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市安謝１０１" }, "geometry": { "type": "Point", "coordinates": [ 127.68867857, 26.23822355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市字鏡水３０６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.65472171, 26.21430614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市字大道１４０" }, "geometry": { "type": "Point", "coordinates": [ 127.69855266, 26.21681452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市三原２丁目１４−１６" }, "geometry": { "type": "Point", "coordinates": [ 127.70023237, 26.21136026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市泊３丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 127.68199903, 26.22657725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県名護市字伊差川８１３−１" }, "geometry": { "type": "Point", "coordinates": [ 128.00100728000001, 26.61408893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県糸満市字糸満２０７１" }, "geometry": { "type": "Point", "coordinates": [ 127.66477798, 26.1302308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県糸満市字北波平３１０" }, "geometry": { "type": "Point", "coordinates": [ 127.68959019, 26.15787989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県糸満市字与座２５" }, "geometry": { "type": "Point", "coordinates": [ 127.69884223, 26.13172323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市池原４丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.83059621, 26.3888383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県浦添市前田４丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 127.73912084, 26.23796226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県浦添市西原６丁目３４−１" }, "geometry": { "type": "Point", "coordinates": [ 127.74793829, 26.24576978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県名護市字安和１８８０" }, "geometry": { "type": "Point", "coordinates": [ 127.90975562, 26.60304088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県名護市字安和１８５０" }, "geometry": { "type": "Point", "coordinates": [ 127.91577979, 26.6034051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市首里石嶺町２丁目２３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72880198, 26.22473047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市前島３丁目２７−１" }, "geometry": { "type": "Point", "coordinates": [ 127.68038263, 26.22518017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県島尻郡八重瀬町字宜次３６３−１" }, "geometry": { "type": "Point", "coordinates": [ 127.70639081, 26.17023463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市知花４丁目３２−３２" }, "geometry": { "type": "Point", "coordinates": [ 127.80620434, 26.3629656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市宮里２丁目１８−９" }, "geometry": { "type": "Point", "coordinates": [ 127.82093156, 26.33967086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県名護市字屋部１６５" }, "geometry": { "type": "Point", "coordinates": [ 127.95541972, 26.60235841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県石垣市字石垣４３０−１３" }, "geometry": { "type": "Point", "coordinates": [ 124.15498487, 24.35074275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県島尻郡与那原町字与那原３５４４−２" }, "geometry": { "type": "Point", "coordinates": [ 127.7584644, 26.19850464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県うるま市字栄野比３３６−１" }, "geometry": { "type": "Point", "coordinates": [ 127.82995371, 26.39251677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市繁多川４丁目１４−２５" }, "geometry": { "type": "Point", "coordinates": [ 127.71680883, 26.2108885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県中頭郡西原町字翁長８４２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.75313572, 26.23554273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県糸満市字喜屋武１３１３" }, "geometry": { "type": "Point", "coordinates": [ 127.66093743, 26.09155063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市胡屋２丁目１−５７" }, "geometry": { "type": "Point", "coordinates": [ 127.79909163, 26.3333488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市字鏡水４０１" }, "geometry": { "type": "Point", "coordinates": [ 127.65421038, 26.21404789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県八重山郡竹富町字上原５５４" }, "geometry": { "type": "Point", "coordinates": [ 123.79925412, 24.41672632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県うるま市字大田７０２−２" }, "geometry": { "type": "Point", "coordinates": [ 127.87027956, 26.34862707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市首里鳥堀町４丁目１３０" }, "geometry": { "type": "Point", "coordinates": [ 127.73222355, 26.21918795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市宇栄原１丁目１８−２７" }, "geometry": { "type": "Point", "coordinates": [ 127.66417253, 26.19077335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市高原７７３" }, "geometry": { "type": "Point", "coordinates": [ 127.81976805, 26.31900067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市三原２丁目３５−１４" }, "geometry": { "type": "Point", "coordinates": [ 127.70425703, 26.21167977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市越来３丁目１２−１０" }, "geometry": { "type": "Point", "coordinates": [ 127.81050485, 26.34563868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県浦添市前田６１２−１" }, "geometry": { "type": "Point", "coordinates": [ 127.73062011, 26.24111913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県南城市佐敷字手登根６６８−６" }, "geometry": { "type": "Point", "coordinates": [ 127.80522593, 26.17259719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県島尻郡八重瀬町字東風平１４８８−１" }, "geometry": { "type": "Point", "coordinates": [ 127.72655839, 26.1575329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県南城市玉城字愛地２９６−２" }, "geometry": { "type": "Point", "coordinates": [ 127.74599744, 26.15857984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県島尻郡渡嘉敷村字渡嘉敷１７７９−２" }, "geometry": { "type": "Point", "coordinates": [ 127.36772047, 26.20102031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宜野湾市我如古２丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 127.75413896, 26.25617567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県豊見城市字豊崎１−１９" }, "geometry": { "type": "Point", "coordinates": [ 127.66000714, 26.15749093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市古島２９" }, "geometry": { "type": "Point", "coordinates": [ 127.70406952, 26.23268021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市知花１１１" }, "geometry": { "type": "Point", "coordinates": [ 127.82030615, 26.36089936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県沖縄市泡瀬２丁目５２−１７" }, "geometry": { "type": "Point", "coordinates": [ 127.83626375, 26.31635127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県うるま市石川東山２丁目３０−１７" }, "geometry": { "type": "Point", "coordinates": [ 127.83904269, 26.43520421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県宮古郡多良間村字塩川５３０" }, "geometry": { "type": "Point", "coordinates": [ 124.70148889, 24.66694596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "沖縄県那覇市首里崎山町２丁目２３" }, "geometry": { "type": "Point", "coordinates": [ 127.72355243, 26.21469379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県糸満市兼城400-1" }, "geometry": { "type": "Point", "coordinates": [ 127.67160914, 26.13935794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県島尻郡豊見城村字平良66" }, "geometry": { "type": "Point", "coordinates": [ 127.69069669, 26.17121773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "沖縄県名護市字川上192" }, "geometry": { "type": "Point", "coordinates": [ 128.019171019999987, 26.62196348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県宮古島市伊良部町字池間添２３７０−１０" }, "geometry": { "type": "Point", "coordinates": [ 125.20026569, 24.8048035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "沖縄県島尻郡久米島町字嘉手苅８３３" }, "geometry": { "type": "Point", "coordinates": [ 126.75683649, 26.33856356 ] } }
+
+]
+}

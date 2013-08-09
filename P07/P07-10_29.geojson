@@ -1,0 +1,936 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町北阪手１８６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79721264, 34.55809831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区福地３７７" }, "geometry": { "type": "Point", "coordinates": [ 135.963520280000012, 34.53329498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市菟田野区松井１７２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.98231789, 34.46935306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市葛本町７５８−1" }, "geometry": { "type": "Point", "coordinates": [ 135.805455880000011, 34.52119207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市曲川町７−６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7655102, 34.50761815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市四条５４６−３" }, "geometry": { "type": "Point", "coordinates": [ 135.789739450000013, 34.50232742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市小槻町八坪２７３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.77189572, 34.52556883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市膳夫町４３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82450794, 34.50727023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市新在家２１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69725054, 34.5246836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市北花内６３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73383999, 34.48839457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下北山村大字下池原２９１" }, "geometry": { "type": "Point", "coordinates": [ 135.966254850000013, 34.04127729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町新野２４" }, "geometry": { "type": "Point", "coordinates": [ 135.81766847, 34.38846088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡天川村南日裏１５８" }, "geometry": { "type": "Point", "coordinates": [ 135.84189742, 34.22786561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡野迫川村北股５４７" }, "geometry": { "type": "Point", "coordinates": [ 135.63286978, 34.16695206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市三在町５７６" }, "geometry": { "type": "Point", "coordinates": [ 135.717151159999986, 34.37639033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市東松本８" }, "geometry": { "type": "Point", "coordinates": [ 135.732719620000012, 34.46516326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市本町９６９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69499425, 34.54063338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県高市郡高取町大字観覚寺７１５" }, "geometry": { "type": "Point", "coordinates": [ 135.79640529, 34.45667538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市粟殿６０２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.844025359999989, 34.5206441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡安堵町西安堵６９１" }, "geometry": { "type": "Point", "coordinates": [ 135.74928319, 34.60423866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡斑鳩町幸前２−３−９" }, "geometry": { "type": "Point", "coordinates": [ 135.74769638, 34.61569765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡平群町下垣内７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70618481, 34.62819982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市壱分町８３−６" }, "geometry": { "type": "Point", "coordinates": [ 135.71681614, 34.66885051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市壱分町９０２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70750367, 34.67598734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市桜ヶ丘２丁目５２番" }, "geometry": { "type": "Point", "coordinates": [ 135.70227854, 34.70007471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市鹿畑町３００９番地" }, "geometry": { "type": "Point", "coordinates": [ 135.752995090000013, 34.72791259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市上町３４１５" }, "geometry": { "type": "Point", "coordinates": [ 135.72083676, 34.72498149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市横田町１５１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.801912109999989, 34.62044739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市今国府町１０９−７" }, "geometry": { "type": "Point", "coordinates": [ 135.768490140000011, 34.61512377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市美濃庄町字西三ノ坪２８８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80224537, 34.64040234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大中北１４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.73515824, 34.51563187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市中町２１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79799061, 34.60463497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市富堂町２０４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.820176839999988, 34.59548837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市右京一丁目５番1号" }, "geometry": { "type": "Point", "coordinates": [ 135.7898145, 34.7237522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市押熊町北垣内１１０１" }, "geometry": { "type": "Point", "coordinates": [ 135.77123036, 34.72075034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市七条東町１８４番１" }, "geometry": { "type": "Point", "coordinates": [ 135.788357209999987, 34.66486624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市神殿町西谷６３４" }, "geometry": { "type": "Point", "coordinates": [ 135.819259280000011, 34.65644451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市石木町字上新田１７９" }, "geometry": { "type": "Point", "coordinates": [ 135.75691794, 34.66862086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大宮町３−１−５" }, "geometry": { "type": "Point", "coordinates": [ 135.81337826, 34.68200678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大宮町６−３−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.807172939999987, 34.68456312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大柳生３７２８" }, "geometry": { "type": "Point", "coordinates": [ 135.93027812, 34.70794966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市奈良阪町字西谷２６７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.826973400000014, 34.70355677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡王寺町畠田４−３−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.70284548, 34.58081207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町泉台３−２２−９" }, "geometry": { "type": "Point", "coordinates": [ 135.73967043, 34.59109137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町寺戸２８３" }, "geometry": { "type": "Point", "coordinates": [ 135.747782629999989, 34.56223534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町大塚９１０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74402174, 34.52995356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町平尾６９６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73846523, 34.5417311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡川西町保田" }, "geometry": { "type": "Point", "coordinates": [ 135.75320438, 34.58378423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町大字千代８４６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79713612, 34.54409738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町味間１７０−３" }, "geometry": { "type": "Point", "coordinates": [ 135.80888786, 34.54052449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀郡曽爾村掛" }, "geometry": { "type": "Point", "coordinates": [ 136.11325134, 34.49864633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区萩原１５９６" }, "geometry": { "type": "Point", "coordinates": [ 135.95821036000001, 34.53211193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区萩原元玉小西１９０１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.95225685, 34.5379692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市大宇陀区関戸２７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.934327919999987, 34.46384583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市菟田野区古市場" }, "geometry": { "type": "Point", "coordinates": [ 135.97028128, 34.47336448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市見瀬町６４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.798362090000012, 34.4703942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市曽我町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77064134, 34.50747231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市法花寺町４９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81111338, 34.50863495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市北花内６２６−６" }, "geometry": { "type": "Point", "coordinates": [ 135.73299377, 34.48778876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下北山村大字下池原２５４" }, "geometry": { "type": "Point", "coordinates": [ 135.96598511, 34.04023551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村大字小原２１９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79598486, 33.98834458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村大字平谷４１２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76959204, 33.94069486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡上北山村河合字渡瀬６６６−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.999241219999988, 34.13238022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町越部" }, "geometry": { "type": "Point", "coordinates": [ 135.803030830000012, 34.38668149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町増口４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.842491560000013, 34.39434924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市東松本２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73294619, 34.46776669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市上中１０２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.70026083, 34.56231374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市西真美１−５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.714316950000011, 34.54448595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市尼寺２５４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.70157375, 34.57188255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市良福寺１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70591203, 34.52820337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県高市郡高取町下土佐５６５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.795461890000013, 34.44703786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市慈恩寺９４３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.86564164, 34.51530376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡三郷町勢野東１−５−２０" }, "geometry": { "type": "Point", "coordinates": [ 135.700453220000014, 34.60226116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市高山町４８４４" }, "geometry": { "type": "Point", "coordinates": [ 135.719600930000013, 34.7524946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市真弓２−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72483649, 34.72358723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市池之内町６３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76707338, 34.63131156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市白土町２１８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.80669608, 34.62922143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市今里町１４−７" }, "geometry": { "type": "Point", "coordinates": [ 135.75271332, 34.5090809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大字曽大根字西一盛１８５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73522673, 34.49420974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市勾田町１３５" }, "geometry": { "type": "Point", "coordinates": [ 135.83680307, 34.58959644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市横井４−４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83295983, 34.64846307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市紀寺町７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83555576, 34.67395374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市左京６−２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.804884109999989, 34.70770121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市三条大路３−４７０" }, "geometry": { "type": "Point", "coordinates": [ 135.79551651, 34.68403419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市西木辻町１９４" }, "geometry": { "type": "Point", "coordinates": [ 135.81918045, 34.67251493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大安寺町５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80074758, 34.67673189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中山町１５６５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77266939, 34.71273155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市南京終町３" }, "geometry": { "type": "Point", "coordinates": [ 135.828835489999989, 34.67106263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市法蓮町１０８６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.82580071000001, 34.69059186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市邑地町２６０８−２" }, "geometry": { "type": "Point", "coordinates": [ 135.98090068, 34.72302963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町大字穴闇２３１" }, "geometry": { "type": "Point", "coordinates": [ 135.74081973, 34.58937222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町笠中ノ坪３３８−６" }, "geometry": { "type": "Point", "coordinates": [ 135.746877149999989, 34.54822301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町唐古３００−３" }, "geometry": { "type": "Point", "coordinates": [ 135.79825243, 34.5757705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区萩原２４６１" }, "geometry": { "type": "Point", "coordinates": [ 135.94865832, 34.53328915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市川西町南川５３４−３" }, "geometry": { "type": "Point", "coordinates": [ 135.76809237, 34.47600122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市膳夫町５２４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.820928290000012, 34.50702043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市土橋町ミソ田３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.781648499999989, 34.52204511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市太田１２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70419676, 34.49642951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市長尾２５９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.71451054, 34.51023507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市林堂１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72110064, 34.47967279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下北山村佐田３５２" }, "geometry": { "type": "Point", "coordinates": [ 135.967337640000011, 34.0019391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下北山村大字上池原５４０" }, "geometry": { "type": "Point", "coordinates": [ 135.96029114000001, 34.03901015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町上市" }, "geometry": { "type": "Point", "coordinates": [ 135.84943392, 34.39440352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村上野地加々鶴３４１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.75673034, 34.09481599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村折立６１８" }, "geometry": { "type": "Point", "coordinates": [ 135.80364789, 33.94577182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町桧垣本" }, "geometry": { "type": "Point", "coordinates": [ 135.79618127, 34.38785078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡天川村洞川５１５" }, "geometry": { "type": "Point", "coordinates": [ 135.87766554000001, 34.26692056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市大塔町辻堂１３０" }, "geometry": { "type": "Point", "coordinates": [ 135.757693429999989, 34.1679196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市櫛羅１１６" }, "geometry": { "type": "Point", "coordinates": [ 135.72594795, 34.46374812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市逢坂８丁目１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69094933, 34.55055197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市今泉３７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70103758, 34.56684114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市今泉大原地内" }, "geometry": { "type": "Point", "coordinates": [ 135.680053320000013, 34.55820176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市川合１８８" }, "geometry": { "type": "Point", "coordinates": [ 135.84391799, 34.51575855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大字大泉６１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82804549, 34.52976376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県山辺郡山添村岩屋１４３１−３" }, "geometry": { "type": "Point", "coordinates": [ 136.056375839999987, 34.64628563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市上町４１０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.723580700000014, 34.71244078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市俵口町１３７６" }, "geometry": { "type": "Point", "coordinates": [ 135.697171309999987, 34.70164022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市横田町１４８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.801497070000011, 34.62112071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市川原城町６４１" }, "geometry": { "type": "Point", "coordinates": [ 135.831611, 34.60236131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市柳本町１２６１" }, "geometry": { "type": "Point", "coordinates": [ 135.84573823, 34.5596369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市櫟本町２３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83168208, 34.62041989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市押熊町１５６４" }, "geometry": { "type": "Point", "coordinates": [ 135.76570551, 34.71955379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市荻町１１６" }, "geometry": { "type": "Point", "coordinates": [ 135.96378081, 34.63786498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市学園大和町２−５４" }, "geometry": { "type": "Point", "coordinates": [ 135.75273188, 34.68828706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市月ヶ瀬石打２４１６" }, "geometry": { "type": "Point", "coordinates": [ 136.062792480000013, 34.71902926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市三条大路１−１−４０" }, "geometry": { "type": "Point", "coordinates": [ 135.80411067, 34.68211774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市三条大路２丁目１−６３" }, "geometry": { "type": "Point", "coordinates": [ 135.79822814, 34.68396991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市秋篠町１４２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.778206610000012, 34.70843599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市針町７９０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.958552270000013, 34.60954998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中町４８４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.75550132, 34.67212052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市都祁吐山町２３５５" }, "geometry": { "type": "Point", "coordinates": [ 135.96676108, 34.57715139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市東九条町佃井１５０７" }, "geometry": { "type": "Point", "coordinates": [ 135.81870551, 34.66597319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市法蓮佐保町６３６−７" }, "geometry": { "type": "Point", "coordinates": [ 135.81629342, 34.69173118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町佐味田２４７２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73378277, 34.56877502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町大字阪手４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80019216, 34.55459461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市西吉野町奥谷２０６３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73815434, 34.32875709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市丹原町２０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69808598, 34.33319847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市中之町１７２" }, "geometry": { "type": "Point", "coordinates": [ 135.68125475, 34.3607572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市古瀬４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74953063000001, 34.42138462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市大字五百家１５５" }, "geometry": { "type": "Point", "coordinates": [ 135.718799780000012, 34.41697284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市名柄１５２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.71473353, 34.44270809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市大字上中７７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69993007, 34.55464491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市上ノ庄１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.837358450000011, 34.52249583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県山辺郡山添村三ヶ谷１６３５" }, "geometry": { "type": "Point", "coordinates": [ 136.016767210000012, 34.65092312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市丹後庄町１４４" }, "geometry": { "type": "Point", "coordinates": [ 135.785540559999987, 34.62819197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市奥田２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.75381586, 34.48852883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市都祁白石町１２４０−９" }, "geometry": { "type": "Point", "coordinates": [ 135.95928476, 34.60849097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町大字笠１７４−１、１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.746209779999987, 34.54230612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡当麻町大字当麻３６" }, "geometry": { "type": "Point", "coordinates": [ 135.70867653, 34.51556633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀郡曽爾村大字今井414" }, "geometry": { "type": "Point", "coordinates": [ 136.121768, 34.50972016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市大宇陀区平尾410" }, "geometry": { "type": "Point", "coordinates": [ 135.93631122, 34.51345744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市久米町533-1" }, "geometry": { "type": "Point", "coordinates": [ 135.79152639, 34.48213973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市光陽町68-10" }, "geometry": { "type": "Point", "coordinates": [ 135.76620918, 34.48294989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下市町大字阿知賀1395" }, "geometry": { "type": "Point", "coordinates": [ 135.79774376, 34.38077331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下市町大字下市2347-13" }, "geometry": { "type": "Point", "coordinates": [ 135.78978715, 34.36703186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村大字野尻290" }, "geometry": { "type": "Point", "coordinates": [ 135.78578706, 34.03483066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町大字芦原12-1" }, "geometry": { "type": "Point", "coordinates": [ 135.797391940000011, 34.40801232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市本町1丁目10-3" }, "geometry": { "type": "Point", "coordinates": [ 135.693328689999987, 34.35087444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市戸毛48-1" }, "geometry": { "type": "Point", "coordinates": [ 135.75560895000001, 34.4340607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市大字室586-3" }, "geometry": { "type": "Point", "coordinates": [ 135.73858575, 34.44538536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市大字東松本字南方7-3" }, "geometry": { "type": "Point", "coordinates": [ 135.733122759999986, 34.46497573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡三郷町立野北1-27-114" }, "geometry": { "type": "Point", "coordinates": [ 135.693742429999986, 34.59616565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡平群町大字下垣内126" }, "geometry": { "type": "Point", "coordinates": [ 135.70303399, 34.62709564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡平群町大字椿井728-5" }, "geometry": { "type": "Point", "coordinates": [ 135.70783351, 34.61345799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市鹿畑町2343" }, "geometry": { "type": "Point", "coordinates": [ 135.74069248, 34.72868953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市北田原町2046" }, "geometry": { "type": "Point", "coordinates": [ 135.70093226, 34.73228887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市池之内町60-1" }, "geometry": { "type": "Point", "coordinates": [ 135.766378550000013, 34.63162151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市曽大根1丁目16-35" }, "geometry": { "type": "Point", "coordinates": [ 135.735228619999987, 34.49727884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大字市場648-1" }, "geometry": { "type": "Point", "coordinates": [ 135.731150930000013, 34.51070634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市三昧田町202" }, "geometry": { "type": "Point", "coordinates": [ 135.83837334, 34.58031435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市押熊町2269-211" }, "geometry": { "type": "Point", "coordinates": [ 135.76236425, 34.7171786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市三碓町2145-26" }, "geometry": { "type": "Point", "coordinates": [ 135.720143150000013, 34.69056277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市西九条町5丁目3-1" }, "geometry": { "type": "Point", "coordinates": [ 135.79815721, 34.65529803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市南京終町4丁目173" }, "geometry": { "type": "Point", "coordinates": [ 135.826587139999987, 34.66975867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市般若寺町263-4" }, "geometry": { "type": "Point", "coordinates": [ 135.837382780000013, 34.6979524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町大字川合895" }, "geometry": { "type": "Point", "coordinates": [ 135.74405926, 34.58807298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町大字薬井476-3" }, "geometry": { "type": "Point", "coordinates": [ 135.71181167, 34.58982199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市忍海245−1" }, "geometry": { "type": "Point", "coordinates": [ 135.73223411, 34.47746151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市富堂町221−5" }, "geometry": { "type": "Point", "coordinates": [ 135.81706404, 34.59494939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市秋篠早月町8−20" }, "geometry": { "type": "Point", "coordinates": [ 135.78427328, 34.69940129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市兵家１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70196759000001, 34.50397713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町桧垣本1430" }, "geometry": { "type": "Point", "coordinates": [ 135.79598046000001, 34.38733137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市阿部４２６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.838211410000014, 34.50857604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市三輪４３４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.84333903000001, 34.52736556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大字外山１６５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.85852279, 34.51698628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市今里町１２−２６" }, "geometry": { "type": "Point", "coordinates": [ 135.75148467, 34.50949909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大宮町２−４−３３" }, "geometry": { "type": "Point", "coordinates": [ 135.81579291, 34.6840957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡川西町唐院３４２" }, "geometry": { "type": "Point", "coordinates": [ 135.763030390000011, 34.5805439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町鍵１２２" }, "geometry": { "type": "Point", "coordinates": [ 135.7974638, 34.56628535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町保津２７０−２" }, "geometry": { "type": "Point", "coordinates": [ 135.778990779999987, 34.55632484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市菟田野区古市場１３６９" }, "geometry": { "type": "Point", "coordinates": [ 135.96625042, 34.47661202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市北越智町３１０" }, "geometry": { "type": "Point", "coordinates": [ 135.77688727, 34.47993871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡下市町丹生１２１６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82359609, 34.30478439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町宮滝２８２" }, "geometry": { "type": "Point", "coordinates": [ 135.894678590000012, 34.37760549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町橋屋２５５" }, "geometry": { "type": "Point", "coordinates": [ 135.84097183, 34.39163643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町国栖６２" }, "geometry": { "type": "Point", "coordinates": [ 135.93223669, 34.38486741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町佐々羅６５６" }, "geometry": { "type": "Point", "coordinates": [ 135.878423059999989, 34.40464014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡吉野町三茶屋７８３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.936790370000011, 34.4217224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡上北山村河合６１６−４" }, "geometry": { "type": "Point", "coordinates": [ 135.99881878, 34.1414546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡川上村人知４９０" }, "geometry": { "type": "Point", "coordinates": [ 135.97103026, 34.32119453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町下渕３４６" }, "geometry": { "type": "Point", "coordinates": [ 135.78378228, 34.3835844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町佐名伝万願瀬６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77262889, 34.38127616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡天川村川合" }, "geometry": { "type": "Point", "coordinates": [ 135.85646001, 34.24524884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡天川村洞川４３" }, "geometry": { "type": "Point", "coordinates": [ 135.878157750000014, 34.2660982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡東吉野村小川２１８６" }, "geometry": { "type": "Point", "coordinates": [ 135.96886, 34.40459833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市今井町１−１１−５７" }, "geometry": { "type": "Point", "coordinates": [ 135.70128847, 34.35394997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市野原町三宅２０６０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71291260000001, 34.34426369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡斑鳩町龍田西２−１−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.715023980000012, 34.60923721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡斑鳩町龍田南１−３−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.73017916, 34.60796188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市小瀬町１１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.708524149999988, 34.66041402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市俵口町９５１" }, "geometry": { "type": "Point", "coordinates": [ 135.69094189, 34.70468607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市下三橋町２７１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80190373, 34.64364364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市外川町７７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76764806, 34.64456495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市片塩町３−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.74530775, 34.50841353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市野口５６０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.720460089999989, 34.51848775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市森本町４２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.832909019999988, 34.63344837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市丹波市町４７２" }, "geometry": { "type": "Point", "coordinates": [ 135.829355349999986, 34.59649942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市紀寺東口町７７１−８" }, "geometry": { "type": "Point", "coordinates": [ 135.83391925, 34.67360964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市三条大路１−１−９３" }, "geometry": { "type": "Point", "coordinates": [ 135.80441098, 34.68413387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市西ノ京町１４０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7890587, 34.66760779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中町３１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.752944969999987, 34.6747401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市奈良阪町湯ノ尻２８３２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82759733, 34.70653731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市南京終町２−１２０１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81909153, 34.66847961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市宝来町１００４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77157193, 34.68471392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町寺戸１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.746211499999987, 34.56514153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀郡御杖村菅野３９８" }, "geometry": { "type": "Point", "coordinates": [ 136.16686332, 34.48798854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市室生区上笠間１７３０" }, "geometry": { "type": "Point", "coordinates": [ 136.03148664, 34.59863536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市雲梯町１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76445910000001, 34.502412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市五井町２２０" }, "geometry": { "type": "Point", "coordinates": [ 135.78022882, 34.50534034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市白橿町１−９−２７" }, "geometry": { "type": "Point", "coordinates": [ 135.784442500000011, 34.48184301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡大淀町下渕２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79127515, 34.38206596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡東吉野村木津６０９−１" }, "geometry": { "type": "Point", "coordinates": [ 136.02026486, 34.4234315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市今井３−７−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.70685046, 34.35662543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市新町１−７−４０" }, "geometry": { "type": "Point", "coordinates": [ 135.69032216, 34.34903151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市柏原３９６" }, "geometry": { "type": "Point", "coordinates": [ 135.76168168, 34.45782357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県高市郡明日香村御園４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79904409, 34.46395721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市三輪４３１" }, "geometry": { "type": "Point", "coordinates": [ 135.84260189, 34.52795868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大字谷２４７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.84315987, 34.50964219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大泉７９０" }, "geometry": { "type": "Point", "coordinates": [ 135.83026827, 34.53367879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県山辺郡山添村大字大西９９４" }, "geometry": { "type": "Point", "coordinates": [ 136.03850092, 34.68161903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市壱分町６７−６４" }, "geometry": { "type": "Point", "coordinates": [ 135.717282790000013, 34.66825888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市馬司町５７９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.786110549999989, 34.61399186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市本庄町２９９−３" }, "geometry": { "type": "Point", "coordinates": [ 135.78622174, 34.63623573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市嘉幡町６８９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.79836029, 34.5938797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市楢町４６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.8321895, 34.62376603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市学園中３−１５４２−４３" }, "geometry": { "type": "Point", "coordinates": [ 135.74499778, 34.69164607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市四条大路５−７−１５" }, "geometry": { "type": "Point", "coordinates": [ 135.78844594, 34.67740652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市水間町２３７７" }, "geometry": { "type": "Point", "coordinates": [ 135.94818755, 34.67294343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中山町西１−８５７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.75469897, 34.70949885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市鳥見町２−１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.72850361, 34.6897851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市二名平野１−２１２８" }, "geometry": { "type": "Point", "coordinates": [ 135.73036418, 34.71000524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町川合７５８" }, "geometry": { "type": "Point", "coordinates": [ 135.74397588, 34.59026717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町大字薬井４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.712533869999987, 34.5887388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町古寺３２２" }, "geometry": { "type": "Point", "coordinates": [ 135.751084, 34.55048688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町百済１７１５" }, "geometry": { "type": "Point", "coordinates": [ 135.76357316, 34.54549623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡上牧町片岡台３−４" }, "geometry": { "type": "Point", "coordinates": [ 135.71274961, 34.57946145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市押熊町８３５−２" }, "geometry": { "type": "Point", "coordinates": [ 135.779736969999988, 34.7161238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市神殿町２９７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81955104, 34.66355787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町味間高田３１５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81673711, 34.53941088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀郡曽爾村伊賀見８番" }, "geometry": { "type": "Point", "coordinates": [ 136.142464389999986, 34.52779996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市葛本町２８４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.79729992, 34.52494851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市見瀬町６０１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.797208149999989, 34.47453751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市四条町６３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.7899017, 34.5036578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市川西町１１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.771484640000011, 34.47911715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市土橋町１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77427165, 34.52391189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市木原町２２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80124136, 34.51595218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県葛城市八川１０４−３" }, "geometry": { "type": "Point", "coordinates": [ 135.717168930000014, 34.51020249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市今井１−１０−４４" }, "geometry": { "type": "Point", "coordinates": [ 135.702642989999987, 34.35465326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市住川町小八反田２０１" }, "geometry": { "type": "Point", "coordinates": [ 135.7166889, 34.38087237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市三室４４５" }, "geometry": { "type": "Point", "coordinates": [ 135.732717900000011, 34.45734433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市磯壁２−１０９０" }, "geometry": { "type": "Point", "coordinates": [ 135.70105159, 34.53826581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市尼寺２−３４０" }, "geometry": { "type": "Point", "coordinates": [ 135.701515089999987, 34.57012582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市阿部３５６" }, "geometry": { "type": "Point", "coordinates": [ 135.839603860000011, 34.50867051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市戒重３４８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83804878, 34.51667203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市巻野内２５４" }, "geometry": { "type": "Point", "coordinates": [ 135.84349296, 34.5454108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市吉備５４６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.83286203, 34.50812801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市出雲１２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.889444559999987, 34.52446016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市桜ケ丘３−１４８０" }, "geometry": { "type": "Point", "coordinates": [ 135.70255518, 34.70055608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市上町１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72895164, 34.70996561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市辻町５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.708040970000013, 34.7000034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市横田町下寺田６１３−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.79722388, 34.61912866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市下三橋町古屋１６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80226377, 34.64586954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市外川町５１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76777857, 34.6466592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市発志院町２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80433352, 34.62586374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市発志院町古池２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.8034398, 34.62329056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大谷３５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72667026, 34.5302586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市指柳町３３１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.82598904, 34.60357212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市成願寺町３４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.84360383, 34.57007762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市押熊町５４４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77161014, 34.71834051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市山町１３９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.832914710000011, 34.6418919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中町４８５６" }, "geometry": { "type": "Point", "coordinates": [ 135.75548311, 34.67155148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市二条大路南５−４４１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.789221340000012, 34.68440673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市宝来４−１−３" }, "geometry": { "type": "Point", "coordinates": [ 135.77356826, 34.68405426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市法華寺町８７−５" }, "geometry": { "type": "Point", "coordinates": [ 135.81135386, 34.68870262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市六条東町１０３−３" }, "geometry": { "type": "Point", "coordinates": [ 135.78890945, 34.665243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町穴闇２２８" }, "geometry": { "type": "Point", "coordinates": [ 135.74094338, 34.58999601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡河合町佐味田１７０７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.73366366, 34.57044462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町大塚９０６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.74342311, 34.53026145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町馬見北８−５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.72286553, 34.55370313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市室生区三本松2350" }, "geometry": { "type": "Point", "coordinates": [ 136.03209041, 34.57506382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市大宇陀区内原141-1" }, "geometry": { "type": "Point", "coordinates": [ 135.930736700000011, 34.49813658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市十市町839-1" }, "geometry": { "type": "Point", "coordinates": [ 135.797307710000013, 34.53150374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市東新堂543-10" }, "geometry": { "type": "Point", "coordinates": [ 135.83245625, 34.52359668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市櫟本町3564-1" }, "geometry": { "type": "Point", "coordinates": [ 135.831807020000014, 34.61705088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町鍵垣内３００" }, "geometry": { "type": "Point", "coordinates": [ 135.797452959999987, 34.56796862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町大字三笠３２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.78995049, 34.5511782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区天満台西１丁目１６−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.96845708, 34.54016127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県五條市今井５−３９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.71360123, 34.36055024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市畑１丁目２３０番地５" }, "geometry": { "type": "Point", "coordinates": [ 135.69882396, 34.53990306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市金屋２８１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.85237804, 34.5230473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市南田原町３３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.707110340000014, 34.72277995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市小泉町２３８４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.751794030000013, 34.62753278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市北郡山町１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78512459, 34.65402851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市今里町２−３０" }, "geometry": { "type": "Point", "coordinates": [ 135.74974537, 34.51010909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市今市町４６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.816636210000013, 34.64704627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市四条大路３−４−５２" }, "geometry": { "type": "Point", "coordinates": [ 135.79451047, 34.68148783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市南肘塚町２５２" }, "geometry": { "type": "Point", "coordinates": [ 135.83270345, 34.66556819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡上牧町服部台４−２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.714852079999986, 34.57259645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡當麻町尺土２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.719363750000014, 34.5101425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市高山町１２５９１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.723879759999988, 34.74066561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区高塚８０" }, "geometry": { "type": "Point", "coordinates": [ 135.94822384, 34.50211325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市鎌田１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.710169650000012, 34.52140249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市大安寺町５１７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.800856259999989, 34.67403433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和郡山市発志院町２７１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.80370918, 34.62532905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県吉野郡十津川村大字平谷５８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.765275010000011, 33.94095491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市南京終町５−２２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.828342780000014, 34.66937759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県桜井市大字三輪７６７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83650437, 34.52949636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県橿原市栄和町１４" }, "geometry": { "type": "Point", "coordinates": [ 135.79757829, 34.48697821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市柏木町１７７" }, "geometry": { "type": "Point", "coordinates": [ 135.79531209000001, 34.66997146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市庵治町２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.79927996, 34.58211153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市中町４０７３−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.74428017, 34.67458666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市神殿町６７７" }, "geometry": { "type": "Point", "coordinates": [ 135.819518679999987, 34.65921464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県北葛城郡広陵町大野８５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.740460039999988, 34.57031111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県大和高田市東中１−１４−３４" }, "geometry": { "type": "Point", "coordinates": [ 135.73492514, 34.49929649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県五條市三在町５４２" }, "geometry": { "type": "Point", "coordinates": [ 135.716815810000014, 34.37447577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県五條市住川町８８８−３７" }, "geometry": { "type": "Point", "coordinates": [ 135.72122159, 34.38594736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県大和高田市大谷４７０" }, "geometry": { "type": "Point", "coordinates": [ 135.73028648, 34.52823555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市西松ケ丘１−３５" }, "geometry": { "type": "Point", "coordinates": [ 135.69617068, 34.69617395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡安堵町大字東安堵１１５４" }, "geometry": { "type": "Point", "coordinates": [ 135.761659400000013, 34.60469543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒郡斑鳩町目安３丁目１−４３" }, "geometry": { "type": "Point", "coordinates": [ 135.7376341, 34.59594553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市都祁友田町８９７−２" }, "geometry": { "type": "Point", "coordinates": [ 135.94326285, 34.59489862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市田尻３１５" }, "geometry": { "type": "Point", "coordinates": [ 135.65842339, 34.55321494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市山崎町１０−３３" }, "geometry": { "type": "Point", "coordinates": [ 135.705119849999988, 34.69036906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市東生駒１丁目５２２" }, "geometry": { "type": "Point", "coordinates": [ 135.71637156, 34.68630469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市谷田町８４８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70171835, 34.6945811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県生駒市小瀬町１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.708286249999986, 34.66229785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大字外山１１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 135.863091, 34.51310764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県橿原市中曽司町１２３−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.77212737, 34.52241203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県磯城郡田原本町大字新町１４１−１" }, "geometry": { "type": "Point", "coordinates": [ 135.78502397, 34.55979729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市大宇陀区春日３２６" }, "geometry": { "type": "Point", "coordinates": [ 135.93173625, 34.48561422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市北片塩町５−２６" }, "geometry": { "type": "Point", "coordinates": [ 135.74521826, 34.51012925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大字奥田４５０" }, "geometry": { "type": "Point", "coordinates": [ 135.7539325, 34.48487023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市大中南町４−３６" }, "geometry": { "type": "Point", "coordinates": [ 135.738418349999989, 34.51011934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市古市町３３９" }, "geometry": { "type": "Point", "coordinates": [ 135.84075589, 34.65914286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市中町３２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.751712270000013, 34.67515754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県大和高田市旭北町４−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.749176010000014, 34.51196056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市櫟本町４０４−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.82561397, 34.61777495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市柳本町８９０−６" }, "geometry": { "type": "Point", "coordinates": [ 135.836332410000011, 34.56086458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市柳本町１１８９" }, "geometry": { "type": "Point", "coordinates": [ 135.84579702, 34.5594699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県天理市南六条町１７７−３" }, "geometry": { "type": "Point", "coordinates": [ 135.79788014, 34.60820162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市今泉４５２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.69896423, 34.56383728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県宇陀市榛原区あかね台１丁目９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.95077616, 34.53228197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県御所市大字室１２２−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72932588, 34.44382513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県北葛城郡広陵町大字平尾６２３−２" }, "geometry": { "type": "Point", "coordinates": [ 135.73922589, 34.53929697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県桜井市大字大泉３５１−２" }, "geometry": { "type": "Point", "coordinates": [ 135.826079209999989, 34.53101989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市阪原町７７８" }, "geometry": { "type": "Point", "coordinates": [ 135.939421079999988, 34.71893083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県奈良市石木町４７５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76102601, 34.66372972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市横井２丁目２８７−６" }, "geometry": { "type": "Point", "coordinates": [ 135.83081126, 34.65205362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県磯城郡田原本町大字三笠１２５" }, "geometry": { "type": "Point", "coordinates": [ 135.786812379999986, 34.55214349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県宇陀市菟田野区古市場３４６" }, "geometry": { "type": "Point", "coordinates": [ 135.97157021000001, 34.47351184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県北葛城郡河合町大字大輪田１７９９" }, "geometry": { "type": "Point", "coordinates": [ 135.72005822, 34.58941107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県高市郡高取町大字森３７９−２" }, "geometry": { "type": "Point", "coordinates": [ 135.78707477, 34.44844922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県高市郡高取町大字清水谷１０５６" }, "geometry": { "type": "Point", "coordinates": [ 135.8008073, 34.44120031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県宇陀市室生区三本松３６３１" }, "geometry": { "type": "Point", "coordinates": [ 136.03245231, 34.57386541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県磯城郡田原本町大門中１０７" }, "geometry": { "type": "Point", "coordinates": [ 135.79249608, 34.55124318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県吉野郡吉野町大字上市１４７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.85673739, 34.39573967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県吉野郡天川村大字中谷６２" }, "geometry": { "type": "Point", "coordinates": [ 135.85209203, 34.2391276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県吉野郡大淀町大字下渕２６３" }, "geometry": { "type": "Point", "coordinates": [ 135.7865339, 34.38305951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市南京終町１丁目８２−４" }, "geometry": { "type": "Point", "coordinates": [ 135.82337091, 34.67143006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県五條市須恵３丁目５−２１" }, "geometry": { "type": "Point", "coordinates": [ 135.69965148, 34.35498975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市丹波市町４５３" }, "geometry": { "type": "Point", "coordinates": [ 135.83105427000001, 34.59674112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市櫟本町２４０１" }, "geometry": { "type": "Point", "coordinates": [ 135.82940645, 34.61951085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県御所市１０７７" }, "geometry": { "type": "Point", "coordinates": [ 135.73762727, 34.46247551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県橿原市今井町４丁目１１−１７" }, "geometry": { "type": "Point", "coordinates": [ 135.78517659, 34.50787375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県御所市大字小林４１" }, "geometry": { "type": "Point", "coordinates": [ 135.71133959, 34.46942548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県橿原市内膳町２丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.78917857, 34.51066104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市西長柄町９８" }, "geometry": { "type": "Point", "coordinates": [ 135.823533880000014, 34.57292567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市山田町２０４４" }, "geometry": { "type": "Point", "coordinates": [ 135.93799476, 34.63138611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市柳本町１３０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.839183709999986, 34.55872837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県五條市三在町３３６" }, "geometry": { "type": "Point", "coordinates": [ 135.71715584, 34.37037196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県天理市櫟本町８５５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.827128929999986, 34.61998575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県香芝市穴虫１０９３" }, "geometry": { "type": "Point", "coordinates": [ 135.68689754, 34.54399914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県生駒郡斑鳩町興留２丁目３−１１" }, "geometry": { "type": "Point", "coordinates": [ 135.739650759999989, 34.60896487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市山陵町２００３" }, "geometry": { "type": "Point", "coordinates": [ 135.78877907, 34.70261071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市四条大路５丁目４−３４" }, "geometry": { "type": "Point", "coordinates": [ 135.789159540000014, 34.67918976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市川上町５６−２" }, "geometry": { "type": "Point", "coordinates": [ 135.84022703, 34.69620819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市大宮町６丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 135.808171789999989, 34.68453667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市井上町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83030636, 34.67449652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県奈良市西ノ京町１７９" }, "geometry": { "type": "Point", "coordinates": [ 135.788390349999986, 34.67179889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県大和郡山市横田町２６−６" }, "geometry": { "type": "Point", "coordinates": [ 135.80738388, 34.61941591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県大和郡山市田中町７３４" }, "geometry": { "type": "Point", "coordinates": [ 135.769839499999989, 34.64702867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県大和高田市大字今里川合方９６−８" }, "geometry": { "type": "Point", "coordinates": [ 135.753443049999987, 34.50530016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市学園南１丁目６−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.75311839, 34.69569684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県磯城郡三宅町大字上但馬１６３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76669439, 34.56683441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字辻１６４" }, "geometry": { "type": "Point", "coordinates": [ 135.84165698000001, 34.54977974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県吉野郡大淀町大字下渕１２３２−３" }, "geometry": { "type": "Point", "coordinates": [ 135.786988150000013, 34.38894555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市内本町６−１６" }, "geometry": { "type": "Point", "coordinates": [ 135.743043949999986, 34.51497371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県吉野郡大淀町大字桧垣本２５３９−４" }, "geometry": { "type": "Point", "coordinates": [ 135.7855791, 34.39249188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県磯城郡川西町大字結崎４３９" }, "geometry": { "type": "Point", "coordinates": [ 135.78266474, 34.58396644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市大字松塚２９６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.76230601, 34.52127189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字桜井７７４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.85427592, 34.51334778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県北葛城郡王寺町本町４丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.70569021, 34.58291439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県磯城郡田原本町大字新町２５３" }, "geometry": { "type": "Point", "coordinates": [ 135.79385317, 34.5567224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県磯城郡田原本町大字秦庄５３５−３" }, "geometry": { "type": "Point", "coordinates": [ 135.79475871, 34.5431628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県北葛城郡王寺町畠田６丁目２−１３" }, "geometry": { "type": "Point", "coordinates": [ 135.70181294, 34.57764549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県吉野郡下市町大字下市１０" }, "geometry": { "type": "Point", "coordinates": [ 135.78751273, 34.3774184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県北葛城郡広陵町大字萱野６５６" }, "geometry": { "type": "Point", "coordinates": [ 135.751103980000011, 34.56437321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県吉野郡大淀町大字北野３５−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.81753246, 34.39358081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市野原西２丁目１４−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.69812429000001, 34.34462423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市大森西町１３−１４" }, "geometry": { "type": "Point", "coordinates": [ 135.81616219, 34.67714768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県橿原市木之本町１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 135.81420441, 34.49871028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市大豆山町１３" }, "geometry": { "type": "Point", "coordinates": [ 135.82768676, 34.68660347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和郡山市池沢町２３７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77661742, 34.61190758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県吉野郡大淀町大字下渕１５４８" }, "geometry": { "type": "Point", "coordinates": [ 135.78182383, 34.39237051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市内本町１−４" }, "geometry": { "type": "Point", "coordinates": [ 135.74304672, 34.51557363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市西木辻町２１４" }, "geometry": { "type": "Point", "coordinates": [ 135.8261669, 34.67468747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市西登美ヶ丘４丁目１２−２５" }, "geometry": { "type": "Point", "coordinates": [ 135.742012749999986, 34.71773234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市般若寺町５" }, "geometry": { "type": "Point", "coordinates": [ 135.83531631, 34.69786626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市東笹鉾町５４" }, "geometry": { "type": "Point", "coordinates": [ 135.8328723, 34.69034483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市法蓮町９８６−５" }, "geometry": { "type": "Point", "coordinates": [ 135.82249485, 34.68975331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和郡山市筒井町７２８" }, "geometry": { "type": "Point", "coordinates": [ 135.7811543, 34.61913423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市礒野東町３−９" }, "geometry": { "type": "Point", "coordinates": [ 135.74155259, 34.5082135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市築地之内町１２" }, "geometry": { "type": "Point", "coordinates": [ 135.83145904, 34.67455209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市大字根成柿２７３−５" }, "geometry": { "type": "Point", "coordinates": [ 135.75929299, 34.48478888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和高田市本郷町７−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.744832699999989, 34.51316288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県大和郡山市紺屋町３" }, "geometry": { "type": "Point", "coordinates": [ 135.786063610000014, 34.64774501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市帝塚山６丁目１−７−１" }, "geometry": { "type": "Point", "coordinates": [ 135.72858782, 34.68667338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市東九条町６０２" }, "geometry": { "type": "Point", "coordinates": [ 135.81351644, 34.65807852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市北京終町４１" }, "geometry": { "type": "Point", "coordinates": [ 135.8292065, 34.67286334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県奈良市西大寺本町１−１２" }, "geometry": { "type": "Point", "coordinates": [ 135.781936589999987, 34.69466544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市野原西４丁目７−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.69952312, 34.3436646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字阿部４２３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83777727, 34.50810392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字桜井１０７０" }, "geometry": { "type": "Point", "coordinates": [ 135.85045888, 34.51087897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字吉隠５８３" }, "geometry": { "type": "Point", "coordinates": [ 135.92954289, 34.53139414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市五條１丁目２−１０" }, "geometry": { "type": "Point", "coordinates": [ 135.695412330000011, 34.35043581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市須恵２丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 135.6965184, 34.35425361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市丹原町８０８" }, "geometry": { "type": "Point", "coordinates": [ 135.70256215, 34.32202558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市安倍木材団地１丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 135.84051971, 34.50319567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市本町３丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 135.692256140000012, 34.35446755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県生駒市高山町６６７３" }, "geometry": { "type": "Point", "coordinates": [ 135.72182282, 34.74064406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県五條市住川町８８８" }, "geometry": { "type": "Point", "coordinates": [ 135.72162941, 34.38620744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県天理市櫟本町３０５６" }, "geometry": { "type": "Point", "coordinates": [ 135.83005974, 34.61852568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県天理市川原城町３９３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83686842, 34.59853309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県天理市勾田町４２１" }, "geometry": { "type": "Point", "coordinates": [ 135.84046458, 34.59321112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県天理市守目堂町１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 135.83740925, 34.59535805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字上之宮１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 135.85124024000001, 34.49653044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県桜井市大字上之宮１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.851462450000014, 34.49607217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県橿原市雲梯町３４４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.76581975, 34.49799015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県橿原市地黄町１１４−４" }, "geometry": { "type": "Point", "coordinates": [ 135.784838470000011, 34.51505389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県橿原市東坊城町８１８" }, "geometry": { "type": "Point", "coordinates": [ 135.769483400000013, 34.49311583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "奈良県橿原市飯高町２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 135.77625702, 34.53417751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県香芝市上中１３４０−５" }, "geometry": { "type": "Point", "coordinates": [ 135.680759560000013, 34.55935278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "奈良県吉野郡十津川村川津" }, "geometry": { "type": "Point", "coordinates": [ 135.749064190000013, 34.06117718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県宇陀市榛原区福地３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 135.963714180000011, 34.53490827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "奈良県吉野郡大淀町新野３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 135.816887040000012, 34.38871752 ] } }
+
+]
+}

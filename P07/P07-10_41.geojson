@@ -1,0 +1,920 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市黒川町小黒川３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.84780172, 33.32630733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町八谷搦１０８９" }, "geometry": { "type": "Point", "coordinates": [ 129.869775550000014, 33.27625299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市立花町字長谷３３２６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.88187215, 33.26856149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町大字吉田丁３７３７" }, "geometry": { "type": "Point", "coordinates": [ 130.01521846, 33.08673197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡大町町大字福母１１４９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.10026801, 33.21360282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字牛屋東分４３８５−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.13869354, 33.1514919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字戸ケ里２３３７" }, "geometry": { "type": "Point", "coordinates": [ 130.126409810000013, 33.15538901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字廿治１３６０" }, "geometry": { "type": "Point", "coordinates": [ 130.138555340000011, 33.17721559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大字尼寺字二本松２８８５−４" }, "geometry": { "type": "Point", "coordinates": [ 130.28406655, 33.30189777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字尼寺字三本松２９８５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28059682, 33.29894472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫町南１丁目１４番２５号" }, "geometry": { "type": "Point", "coordinates": [ 130.31753644, 33.26251734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市本庄町本庄五本黒木３０−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.29775091, 33.23922523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字長野島廻５９８" }, "geometry": { "type": "Point", "coordinates": [ 130.53178295, 33.40702565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡上峰町坊所１５７０−１６９" }, "geometry": { "type": "Point", "coordinates": [ 130.41940452, 33.33097373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町畑田２５５２−６" }, "geometry": { "type": "Point", "coordinates": [ 130.18981722, 33.29338786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町田道ヶ里１６４１" }, "geometry": { "type": "Point", "coordinates": [ 130.38239094, 33.31861864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町中部乙２３２６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.886924029999989, 33.17975398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市真木町１４９９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51452848, 33.35535891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市蔵上２−１７９" }, "geometry": { "type": "Point", "coordinates": [ 130.49458478, 33.37392531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町相知１５１６" }, "geometry": { "type": "Point", "coordinates": [ 130.01428223, 33.34916231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市二タ子１−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 129.95916696, 33.4584982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市橘町大字大日３０９０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.04933738, 33.17309138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字昭和１０１" }, "geometry": { "type": "Point", "coordinates": [ 130.024213730000014, 33.1918983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字昭和２３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.02488631, 33.19465028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市下土井町７６８−３" }, "geometry": { "type": "Point", "coordinates": [ 129.87237276, 33.27282757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市山代町久原２９８２−３" }, "geometry": { "type": "Point", "coordinates": [ 129.81123811, 33.31527725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市山代町久原字平尾４９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.81312978, 33.30580525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市山代町立岩４１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 129.79264937, 33.33583084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市新天町長筬２８９−２" }, "geometry": { "type": "Point", "coordinates": [ 129.87156346, 33.26937222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市大坪町甲白野２６８１−２" }, "geometry": { "type": "Point", "coordinates": [ 129.89416275, 33.2758833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市大坪町丙１０７１" }, "geometry": { "type": "Point", "coordinates": [ 129.89614174, 33.26953367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市東山代町長浜字白幡二１６２１−４" }, "geometry": { "type": "Point", "coordinates": [ 129.852253530000013, 33.2720669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町大里乙３６３８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.854275840000014, 33.25513248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町大里甲２２２７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.8684364, 33.26950154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市波多津町辻１０３６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.87085511, 33.37275893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市立花町２６９３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.89133755, 33.26401694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町大字下宿乙３３９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.98988094, 33.10124066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町大字下宿甲１４６０" }, "geometry": { "type": "Point", "coordinates": [ 130.00098492, 33.11394595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町坂田２４４−７" }, "geometry": { "type": "Point", "coordinates": [ 130.12283617, 33.14891851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字福富１５６８" }, "geometry": { "type": "Point", "coordinates": [ 130.18212116, 33.18217311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市久保泉町大字川久保３２７５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.3122677, 33.32987055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市金立町大字金立字五本黒木１１９７−２２８" }, "geometry": { "type": "Point", "coordinates": [ 130.31093457, 33.32848179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市金立町大字千布２２７９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.301145319999989, 33.31183211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬西６−９９５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28604378, 33.2911303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬町３０１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.29756712, 33.29088804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市若楠３−２−６" }, "geometry": { "type": "Point", "coordinates": [ 130.284174979999989, 33.27995826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市諸富町大字為重字上下分一本杉五角１４７８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.336608430000013, 33.21245528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市諸富町徳富１０７１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.369654129999986, 33.22910248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市神野東３−１４−２８" }, "geometry": { "type": "Point", "coordinates": [ 130.29429638, 33.27152112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市神野東４−１２−１６" }, "geometry": { "type": "Point", "coordinates": [ 130.29665096, 33.2686849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市西与賀町大字高太郎字三本榎１８０５番６" }, "geometry": { "type": "Point", "coordinates": [ 130.265218549999986, 33.21900596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市西与賀町大字厘外８５５−９" }, "geometry": { "type": "Point", "coordinates": [ 130.27914027, 33.23902142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町犬井道" }, "geometry": { "type": "Point", "coordinates": [ 130.31374413, 33.18149585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町大字早津江２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33538963, 33.20360071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大財６−２３２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.31007116, 33.26186009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字尼寺字一本松３４３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.278636760000012, 33.30489518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町梅野１７９" }, "geometry": { "type": "Point", "coordinates": [ 130.269489670000013, 33.32663201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市天祐１−１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28288393, 33.25737581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市東与賀町田中８３９−６" }, "geometry": { "type": "Point", "coordinates": [ 130.280088619999987, 33.20102337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島１−９−３" }, "geometry": { "type": "Point", "coordinates": [ 130.26993988000001, 33.27754046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町大字森田４１８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.26236882, 33.26906267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町大字森田字三本椎５４３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.2605517, 33.27451272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町大字八戸溝字三本杉９５８−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.27175007, 33.26481342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫町大字西渕字四本柳２０１４" }, "geometry": { "type": "Point", "coordinates": [ 130.30890297, 33.27419354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫南２−１６−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.3165425, 33.26459634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市北川副町大字光法字四本杉１２６１−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.33216331, 33.23247212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市末広２−９−８" }, "geometry": { "type": "Point", "coordinates": [ 130.277217830000012, 33.24214347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市蓮池町大字蓮池字西名３５８−７" }, "geometry": { "type": "Point", "coordinates": [ 130.35297922, 33.24779622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字原古賀一本谷８３０" }, "geometry": { "type": "Point", "coordinates": [ 130.43962622, 33.34536184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字白壁字平林２２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.474801109999987, 33.32902184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町中津隈３０６５" }, "geometry": { "type": "Point", "coordinates": [ 130.44237238, 33.32440746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町小倉９７０" }, "geometry": { "type": "Point", "coordinates": [ 130.5324171, 33.4273761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字長野字荒籠９０２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.53203344, 33.41046839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字長野字野原６９６−３" }, "geometry": { "type": "Point", "coordinates": [ 130.531390820000013, 33.40392358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡上峰町大字坊所字下津毛１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.425785569999988, 33.32605502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市音成乙１７５０" }, "geometry": { "type": "Point", "coordinates": [ 130.13977965, 33.07956027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市高津原４４０５−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.09718611, 33.10991136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字高津原４２３６−９" }, "geometry": { "type": "Point", "coordinates": [ 130.0965118, 33.11285505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字森１１２５−６" }, "geometry": { "type": "Point", "coordinates": [ 130.08306564, 33.12203616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字納富分１０１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.094426309999989, 33.09458128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市芦刈町永田南里婀３１００" }, "geometry": { "type": "Point", "coordinates": [ 130.2020819, 33.19650412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市牛津町下砥川９１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.18006784, 33.23134765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市牛津町上砥川６６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.190098150000011, 33.24533288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町久米５４９" }, "geometry": { "type": "Point", "coordinates": [ 130.20590196, 33.28916679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町石木石木４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20069031, 33.27510236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町高原２１７−３" }, "geometry": { "type": "Point", "coordinates": [ 130.20701581, 33.29820468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町畑田２１５３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.18477718, 33.29206843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼郡吉野ヶ里町吉田字九反田２１５６" }, "geometry": { "type": "Point", "coordinates": [ 130.41368793, 33.33244431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼郡吉野ヶ里町石動２１７０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.409449529999989, 33.34973433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼郡吉野ヶ里町大字三津４７４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.394562760000014, 33.34777656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神崎町田道ケ里２３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.37688064, 33.31473474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町境原字五の坪２６０２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.34253263, 33.2804625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町姉５６" }, "geometry": { "type": "Point", "coordinates": [ 130.360659840000011, 33.27108181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町岩谷川内３−９−８" }, "geometry": { "type": "Point", "coordinates": [ 129.89030925, 33.18244557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市北多久町小侍１９７２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.08917437, 33.29336573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市北多久町多久原２８９６−７" }, "geometry": { "type": "Point", "coordinates": [ 130.11670096, 33.29159287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市北多久町大字小侍６３７" }, "geometry": { "type": "Point", "coordinates": [ 130.100112200000012, 33.28929707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市北多久町大字多久原字牟田２２２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.13015632, 33.28957217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市元町字川原１３０１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.50652249, 33.3734433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市真木町赤江１１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51532631, 33.35305581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市村田町８３７" }, "geometry": { "type": "Point", "coordinates": [ 130.48768535, 33.35719766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市本鳥栖町５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.51611558, 33.37691974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市立石町一本杉２２０３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.46448702, 33.36523348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市栄町２５８２" }, "geometry": { "type": "Point", "coordinates": [ 129.97972775, 33.44562898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市佐志浜町４２９８−３" }, "geometry": { "type": "Point", "coordinates": [ 129.936004630000014, 33.47803113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町相知２１３５" }, "geometry": { "type": "Point", "coordinates": [ 130.00736373, 33.35278665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鎮西町塩鶴１９０１" }, "geometry": { "type": "Point", "coordinates": [ 129.90986296, 33.52557926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市二タ子５０５９−４２" }, "geometry": { "type": "Point", "coordinates": [ 129.96027251000001, 33.46075164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市二夕子３−１２−１００" }, "geometry": { "type": "Point", "coordinates": [ 129.95929543, 33.46287755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町入野甲１９８５−８" }, "geometry": { "type": "Point", "coordinates": [ 129.81710673, 33.44103401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町大字浜崎１８７５" }, "geometry": { "type": "Point", "coordinates": [ 130.03287684, 33.44742685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町大字浜崎１９２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.02994247, 33.43778629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町浜崎字長田３０７" }, "geometry": { "type": "Point", "coordinates": [ 130.04384198, 33.44647179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市北波多徳須恵１０１７−２" }, "geometry": { "type": "Point", "coordinates": [ 129.950050409999989, 33.37599748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町糸岐１５５８−１１" }, "geometry": { "type": "Point", "coordinates": [ 130.18051229, 33.01646324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大浦丁１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20379936, 32.968658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大字多良字油津１４４４" }, "geometry": { "type": "Point", "coordinates": [ 130.17825005, 33.02424904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市朝日町甘久３５０１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.04763841, 33.21290307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市鳥海９８３１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.96296430000001, 33.19597545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市東川登町永野６２１２" }, "geometry": { "type": "Point", "coordinates": [ 130.00283389, 33.16328121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市東川登町大字永野３７４６上り線" }, "geometry": { "type": "Point", "coordinates": [ 130.01791354, 33.16072162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市東川登町大字袴野１０１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.994389469999987, 33.14939025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字昭和７７２" }, "geometry": { "type": "Point", "coordinates": [ 130.03208677, 33.19714875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町武雄３６９−２" }, "geometry": { "type": "Point", "coordinates": [ 129.99727041, 33.18486901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市北方町大字志久字土井神５３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.080560850000012, 33.21669143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市立石町１２８−６" }, "geometry": { "type": "Point", "coordinates": [ 130.46331057, 33.35162569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市山代町久原２８８３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.811142710000013, 33.31450321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市大坪町丙１９７０−１" }, "geometry": { "type": "Point", "coordinates": [ 129.88692124, 33.27021263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬西６丁目１１４９-２" }, "geometry": { "type": "Point", "coordinates": [ 130.28552301, 33.29183178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市諸富町大字寺井津１９０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.352089260000014, 33.21409285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市神野東４−４−２３" }, "geometry": { "type": "Point", "coordinates": [ 130.30095681, 33.26879972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町大字八戸３１７８" }, "geometry": { "type": "Point", "coordinates": [ 130.265795200000014, 33.25560334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫南２丁目１４番１号" }, "geometry": { "type": "Point", "coordinates": [ 130.31448623, 33.26335872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市北川副町光法観音１５１６−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.32981295, 33.23305957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字高津原４０６９−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.096305019999988, 33.11421642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市牛津町上砥川２５０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.186328769999989, 33.24374909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町久米字甘木２０８８" }, "geometry": { "type": "Point", "coordinates": [ 130.19899128, 33.28616156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼郡吉野ヶ里町吉田２９４６-６０" }, "geometry": { "type": "Point", "coordinates": [ 130.409840010000011, 33.32844697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町詫田１４２−９" }, "geometry": { "type": "Point", "coordinates": [ 130.39156116, 33.27801492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市宿町１４２１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.50188599, 33.37734601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市曽根崎字遠島１５１４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.52897812, 33.37843357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市町田長谷６２１−１" }, "geometry": { "type": "Point", "coordinates": [ 129.97541346, 33.43895556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町入野１９３４-４" }, "geometry": { "type": "Point", "coordinates": [ 129.81602655, 33.44241471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町万賀里川２８０-１" }, "geometry": { "type": "Point", "coordinates": [ 129.870883670000012, 33.42132076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町浜崎２３８１" }, "geometry": { "type": "Point", "coordinates": [ 130.022237499999989, 33.43719844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市和多田先石１２-２９" }, "geometry": { "type": "Point", "coordinates": [ 129.9878663, 33.4350499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市西川登町神六２０３０９-４" }, "geometry": { "type": "Point", "coordinates": [ 129.97709412, 33.13728718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市黒川町黒塩２０９８-３" }, "geometry": { "type": "Point", "coordinates": [ 129.844456869999988, 33.3236463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市松浦町桃川５２６４-１" }, "geometry": { "type": "Point", "coordinates": [ 129.94704402, 33.26957527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市新天町長筬３０１-１" }, "geometry": { "type": "Point", "coordinates": [ 129.87518481, 33.26893622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市大川町大川野３８７０-１" }, "geometry": { "type": "Point", "coordinates": [ 129.96847269, 33.30215789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市東山代町長浜２３４５" }, "geometry": { "type": "Point", "coordinates": [ 129.841847, 33.28178954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市南波多町井手野２８３１-１" }, "geometry": { "type": "Point", "coordinates": [ 129.92914442, 33.31490153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市波多津町井野尾１９８１-１" }, "geometry": { "type": "Point", "coordinates": [ 129.89371368, 33.37890327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市塩田町大字五町田甲１６４２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.07278821, 33.12409308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡江北町大字山口１７-１" }, "geometry": { "type": "Point", "coordinates": [ 130.1528798, 33.21150574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡大町町大字大町篭６０４３-９" }, "geometry": { "type": "Point", "coordinates": [ 130.11666845, 33.21265128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字今泉８０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.132899579999986, 33.18990181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字新明２８２３" }, "geometry": { "type": "Point", "coordinates": [ 130.15743876, 33.14325159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字深浦３７７-５" }, "geometry": { "type": "Point", "coordinates": [ 130.12173467, 33.13859073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字福富１４２４-３" }, "geometry": { "type": "Point", "coordinates": [ 130.19103959, 33.1836355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀郡久保田町大字新田１１０２-第1" }, "geometry": { "type": "Point", "coordinates": [ 130.23992766, 33.23323217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀郡川副町大字鹿江２３０-４" }, "geometry": { "type": "Point", "coordinates": [ 130.32317132, 33.18952833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀郡川副町大字南里３４６-２" }, "geometry": { "type": "Point", "coordinates": [ 130.31346026, 33.21185521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀郡東与賀町大字下古賀１３２" }, "geometry": { "type": "Point", "coordinates": [ 130.29232449, 33.21535375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬町大字東高木２４０-３" }, "geometry": { "type": "Point", "coordinates": [ 130.299662680000012, 33.27575263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市諸富町大字為重５６１-第３" }, "geometry": { "type": "Point", "coordinates": [ 130.35211794, 33.22307838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字川上字一本松三割5401-1" }, "geometry": { "type": "Point", "coordinates": [ 130.255047600000012, 33.30779878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字梅野１９４７-１" }, "geometry": { "type": "Point", "coordinates": [ 130.254224920000013, 33.36196974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町八戸３０８０" }, "geometry": { "type": "Point", "coordinates": [ 130.26386505, 33.25583716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市富士町大字大野１０９３-イ" }, "geometry": { "type": "Point", "coordinates": [ 130.20269235, 33.43228693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市富士町大字内野410" }, "geometry": { "type": "Point", "coordinates": [ 130.24883379, 33.36321469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字寄人１５２２-８" }, "geometry": { "type": "Point", "coordinates": [ 130.420806660000011, 33.28955826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字中津隈５５３-２" }, "geometry": { "type": "Point", "coordinates": [ 130.43422024, 33.32456201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字宮浦１６４" }, "geometry": { "type": "Point", "coordinates": [ 130.529390189999987, 33.42016053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字納富分甲３３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.10256073, 33.09741005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市芦刈町大字芦溝１１３４-３" }, "geometry": { "type": "Point", "coordinates": [ 130.209432850000013, 33.22519235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町大字長神田２３３９-１-５-６" }, "geometry": { "type": "Point", "coordinates": [ 130.21815752, 33.27324457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町大字松尾４０８７-４" }, "geometry": { "type": "Point", "coordinates": [ 130.1984129, 33.29719757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町本堀３２６０" }, "geometry": { "type": "Point", "coordinates": [ 130.376445100000012, 33.30755347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町直鳥４００-１" }, "geometry": { "type": "Point", "coordinates": [ 130.36585374, 33.27350851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市背振町広滝５２４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.325984299999988, 33.37749492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡西有田町曲川丙７５６" }, "geometry": { "type": "Point", "coordinates": [ 129.85045291, 33.19688787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡西有田町大木乙９５２-１" }, "geometry": { "type": "Point", "coordinates": [ 129.84899719, 33.22266338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市多久町２１５４-１" }, "geometry": { "type": "Point", "coordinates": [ 130.0898609, 33.26163924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市東多久町大字納所７９１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.17211573, 33.25571293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市南多久町大字下多久２５９７-４" }, "geometry": { "type": "Point", "coordinates": [ 130.12492183, 33.27233932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市儀徳町２０１３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.495636170000012, 33.35235802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市田代大官町８０５-５" }, "geometry": { "type": "Point", "coordinates": [ 130.514957939999988, 33.38882384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市熊の原３１７９-１" }, "geometry": { "type": "Point", "coordinates": [ 129.9623881, 33.44615627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市原９３７-１" }, "geometry": { "type": "Point", "coordinates": [ 129.999366470000012, 33.42099342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市厳木町中島１３５８-２" }, "geometry": { "type": "Point", "coordinates": [ 130.07221329, 33.31377635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市呼子町殿ノ浦３７６-１" }, "geometry": { "type": "Point", "coordinates": [ 129.88767532, 33.52997358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市佐志３１４５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.935306630000014, 33.47543262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市七山仁部２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.11408798, 33.44296871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町中山３４９１-５" }, "geometry": { "type": "Point", "coordinates": [ 130.013656129999987, 33.35237274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市大良５５-１" }, "geometry": { "type": "Point", "coordinates": [ 129.90893741, 33.45190051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鎮西町岩野７５" }, "geometry": { "type": "Point", "coordinates": [ 129.9209315, 33.49526616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町切木２４８３-１-２" }, "geometry": { "type": "Point", "coordinates": [ 129.883292110000014, 33.42739233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町田野丙６８" }, "geometry": { "type": "Point", "coordinates": [ 129.831778570000012, 33.43210183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町大字横田下７３" }, "geometry": { "type": "Point", "coordinates": [ 130.03701766, 33.43972507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町大字平原１０１６-１" }, "geometry": { "type": "Point", "coordinates": [ 130.07184497, 33.42792946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市北波多村徳須恵１１７８" }, "geometry": { "type": "Point", "coordinates": [ 129.94880011, 33.37447903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市湊８６７-４" }, "geometry": { "type": "Point", "coordinates": [ 129.95004402, 33.52645201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県東松浦郡玄海町諸浦３３２-２" }, "geometry": { "type": "Point", "coordinates": [ 129.87306107, 33.4728291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県東松浦郡玄海町普恩寺８６２-１" }, "geometry": { "type": "Point", "coordinates": [ 129.845603360000013, 33.49844127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡嬉野町大字下宿甲４６３６-５" }, "geometry": { "type": "Point", "coordinates": [ 129.99620535, 33.10322365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡嬉野町大字不動山甲４３１" }, "geometry": { "type": "Point", "coordinates": [ 129.97186757, 33.08175246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大字多良１１-１" }, "geometry": { "type": "Point", "coordinates": [ 130.17857486, 33.02085118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大字大浦丁４５２-１" }, "geometry": { "type": "Point", "coordinates": [ 130.206764099999987, 32.97556097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市山内町大字三間坂甲１２３９６-２" }, "geometry": { "type": "Point", "coordinates": [ 129.96000526, 33.19566515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市山内町大字大野６８４０-２" }, "geometry": { "type": "Point", "coordinates": [ 129.932769549999989, 33.20795398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市若木町大字川古７７７４-１" }, "geometry": { "type": "Point", "coordinates": [ 129.99033691, 33.25436388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武内町大字真手野２２９６４-２" }, "geometry": { "type": "Point", "coordinates": [ 129.9645486, 33.22642288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字昭和３７-３" }, "geometry": { "type": "Point", "coordinates": [ 130.027290889999989, 33.19661088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市北方町大字志久１９３４−４" }, "geometry": { "type": "Point", "coordinates": [ 130.06335241, 33.22028541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町八谷搦字1249" }, "geometry": { "type": "Point", "coordinates": [ 129.8686673, 33.27778333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字福富1421-2" }, "geometry": { "type": "Point", "coordinates": [ 130.18955988, 33.18187632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫町大字西渕西渕字二本柳1822-5" }, "geometry": { "type": "Point", "coordinates": [ 130.31095059, 33.27696938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字常広108-2" }, "geometry": { "type": "Point", "coordinates": [ 130.09964903, 33.12141567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町田道ヶ里2435-8" }, "geometry": { "type": "Point", "coordinates": [ 130.37356266, 33.31166864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町上幸平1丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 129.90305396, 33.19184935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町南原丁210-4" }, "geometry": { "type": "Point", "coordinates": [ 129.86792261, 33.18582872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町立部乙2253-1" }, "geometry": { "type": "Point", "coordinates": [ 129.84986411, 33.21415165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市南多久町大字長尾4067-1" }, "geometry": { "type": "Point", "coordinates": [ 130.11118575, 33.28286446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市永吉町字長の原550" }, "geometry": { "type": "Point", "coordinates": [ 130.530410819999986, 33.40306825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市姫方町354-1" }, "geometry": { "type": "Point", "coordinates": [ 130.5288109, 33.39114391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市山本1541" }, "geometry": { "type": "Point", "coordinates": [ 129.97946056, 33.39435751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市養母田490" }, "geometry": { "type": "Point", "coordinates": [ 129.98236691, 33.41291212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市西川登町大字小田志16800" }, "geometry": { "type": "Point", "coordinates": [ 129.98763201, 33.13532791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字富岡8271" }, "geometry": { "type": "Point", "coordinates": [ 130.02093326, 33.19598951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市大坪町字松ノ木原３５２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.895911539999986, 33.28076185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市塩田町大字久間乙２８８１" }, "geometry": { "type": "Point", "coordinates": [ 130.06312026, 33.1560283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市塩田町大字馬場下甲１６９５−７" }, "geometry": { "type": "Point", "coordinates": [ 130.059701749999988, 33.12718464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町大字下宿丙１７−３" }, "geometry": { "type": "Point", "coordinates": [ 129.981526089999988, 33.09529664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市天神１−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.294908060000012, 33.25793424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市与賀町２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.2951065, 33.25003395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町小倉字千夫３０８" }, "geometry": { "type": "Point", "coordinates": [ 130.531812769999988, 33.41503647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡三根町市武１４２１−４" }, "geometry": { "type": "Point", "coordinates": [ 130.4296062, 33.29429603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市高津原４３１５−３" }, "geometry": { "type": "Point", "coordinates": [ 130.096973420000012, 33.11117219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市浜町２８１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.126475410000012, 33.08832527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市江島町字盲落１６７７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.47512097, 33.35397394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市呼子町呼子４１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 129.89363332, 33.53659607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市呼子町殿ノ浦２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.89381934, 33.53368012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市町田２８６２−６" }, "geometry": { "type": "Point", "coordinates": [ 129.96918795, 33.4443671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町富岡字竹下１２２２２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.0302504, 33.20139072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町武雄５８３５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.01069246, 33.18992608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市黒川町塩屋５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.84041830000001, 33.33485236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町八谷搦３６５−８" }, "geometry": { "type": "Point", "coordinates": [ 129.870444959999986, 33.27275623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市波多津町辻５２１−３" }, "geometry": { "type": "Point", "coordinates": [ 129.86861423, 33.37290346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町下宿乙１９８" }, "geometry": { "type": "Point", "coordinates": [ 129.99172546, 33.10225316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町下宿甲１７２６" }, "geometry": { "type": "Point", "coordinates": [ 130.001530519999989, 33.11855867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡大町町大字大町８８７１−１３" }, "geometry": { "type": "Point", "coordinates": [ 130.11215151, 33.21259082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町牛屋７８５９−２" }, "geometry": { "type": "Point", "coordinates": [ 130.14961734, 33.14880245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市駅前中央３−５−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.30233611, 33.26553786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市嘉瀬町扇町２６１５−５" }, "geometry": { "type": "Point", "coordinates": [ 130.26026246, 33.24385819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市嘉瀬町大字扇町２５０９" }, "geometry": { "type": "Point", "coordinates": [ 130.264319230000012, 33.24430334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市久保泉町大字下和泉５９６" }, "geometry": { "type": "Point", "coordinates": [ 130.330337859999986, 33.30416251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市久保田町久富４６７−５" }, "geometry": { "type": "Point", "coordinates": [ 130.24466609000001, 33.2201563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬西６−１２−４" }, "geometry": { "type": "Point", "coordinates": [ 130.28514855, 33.29243234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市三瀬村杠松尾２４８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.26471134, 33.43758532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市新栄東２−５−２４" }, "geometry": { "type": "Point", "coordinates": [ 130.2765035, 33.25609457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市西田代２−３−２５" }, "geometry": { "type": "Point", "coordinates": [ 130.288633620000013, 33.24932124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町犬井道１６９７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.31890504, 33.17972522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町鹿江９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.315688169999987, 33.19224468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町尼寺１７７５−７" }, "geometry": { "type": "Point", "coordinates": [ 130.27569409, 33.3154345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島６−１７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.26799526, 33.28867847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市富士町古湯２６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.20732195, 33.37416549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫町大字瓦町４１３−７" }, "geometry": { "type": "Point", "coordinates": [ 130.33845377, 33.27669029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市本庄町本庄１１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28316195, 33.24387714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町白壁１０２８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.47300861, 33.32864941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字長野１０３８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.53211898, 33.41152019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町長野１０３０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.53133958, 33.41262543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市浜町１３５９" }, "geometry": { "type": "Point", "coordinates": [ 130.11057779, 33.09587896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市芦刈町永田３３７９−６" }, "geometry": { "type": "Point", "coordinates": [ 130.20020605, 33.20057795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市牛津町柿樋瀬７９５" }, "geometry": { "type": "Point", "coordinates": [ 130.20733507, 33.24901383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市牛津町柿樋瀬９１６−４" }, "geometry": { "type": "Point", "coordinates": [ 130.2045221, 33.25788139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町２３０−４" }, "geometry": { "type": "Point", "coordinates": [ 130.19302721, 33.29309327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼郡吉野ヶ里町吉田２６５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.3995509, 33.32353307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町下西６６４" }, "geometry": { "type": "Point", "coordinates": [ 130.349849619999986, 33.26148895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市千代田町崎村１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.38837838, 33.25959439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町北ノ川内丙６０５" }, "geometry": { "type": "Point", "coordinates": [ 129.85050653, 33.19594717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市藤木町２０７３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.51961633, 33.36368286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市本町３−１５０４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.507196850000014, 33.37859327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市養父町字布津原４９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.499389509999986, 33.37883209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鏡字北牟田４２３３−３" }, "geometry": { "type": "Point", "coordinates": [ 130.01471329, 33.43888385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鏡南新開３０７８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.998318930000011, 33.43169579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市佐志浜町４４０３−８" }, "geometry": { "type": "Point", "coordinates": [ 129.93606268, 33.48004508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市山本１０６３" }, "geometry": { "type": "Point", "coordinates": [ 129.97521832000001, 33.40072641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市神田字四反間１２５５−８" }, "geometry": { "type": "Point", "coordinates": [ 129.9598945, 33.43144281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町相知３１７９−６" }, "geometry": { "type": "Point", "coordinates": [ 130.00387436, 33.35457347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町長部田９４７" }, "geometry": { "type": "Point", "coordinates": [ 130.03439008, 33.3381017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市町田１−２３９５−３" }, "geometry": { "type": "Point", "coordinates": [ 129.96629485, 33.44214432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鎮西町岩野３７６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.92230913, 33.49443071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市鎮西町名護屋１８４２−１" }, "geometry": { "type": "Point", "coordinates": [ 129.87316009, 33.52928539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市二タ子３−１４−２５" }, "geometry": { "type": "Point", "coordinates": [ 129.95757319, 33.46634932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町星賀９２６" }, "geometry": { "type": "Point", "coordinates": [ 129.79067912, 33.44923557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町田野５９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.83041637, 33.43232276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町浜崎１８４３" }, "geometry": { "type": "Point", "coordinates": [ 130.034176589999987, 33.44774306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市和多田西山１−４７" }, "geometry": { "type": "Point", "coordinates": [ 129.98179393, 33.43102064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県東松浦郡玄海町大字仮屋１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 129.85176694, 33.47580481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県東松浦郡玄海町大字今村４５４９" }, "geometry": { "type": "Point", "coordinates": [ 129.84432941, 33.51228685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市兵庫町大字西渕三本柳１９１２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.312511519999987, 33.27672639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬町大字長瀬１６６６" }, "geometry": { "type": "Point", "coordinates": [ 130.28148289, 33.29831145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市本町３丁目大字原口１５１" }, "geometry": { "type": "Point", "coordinates": [ 130.50746346, 33.37977653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市八幡町７５８−１４３" }, "geometry": { "type": "Point", "coordinates": [ 129.94296444, 33.47106261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市浜玉町大字浜崎字長田３００−３" }, "geometry": { "type": "Point", "coordinates": [ 130.04410374, 33.44557699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市東山代町里字新田177-242" }, "geometry": { "type": "Point", "coordinates": [ 129.832351460000012, 33.29198323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市嬉野町大字下野丙231-1" }, "geometry": { "type": "Point", "coordinates": [ 130.002511090000013, 33.1242193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡江北町大字山口1328" }, "geometry": { "type": "Point", "coordinates": [ 130.1575762, 33.21790751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市久保泉町川久保276-2" }, "geometry": { "type": "Point", "coordinates": [ 130.33547748, 33.32448846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市久保田町大字久富字搦西3457-1" }, "geometry": { "type": "Point", "coordinates": [ 130.23715109, 33.2195345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市巨勢町大字修理田字五本松411-1" }, "geometry": { "type": "Point", "coordinates": [ 130.33769612, 33.25835132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市西与賀町大字高太郎120-5" }, "geometry": { "type": "Point", "coordinates": [ 130.269599989999989, 33.2268038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島町大字蠣久1390-3" }, "geometry": { "type": "Point", "coordinates": [ 130.27758809, 33.29092268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市南佐賀3-8-28" }, "geometry": { "type": "Point", "coordinates": [ 130.31858075, 33.23797762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町寄人368-1" }, "geometry": { "type": "Point", "coordinates": [ 130.40835306, 33.28391407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町神田1126-2" }, "geometry": { "type": "Point", "coordinates": [ 130.21409943, 33.27813062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市久里字高土井2718番地" }, "geometry": { "type": "Point", "coordinates": [ 129.99273098, 33.41214184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市呼子町呼子4185-4" }, "geometry": { "type": "Point", "coordinates": [ 129.89392648, 33.53737767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市肥前町新木場字山頭甲1817-2" }, "geometry": { "type": "Point", "coordinates": [ 129.85125756, 33.42729827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市北波多徳須恵字上徳須恵1258-1" }, "geometry": { "type": "Point", "coordinates": [ 129.945554429999987, 33.37028412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県東松浦郡玄海町諸浦7-1" }, "geometry": { "type": "Point", "coordinates": [ 129.876140310000011, 33.47480279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町大里甲２９０９" }, "geometry": { "type": "Point", "coordinates": [ 129.86057449, 33.26715653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市嘉瀬町扇町２４７７−１０" }, "geometry": { "type": "Point", "coordinates": [ 130.265846649999986, 33.24409315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市巨勢町牛島５８０−７" }, "geometry": { "type": "Point", "coordinates": [ 130.32153897, 33.25062784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市若宮２−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28661111, 33.2700193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市本庄町本庄９５１−１" }, "geometry": { "type": "Point", "coordinates": [ 130.28439805, 33.2401109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町多良１６１５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.17787332, 33.02600895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市山内町大字三間坂甲１３１９" }, "geometry": { "type": "Point", "coordinates": [ 129.95128082, 33.19461061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市若木町川古９３６８" }, "geometry": { "type": "Point", "coordinates": [ 129.99632356, 33.25168929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市朝日町大字甘久１３１０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.03790669, 33.20566098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町大字昭和７３９" }, "geometry": { "type": "Point", "coordinates": [ 130.02938799, 33.19529093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町富岡字山下１１５７１−３" }, "geometry": { "type": "Point", "coordinates": [ 130.02784653, 33.19992193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市武雄町武雄５６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.01477272, 33.19093993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市高木瀬東２−８−３" }, "geometry": { "type": "Point", "coordinates": [ 130.29807961, 33.28152699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字川上５４５３-１" }, "geometry": { "type": "Point", "coordinates": [ 130.253054029999987, 33.30599107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町犬井道９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.3265965, 33.18942012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市北川副町大字光法１４５９" }, "geometry": { "type": "Point", "coordinates": [ 130.33445508, 33.23169642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市西与賀町大字厘外７９７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.27755701000001, 33.23652214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県鳥栖市飯田町５７４−４" }, "geometry": { "type": "Point", "coordinates": [ 130.53541658, 33.37937643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県神埼市神埼町田道ヶ里２３０６" }, "geometry": { "type": "Point", "coordinates": [ 130.37768699, 33.31529228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県唐津市和多田大土井５−１５" }, "geometry": { "type": "Point", "coordinates": [ 129.98854336, 33.42494936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県鳥栖市原町１３１３" }, "geometry": { "type": "Point", "coordinates": [ 130.52735632, 33.38313188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県武雄市北方町大字志久１２５２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.07981141, 33.22779287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市兵庫町大字渕１５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.316097320000011, 33.27578661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市兵庫南４−２０−３０" }, "geometry": { "type": "Point", "coordinates": [ 130.321255400000013, 33.26136305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県武雄市武雄町大字永島１５９４３" }, "geometry": { "type": "Point", "coordinates": [ 130.030041290000014, 33.1852935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市瀬戸町２３１３" }, "geometry": { "type": "Point", "coordinates": [ 129.83992588000001, 33.31682789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市栄町２５８３" }, "geometry": { "type": "Point", "coordinates": [ 129.974636190000012, 33.44798537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市金立町大字千布４４０２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.29373707, 33.31060224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市巨勢町大字牛島２３７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.3178725, 33.25714105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市八丁畷町９−５６" }, "geometry": { "type": "Point", "coordinates": [ 130.29603792, 33.27444336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市本庄町大字本庄１２４０" }, "geometry": { "type": "Point", "coordinates": [ 130.28925457, 33.24478248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市神辺町２−５" }, "geometry": { "type": "Point", "coordinates": [ 130.513276780000012, 33.38759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市山浦町１３８５" }, "geometry": { "type": "Point", "coordinates": [ 130.479609399999987, 33.36970144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市東多久町大字別府３４２６−１２" }, "geometry": { "type": "Point", "coordinates": [ 130.15200403, 33.28147683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市本庄町大字袋２８８−４" }, "geometry": { "type": "Point", "coordinates": [ 130.302244409999986, 33.23919385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町大里甲１７８６−１" }, "geometry": { "type": "Point", "coordinates": [ 129.86442327, 33.26543759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市新天町９１−４" }, "geometry": { "type": "Point", "coordinates": [ 129.87677029, 33.26879372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町蔵宿丙４０３３−１０" }, "geometry": { "type": "Point", "coordinates": [ 129.84987272, 33.20659958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市二里町八谷搦西八谷搦３６５" }, "geometry": { "type": "Point", "coordinates": [ 129.85938327, 33.2694699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県西松浦郡有田町本町丙８１１" }, "geometry": { "type": "Point", "coordinates": [ 129.875876909999988, 33.18541219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡江北町大字山口２８４８" }, "geometry": { "type": "Point", "coordinates": [ 130.15191769, 33.22072614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字深浦１７１３−２" }, "geometry": { "type": "Point", "coordinates": [ 130.11715286, 33.13343458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大字糸岐北町８６０３−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.178402940000012, 33.0186479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市七山滝川１０９５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.11671923, 33.44319467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県嬉野市塩田町久間乙３２９" }, "geometry": { "type": "Point", "coordinates": [ 130.064167880000014, 33.13905759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市三日月町金田９８１−２" }, "geometry": { "type": "Point", "coordinates": [ 130.23351863, 33.26337914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町大字遠江３４０−１" }, "geometry": { "type": "Point", "coordinates": [ 130.13652808, 33.17256864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町尾崎３２６９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33982934, 33.32562499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市東山代町長浜２１１６−２" }, "geometry": { "type": "Point", "coordinates": [ 129.84523317, 33.27876327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県伊万里市松浦町桃川５５６１" }, "geometry": { "type": "Point", "coordinates": [ 129.95851847, 33.27189689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字飯田３３００" }, "geometry": { "type": "Point", "coordinates": [ 130.160034, 33.05557757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市諸富町為重１４３７−７" }, "geometry": { "type": "Point", "coordinates": [ 130.334301970000013, 33.218709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市川副町小々森９５８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.29883786, 33.19721248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町尼寺２６９１" }, "geometry": { "type": "Point", "coordinates": [ 130.28255345, 33.30761511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市鍋島３丁目３−１４" }, "geometry": { "type": "Point", "coordinates": [ 130.26945095, 33.28039301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町鶴９１６" }, "geometry": { "type": "Point", "coordinates": [ 130.37359966, 33.32674452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県神埼市神埼町本告牟田１３５０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.35715147, 33.29382196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市三瀬村藤原２７７８−２" }, "geometry": { "type": "Point", "coordinates": [ 130.27692726, 33.42266416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市三瀬村三瀬" }, "geometry": { "type": "Point", "coordinates": [ 130.27246980000001, 33.44704297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字簑原６０５−２" }, "geometry": { "type": "Point", "coordinates": [ 130.45716414, 33.34733947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字西島１２７８−５" }, "geometry": { "type": "Point", "coordinates": [ 130.43342407, 33.29680989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県小城市小城町上町９２７" }, "geometry": { "type": "Point", "coordinates": [ 130.20378949, 33.30016639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県多久市多久町２２２９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.08490242, 33.25995787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市久保田町久富４０８" }, "geometry": { "type": "Point", "coordinates": [ 130.24865752, 33.21965646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県神埼郡吉野ヶ里町立野５７４" }, "geometry": { "type": "Point", "coordinates": [ 130.411132110000011, 33.32176678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市川副町鹿江４０３−４" }, "geometry": { "type": "Point", "coordinates": [ 130.32084608, 33.18926173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県武雄市北方町大字大崎１２０７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.0560606, 33.22044339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県嬉野市嬉野町吉田丁４０４９" }, "geometry": { "type": "Point", "coordinates": [ 130.01579211, 33.08369623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県三養基郡上峰町大字堤切通９２３−１５" }, "geometry": { "type": "Point", "coordinates": [ 130.42198345, 33.33756599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県杵島郡白石町大字福富１５０２−６" }, "geometry": { "type": "Point", "coordinates": [ 130.18693782, 33.18201918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県西松浦郡有田町赤絵町１丁目２−１９" }, "geometry": { "type": "Point", "coordinates": [ 129.89492422, 33.18710405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県西松浦郡有田町南原甲７９３" }, "geometry": { "type": "Point", "coordinates": [ 129.86822379, 33.19252097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県小城市牛津町柿樋瀬８４５−４" }, "geometry": { "type": "Point", "coordinates": [ 130.20776815, 33.24903943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県小城市小城町４２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.200810139999987, 33.29335475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市川副町犬井道７５１" }, "geometry": { "type": "Point", "coordinates": [ 130.31912961, 33.18775633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市昭栄町２−１７" }, "geometry": { "type": "Point", "coordinates": [ 130.28051758, 33.25021809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県多久市多久町７６３１−６" }, "geometry": { "type": "Point", "coordinates": [ 130.09619998, 33.28174613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県唐津市西浜町２−２８" }, "geometry": { "type": "Point", "coordinates": [ 129.962078670000011, 33.45786153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市八戸１丁目３−６" }, "geometry": { "type": "Point", "coordinates": [ 130.27834579, 33.24687755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市多布施２丁目２−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.2914499, 33.25740112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市多布施１丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 130.29277208, 33.25342654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市神野西２丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 130.2883591, 33.26565071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市大財６丁目４−６６" }, "geometry": { "type": "Point", "coordinates": [ 130.310253710000012, 33.26126262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市神園１丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 130.28613723, 33.26306723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県鹿島市大字高津原１７９４−１" }, "geometry": { "type": "Point", "coordinates": [ 130.090011510000011, 33.10020126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県鹿島市古枝大村方甲５９１" }, "geometry": { "type": "Point", "coordinates": [ 130.111063910000013, 33.06499398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市大和町東山田１８７５" }, "geometry": { "type": "Point", "coordinates": [ 130.25395396, 33.30630216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県三養基郡みやき町大字寄人２６３８" }, "geometry": { "type": "Point", "coordinates": [ 130.40420337, 33.28921684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市川副町早津江２２８−１" }, "geometry": { "type": "Point", "coordinates": [ 130.33261482, 33.20556314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県鳥栖市立石町１７３２" }, "geometry": { "type": "Point", "coordinates": [ 130.45966854, 33.36642593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市熊原町３１３０−２" }, "geometry": { "type": "Point", "coordinates": [ 129.96436141, 33.44694487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市西大島町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 129.96155608, 33.4729184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市二タ子１丁目８５９−１" }, "geometry": { "type": "Point", "coordinates": [ 129.95972889, 33.45718932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県伊万里市脇田町１６８−３" }, "geometry": { "type": "Point", "coordinates": [ 129.88128942, 33.27926536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県鳥栖市田代外町５７２" }, "geometry": { "type": "Point", "coordinates": [ 130.52139, 33.38572626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市川副町小々森２１１２−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.294622049999987, 33.19634214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市二タ子５８１３−１" }, "geometry": { "type": "Point", "coordinates": [ 129.94957685, 33.46173586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市大名小路５−２" }, "geometry": { "type": "Point", "coordinates": [ 129.97203524, 33.4498832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県神埼市神埼町田道ヶ里２１７２−３" }, "geometry": { "type": "Point", "coordinates": [ 130.378889820000012, 33.31151212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市西与賀町大字高太郎９２−１" }, "geometry": { "type": "Point", "coordinates": [ 130.27016343, 33.2276451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県唐津市呼子町呼子１９３５" }, "geometry": { "type": "Point", "coordinates": [ 129.89249446, 33.54412857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市諸富町諸富津１８２−７" }, "geometry": { "type": "Point", "coordinates": [ 130.360346459999988, 33.22149971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県嬉野市嬉野町吉田皿屋４１２１−５" }, "geometry": { "type": "Point", "coordinates": [ 130.02157506, 33.07279759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県小城市牛津町牛津８３４" }, "geometry": { "type": "Point", "coordinates": [ 130.20803225, 33.246628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "佐賀県佐賀市材木２丁目５−１８" }, "geometry": { "type": "Point", "coordinates": [ 130.31038449, 33.24988585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町大字天建寺１１９０-１" }, "geometry": { "type": "Point", "coordinates": [ 130.44538143, 33.29218152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市八戸溝3-12-1" }, "geometry": { "type": "Point", "coordinates": [ 130.272594950000013, 33.26321766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市東与賀町下古賀８７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.30633185, 33.22071516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市大和町大字尼寺1788-1" }, "geometry": { "type": "Point", "coordinates": [ 130.27541804, 33.31423841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市水屋町字樋ノ口１９６９−１" }, "geometry": { "type": "Point", "coordinates": [ 130.52807429, 33.35263825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡みやき町白壁２１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 130.47638821000001, 33.32606368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県鹿島市大字高津原中牟田４２１４−２１" }, "geometry": { "type": "Point", "coordinates": [ 130.09764214, 33.11330177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県伊万里市二里町大里字北古場１７０５−１" }, "geometry": { "type": "Point", "coordinates": [ 129.845297319999986, 33.26270847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県嬉野市嬉野町大字下宿１６２６−３" }, "geometry": { "type": "Point", "coordinates": [ 129.98106365000001, 33.10103217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県嬉野市嬉野町大字下宿甲１４７７−２" }, "geometry": { "type": "Point", "coordinates": [ 130.00257843, 33.11529108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県佐賀市鍋島町大字八戸２１５３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.265280069999989, 33.25040842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県鹿島市古枝字神宮司甲２６６−１" }, "geometry": { "type": "Point", "coordinates": [ 130.10307092, 33.09174201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県鹿島市大字重ノ木川良籠甲４０" }, "geometry": { "type": "Point", "coordinates": [ 130.109993620000012, 33.10091582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県武雄市武雄町大字武雄１８２５" }, "geometry": { "type": "Point", "coordinates": [ 129.987982280000011, 33.18623702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "佐賀県伊万里市大坪町白野２６８２" }, "geometry": { "type": "Point", "coordinates": [ 129.89437798, 33.27605401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡江北町大字佐留志字二本松1999-1" }, "geometry": { "type": "Point", "coordinates": [ 130.164458059999987, 33.21744868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県杵島郡白石町福吉２０７０−２" }, "geometry": { "type": "Point", "coordinates": [ 130.13970576, 33.18698499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市富士大字古湯６３７-１" }, "geometry": { "type": "Point", "coordinates": [ 130.20604877, 33.36902717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県佐賀市富士町大字小副川８２３-第１" }, "geometry": { "type": "Point", "coordinates": [ 130.238199580000014, 33.36573704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市井出328-1" }, "geometry": { "type": "Point", "coordinates": [ 130.10428038, 33.1276022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字音成戌１９１７" }, "geometry": { "type": "Point", "coordinates": [ 130.14890964, 33.06819977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鹿島市大字高津原４０４３−１" }, "geometry": { "type": "Point", "coordinates": [ 130.095570439999989, 33.11424331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県大町町大字福母1542-6" }, "geometry": { "type": "Point", "coordinates": [ 130.09698663, 33.21395664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市古賀町花ノ木５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 130.499329710000012, 33.38532215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県鳥栖市藤木町若桜２−２" }, "geometry": { "type": "Point", "coordinates": [ 130.52847996, 33.37094462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県唐津市相知町牟田部字古川１１２４番地" }, "geometry": { "type": "Point", "coordinates": [ 129.999552630000011, 33.36980029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県藤津郡太良町大浦丁584-2" }, "geometry": { "type": "Point", "coordinates": [ 130.208244079999986, 32.97816627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県武雄市東川登町大字袴野１２２２９-２" }, "geometry": { "type": "Point", "coordinates": [ 129.99155387, 33.14579851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "佐賀県三養基郡基山町大字長野字年の森1018" }, "geometry": { "type": "Point", "coordinates": [ 130.53028046, 33.41275139 ] } }
+
+]
+}
