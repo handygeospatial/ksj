@@ -1,0 +1,2146 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町大字阿左美２９５６−７" }, "geometry": { "type": "Point", "coordinates": [ 139.30883078, 36.399647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々３８２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.28270207, 36.41587934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々９４１" }, "geometry": { "type": "Point", "coordinates": [ 139.27483192, 36.43092325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市東町大字神戸５７９" }, "geometry": { "type": "Point", "coordinates": [ 139.35311758, 36.53970202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市岩井字五反田２４４５番１" }, "geometry": { "type": "Point", "coordinates": [ 138.92374651, 36.33243816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市原市３３６" }, "geometry": { "type": "Point", "coordinates": [ 138.87900516, 36.32055561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市安堀町１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18217028, 36.33819665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境１４４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.25390675, 36.2684144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境女塚６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.26780334, 36.2687206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境西今井１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.26235895, 36.28099757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境東新井７１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.26169549, 36.31212474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市国定町２００２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.240190649999988, 36.36314179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市今泉町１−６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.207488180000013, 36.3152632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市今泉町２−３３８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.19349372, 36.31119059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市昭和町１３９３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.209739219999989, 36.32594966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市西上之宮町１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.140989569999988, 36.3140263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市長沼町６６６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.208500750000013, 36.26718105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市日乃出町５５３" }, "geometry": { "type": "Point", "coordinates": [ 139.231715830000013, 36.31616863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市八寸町４９４０" }, "geometry": { "type": "Point", "coordinates": [ 139.22609354, 36.33364563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市富塚町３０２−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.19729822, 36.27606306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市堀口町９２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18486542, 36.28394819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市柳原町５１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.1983141, 36.32902109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市連取町２８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.16937354, 36.32420121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡下仁田町大字東野牧字六畝田３２８７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.719556039999986, 36.23867121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町秋畑３９７８" }, "geometry": { "type": "Point", "coordinates": [ 138.88183779, 36.19081466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市松原２−１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.541236090000012, 36.23737956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市瀬戸谷町２２８２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.54148152, 36.25193507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市青柳町１９０５" }, "geometry": { "type": "Point", "coordinates": [ 139.51838369, 36.22585235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市赤生田３００番地" }, "geometry": { "type": "Point", "coordinates": [ 139.57312829, 36.22819831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市大谷町１０４６−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.50881394000001, 36.24294076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市野辺町９４７−３２" }, "geometry": { "type": "Point", "coordinates": [ 139.46295392, 36.22153361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市宮本町１−１０−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.33839423, 36.41475349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市境野町４−８６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.35422462, 36.39062874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市広沢町３−３８５７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.323271229999989, 36.38722606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新宿２−１−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.339247879999988, 36.40069621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町２−９０８" }, "geometry": { "type": "Point", "coordinates": [ 139.30578319, 36.41393222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市大字山上９２" }, "geometry": { "type": "Point", "coordinates": [ 139.23144442, 36.42395242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市大字上田沢７９６" }, "geometry": { "type": "Point", "coordinates": [ 139.29018363, 36.53714336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市天神町３−１５−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.35378565, 36.43114545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町入山１８９９" }, "geometry": { "type": "Point", "coordinates": [ 138.64883304, 36.64276716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町大津４０４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.61560816, 36.55413109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町原町２９−４" }, "geometry": { "type": "Point", "coordinates": [ 138.83415607, 36.5777868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字原町７０２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.82565767, 36.57311216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字原町込塚８７６番１" }, "geometry": { "type": "Point", "coordinates": [ 138.82503262, 36.57477377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町本宿２７０８" }, "geometry": { "type": "Point", "coordinates": [ 138.71853335, 36.50502904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市稲荷台町９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.024277, 36.38323972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井４０６" }, "geometry": { "type": "Point", "coordinates": [ 138.99159194, 36.25247552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上中居町３１９" }, "geometry": { "type": "Point", "coordinates": [ 139.027633, 36.31740406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市石原町３９７３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.00572803, 36.30245203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市筑縄町５−９" }, "geometry": { "type": "Point", "coordinates": [ 138.98792835, 36.34872966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中泉町５４１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.00037445000001, 36.37529907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市島野町８９０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.05597323, 36.34116419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市末広町１６４" }, "geometry": { "type": "Point", "coordinates": [ 139.01008428, 36.33604551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町上芝１０５" }, "geometry": { "type": "Point", "coordinates": [ 138.959393299999988, 36.38809628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市矢中町字下北村５５６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.051181359999987, 36.3111464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町下新田２８９" }, "geometry": { "type": "Point", "coordinates": [ 139.11722254, 36.30564507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市伊香保町１７４−４" }, "geometry": { "type": "Point", "coordinates": [ 138.923241319999988, 36.49983979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市東原新町１８１０" }, "geometry": { "type": "Point", "coordinates": [ 139.0584397, 36.64923696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市平川１２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.22043668, 36.72379147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下大屋町３３７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.17026719, 36.38955026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町１−２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04508501, 36.38648746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市原之郷９４８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.068330870000011, 36.43510784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市古市町１−１２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.05491468, 36.37595945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市山王町２−４０−７" }, "geometry": { "type": "Point", "coordinates": [ 139.12837941, 36.35209361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西片貝町１−３２６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.09896774, 36.39569691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西片貝町４−６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.09293704000001, 36.38647675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市大字茂木字大通下１１５７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.14472644, 36.411598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市端気町４０２−８" }, "geometry": { "type": "Point", "coordinates": [ 139.098303539999989, 36.40910027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市東大室町１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18511232, 36.37280788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市粕川町女渕１１０２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.202004319999986, 36.40936717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市鼻毛石町６３８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.18149836, 36.43885409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市堀之下町４５５" }, "geometry": { "type": "Point", "coordinates": [ 139.12611621, 36.39349194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市茂木町２９４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.14896166, 36.4100279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市問屋町１−３−４" }, "geometry": { "type": "Point", "coordinates": [ 139.04179853, 36.39337216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市六供町１−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.07564073, 36.37583535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市下田島３１２" }, "geometry": { "type": "Point", "coordinates": [ 139.331810890000014, 36.26930422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市高林南町８５８" }, "geometry": { "type": "Point", "coordinates": [ 139.36958472, 36.26086796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市植木野６９２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.4128231, 36.32287929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田上田中町３５３" }, "geometry": { "type": "Point", "coordinates": [ 139.26668848, 36.29827968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新道町１５２５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.33734009, 36.30011722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市西野谷町１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.32842175, 36.28341784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町１１０９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.28908605, 36.37212957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町４０１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.29878244, 36.35476536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市東本町５０−３５" }, "geometry": { "type": "Point", "coordinates": [ 139.3774756, 36.30012077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市藤阿久３７４−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.36050659, 36.28736988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市内ヶ島町７８０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.39257525, 36.28249061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯塚町１７６４" }, "geometry": { "type": "Point", "coordinates": [ 139.37692195, 36.27962547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯塚町６９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.388002300000011, 36.27490237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯田町１３４３" }, "geometry": { "type": "Point", "coordinates": [ 139.38257463, 36.29220494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市矢田堀２６６" }, "geometry": { "type": "Point", "coordinates": [ 139.383561289999989, 36.33558346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市藪塚町１１０７" }, "geometry": { "type": "Point", "coordinates": [ 139.310362919999989, 36.36316902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市鬼石２８２" }, "geometry": { "type": "Point", "coordinates": [ 139.05952073, 36.16108825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市藤岡２４４８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.073285590000012, 36.23589631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市白石２３２５" }, "geometry": { "type": "Point", "coordinates": [ 139.03682361, 36.24354905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市上小林６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.82498252, 36.23895939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市妙義町下高田３９８" }, "geometry": { "type": "Point", "coordinates": [ 138.84325758, 36.26949174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字大久保字前原８１２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02700841, 36.421374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡千代田町新福寺７３１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.41994435, 36.23304112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡千代田町赤岩３１０６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.46311903, 36.22730269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡千代田町大字福島４０６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.4411993, 36.22639959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町坂田２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.40749771, 36.25729651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町仙石４−２０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.39377577, 36.24338244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町朝日２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.42860994, 36.25105318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町富士２−５−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.411149490000014, 36.24929118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町大字籾谷１６８２" }, "geometry": { "type": "Point", "coordinates": [ 139.579966500000012, 36.23455794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町藤原２２９４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05185148000001, 36.83465306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村花咲９１１" }, "geometry": { "type": "Point", "coordinates": [ 139.2034938, 36.75001179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町鹿３８７６" }, "geometry": { "type": "Point", "coordinates": [ 139.27346201, 36.38882576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々６１１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.276465269999989, 36.42435215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市東町神戸５７９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.35340686, 36.54016664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中１丁目１１−１３" }, "geometry": { "type": "Point", "coordinates": [ 138.88311624, 36.32428929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市磯部３丁目１０−３" }, "geometry": { "type": "Point", "coordinates": [ 138.85526309, 36.30184997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市郷原１３２９−５" }, "geometry": { "type": "Point", "coordinates": [ 138.824267819999989, 36.30571457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町横川２９７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.73947895, 36.33484067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町横川９１７−３０" }, "geometry": { "type": "Point", "coordinates": [ 138.738451020000014, 36.34010043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町大字横川４２６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.73552104, 36.33541396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町八城字中村１７２" }, "geometry": { "type": "Point", "coordinates": [ 138.795110740000013, 36.30729244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境下武士１０７６" }, "geometry": { "type": "Point", "coordinates": [ 139.24208436, 36.27585236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境米岡本郷２６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.26094547, 36.26657078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境木島２７１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.23821018000001, 36.28877295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市今泉町２−７５２" }, "geometry": { "type": "Point", "coordinates": [ 139.19968742, 36.31149558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市寿町１３１" }, "geometry": { "type": "Point", "coordinates": [ 139.19948716, 36.33518716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市上諏訪町１２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.21259115, 36.32610877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市西久保町２丁目１８２" }, "geometry": { "type": "Point", "coordinates": [ 139.232254289999986, 36.37890155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市大正寺町１０９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.196860719999989, 36.28236112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市波志江町１８００−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18709113, 36.33992545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市堀口町城東６６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18852146, 36.2866373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市連取町１７９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.17914668, 36.3129466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡下仁田町下仁田２１８−４" }, "geometry": { "type": "Point", "coordinates": [ 138.78307013, 36.21054035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町金井８５７" }, "geometry": { "type": "Point", "coordinates": [ 138.95428263, 36.25260283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町小幡７６９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.918098289999989, 36.22601624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町白倉５６２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.93926767, 36.24975965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町福島１０６７" }, "geometry": { "type": "Point", "coordinates": [ 138.92511015, 36.25497897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡南牧村小沢１７０３" }, "geometry": { "type": "Point", "coordinates": [ 138.742911060000012, 36.17810054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市若宮町２６８８" }, "geometry": { "type": "Point", "coordinates": [ 139.551831959999987, 36.25331003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市諏訪町１３５９" }, "geometry": { "type": "Point", "coordinates": [ 139.52151927, 36.23058952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市赤生田２３２９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.555500450000011, 36.23142638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市足次町１１８９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.543607079999987, 36.26114024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市北成島町１８３８" }, "geometry": { "type": "Point", "coordinates": [ 139.52002281, 36.2532827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市琴平町６−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.343416670000011, 36.39309863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市広沢町１丁目２９０９−５" }, "geometry": { "type": "Point", "coordinates": [ 139.324359640000011, 36.39662464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市広沢町４丁目２４５１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.33490669, 36.38720901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市広沢町５丁目１５４１" }, "geometry": { "type": "Point", "coordinates": [ 139.34394681, 36.37849982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新里町新川４０２１" }, "geometry": { "type": "Point", "coordinates": [ 139.26474567, 36.41852656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新里町大久保１８４" }, "geometry": { "type": "Point", "coordinates": [ 139.233293300000014, 36.44726631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町２−６１２−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.300809890000011, 36.41423184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町３−２０６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.301524699999987, 36.42077493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡高山村中山５１６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.96132552, 36.62825221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡草津町草津４５４" }, "geometry": { "type": "Point", "coordinates": [ 138.59281206, 36.62013278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町西中之条町山崎６８９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.84097936, 36.59171062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町青山字沢端１１８" }, "geometry": { "type": "Point", "coordinates": [ 138.87036569, 36.58108921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町折田２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.81678199000001, 36.59272657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字中之条１４９０−８" }, "geometry": { "type": "Point", "coordinates": [ 138.84912062, 36.59084821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町大字長野原字向原１３９２−１７" }, "geometry": { "type": "Point", "coordinates": [ 138.64042122, 36.54813405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村三原８７０" }, "geometry": { "type": "Point", "coordinates": [ 138.5545294, 36.53844814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村三原字下川原９３６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.55681281, 36.53973552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大笹１８０−３" }, "geometry": { "type": "Point", "coordinates": [ 138.50991971, 36.50627917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字鎌原笹平７１０−６" }, "geometry": { "type": "Point", "coordinates": [ 138.55031936, 36.53105826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町岩下７８７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.758736660000011, 36.56329352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字郷原７１５" }, "geometry": { "type": "Point", "coordinates": [ 138.79708077, 36.54793287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下小塙町字妙心３３９" }, "geometry": { "type": "Point", "coordinates": [ 138.970429169999989, 36.35169053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下里見１３２２" }, "geometry": { "type": "Point", "coordinates": [ 138.919439649999987, 36.35992893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市岩崎２２９６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.991538749999989, 36.27353604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市江木町１５０４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02764695, 36.33194816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市三ツ寺町１１８４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.000744020000013, 36.37791759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市十文字１５２" }, "geometry": { "type": "Point", "coordinates": [ 138.91862297, 36.40332108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上大類町８４２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.02734102, 36.33767001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上里見６６８" }, "geometry": { "type": "Point", "coordinates": [ 138.88768761, 36.3787841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市新町戸崎２３３６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.097680770000011, 36.27656792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中豊岡町７６９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.96936212, 36.33288425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市萩原町２２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06821792, 36.34167392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市浜尻町５９４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.01311381, 36.35532367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市本郷２２５９" }, "geometry": { "type": "Point", "coordinates": [ 138.951187229999988, 36.35826798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町生原１９７６" }, "geometry": { "type": "Point", "coordinates": [ 138.97425285, 36.39947221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市緑町２丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.003987529999989, 36.35286105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市金井１２２９−５" }, "geometry": { "type": "Point", "coordinates": [ 138.99471517, 36.50532128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町溝呂木４７４" }, "geometry": { "type": "Point", "coordinates": [ 139.05612364000001, 36.52219967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町上三原田２８３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04285704, 36.50705821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町津久田１９６−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.04209358, 36.54489022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町敷島４０４" }, "geometry": { "type": "Point", "coordinates": [ 139.03476849, 36.53593148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市川島１５４４−６" }, "geometry": { "type": "Point", "coordinates": [ 138.97274407, 36.52949809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市中郷５３０" }, "geometry": { "type": "Point", "coordinates": [ 139.021693629999987, 36.53639748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市半田２４８３" }, "geometry": { "type": "Point", "coordinates": [ 139.02141341, 36.4760884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市北橘町上南室上屋敷２２８−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.061407440000011, 36.49837868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市北橘町真壁２３３３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.046096369999987, 36.48285762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市北橘町八崎１０３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02253466, 36.49068054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市戸鹿野町３２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.03828879, 36.63480108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市高橋場町２００１" }, "geometry": { "type": "Point", "coordinates": [ 139.05317259, 36.65127576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市上原町１６６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.073235939999989, 36.65450025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市上川田町２５２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.011247989999987, 36.64736097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市西原新町１８６５" }, "geometry": { "type": "Point", "coordinates": [ 139.05337764, 36.64808896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市町田町２４８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.04568998, 36.66012838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市馬喰町１２３８" }, "geometry": { "type": "Point", "coordinates": [ 139.04760646, 36.64313078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市薄根町３３９２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.02924538, 36.64432364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町追貝９１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.21024379, 36.70132809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下小出町１−２１−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.06503016, 36.40818721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市駒形町東境１５００−１" }, "geometry": { "type": "Point", "coordinates": [ 139.14838228, 36.34169926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町５２５−４" }, "geometry": { "type": "Point", "coordinates": [ 139.04018148, 36.37776288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市荒牧町５９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.0559448, 36.42753197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西大室町２０６５" }, "geometry": { "type": "Point", "coordinates": [ 139.18867978, 36.38754093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市端気町１４６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.096715859999989, 36.40612008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市天川大島町２丁目４−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.10105686, 36.38180468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市南町４−５２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.06841412, 36.37623261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市柏倉４８６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.160272600000013, 36.45255028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市粕川町女淵４６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.20539904, 36.41003356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富士見町時沢５６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.08280696, 36.4264879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富士見町石井４２６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.08407795, 36.46331748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富士見町赤城山１２０３" }, "geometry": { "type": "Point", "coordinates": [ 139.11155152, 36.47500641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県多野郡神流町生利２４" }, "geometry": { "type": "Point", "coordinates": [ 138.92857706, 36.11542253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市下浜田３７０−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.36646248, 36.27509712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市岩松町６２８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.338364399999989, 36.25940182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田高尾町甲１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.28559293, 36.28073527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田小金井町８３３" }, "geometry": { "type": "Point", "coordinates": [ 139.3270167, 36.31641515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田村田町３０３" }, "geometry": { "type": "Point", "coordinates": [ 139.3173708, 36.30331592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市西本町４０−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.3618184, 36.29630406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市西矢島５８２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.376978290000011, 36.27456482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大字強戸６００" }, "geometry": { "type": "Point", "coordinates": [ 139.34732534, 36.33214547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大字鳥山上町２３６７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.342558700000012, 36.32928647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市只上町５６４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.39343369, 36.32928021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市東金井町７９０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.39194383, 36.31165018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市南矢島町５４６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.38293059, 36.25916322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市鬼石３４０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.05772098, 36.1627629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市小林７５４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.088865129999988, 36.23987491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市中栗須大林３９０" }, "geometry": { "type": "Point", "coordinates": [ 139.07044781, 36.25963049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市藤岡１３６" }, "geometry": { "type": "Point", "coordinates": [ 139.077875479999989, 36.24727549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市上高尾１０２−７" }, "geometry": { "type": "Point", "coordinates": [ 138.89681353, 36.27675492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市田島１０−４" }, "geometry": { "type": "Point", "coordinates": [ 138.85880853, 36.24727407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市内匠３０５" }, "geometry": { "type": "Point", "coordinates": [ 138.8985492, 36.24574176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市妙義町上高田１２１２−３" }, "geometry": { "type": "Point", "coordinates": [ 138.81605743, 36.28663684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町上野田字北野１３２９−４５" }, "geometry": { "type": "Point", "coordinates": [ 138.980176160000013, 36.45928554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字大久保３２４５" }, "geometry": { "type": "Point", "coordinates": [ 139.020433090000012, 36.44027341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字大久保字見柳東９２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02707793, 36.41757772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村長岡８２０" }, "geometry": { "type": "Point", "coordinates": [ 138.98588568, 36.45018997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町海老瀬４６８８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.6508905, 36.22169243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町西岡１９１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.615678050000014, 36.26155843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町板倉１６６６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.613467930000013, 36.22066718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町中野４４５８" }, "geometry": { "type": "Point", "coordinates": [ 139.473385040000011, 36.26214532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町湯原１４" }, "geometry": { "type": "Point", "coordinates": [ 138.97182984, 36.78359033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町湯原１６８５" }, "geometry": { "type": "Point", "coordinates": [ 138.96778654, 36.76352188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村大字森下字箱崎１５６５番地１" }, "geometry": { "type": "Point", "coordinates": [ 139.06232759, 36.60275058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字須賀川１８２" }, "geometry": { "type": "Point", "coordinates": [ 139.23301236, 36.74864529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村東小川字下小川３３０６" }, "geometry": { "type": "Point", "coordinates": [ 139.24210148, 36.78310059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町阿左美字桜塚３３６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.31361597, 36.38772492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町西鹿田１７７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.25944603, 36.39795388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々１５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.27766921, 36.42922775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市東町神戸６１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.35548724, 36.54057918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中３５１１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.901901939999988, 36.32671854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町横川９１７" }, "geometry": { "type": "Point", "coordinates": [ 138.74119903, 36.34090786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町下増田" }, "geometry": { "type": "Point", "coordinates": [ 138.81629515, 36.3244125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市上間仁田２６６" }, "geometry": { "type": "Point", "coordinates": [ 138.89042529, 36.29150293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境上渕名１３０１" }, "geometry": { "type": "Point", "coordinates": [ 139.245666129999989, 36.30994741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市三室町５６２６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.238170239999988, 36.32399659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市西野町１２０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.22368565, 36.40217729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市太田町５９２" }, "geometry": { "type": "Point", "coordinates": [ 139.18614309, 36.33042591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市太田町８１３" }, "geometry": { "type": "Point", "coordinates": [ 139.1896113, 36.33232392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市南千木町２３８６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.21549299, 36.29833449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市美茂呂町４０２６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.19700128, 36.30208636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市連取元町２３６１-２４" }, "geometry": { "type": "Point", "coordinates": [ 139.18423746, 36.30674281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町大字福島１１７２" }, "geometry": { "type": "Point", "coordinates": [ 138.9284921, 36.2539539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市日向２０２６" }, "geometry": { "type": "Point", "coordinates": [ 139.500317349999989, 36.27036403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市美園町１６‐９" }, "geometry": { "type": "Point", "coordinates": [ 139.53657689, 36.23501871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市黒保根町下田沢２７７３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.254523760000012, 36.51209317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新里町関４３２" }, "geometry": { "type": "Point", "coordinates": [ 139.22844136, 36.4481524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡草津町草津４５５" }, "geometry": { "type": "Point", "coordinates": [ 138.59355119, 36.61876723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町伊勢町甲６２９‐３" }, "geometry": { "type": "Point", "coordinates": [ 138.859285199999988, 36.58673807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町下沢渡１２０３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.780746599999986, 36.61493441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町小雨３４８-１" }, "geometry": { "type": "Point", "coordinates": [ 138.63004411, 36.60015928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町長野原１３０４" }, "geometry": { "type": "Point", "coordinates": [ 138.646431650000011, 36.54670154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字三原３９９" }, "geometry": { "type": "Point", "coordinates": [ 138.54982976, 36.53351836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字大笹５０９" }, "geometry": { "type": "Point", "coordinates": [ 138.50807254, 36.50016078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字岩下２３０" }, "geometry": { "type": "Point", "coordinates": [ 138.76975753, 36.55753329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字本宿３１４９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.71426333, 36.50682233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市沖町６６５" }, "geometry": { "type": "Point", "coordinates": [ 138.954406330000012, 36.35725619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下室田９６０‐１" }, "geometry": { "type": "Point", "coordinates": [ 138.88325941, 36.38200974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下小鳥町１３２５" }, "geometry": { "type": "Point", "coordinates": [ 138.999949789999988, 36.34914737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下之城町字村北１７０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.028673629999986, 36.31205726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市剣崎町１１４３" }, "geometry": { "type": "Point", "coordinates": [ 138.95943096, 36.3455588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市江木町５８６" }, "geometry": { "type": "Point", "coordinates": [ 139.01969528, 36.33439326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市高浜坂上４６３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.92603248, 36.36714282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上佐野町２８２-１" }, "geometry": { "type": "Point", "coordinates": [ 139.0198181, 36.30943481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市新町２７０８" }, "geometry": { "type": "Point", "coordinates": [ 139.11189079, 36.27247114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市榛名湖町８４０" }, "geometry": { "type": "Point", "coordinates": [ 138.87243783, 36.4676092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市菅谷町８４７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.008967070000011, 36.37141295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中尾町天神前３９１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02525393, 36.37178486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市浜川町３２８" }, "geometry": { "type": "Point", "coordinates": [ 138.9733924, 36.37155525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市並榎町６１２−３０" }, "geometry": { "type": "Point", "coordinates": [ 138.991667119999988, 36.33369991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市片岡町３‐１‐１" }, "geometry": { "type": "Point", "coordinates": [ 138.992855240000011, 36.32011243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市片山８８５" }, "geometry": { "type": "Point", "coordinates": [ 138.95188282, 36.25954049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市北原町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02827939, 36.40657954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町上芝１１４２" }, "geometry": { "type": "Point", "coordinates": [ 138.95982307, 36.39367325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町東明屋４９６" }, "geometry": { "type": "Point", "coordinates": [ 138.95602394, 36.40140894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市矢島町村前５２" }, "geometry": { "type": "Point", "coordinates": [ 139.05063034, 36.33661998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町下新田５３５" }, "geometry": { "type": "Point", "coordinates": [ 139.12195073, 36.30293686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町川井２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.13930291, 36.29535937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字五料１０７３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.159354509999986, 36.28747468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市横堀３６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.98176224, 36.52997125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市坂下８８４−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.00507353, 36.49987037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市吹屋" }, "geometry": { "type": "Point", "coordinates": [ 139.01822385, 36.53272373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市石原９７４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.002586259999987, 36.48542896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市石原字高源地１７９５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.99670024, 36.49232448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町溝呂木３１３" }, "geometry": { "type": "Point", "coordinates": [ 139.05894158000001, 36.51523057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町滝沢４４" }, "geometry": { "type": "Point", "coordinates": [ 139.03836954, 36.51505743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町長井小川田３６８" }, "geometry": { "type": "Point", "coordinates": [ 139.06272286, 36.56151338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市中村１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.013224619999988, 36.48405498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市高橋場町３４３" }, "geometry": { "type": "Point", "coordinates": [ 139.04824369, 36.65035634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市西原新町甲６１" }, "geometry": { "type": "Point", "coordinates": [ 139.04955024, 36.64707575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市白沢町高平９７８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.1423341, 36.66332377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市白沢町上古語父１１２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.12209001, 36.66396365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町多那１３９９" }, "geometry": { "type": "Point", "coordinates": [ 139.12707175, 36.6393354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町追貝１１１９" }, "geometry": { "type": "Point", "coordinates": [ 139.2098752, 36.71024783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市荻窪町１２２０" }, "geometry": { "type": "Point", "coordinates": [ 139.133163599999989, 36.40847721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下小出町３-１３-５" }, "geometry": { "type": "Point", "coordinates": [ 139.06219868, 36.41560654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下大島町２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.11333181, 36.36437392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町５２１-５" }, "geometry": { "type": "Point", "coordinates": [ 139.03826052, 36.37906496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市住吉町２−４−７" }, "geometry": { "type": "Point", "coordinates": [ 139.07251358, 36.39592952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市小島田町１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.135743819999988, 36.3718633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市小暮２４２０−５９" }, "geometry": { "type": "Point", "coordinates": [ 139.11155843, 36.47432917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市上泉町９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.105032599999987, 36.40267845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市青梨子町１７３２" }, "geometry": { "type": "Point", "coordinates": [ 139.00907747, 36.40800054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市大友町３‐１４‐１１" }, "geometry": { "type": "Point", "coordinates": [ 139.04488522, 36.39060789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市堀越町甲１０８５" }, "geometry": { "type": "Point", "coordinates": [ 139.154151719999987, 36.41674394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市野中町３２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.106321220000012, 36.38095304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市竜蔵寺町１０９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06828059, 36.41960531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田市野井町７９３-１" }, "geometry": { "type": "Point", "coordinates": [ 139.30408624, 36.30584422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田大根町甲１５５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.28976333, 36.30768115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市菅塩町２０６６" }, "geometry": { "type": "Point", "coordinates": [ 139.33351466, 36.33747137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市西新町４４-５" }, "geometry": { "type": "Point", "coordinates": [ 139.343662020000011, 36.27003001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町２２８７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.28363481, 36.36857518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市只上町１６９７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.402570309999987, 36.3383276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市鳥山町字矢堀５８３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.356972789999986, 36.31224325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯塚町１８６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.38323555, 36.2744354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯田４８５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.37695388, 36.28897845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市由良２３１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.334198140000012, 36.28435194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市龍舞町５３６４" }, "geometry": { "type": "Point", "coordinates": [ 139.408552210000011, 36.27516627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市宮本町８９１" }, "geometry": { "type": "Point", "coordinates": [ 139.0771221, 36.25201522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市浄法寺１１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.060185460000014, 36.18896787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市森４５３−６" }, "geometry": { "type": "Point", "coordinates": [ 139.0768019, 36.27482698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大久保字沼１３７２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02480723, 36.42575678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字下野田６３８" }, "geometry": { "type": "Point", "coordinates": [ 139.00778674, 36.44908993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字陣場４８７" }, "geometry": { "type": "Point", "coordinates": [ 139.002570780000013, 36.43271151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字大久保２３４４−４" }, "geometry": { "type": "Point", "coordinates": [ 139.02321082, 36.43944009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村新井２０２０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.98261685, 36.42995476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町吉田２９２８-１" }, "geometry": { "type": "Point", "coordinates": [ 139.40838391, 36.2405294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町北小泉１−３５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.418639719999987, 36.2640211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡明和町梅原９６０" }, "geometry": { "type": "Point", "coordinates": [ 139.532191289999986, 36.19769157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町大字篠塚字大黒１４８２-１" }, "geometry": { "type": "Point", "coordinates": [ 139.46261299, 36.24342818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町上牧２０６５" }, "geometry": { "type": "Point", "coordinates": [ 138.983437830000014, 36.73692163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町湯原９３８−２" }, "geometry": { "type": "Point", "coordinates": [ 138.968336169999986, 36.76927968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村糸井１８５５−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.07659043000001, 36.64056574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村大字森下１６５６" }, "geometry": { "type": "Point", "coordinates": [ 139.064487039999989, 36.60082301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市樋越町７１４−５" }, "geometry": { "type": "Point", "coordinates": [ 139.17747641, 36.41138678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町鹿２８８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.283060760000012, 36.39783674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市原市６３４" }, "geometry": { "type": "Point", "coordinates": [ 138.87042722000001, 36.31695696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町二軒在家３９" }, "geometry": { "type": "Point", "coordinates": [ 138.817041100000012, 36.30170257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境上武士８１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23610125, 36.27890035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市柴町字今井１７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.1774383, 36.29206506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市東町２５９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.24465873, 36.34208098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡下仁田町大字馬山２３８８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.812805919999988, 36.22720295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市赤生田町８４７" }, "geometry": { "type": "Point", "coordinates": [ 139.56582545, 36.22572397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市北成島町２５３２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.51740399, 36.25858916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新里町小林３７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23605297, 36.41963345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県群馬郡榛名町上里見甲１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.893693570000011, 36.37524776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡高山村大字中山２９２３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.94025534, 36.61967355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字横尾９１５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.86389105, 36.59962763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字下沢渡金原３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.795364479999989, 36.60878386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町大字北軽井沢１９９０" }, "geometry": { "type": "Point", "coordinates": [ 138.5854103, 36.47096771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大笹１７７２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.4998572, 36.49172248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字鎌原上の原１０４２−４" }, "geometry": { "type": "Point", "coordinates": [ 138.55152186, 36.51395911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字干俣字上ノ貝１７２１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.49883845, 36.52470358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字今井１０６２" }, "geometry": { "type": "Point", "coordinates": [ 138.561194590000014, 36.57506259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字田代船窪９９２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.45119645, 36.4861646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字大前７６７−２" }, "geometry": { "type": "Point", "coordinates": [ 138.51692595, 36.51231621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下滝町115-1" }, "geometry": { "type": "Point", "coordinates": [ 139.075781549999988, 36.31817836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井町大字小串２００−１" }, "geometry": { "type": "Point", "coordinates": [ 139.017302590000014, 36.25601381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市小八木町３０７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.0091675, 36.36285645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市菅谷町２０−８３３" }, "geometry": { "type": "Point", "coordinates": [ 139.0177107, 36.38103142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉渕町三ノ倉３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.795121279999989, 36.42192829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市足門町３９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.985280100000011, 36.39692166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市吹屋５１１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.01064648, 36.52076324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市村上３７８１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.93779225, 36.54876282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市八木原１１３５" }, "geometry": { "type": "Point", "coordinates": [ 139.018551159999987, 36.46304873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市高橋場町２１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05356383, 36.65358714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市白沢町上古語父３５−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.1271103, 36.66333654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町高戸谷４８３" }, "geometry": { "type": "Point", "coordinates": [ 139.20848286, 36.69240732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市荒子町３３８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.17285433, 36.37884551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市川原町５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.03942498, 36.42719305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市朝倉町４１８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.09364803, 36.3578336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市鳥取町８２６−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.10835276, 36.42419444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市鶴光路町１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.096284950000012, 36.33717811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市粕川町女渕１６２" }, "geometry": { "type": "Point", "coordinates": [ 139.207010239999988, 36.41744541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市鼻毛石町１９８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.17610849, 36.43821452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富士見村小沢３０１" }, "geometry": { "type": "Point", "coordinates": [ 139.07940258, 36.45363888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県多野郡神流町大字魚尾１５３９" }, "geometry": { "type": "Point", "coordinates": [ 138.86457563, 36.09582589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市城西町７９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.338073, 36.31354184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田村田町７８８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.313780079999987, 36.3107848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田大根町９２９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.279737970000014, 36.30922506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市世良田町１５１２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.27941715, 36.26757111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町１８７４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.284686060000013, 36.35442153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市龍舞町２３５７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.420177630000012, 36.28172534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県東吾妻町大字郷原５８５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.800509510000012, 36.54807236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県東吾妻町大字五町田３６８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.907211350000011, 36.55057914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県東吾妻町大字小泉４８３" }, "geometry": { "type": "Point", "coordinates": [ 138.86921301000001, 36.57032961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市下栗須長者塚11" }, "geometry": { "type": "Point", "coordinates": [ 139.09316931, 36.26101715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市白石２１２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.03816176, 36.24615031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市中高瀬４０２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.88323291, 36.2497312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市富岡２２６１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.89868322, 36.2627948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大久保２１８６" }, "geometry": { "type": "Point", "coordinates": [ 139.019834010000011, 36.43524883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村大字広馬場１７６３" }, "geometry": { "type": "Point", "coordinates": [ 138.96781716000001, 36.41917243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡千代田町大字上五箇３５２" }, "geometry": { "type": "Point", "coordinates": [ 139.464806290000013, 36.1971291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町岩田１００２" }, "geometry": { "type": "Point", "coordinates": [ 139.59704574, 36.22638134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町大字除川３８６" }, "geometry": { "type": "Point", "coordinates": [ 139.622112539999989, 36.26119308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町大字狸塚３７７−５" }, "geometry": { "type": "Point", "coordinates": [ 139.46949883, 36.23852566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町大字中野１９６８" }, "geometry": { "type": "Point", "coordinates": [ 139.45794294, 36.26415123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町上津９５３−１" }, "geometry": { "type": "Point", "coordinates": [ 138.97822785, 36.6771799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町新巻３２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.94022335, 36.68126506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町真庭２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.00751384, 36.67295596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村大字川額字石坂３６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04628517, 36.61015257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡川場村大字立岩６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.10673004, 36.68782317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字下平３６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23390383, 36.74511138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字鎌田４０５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.227747779999987, 36.77028699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々1284" }, "geometry": { "type": "Point", "coordinates": [ 139.27642298, 36.43755189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市下磯部352-1" }, "geometry": { "type": "Point", "coordinates": [ 138.87262442, 36.31189344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市羽黒町5番地2" }, "geometry": { "type": "Point", "coordinates": [ 139.21183843, 36.29113064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市下道寺町24-1" }, "geometry": { "type": "Point", "coordinates": [ 139.20548201, 36.27926572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市宮子町1211" }, "geometry": { "type": "Point", "coordinates": [ 139.147918409999988, 36.33567156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市宮子町3146" }, "geometry": { "type": "Point", "coordinates": [ 139.16121684, 36.33316057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市宮子町3419-5" }, "geometry": { "type": "Point", "coordinates": [ 139.16271414, 36.32969981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市市場町2丁目904-1" }, "geometry": { "type": "Point", "coordinates": [ 139.22508647, 36.36824212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市若葉町17-12" }, "geometry": { "type": "Point", "coordinates": [ 139.18871888000001, 36.31953778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市西小保方町231" }, "geometry": { "type": "Point", "coordinates": [ 139.23920396, 36.34050766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市赤堀今井町1丁目187-1" }, "geometry": { "type": "Point", "coordinates": [ 139.20975429, 36.37572032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市田中町85-1" }, "geometry": { "type": "Point", "coordinates": [ 139.16019388, 36.3134912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市波志江町3275-1" }, "geometry": { "type": "Point", "coordinates": [ 139.19808165, 36.35898887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市福島町759" }, "geometry": { "type": "Point", "coordinates": [ 139.185522780000014, 36.27998427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町大字秋畑1638" }, "geometry": { "type": "Point", "coordinates": [ 138.88557229, 36.1974721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町大字福島字遠藤８１６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.924689590000014, 36.25790009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市楠町3872-1" }, "geometry": { "type": "Point", "coordinates": [ 139.57146318, 36.24014684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市本町1丁目215" }, "geometry": { "type": "Point", "coordinates": [ 139.34434063, 36.41929985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字鎌原大カイシコ１０５３−９１９０" }, "geometry": { "type": "Point", "coordinates": [ 138.57313814, 36.43448678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字原町445" }, "geometry": { "type": "Point", "coordinates": [ 138.829000509999986, 36.57244125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字大戸147" }, "geometry": { "type": "Point", "coordinates": [ 138.764940059999986, 36.51300027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井町池字石田43-1" }, "geometry": { "type": "Point", "coordinates": [ 138.99038545, 36.25910664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市柴崎町1162-1" }, "geometry": { "type": "Point", "coordinates": [ 139.04767357, 36.32211554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上佐野町1093-1" }, "geometry": { "type": "Point", "coordinates": [ 139.020564760000013, 36.30958754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市新保町八坂１５５５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04375235, 36.34104979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉賀野町877" }, "geometry": { "type": "Point", "coordinates": [ 139.03955464, 36.29877662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市足門町838" }, "geometry": { "type": "Point", "coordinates": [ 138.998444150000012, 36.39893447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市台町35-3" }, "geometry": { "type": "Point", "coordinates": [ 138.99992567000001, 36.33497515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中尾町485-1" }, "geometry": { "type": "Point", "coordinates": [ 139.023728979999987, 36.36941617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町西明屋206" }, "geometry": { "type": "Point", "coordinates": [ 138.953983599999987, 36.39910468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市行幸田360" }, "geometry": { "type": "Point", "coordinates": [ 139.0029757, 36.47248575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市上白井814-1" }, "geometry": { "type": "Point", "coordinates": [ 139.044663820000011, 36.57342006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町三原田825-2" }, "geometry": { "type": "Point", "coordinates": [ 139.03166775, 36.50427312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市白井2252-1" }, "geometry": { "type": "Point", "coordinates": [ 139.015346490000013, 36.5070816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市半田1884-11" }, "geometry": { "type": "Point", "coordinates": [ 139.02210581, 36.47444605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市有馬字中井270" }, "geometry": { "type": "Point", "coordinates": [ 139.00808999, 36.47301795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市下久屋町820番地の1" }, "geometry": { "type": "Point", "coordinates": [ 139.083148130000012, 36.65807459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市岩本町９０番の１" }, "geometry": { "type": "Point", "coordinates": [ 139.04915784, 36.60141844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市久屋原町字吉野469-1" }, "geometry": { "type": "Point", "coordinates": [ 139.11003856, 36.66472237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市桜町1686" }, "geometry": { "type": "Point", "coordinates": [ 139.06959361, 36.65367793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町平川1385-4" }, "geometry": { "type": "Point", "coordinates": [ 139.22525195, 36.72983793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下石倉町27-1" }, "geometry": { "type": "Point", "coordinates": [ 139.05589975, 36.38020382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市関根町３８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05111272, 36.43385218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市上泉町６８１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.10110432, 36.39615334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西善町660-1" }, "geometry": { "type": "Point", "coordinates": [ 139.10794263, 36.34469863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西片貝町1丁目315-11" }, "geometry": { "type": "Point", "coordinates": [ 139.096276710000012, 36.3950533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富士見町原之郷字新川669-1" }, "geometry": { "type": "Point", "coordinates": [ 139.068733759999986, 36.43283666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市富田町800-2" }, "geometry": { "type": "Point", "coordinates": [ 139.14709058, 36.38807294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市安養寺町21" }, "geometry": { "type": "Point", "coordinates": [ 139.31167441, 36.25921032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市下田島町578-2" }, "geometry": { "type": "Point", "coordinates": [ 139.32744677, 36.26739266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市小舞木町292" }, "geometry": { "type": "Point", "coordinates": [ 139.38894434, 36.28445878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市藤阿久町914-2" }, "geometry": { "type": "Point", "coordinates": [ 139.35307033, 36.29766616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市上大塚297" }, "geometry": { "type": "Point", "coordinates": [ 139.06032946, 36.24432744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市一ノ宮町1499" }, "geometry": { "type": "Point", "coordinates": [ 138.86049764, 36.2538182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市黒川676-3" }, "geometry": { "type": "Point", "coordinates": [ 138.86750052, 36.26049337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市上小林437" }, "geometry": { "type": "Point", "coordinates": [ 138.83939003, 36.24170346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市田篠1438-1" }, "geometry": { "type": "Point", "coordinates": [ 138.92005379, 36.25458588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村大字新井194-1" }, "geometry": { "type": "Point", "coordinates": [ 138.97714872, 36.43465459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町大字坂田古氷土地区画整理事業地50街区1074-1" }, "geometry": { "type": "Point", "coordinates": [ 139.40133294, 36.26490536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡明和町川俣124-1" }, "geometry": { "type": "Point", "coordinates": [ 139.51429661, 36.19981101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町下牧490" }, "geometry": { "type": "Point", "coordinates": [ 138.987775090000014, 36.69471158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村大字貝野瀬420" }, "geometry": { "type": "Point", "coordinates": [ 139.08747435, 36.65422466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字東小川字赤沢4633-8" }, "geometry": { "type": "Point", "coordinates": [ 139.27315801, 36.79240194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市宮子町943" }, "geometry": { "type": "Point", "coordinates": [ 139.152538349999986, 36.32566849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市長沼3782" }, "geometry": { "type": "Point", "coordinates": [ 139.20856627, 36.26790652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市堤町3−5−25" }, "geometry": { "type": "Point", "coordinates": [ 139.31778497, 36.41619801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市新町1812-1" }, "geometry": { "type": "Point", "coordinates": [ 139.105419149999989, 36.26281055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町上之手1579" }, "geometry": { "type": "Point", "coordinates": [ 139.117242620000013, 36.30095456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市渋川1827-34" }, "geometry": { "type": "Point", "coordinates": [ 139.00752218, 36.49229959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市川原町2303" }, "geometry": { "type": "Point", "coordinates": [ 138.99813556, 36.49598715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町落合633−1" }, "geometry": { "type": "Point", "coordinates": [ 139.03878144, 36.38026783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市古市町445−1" }, "geometry": { "type": "Point", "coordinates": [ 139.050694099999987, 36.37508418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市笂井町28-1" }, "geometry": { "type": "Point", "coordinates": [ 139.140339149999988, 36.37084491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市南後箇327−3" }, "geometry": { "type": "Point", "coordinates": [ 138.86739405, 36.23337738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町海老瀬2372−1" }, "geometry": { "type": "Point", "coordinates": [ 139.63851849, 36.2182622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市東町荻原145" }, "geometry": { "type": "Point", "coordinates": [ 139.302937359999987, 36.51582991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境下渕名３０４５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.25206942, 36.30003827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市松原１−５−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.53761513, 36.23901274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町３−４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.29794978000001, 36.42428446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市東４−６−２９" }, "geometry": { "type": "Point", "coordinates": [ 139.3445357, 36.40916953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字角淵5036-1" }, "geometry": { "type": "Point", "coordinates": [ 139.11819759, 36.29206048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町阿左美１４５２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.29735799, 36.39164625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々１７４８" }, "geometry": { "type": "Point", "coordinates": [ 139.2829757, 36.42805877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中３−２１−３３" }, "geometry": { "type": "Point", "coordinates": [ 138.900096240000011, 36.33004854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市原市６１２−２" }, "geometry": { "type": "Point", "coordinates": [ 138.87264975, 36.31860103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町新堀３０５" }, "geometry": { "type": "Point", "coordinates": [ 138.7943209, 36.31565762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市境伊与久１１６２" }, "geometry": { "type": "Point", "coordinates": [ 139.234838130000014, 36.30099333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市馬見塚町１０５４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.2128471, 36.27809575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市平和町１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.198197490000013, 36.32390963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町金井５０７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.95255982, 36.25316019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町小幡５０１" }, "geometry": { "type": "Point", "coordinates": [ 138.91852276, 36.23224238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市美園町８−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.53425243, 36.23519641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市野辺町８５０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.46527894, 36.21973038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市稲荷町３−４４" }, "geometry": { "type": "Point", "coordinates": [ 139.33164785, 36.40667278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市東１−ノ５ノ２８" }, "geometry": { "type": "Point", "coordinates": [ 139.34603181, 36.41433738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県群馬郡群馬町金古５３７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.99842684, 36.40039998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町１９２５" }, "geometry": { "type": "Point", "coordinates": [ 138.84069815, 36.58518012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字中之条町８６８" }, "geometry": { "type": "Point", "coordinates": [ 138.83794412, 36.58854729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町応桑１９８７" }, "geometry": { "type": "Point", "coordinates": [ 138.583515190000014, 36.48621365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町大津１５８７−７" }, "geometry": { "type": "Point", "coordinates": [ 138.61604132, 36.55343722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市岩押町６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.01942813, 36.3218407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市菊地町３０１" }, "geometry": { "type": "Point", "coordinates": [ 138.96644963, 36.36268201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市元島名町４８２" }, "geometry": { "type": "Point", "coordinates": [ 139.06606041, 36.33160777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市元島名町５０５" }, "geometry": { "type": "Point", "coordinates": [ 139.06464352, 36.33371681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市小八木町１２０３" }, "geometry": { "type": "Point", "coordinates": [ 139.017584230000011, 36.36194342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上小塙町五反田２７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.978096279999988, 36.35385563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上大類町９０５" }, "geometry": { "type": "Point", "coordinates": [ 139.02808105, 36.33590486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上並榎町３７０" }, "geometry": { "type": "Point", "coordinates": [ 138.992614949999989, 36.34300183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上豊岡町５５１" }, "geometry": { "type": "Point", "coordinates": [ 138.96478674, 36.33569096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市西島町７２" }, "geometry": { "type": "Point", "coordinates": [ 139.04770112, 36.34124092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉賀野町２９１２" }, "geometry": { "type": "Point", "coordinates": [ 139.06967715, 36.294414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉渕町権田２５９１" }, "geometry": { "type": "Point", "coordinates": [ 138.77601519000001, 36.45580743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市大八木町６５４" }, "geometry": { "type": "Point", "coordinates": [ 139.00133299, 36.36313831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中尾町１５" }, "geometry": { "type": "Point", "coordinates": [ 139.035022270000013, 36.37768749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市棟高町１８６８−１１８" }, "geometry": { "type": "Point", "coordinates": [ 139.00923044000001, 36.37914505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市飯塚町２２２−３" }, "geometry": { "type": "Point", "coordinates": [ 138.99987939, 36.34547496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市飯塚町字十二４８１" }, "geometry": { "type": "Point", "coordinates": [ 139.00919714, 36.34361069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市末広町５４" }, "geometry": { "type": "Point", "coordinates": [ 139.007312860000013, 36.33291441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町下芝７５４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.967312990000011, 36.37950007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市緑町４−５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.007568099999986, 36.35166124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡境町栄字中原３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.264564619999987, 36.27175818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡東村大字東小保方２５９７" }, "geometry": { "type": "Point", "coordinates": [ 139.244283020000012, 36.34308436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市大崎１６１９" }, "geometry": { "type": "Point", "coordinates": [ 139.011123340000012, 36.4872272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市岡谷町６５６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06230697, 36.66764069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市屋形原町１３７７" }, "geometry": { "type": "Point", "coordinates": [ 139.041181490000014, 36.62004053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市恩田町コウ３７３" }, "geometry": { "type": "Point", "coordinates": [ 139.02333221, 36.65617885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市下久屋町８９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.08057775, 36.65745257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市西原新町１５１８" }, "geometry": { "type": "Point", "coordinates": [ 139.05299829, 36.64691634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市鍛冶町３９４３" }, "geometry": { "type": "Point", "coordinates": [ 139.04447962, 36.63852774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市白沢町平出９１６" }, "geometry": { "type": "Point", "coordinates": [ 139.1239069, 36.65769261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市利根町大原１２１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.19659771, 36.67206751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市亀里町３７３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.082604120000013, 36.34222552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市三俣町２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.082867740000012, 36.39875214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市上小出町３−１１−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.06056288, 36.41789378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西善町７８２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.11894536, 36.3434906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市大渡町１−２２−８" }, "geometry": { "type": "Point", "coordinates": [ 139.04845857, 36.40072089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市朝日町４−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.0890043, 36.38340961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市南町３−２６−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.06844297, 36.38123421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市日吉町４−３−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.076110660000012, 36.40595721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市本町１−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06729472, 36.38921863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県多野郡上野村新羽６３−９" }, "geometry": { "type": "Point", "coordinates": [ 138.78690784, 36.08437618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県多野郡神流町小平甲２４１" }, "geometry": { "type": "Point", "coordinates": [ 138.89063898, 36.10637527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市東本町２７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.37823788, 36.29597587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯田町７０４" }, "geometry": { "type": "Point", "coordinates": [ 139.37999803, 36.28611478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市鬼石１１１９−３３" }, "geometry": { "type": "Point", "coordinates": [ 139.05728148, 36.16347872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市坂原７６８−３" }, "geometry": { "type": "Point", "coordinates": [ 138.99022678, 36.12909942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市中栗須４７１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.076574419999986, 36.26315497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市中中字社官司９８４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.07169375, 36.27551395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市藤岡８３４−６" }, "geometry": { "type": "Point", "coordinates": [ 139.08169032, 36.25131305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市七日市六反田１７３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.876329520000013, 36.26284334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市富岡１３３０" }, "geometry": { "type": "Point", "coordinates": [ 138.897825579999989, 36.25843197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡千代田町赤岩１９５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.43550764, 36.20788063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町海老瀬１４０９" }, "geometry": { "type": "Point", "coordinates": [ 139.64774809, 36.21548149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡明和町大字江黒４２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.56099311, 36.21464002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町後閑１２５３" }, "geometry": { "type": "Point", "coordinates": [ 139.00139934, 36.67771062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町綱子１５８" }, "geometry": { "type": "Point", "coordinates": [ 139.00108017, 36.80264124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町相俣６５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.894264389999989, 36.72117391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村糸井１１８４" }, "geometry": { "type": "Point", "coordinates": [ 139.07304156, 36.64052741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村糸井７４９７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.11702315, 36.61852893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村森下１５" }, "geometry": { "type": "Point", "coordinates": [ 139.05122511, 36.61567442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村越本９５３" }, "geometry": { "type": "Point", "coordinates": [ 139.23331115, 36.80016744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市茂木町１１４−４" }, "geometry": { "type": "Point", "coordinates": [ 139.15406775, 36.41051946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市問屋町２−１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.04231456, 36.39573613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市熊野町１９−６" }, "geometry": { "type": "Point", "coordinates": [ 139.38320287, 36.30474413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田大町６２５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.283619109999989, 36.32186987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町２０３１" }, "geometry": { "type": "Point", "coordinates": [ 139.28701933, 36.3516081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市大原町２２５６−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.270146649999987, 36.36028285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市東金井町１０７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.390916159999989, 36.3206491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市藤阿久町６１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.35587326000001, 36.29266892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯塚町１６３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.377216260000012, 36.28459942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市別所町３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.331476830000014, 36.30112299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市譲原３３５" }, "geometry": { "type": "Point", "coordinates": [ 139.040973259999987, 36.14646804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市中大塚３１５" }, "geometry": { "type": "Point", "coordinates": [ 139.061964429999989, 36.24860495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市本郷字山根８４６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.07469161, 36.23248427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市七日市鳥坂１３１３" }, "geometry": { "type": "Point", "coordinates": [ 138.87223569, 36.25600889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町板倉１６４４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.614873859999989, 36.21973706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町篠塚３５１９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.43675024, 36.25414867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町須川八幡２５２−５" }, "geometry": { "type": "Point", "coordinates": [ 138.90485618, 36.69615971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町吹路２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.864773390000011, 36.73042612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町阿左美３３６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.303261060000011, 36.37434834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市磯部３−２−５" }, "geometry": { "type": "Point", "coordinates": [ 138.85202497, 36.30072448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市板鼻１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.945004790000013, 36.33519454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市板鼻２２０５" }, "geometry": { "type": "Point", "coordinates": [ 138.93355802, 36.33800169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市下触町６５９−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.20025333000001, 36.37558228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市宮子町１８３４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.15578442, 36.33606505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市今井町３７７" }, "geometry": { "type": "Point", "coordinates": [ 139.183336270000012, 36.30486134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市三和町３２０８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.221806429999987, 36.34686044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市市場町１８−８" }, "geometry": { "type": "Point", "coordinates": [ 139.22675487, 36.37823445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市堤下町１１６" }, "geometry": { "type": "Point", "coordinates": [ 139.19740431, 36.33708762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市波志江町１−３３７１" }, "geometry": { "type": "Point", "coordinates": [ 139.195765709999989, 36.35886335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市堀口町８６４" }, "geometry": { "type": "Point", "coordinates": [ 139.18196075, 36.2864921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市野町３６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23032286, 36.3866376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市川内町３−３６８" }, "geometry": { "type": "Point", "coordinates": [ 139.30482418, 36.43160384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡草津町大字草津４５４" }, "geometry": { "type": "Point", "coordinates": [ 138.593122459999989, 36.61915598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町応桑１６９８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.59808618, 36.51770472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡長野原町大字北軽井沢１９８８−８４" }, "geometry": { "type": "Point", "coordinates": [ 138.58576147, 36.46041515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字田代９８７−３" }, "geometry": { "type": "Point", "coordinates": [ 138.45278074, 36.48567942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市井野町字島ノ分６８３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.0294788, 36.35889004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市栄町２６−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.01653016, 36.31784704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下長根字白井３２１−７" }, "geometry": { "type": "Point", "coordinates": [ 138.97493243, 36.25073096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市岩鼻町３４０" }, "geometry": { "type": "Point", "coordinates": [ 139.07559741, 36.29251507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井１２６" }, "geometry": { "type": "Point", "coordinates": [ 138.985983260000012, 36.2523353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市山名町７４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04236903, 36.27408994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市柴崎町字吹手西１１７７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.04796624, 36.32060494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市石原町３１９０" }, "geometry": { "type": "Point", "coordinates": [ 139.00047794, 36.30715661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉賀野町１８６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.03342276, 36.30034788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉賀野町２４６６" }, "geometry": { "type": "Point", "coordinates": [ 139.06444724, 36.2985144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市南大類町１２４３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.033036220000014, 36.32619846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市八幡町１０５９" }, "geometry": { "type": "Point", "coordinates": [ 138.93917392, 36.34152556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市飯塚３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.00842498, 36.34228026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市片岡町１−１３−１４" }, "geometry": { "type": "Point", "coordinates": [ 138.99309585, 36.32046773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市片岡町２−２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.99595886, 36.31762872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市綿貫町２２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06861717000001, 36.31908841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市問屋町西２−４−９" }, "geometry": { "type": "Point", "coordinates": [ 139.001758700000011, 36.34800153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町上茂木１１１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.135761089999988, 36.29778769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字上新田１４８７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.107348730000012, 36.30383309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字藤川１５４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.126403900000014, 36.32985392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字福島１２４０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.12008714000001, 36.31190818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市横塚町３０９〜５" }, "geometry": { "type": "Point", "coordinates": [ 139.08290673, 36.66252211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市下川田町２９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.028996650000011, 36.62639379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市東原新町１９５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.06060134, 36.65074115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下新田町２３３" }, "geometry": { "type": "Point", "coordinates": [ 139.0630097, 36.35688157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市亀里町１２３３" }, "geometry": { "type": "Point", "coordinates": [ 139.09126265, 36.3446712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市広瀬町１−２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.10187391, 36.36546698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市江田町６０５" }, "geometry": { "type": "Point", "coordinates": [ 139.04205255, 36.37188373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市高井町１−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02820252, 36.41116715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市国領町１−９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.06910731, 36.40062087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市小屋原町９７２−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.13693851, 36.36025336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市上長磯町２９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.120346540000014, 36.37577136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市新堀町１３４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.09847298, 36.327422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市滝窪町１３２８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.14321001, 36.46083774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市文京町２−３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.08158437, 36.3803329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上並榎町４７８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.989106920000012, 36.34229069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市立石７３４" }, "geometry": { "type": "Point", "coordinates": [ 139.08463703000001, 36.28321468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中４丁目４８１５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.90323931, 36.33330306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市中央町２２−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.20007153, 36.31781752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市足次町１１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.542720300000013, 36.25998758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市貝沢字井野前３５７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.02414536, 36.34532167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上小塙町１０５３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.98299216, 36.35403072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市島野町字大岩９９１" }, "geometry": { "type": "Point", "coordinates": [ 139.05200473, 36.34172498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市行幸田２５０番地" }, "geometry": { "type": "Point", "coordinates": [ 139.002800439999987, 36.4757324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市上原町１７５６−３５８" }, "geometry": { "type": "Point", "coordinates": [ 139.06621969, 36.65125637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県勢多郡北橘村箱田２３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05036564, 36.46979865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市三俣町３−１２−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.082198729999988, 36.40091402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西善町７２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.11438302, 36.34498218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市大手町２−２−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.0626971, 36.39072265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市天川大島町１０７６" }, "geometry": { "type": "Point", "coordinates": [ 139.103587729999987, 36.37048987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市六供町１−１６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.07657573, 36.37579652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市古戸町２３１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.38076061000001, 36.2452707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市高林西町８７２番１" }, "geometry": { "type": "Point", "coordinates": [ 139.36664173, 36.26056351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市一ノ宮３６２" }, "geometry": { "type": "Point", "coordinates": [ 138.86281702, 36.25654797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々４１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.28737514, 36.41596596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市岩井６０７−２５" }, "geometry": { "type": "Point", "coordinates": [ 138.92923024000001, 36.32974075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市原市２−８−３" }, "geometry": { "type": "Point", "coordinates": [ 138.86302673, 36.31499517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市三光町２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.19067297, 36.32028562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市日乃出町９４８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.227071239999987, 36.32130732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市連取町２３５４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.18419237, 36.30766869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡甘楽町白倉５２３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.94261645, 36.25317183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市宮前町１−４−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.328609730000011, 36.41405305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市琴平町２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.339601179999988, 36.39525975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市広沢町１−２５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.33188503, 36.38976686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市黒保根町水沼９１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.284199089999987, 36.50073597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市小曾根町２番２８号" }, "geometry": { "type": "Point", "coordinates": [ 139.33590895, 36.41556963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新宿３−１１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.341969979999988, 36.39765763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町１−３０１" }, "geometry": { "type": "Point", "coordinates": [ 139.31708056, 36.40429012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町５−５８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.30345509, 36.40684568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡草津町前口４１１−２" }, "geometry": { "type": "Point", "coordinates": [ 138.57465968, 36.58659567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市貝沢町３２２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.02524274000001, 36.34381403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井町吉井５４９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.9901888, 36.2546639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市新町２１９８" }, "geometry": { "type": "Point", "coordinates": [ 139.10738484, 36.27324298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市浜川町１８２−６" }, "geometry": { "type": "Point", "coordinates": [ 138.975803219999989, 36.36582701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市北久保町１１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.98066322, 36.33671606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市矢中町字村前１１１１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.04867024, 36.30497537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町板井８４５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.09006528, 36.31779868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡東村東小保方４７３９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23309049, 36.3368529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市阿久津７７" }, "geometry": { "type": "Point", "coordinates": [ 139.005268910000012, 36.50687687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市渋川１１５９" }, "geometry": { "type": "Point", "coordinates": [ 139.01188979, 36.49787168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市渋川元町５１９" }, "geometry": { "type": "Point", "coordinates": [ 138.99666868, 36.49908735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市小野子１９１７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.95083906, 36.54780763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町樽３０３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.02603806, 36.51248872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市折原３６７５−２３２" }, "geometry": { "type": "Point", "coordinates": [ 138.958098619999987, 36.49942655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市祖母島１１９２−３" }, "geometry": { "type": "Point", "coordinates": [ 138.958739220000012, 36.53466345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市中郷１５１" }, "geometry": { "type": "Point", "coordinates": [ 139.01092082, 36.52566118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県勢多郡新里村新川１１６７" }, "geometry": { "type": "Point", "coordinates": [ 139.25920316, 36.41967225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県勢多郡大胡町" }, "geometry": { "type": "Point", "coordinates": [ 139.162078760000014, 36.43458331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下小出町３−１４−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.06175529, 36.41549806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市亀泉町上泉２６６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.12235339, 36.40286109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町１１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.04332835, 36.38328239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町９３５−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.02938874, 36.38447279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西片貝町３−１３６" }, "geometry": { "type": "Point", "coordinates": [ 139.09720157000001, 36.3877793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西片貝町５−１９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.08789067, 36.38941595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市石倉町５−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.05262817, 36.39419466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市泉沢町東原１" }, "geometry": { "type": "Point", "coordinates": [ 139.16690169, 36.39806993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市天川原町１−３−９" }, "geometry": { "type": "Point", "coordinates": [ 139.07722092, 36.37313806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市樋越町４８４" }, "geometry": { "type": "Point", "coordinates": [ 139.16875137, 36.41478982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田大根町１２２２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.27086237, 36.31101791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市東長岡１４３８" }, "geometry": { "type": "Point", "coordinates": [ 139.3901894, 36.3021674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市飯田町９５６番地" }, "geometry": { "type": "Point", "coordinates": [ 139.37681819, 36.29029259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市浜町４１−７" }, "geometry": { "type": "Point", "coordinates": [ 139.36886328, 36.29087043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市六千石町西浦９９−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.28749579, 36.34046534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市篠塚５４５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05837967, 36.26324831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市上大塚１７６３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.0578681, 36.24426589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市上大塚２８０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.062277529999989, 36.24226343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市藤岡北の原９１７" }, "geometry": { "type": "Point", "coordinates": [ 139.07716557, 36.25540402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市曽木字戸上１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.9083669, 36.2582986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡子持村北牧１６０" }, "geometry": { "type": "Point", "coordinates": [ 138.99951647, 36.52089489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村大字広馬場１５３３１０" }, "geometry": { "type": "Point", "coordinates": [ 138.97179259, 36.42356859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町坂田３丁目１２番１０号" }, "geometry": { "type": "Point", "coordinates": [ 139.400159910000013, 36.25764487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡昭和村栃久保塚田５８２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.060577450000011, 36.62859265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村東小川５２２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.259571959999988, 36.78949648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町小日向６１４" }, "geometry": { "type": "Point", "coordinates": [ 138.97214573, 36.77089619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町鹿３０９３" }, "geometry": { "type": "Point", "coordinates": [ 139.28000603000001, 36.39341239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町鹿２７８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.28280099, 36.39983046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市三俣町１丁目３７番" }, "geometry": { "type": "Point", "coordinates": [ 139.08829573, 36.39333326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市平和町８−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.201886300000012, 36.32479748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市広瀬町１−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.10433507, 36.36385172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市東原新町１８２８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.05684419, 36.6472725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市松井田町松井田１３９７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.81519085, 36.30939752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市朝日町２２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.541249279999988, 36.25366402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市島野町248-1" }, "geometry": { "type": "Point", "coordinates": [ 139.06694651, 36.33056708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市元総社町98" }, "geometry": { "type": "Point", "coordinates": [ 139.04392503, 36.38451119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市西大室町１３０６" }, "geometry": { "type": "Point", "coordinates": [ 139.18198618, 36.3722624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市上小塙町３０３" }, "geometry": { "type": "Point", "coordinates": [ 138.983925840000012, 36.35453451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市仲町１１−５０" }, "geometry": { "type": "Point", "coordinates": [ 139.52949898, 36.24914145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市八幡町９１" }, "geometry": { "type": "Point", "coordinates": [ 139.1996925, 36.33782654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市本動堂４６１" }, "geometry": { "type": "Point", "coordinates": [ 139.05419138, 36.26441617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市富岡１００８" }, "geometry": { "type": "Point", "coordinates": [ 138.89370133, 36.25549034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市小桑原町１０２２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.5199059, 36.23362654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市中泉町１２３" }, "geometry": { "type": "Point", "coordinates": [ 139.000828219999988, 36.37609668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市筑縄町５１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.991340330000014, 36.35453917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市関根町３８８" }, "geometry": { "type": "Point", "coordinates": [ 139.05134017, 36.43336222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市大渡町１−１０−５" }, "geometry": { "type": "Point", "coordinates": [ 139.04922058, 36.39638972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市六供町１１２４" }, "geometry": { "type": "Point", "coordinates": [ 139.07421093, 36.36318766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市仲町３−６−３２" }, "geometry": { "type": "Point", "coordinates": [ 139.34090382, 36.40676976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市本町３−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.07489088, 36.38386981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市末広町５５" }, "geometry": { "type": "Point", "coordinates": [ 139.007966, 36.33317535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市倉賀野町２７５５" }, "geometry": { "type": "Point", "coordinates": [ 139.07246303, 36.29666998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県藤岡市白石１５５１" }, "geometry": { "type": "Point", "coordinates": [ 139.04526926, 36.25790011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県太田市西新町１１２−９" }, "geometry": { "type": "Point", "coordinates": [ 139.33186693, 36.27473059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県伊勢崎市中央町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.203171270000013, 36.31570678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県太田市西新町１０４（太田市西部工業団地内）" }, "geometry": { "type": "Point", "coordinates": [ 139.33043171, 36.27148336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市八木原１１９５" }, "geometry": { "type": "Point", "coordinates": [ 139.02026659, 36.46151768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市伊香保町伊香保５４９−１９" }, "geometry": { "type": "Point", "coordinates": [ 138.9253156, 36.49774839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県みどり市大間々町大字大間々１７５７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.28179494, 36.42820873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県佐波郡玉村町大字川井１９３３" }, "geometry": { "type": "Point", "coordinates": [ 139.14526591, 36.29035332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県館林市下早川田町２５０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.55221706, 36.26619787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市渋川３６７５−９６" }, "geometry": { "type": "Point", "coordinates": [ 138.96081326, 36.49888227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡草津町大字草津２７２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.60365911, 36.621095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市小神明町２４８" }, "geometry": { "type": "Point", "coordinates": [ 139.09203256, 36.4167215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市城東町３丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.07480123, 36.39195062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市境野町２丁目７３９" }, "geometry": { "type": "Point", "coordinates": [ 139.347869159999988, 36.39134581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市東大室町１２０２" }, "geometry": { "type": "Point", "coordinates": [ 139.19873739, 36.37591529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市河原浜町２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.16201573, 36.43522411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市新里町小林１１９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.23741546, 36.4191557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市曲輪町２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.19136749, 36.32668174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市力丸町７４５" }, "geometry": { "type": "Point", "coordinates": [ 139.1193533, 36.32795577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市下阿内町３７７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.10829363, 36.31861447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下里見町１２０４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.92328047, 36.35756688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市黒保根町下田沢７４１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.259993900000012, 36.50620907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市赤城町樽７０２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.02299819000001, 36.50091101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県渋川市石原９９１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.002497080000012, 36.48724841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市七日市８５３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.88249792, 36.2578366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市郷原２３８−２" }, "geometry": { "type": "Point", "coordinates": [ 138.84943598000001, 36.30842084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市棟高町８８９−２" }, "geometry": { "type": "Point", "coordinates": [ 138.99830015, 36.39365801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市鬼石６４０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05264619, 36.15472982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡吉岡町大字陣場２１２" }, "geometry": { "type": "Point", "coordinates": [ 139.00278547, 36.42944064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市金古町７７５−３" }, "geometry": { "type": "Point", "coordinates": [ 138.99392774, 36.40622773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市箕郷町西明屋３２７" }, "geometry": { "type": "Point", "coordinates": [ 138.95585583, 36.39634397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県北群馬郡榛東村大字新井２４９１−３" }, "geometry": { "type": "Point", "coordinates": [ 138.99276018, 36.4255365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市京目町１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.062030670000013, 36.34290455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市下黒岩８２３−７" }, "geometry": { "type": "Point", "coordinates": [ 138.89201022, 36.27540791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下大島町２４１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.945162399999987, 36.35042182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市広瀬町２丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.106563349999988, 36.36149233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市田口町４１８" }, "geometry": { "type": "Point", "coordinates": [ 139.04629284, 36.44803479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市総社町総社２０８８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.032020780000011, 36.40619779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市大島町５３６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.56334128, 36.26029925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市沼須町６４２" }, "geometry": { "type": "Point", "coordinates": [ 139.05484439, 36.63220047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県沼田市下発知町６９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.063102640000011, 36.68692861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市由良町１８８５" }, "geometry": { "type": "Point", "coordinates": [ 139.33683724, 36.28659394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市古戸町１１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.37842995, 36.25397326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市倉賀野町２４３９" }, "geometry": { "type": "Point", "coordinates": [ 139.056183659999988, 36.29894034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新井町５６４−４" }, "geometry": { "type": "Point", "coordinates": [ 139.36808783, 36.28614429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市下小鳥町７７７" }, "geometry": { "type": "Point", "coordinates": [ 138.997253840000013, 36.35218976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市吉井町片山９４４" }, "geometry": { "type": "Point", "coordinates": [ 138.95269991, 36.25952158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新井町５７４−５" }, "geometry": { "type": "Point", "coordinates": [ 139.36446433, 36.28750607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡板倉町大字岩田２４１７" }, "geometry": { "type": "Point", "coordinates": [ 139.58535214, 36.22475212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県藤岡市金井４５" }, "geometry": { "type": "Point", "coordinates": [ 139.02983021, 36.21487403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中４５２４" }, "geometry": { "type": "Point", "coordinates": [ 138.906816310000011, 36.32053832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町大字中野４９２２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.46891267, 36.26061306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡邑楽町大字鶉７８３" }, "geometry": { "type": "Point", "coordinates": [ 139.49684946, 36.2706014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市石原町８１" }, "geometry": { "type": "Point", "coordinates": [ 139.40264135000001, 36.29377499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町鹿２９４３" }, "geometry": { "type": "Point", "coordinates": [ 139.28085854, 36.39339576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市笠懸町阿左美２８３４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.303075580000012, 36.39291356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田木崎町３６９−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.30870029, 36.2747644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡大泉町西小泉１丁目６−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.41300339, 36.25334281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県館林市大街道１丁目１３−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.52677133, 36.25405452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県邑楽郡明和町矢島１５２３" }, "geometry": { "type": "Point", "coordinates": [ 139.51833745, 36.21024863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市小坂子町１０８２" }, "geometry": { "type": "Point", "coordinates": [ 139.11853654, 36.42887802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市河原浜町９５７" }, "geometry": { "type": "Point", "coordinates": [ 139.16553083, 36.42086834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市国定町１丁目２５５" }, "geometry": { "type": "Point", "coordinates": [ 139.26584175, 36.35689111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字中之条町８９４" }, "geometry": { "type": "Point", "coordinates": [ 138.83923664, 36.58836416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県桐生市相生町３丁目１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.307863700000013, 36.41777203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県伊勢崎市市場町１丁目１４５９" }, "geometry": { "type": "Point", "coordinates": [ 139.226634639999986, 36.37291932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市矢中町５８０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.05230515, 36.31037107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市清原町８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.38510871, 36.34561286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市新田木崎町１１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.30415758, 36.28374643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県みどり市大間々町大間々１３５５" }, "geometry": { "type": "Point", "coordinates": [ 139.27503711, 36.43473564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字新巻５６８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.89229706, 36.55967019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡中之条町大字上沢渡２１４５−４" }, "geometry": { "type": "Point", "coordinates": [ 138.76662559, 36.62425352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県甘楽郡下仁田町大字下仁田４２３" }, "geometry": { "type": "Point", "coordinates": [ 138.78736744, 36.21203377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県富岡市妙義町菅原９８７−１" }, "geometry": { "type": "Point", "coordinates": [ 138.77521926, 36.27910251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県多野郡上野村大字勝山１２８" }, "geometry": { "type": "Point", "coordinates": [ 138.78419696, 36.08038523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字原町４０" }, "geometry": { "type": "Point", "coordinates": [ 138.83553165, 36.57866518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県太田市尾島町１６４" }, "geometry": { "type": "Point", "coordinates": [ 139.32585552, 36.25885223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県佐波郡玉村町大字上福島１１８９" }, "geometry": { "type": "Point", "coordinates": [ 139.13335471, 36.31457614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡みなかみ町月夜野１１４６" }, "geometry": { "type": "Point", "coordinates": [ 138.97925641, 36.69260331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡川場村大字生品９１８" }, "geometry": { "type": "Point", "coordinates": [ 139.091084310000014, 36.67743125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字須賀川７１" }, "geometry": { "type": "Point", "coordinates": [ 139.23209258, 36.7508558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字鎌田４２７７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.23183056, 36.77392104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字田代４９３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.45021848, 36.48845163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県利根郡片品村大字鎌田４０７８" }, "geometry": { "type": "Point", "coordinates": [ 139.225942800000013, 36.76931598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡高山村大字尻高４３１−１" }, "geometry": { "type": "Point", "coordinates": [ 138.912930710000012, 36.62112032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字三原４８０" }, "geometry": { "type": "Point", "coordinates": [ 138.5505598, 36.53584474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡嬬恋村大字干俣１５６０−１" }, "geometry": { "type": "Point", "coordinates": [ 138.50282284, 36.53322203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市井野町１０４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.0274569, 36.35370176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市下横町１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.006514790000011, 36.32014563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市三俣町２丁目６−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.08541397, 36.3980555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市上並榎町９５−２" }, "geometry": { "type": "Point", "coordinates": [ 138.990367850000013, 36.34547927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市吉井町吉井川３６７−５" }, "geometry": { "type": "Point", "coordinates": [ 138.989513929999987, 36.25331963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市八千代町４丁目３−２１" }, "geometry": { "type": "Point", "coordinates": [ 138.98869363, 36.32516151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県安中市磯部１丁目１０−１９" }, "geometry": { "type": "Point", "coordinates": [ 138.845356259999988, 36.29923835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市上大類町６９９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.03186879, 36.33450619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市渋川坂下町８５３" }, "geometry": { "type": "Point", "coordinates": [ 139.00725, 36.49947763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市境野町２丁目１２８５−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.34501132, 36.39206476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市箕郷町西明屋３６６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.95722931, 36.39242035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市大胡町３４３−３７" }, "geometry": { "type": "Point", "coordinates": [ 139.162140810000011, 36.41092555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県安中市板鼻２丁目３−１８" }, "geometry": { "type": "Point", "coordinates": [ 138.931486080000013, 36.33731407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市新町１７１３" }, "geometry": { "type": "Point", "coordinates": [ 139.108087219999987, 36.27154241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県藤岡市森７４−９" }, "geometry": { "type": "Point", "coordinates": [ 139.07551856, 36.28324019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市石原１３−３" }, "geometry": { "type": "Point", "coordinates": [ 138.998700289999988, 36.49179495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県館林市本町２丁目４−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.53195438, 36.24612533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県館林市新宿１丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.53111836, 36.24195643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県太田市東本町３５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.37933098, 36.29737387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市宮本町１丁目７−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.34043628, 36.41560851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市本町６丁目３８７" }, "geometry": { "type": "Point", "coordinates": [ 139.336578479999986, 36.40820652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市仲町２丁目５−３４" }, "geometry": { "type": "Point", "coordinates": [ 139.34100854, 36.41093956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県利根郡みなかみ町幸知５" }, "geometry": { "type": "Point", "coordinates": [ 138.987749900000011, 36.79997204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市朝日町３丁目１４−６" }, "geometry": { "type": "Point", "coordinates": [ 139.08766415, 36.38359087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県藤岡市藤岡１１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.07119608, 36.25074286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県沼田市坊新田町１２３３" }, "geometry": { "type": "Point", "coordinates": [ 139.04576362, 36.64353208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市渋川８７３" }, "geometry": { "type": "Point", "coordinates": [ 139.003669190000011, 36.49973589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県邑楽郡大泉町西小泉２丁目２１−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.41176858, 36.25685634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市文京町２丁目２８−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.07733538, 36.37650151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市上大類町７４５" }, "geometry": { "type": "Point", "coordinates": [ 139.031394400000011, 36.33423416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市稲荷町３−３５" }, "geometry": { "type": "Point", "coordinates": [ 139.33102729, 36.40715651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市棟高町１２５５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.00388559000001, 36.39588976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市新保町５０６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04057011, 36.35348545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市川内町３丁目３４９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.304122940000013, 36.43167598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市倉賀野町１７１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04844787, 36.2981388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県邑楽郡邑楽町大字鶉２５１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.49279318, 36.27237893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県邑楽郡明和町中谷３３０" }, "geometry": { "type": "Point", "coordinates": [ 139.52751969, 36.21112389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県安中市松井田町行田梅木平７７６−１" }, "geometry": { "type": "Point", "coordinates": [ 138.78100054, 36.30740156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市東４丁目１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.345420679999989, 36.40857438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県桐生市境野町６丁目１４６９" }, "geometry": { "type": "Point", "coordinates": [ 139.35247773, 36.38755805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市三俣町１丁目２７−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.08574321, 36.39395571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市小八木町３１２" }, "geometry": { "type": "Point", "coordinates": [ 139.00886915000001, 36.36068346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市行力町３８３−４" }, "geometry": { "type": "Point", "coordinates": [ 138.96862714, 36.37296122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市上並榎町２７５−１" }, "geometry": { "type": "Point", "coordinates": [ 138.98964661, 36.34297349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市上豊岡町５７０−２" }, "geometry": { "type": "Point", "coordinates": [ 138.96818633, 36.33980719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市宿大類町１４５８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.039101960000011, 36.33052619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市六供町１丁目３−６" }, "geometry": { "type": "Point", "coordinates": [ 139.06996079000001, 36.37579432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県高崎市井野町１２２４" }, "geometry": { "type": "Point", "coordinates": [ 139.023340639999986, 36.35052974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市石倉町２丁目４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.05375091, 36.38533696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市天川原町１丁目４３−７" }, "geometry": { "type": "Point", "coordinates": [ 139.08344788, 36.37187793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県前橋市若宮町２丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 139.07187158, 36.40021883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市国定町１丁目２１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.2685689, 36.3665877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市千代田町４−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.530985030000011, 36.24484769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市下石倉町１６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.05527863, 36.38241517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市貝沢町１２８０−５" }, "geometry": { "type": "Point", "coordinates": [ 139.02580905, 36.33959634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡千代田町大字上中森９７１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.468999169999989, 36.19440959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県甘楽郡下仁田町大字下仁田５６３−２" }, "geometry": { "type": "Point", "coordinates": [ 138.79460447, 36.21118106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県藤岡市藤岡２７" }, "geometry": { "type": "Point", "coordinates": [ 139.080351689999986, 36.24342773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県富岡市七日市９０２" }, "geometry": { "type": "Point", "coordinates": [ 138.88492667, 36.25753712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市東本町４１−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.379467080000012, 36.29829599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県北群馬郡吉岡町大字下野田６４３" }, "geometry": { "type": "Point", "coordinates": [ 139.00744352000001, 36.44819413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町五料４６９" }, "geometry": { "type": "Point", "coordinates": [ 138.77030054, 36.32187387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市本町３丁目４−２９" }, "geometry": { "type": "Point", "coordinates": [ 139.34211112, 36.41519466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市高林東町１６８１" }, "geometry": { "type": "Point", "coordinates": [ 139.37751752, 36.25805944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県富岡市七日市６６９" }, "geometry": { "type": "Point", "coordinates": [ 138.88388778, 36.26060958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市硯田町８３" }, "geometry": { "type": "Point", "coordinates": [ 139.02842891, 36.65100569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市楠町１３６８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.56861945, 36.23503125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県みどり市大間々町大間々９３８" }, "geometry": { "type": "Point", "coordinates": [ 139.27395673, 36.43054999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市新町１６４９−６" }, "geometry": { "type": "Point", "coordinates": [ 139.11091747, 36.27176472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡千代田町大字赤岩１５０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.435648609999987, 36.20716456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市植木野町１７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.41410307000001, 36.31760134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市板鼻２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 138.93149297, 36.33704207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市後閑町６９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.10425175, 36.35025327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市飯塚町１０６" }, "geometry": { "type": "Point", "coordinates": [ 138.999358879999988, 36.34561842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市中宿１丁目７−４１" }, "geometry": { "type": "Point", "coordinates": [ 138.9177105, 36.33557585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市鍛冶町９２８−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.042172349999987, 36.64190997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市日乃出町２９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.2203582, 36.31754627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市南町４丁目４８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.069592089999986, 36.37710876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市大手町９−３４" }, "geometry": { "type": "Point", "coordinates": [ 139.53975386, 36.24725612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県吾妻郡草津町大字草津６４０−３８" }, "geometry": { "type": "Point", "coordinates": [ 138.60840970000001, 36.62212275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町松井田５７９" }, "geometry": { "type": "Point", "coordinates": [ 138.80106407, 36.31361959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町松井田４２７" }, "geometry": { "type": "Point", "coordinates": [ 138.80086028, 36.31244425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町松井田６１８" }, "geometry": { "type": "Point", "coordinates": [ 138.80218235000001, 36.31308587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町横川４０６" }, "geometry": { "type": "Point", "coordinates": [ 138.735925189999989, 36.33669473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県吾妻郡中之条町大字西中之条８１８" }, "geometry": { "type": "Point", "coordinates": [ 138.83810591, 36.58719756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県吾妻郡嬬恋村大字鎌原７１２" }, "geometry": { "type": "Point", "coordinates": [ 138.54811344, 36.52979398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市広沢町間ノ島１９６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.336712440000014, 36.38886971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県吾妻郡草津町大字草津５７０−２" }, "geometry": { "type": "Point", "coordinates": [ 138.60020205, 36.62406401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県吾妻郡高山村大字中山４２４９" }, "geometry": { "type": "Point", "coordinates": [ 138.948036550000012, 36.63835552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県利根郡みなかみ町上津４０７−３" }, "geometry": { "type": "Point", "coordinates": [ 138.96726096, 36.67366218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県利根郡みなかみ町鹿野沢４５６" }, "geometry": { "type": "Point", "coordinates": [ 138.97386857, 36.7825016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市国定町２丁目１９９６" }, "geometry": { "type": "Point", "coordinates": [ 139.24042785, 36.36403551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市境木島８７７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.24456842, 36.28586207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市境４６８" }, "geometry": { "type": "Point", "coordinates": [ 139.25546939, 36.27138946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市安中３丁目２４−１８" }, "geometry": { "type": "Point", "coordinates": [ 138.90123886, 36.33032536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県渋川市北橘町下箱田６３８" }, "geometry": { "type": "Point", "coordinates": [ 139.041867880000012, 36.45477993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県渋川市北橘町真壁１７５５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.04509442, 36.4766765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市富士見町市之木場２５２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.07576441, 36.47694249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市富士見町原之郷２２００" }, "geometry": { "type": "Point", "coordinates": [ 139.07273845, 36.44811358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市新里町小林１２０" }, "geometry": { "type": "Point", "coordinates": [ 139.23810297, 36.41915571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市新町１９８８−７" }, "geometry": { "type": "Point", "coordinates": [ 139.0998849, 36.26601177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県藤岡市鬼石１８３" }, "geometry": { "type": "Point", "coordinates": [ 139.058909410000012, 36.15741119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市吉井町岩崎３７３" }, "geometry": { "type": "Point", "coordinates": [ 138.971471220000012, 36.26533748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市吉井町吉井７６２−１" }, "geometry": { "type": "Point", "coordinates": [ 138.98401721, 36.25769958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県多野郡神流町大字万場８９−１" }, "geometry": { "type": "Point", "coordinates": [ 138.916705119999989, 36.11580508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市世良田町１３５９" }, "geometry": { "type": "Point", "coordinates": [ 139.27944148, 36.26510071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市西本町１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.530790520000011, 36.25181613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市境萩原５６５" }, "geometry": { "type": "Point", "coordinates": [ 139.25207391, 36.27449668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県安中市松井田町松井田４９１" }, "geometry": { "type": "Point", "coordinates": [ 138.79930482, 36.31396904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市桜町１９８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.05763721, 36.65174309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市本町１丁目３−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.53582075, 36.24823078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市境野町１丁目１１７０" }, "geometry": { "type": "Point", "coordinates": [ 139.34923625, 36.39389965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市岩神町３丁目１１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.05656391, 36.4039513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市新井町５０５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.37499936, 36.28621207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市貝沢町１１４６" }, "geometry": { "type": "Point", "coordinates": [ 139.02336331, 36.33980863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市上泉町１７９０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.120901159999988, 36.40240589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市若葉町１９−９" }, "geometry": { "type": "Point", "coordinates": [ 139.18821827, 36.3179892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市若葉町１９−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.18777143, 36.31729533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市元宿町８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.32742645, 36.41201769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町住吉４６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.410549409999987, 36.25287333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県渋川市渋川６４４−２" }, "geometry": { "type": "Point", "coordinates": [ 138.99830576, 36.49879424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市新田木崎町１４７０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.3048934, 36.29037911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県みどり市笠懸町鹿２９０９" }, "geometry": { "type": "Point", "coordinates": [ 139.283236960000011, 36.39538787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県みどり市大間々町大間々１３０４" }, "geometry": { "type": "Point", "coordinates": [ 139.275906279999987, 36.43660192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡明和町南大島１２２０" }, "geometry": { "type": "Point", "coordinates": [ 139.541343110000014, 36.21950133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡千代田町大字木崎３５８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.45708565000001, 36.2116042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市石橋町７６５" }, "geometry": { "type": "Point", "coordinates": [ 139.34297089, 36.33072335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町大字吉田７４５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.41751929, 36.24716606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市尾島町８３" }, "geometry": { "type": "Point", "coordinates": [ 139.32225664, 36.25838488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町城之内１丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.41955116, 36.25923411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町城之内２丁目６−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.418417870000013, 36.26053119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町中央１丁目８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.41822088, 36.25514833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町西小泉３丁目１７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.410288150000014, 36.25694518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡邑楽町大字中野４４５７" }, "geometry": { "type": "Point", "coordinates": [ 139.4741516, 36.26239514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡邑楽町大字中野４６４２" }, "geometry": { "type": "Point", "coordinates": [ 139.46696287, 36.26020471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県邑楽郡大泉町大字上小泉１７８２−７６" }, "geometry": { "type": "Point", "coordinates": [ 139.4226033, 36.26971656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県藤岡市藤岡３０５" }, "geometry": { "type": "Point", "coordinates": [ 139.07659937, 36.24859475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市川内町５丁目３０１６" }, "geometry": { "type": "Point", "coordinates": [ 139.33496588, 36.46808218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市中豊岡町７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 138.971614100000011, 36.33120532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市根小屋町２０４７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.01949371, 36.29159407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市下小鳥町５９−３" }, "geometry": { "type": "Point", "coordinates": [ 138.993603619999988, 36.3548837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市矢島町７３１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.0443425, 36.33958974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市八千代町３丁目８−１９" }, "geometry": { "type": "Point", "coordinates": [ 138.9858386, 36.31996445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市八千代町４丁目６−３" }, "geometry": { "type": "Point", "coordinates": [ 138.98679664, 36.3238393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市相生町１丁目５５４−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.31423375, 36.39772141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市相生町２丁目７３６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.3087727, 36.41098271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市相生町２丁目６６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.315720309999989, 36.40735126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市相生町２丁目９０６−８" }, "geometry": { "type": "Point", "coordinates": [ 139.30577324, 36.4145526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市川内町４丁目４１３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.29159026, 36.43362518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市高関町２７３" }, "geometry": { "type": "Point", "coordinates": [ 139.02765012, 36.32675675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市堤町１丁目１５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.32858467, 36.41776653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市天神町１丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.34688828, 36.42171062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市仲町２丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 139.342944460000012, 36.41138951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市浜松町２丁目１１−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.34053664000001, 36.40086007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市広沢町２丁目３２６２−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.32202758, 36.38857536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市宮前町１丁目３−４８" }, "geometry": { "type": "Point", "coordinates": [ 139.32606554, 36.41501958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市南町３丁目４１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.07127713, 36.38107976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市南町４丁目１８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.07284651, 36.37821353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市若宮町３丁目１１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.07488421, 36.40433638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市江木町１５５" }, "geometry": { "type": "Point", "coordinates": [ 139.02063621, 36.3280817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市大沢町２６２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.062429110000011, 36.35258334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市中居町２丁目７−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.042385520000011, 36.31842937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市上豊岡町１３５" }, "geometry": { "type": "Point", "coordinates": [ 138.96978149, 36.33346157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市北久保町７−７" }, "geometry": { "type": "Point", "coordinates": [ 138.98297415, 36.33705495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市倉賀野町１５９８" }, "geometry": { "type": "Point", "coordinates": [ 139.047855590000012, 36.29629609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市栄町２６−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.016069499999986, 36.31794697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市高関町２１８−４" }, "geometry": { "type": "Point", "coordinates": [ 139.02300577, 36.32602341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県高崎市大橋町２５３−７" }, "geometry": { "type": "Point", "coordinates": [ 138.99897569, 36.33691938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市宮前町２丁目７−３４" }, "geometry": { "type": "Point", "coordinates": [ 139.33369532, 36.41360317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市榛名町２８５４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.03605049, 36.64813685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市馬喰町１２４０−６" }, "geometry": { "type": "Point", "coordinates": [ 139.0474346, 36.64230369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市東倉内町７７１" }, "geometry": { "type": "Point", "coordinates": [ 139.045121920000014, 36.6462734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市東原新町１９３９" }, "geometry": { "type": "Point", "coordinates": [ 139.05752892000001, 36.64995381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市東原新町１９２２" }, "geometry": { "type": "Point", "coordinates": [ 139.05613462, 36.64965382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市坊新田町１１１３" }, "geometry": { "type": "Point", "coordinates": [ 139.04474151, 36.64307378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市坊新田町１０３９" }, "geometry": { "type": "Point", "coordinates": [ 139.04461378, 36.64175727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市城町６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.543212, 36.24670361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市西本町４−４" }, "geometry": { "type": "Point", "coordinates": [ 139.528487320000011, 36.24989147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市原宿町３３３６" }, "geometry": { "type": "Point", "coordinates": [ 139.38417435, 36.35073893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市大島町２３１５" }, "geometry": { "type": "Point", "coordinates": [ 139.59479846, 36.2635415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市高根町１１０１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.51464112, 36.26950483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市北成島町２５３８−１００" }, "geometry": { "type": "Point", "coordinates": [ 139.51920593, 36.25674986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市西美園町１２７５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.52750764000001, 36.23209368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県渋川市渋川並木町８０３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.00010283, 36.49920534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県渋川市渋川６２７" }, "geometry": { "type": "Point", "coordinates": [ 138.999127929999986, 36.49819709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県藤岡市藤岡１３５５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.06332126, 36.24537182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県館林市本町２丁目３−５０" }, "geometry": { "type": "Point", "coordinates": [ 139.52889073, 36.2459752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市金山町１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.3773089, 36.3016789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市下沖町２８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.08926071, 36.39964978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市今泉町２丁目８２３" }, "geometry": { "type": "Point", "coordinates": [ 139.20106621, 36.31014908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市鹿島町２８９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.20670603, 36.34325136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市上諏訪町２０００−１" }, "geometry": { "type": "Point", "coordinates": [ 139.220394410000011, 36.33055318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市豊城町２１６２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.21782972, 36.3391357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市平和町２７−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.19918256, 36.32129486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県伊勢崎市茂呂南町４５２３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.20159182, 36.29754251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市新井町５２４−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.37328435, 36.28765257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県沼田市高橋場町２９９" }, "geometry": { "type": "Point", "coordinates": [ 139.04733825, 36.64960641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市金山町１２−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.37006503, 36.30325083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県桐生市宮前町２丁目４−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.33058958, 36.41330307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市小舞木町６１６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.387741580000011, 36.28778896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市新島町９６３" }, "geometry": { "type": "Point", "coordinates": [ 139.38333777, 36.29267125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市本町３７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.370939959999987, 36.29898187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市藤久良町６０−５" }, "geometry": { "type": "Point", "coordinates": [ 139.35067516, 36.29112133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市東別所町２９４−８" }, "geometry": { "type": "Point", "coordinates": [ 139.399496809999988, 36.26896328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市台之郷町１０６３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.40093189000001, 36.30743145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市台之郷町４８２" }, "geometry": { "type": "Point", "coordinates": [ 139.41267241, 36.30875642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市龍舞町２０４１" }, "geometry": { "type": "Point", "coordinates": [ 139.41187037, 36.28022636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市矢場町２８７１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.420143880000012, 36.30175182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県太田市飯田町１３４８" }, "geometry": { "type": "Point", "coordinates": [ 139.383454660000012, 36.29209949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市城東町４丁目１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.07861495, 36.38976486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県富岡市富岡１７６４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.88772745, 36.2564069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市朝倉町１丁目３５−７" }, "geometry": { "type": "Point", "coordinates": [ 139.091422529999988, 36.37329493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市天川大島町１３４７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.11045062, 36.36860141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市天川大島町１丁目１５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.0951665, 36.38150098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市荒牧町７８１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.057290630000011, 36.42307896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市大渡町１丁目２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.048544170000014, 36.39967622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市表町１丁目１１−９" }, "geometry": { "type": "Point", "coordinates": [ 139.06748843, 36.38631227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "群馬県前橋市清野町１０" }, "geometry": { "type": "Point", "coordinates": [ 139.003878320000013, 36.42453417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県安中市安中３８６９−４" }, "geometry": { "type": "Point", "coordinates": [ 138.89416907, 36.32172302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県吾妻郡東吾妻町大字本宿３６４−１" }, "geometry": { "type": "Point", "coordinates": [ 138.754485710000012, 36.50931105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県高崎市寺尾町薬師2623" }, "geometry": { "type": "Point", "coordinates": [ 139.005868349999986, 36.30409058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県安中市原市２００９" }, "geometry": { "type": "Point", "coordinates": [ 138.85178646, 36.31291744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県吾妻郡中之条町青山５２８" }, "geometry": { "type": "Point", "coordinates": [ 138.87193346, 36.58140414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県渋川市中村１１１８" }, "geometry": { "type": "Point", "coordinates": [ 139.016394240000011, 36.48513135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "群馬県藤岡市本郷字寺山１３９０" }, "geometry": { "type": "Point", "coordinates": [ 139.063650700000011, 36.22461757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "群馬県前橋市前皆戸２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.215851969999989, 36.41652731 ] } }
+
+]
+}

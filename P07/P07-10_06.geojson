@@ -1,0 +1,1524 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字寒河江字月越１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.27739702, 38.36474492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡戸沢村大字角川５３５番地" }, "geometry": { "type": "Point", "coordinates": [ 140.15069007, 38.6945356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市あかねヶ丘２丁目１６番４号" }, "geometry": { "type": "Point", "coordinates": [ 140.307973190000013, 38.24559587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市桜田西３−６−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.3130526, 38.21956668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市青田５−１５−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.33212831, 38.22187452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市落合町字千歳８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.34634847, 38.28302352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市京田１−６−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.84016395, 38.87701676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市若竹町２−２−９" }, "geometry": { "type": "Point", "coordinates": [ 139.83787052, 38.90291249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市金生東２丁目１７番３６号" }, "geometry": { "type": "Point", "coordinates": [ 140.28520396, 38.13867127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市碁点１０５２" }, "geometry": { "type": "Point", "coordinates": [ 140.34387494, 38.48182971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市時庭字壇廻１１５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.03745494, 38.07473374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市花沢町２８４１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.12893247, 37.92153988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市成島町３丁目２７８０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.09096408, 37.92257695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中央１−７−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.11200273, 37.91461721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市通町６−１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.12666298, 37.89207704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡戸沢村古口３７３" }, "geometry": { "type": "Point", "coordinates": [ 140.14427824, 38.73881421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町新町字荒川１７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.25532192, 38.8606525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市城北町２−２−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.33157429, 38.26033499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市双葉町２−５−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.31963074, 38.24883593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市鉄砲町３−５−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.32929768, 38.23362783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市富の中４−５−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.305450080000014, 38.23151187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市流通センター３−１３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.360549780000014, 38.29018209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市あきほ町６５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85133403, 38.89036678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市宮海字向砂畑１２２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.84489027, 38.97326833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市広野字福岡４８０" }, "geometry": { "type": "Point", "coordinates": [ 139.84602507, 38.82707116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市大字広野字下通２２５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.84843306, 38.85028451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東町１−７−９" }, "geometry": { "type": "Point", "coordinates": [ 139.8627673, 38.90636872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東両羽町９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.848756329999986, 38.89126039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市飛鳥字大道端２４０" }, "geometry": { "type": "Point", "coordinates": [ 139.91772082, 38.88974632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市軽井沢２−８−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.28094335, 38.16462466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市二日町１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.27481633, 38.15335325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市若葉町２３−６７" }, "geometry": { "type": "Point", "coordinates": [ 140.3005416, 38.76014022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市若葉町６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.30412485, 38.75992441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡大江町左沢１５５" }, "geometry": { "type": "Point", "coordinates": [ 140.21052221, 38.38169358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字小国小坂町４４０" }, "geometry": { "type": "Point", "coordinates": [ 139.7406038, 38.06368738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市船場９−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.04272563, 38.11322135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市東町６−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.043371400000012, 38.10291203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市五十川字浜千鳥２８８−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.61544023, 38.67099031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市黒川字大杉川原４５７" }, "geometry": { "type": "Point", "coordinates": [ 139.864292330000012, 38.67757706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市鼠ヶ関横路７３２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.54840471, 38.56279476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市湯温海字湯之尻９０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.60060223, 38.61693996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市神町西６−１−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.373385039999988, 38.40206166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町福沢５−１０３３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14746316, 38.00631904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町中小松２２６６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.05293853, 38.00878615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市諸仏町４８３６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10426163, 37.88225965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市上新田１１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.13440341, 37.94155911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町大石田３８９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.37458301, 38.59624381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市丸岡字鳥飼１１９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.83626888, 38.68127374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市上藤島字備中下７３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.893731519999989, 38.76543007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大字水沢字中布目４０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.74053362, 38.71130251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市蔵増６６０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.33981254, 38.36927903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市北久野本５−１０−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.38181949, 38.38010297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町大字山辺６１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.2727408, 38.28888174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字長崎３０" }, "geometry": { "type": "Point", "coordinates": [ 140.28438791, 38.33049047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字根岸字鴨落７７の１" }, "geometry": { "type": "Point", "coordinates": [ 140.19163642, 38.01034752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町余目字町１５１" }, "geometry": { "type": "Point", "coordinates": [ 139.9029629, 38.85047545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市蒲生田１８４５" }, "geometry": { "type": "Point", "coordinates": [ 140.14323582, 38.06242808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字宮内字宮ノ下３２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.19921162, 38.4126014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字西根字中川原１４３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.28169774, 38.39451347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町字及位６８５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.35941313, 38.97765982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市十日町２−１−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.336355919999988, 38.24578425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字十文字字薬師浦１５３０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.363777160000012, 38.30835057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市表蔵王２６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.31280904, 38.19275844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市浜崎７８" }, "geometry": { "type": "Point", "coordinates": [ 140.35669388, 38.28248056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市亀ケ崎３−９−３９" }, "geometry": { "type": "Point", "coordinates": [ 139.84843827, 38.90331452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市飛鳥字大林３５０" }, "geometry": { "type": "Point", "coordinates": [ 139.9327577, 38.88567236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市金沢字前野２２６４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.310337839999988, 38.74980717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町大字岩木字岩根８６８−７" }, "geometry": { "type": "Point", "coordinates": [ 140.31488502, 38.4506666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町鮎貝２３４８" }, "geometry": { "type": "Point", "coordinates": [ 140.07714114, 38.18944772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市温海丁８５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.59062555, 38.63242294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大字三瀬己３６９" }, "geometry": { "type": "Point", "coordinates": [ 139.66421275, 38.70587917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大塚町１４−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.80608423000001, 38.73516763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市中田字追分５６" }, "geometry": { "type": "Point", "coordinates": [ 139.84503043, 38.66851131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市道形町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.84316504, 38.74543132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市一日町４−２−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.368893609999986, 38.34646545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字蟹沢字楯の越１５１１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.3780884, 38.43197517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字六田２−５−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.38539445, 38.44374686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字安久津字加茂河原２３３１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.207031879999988, 38.00284308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中田町８０４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.1239008, 37.94007513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市江俣五丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31456545, 38.27648438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市亀ヶ崎５-８-６６" }, "geometry": { "type": "Point", "coordinates": [ 139.84957875, 38.90124036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市京田１−６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.839522530000011, 38.87796866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市千石町１-１１-２５" }, "geometry": { "type": "Point", "coordinates": [ 139.83617872, 38.90856506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡西川町大字間沢字サッテ口２０３" }, "geometry": { "type": "Point", "coordinates": [ 140.12760279, 38.43481615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字兵庫館３−５−５１" }, "geometry": { "type": "Point", "coordinates": [ 139.75523748, 38.05414104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市楯岡鶴ケ町２−９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.39319913, 38.49332034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市温海丁７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.59208175, 38.63434788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市錦町３−３８" }, "geometry": { "type": "Point", "coordinates": [ 139.83022589, 38.7378023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市小岩川字大磯２６２−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.562627099999986, 38.58875336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市宝田２−９−５５" }, "geometry": { "type": "Point", "coordinates": [ 139.84318578, 38.74999176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市久野本字日光１２７３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.38418987, 38.37467244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市中里７丁目４−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.36507622, 38.32641499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町元和田１０１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.20727252, 37.95045596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字上小松３６６０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.036738320000012, 38.00563795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市徳町１０１番地" }, "geometry": { "type": "Point", "coordinates": [ 140.09528712, 37.92353843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市万世町片子柏原５１１９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.13807515, 37.90313677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町比子字服部興野２４２" }, "geometry": { "type": "Point", "coordinates": [ 139.8551147, 39.00139975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字寒河江字高田２２４" }, "geometry": { "type": "Point", "coordinates": [ 140.29001168, 38.3666482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字清助新田９" }, "geometry": { "type": "Point", "coordinates": [ 140.227499060000014, 38.39962216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字中郷１５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.21911972, 38.3752433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡最上町大字向町字熊の前１１７−1" }, "geometry": { "type": "Point", "coordinates": [ 140.51472892000001, 38.75655758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡鮭川村大字川口字鶴田野５１６５" }, "geometry": { "type": "Point", "coordinates": [ 140.22754817, 38.79000255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町大字釜淵字権現堂８２７−６１" }, "geometry": { "type": "Point", "coordinates": [ 140.26140468, 38.92569017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡大蔵村大字清水１４０９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.23350335, 38.69877356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市江俣２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.32407272, 38.27634079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市上町４−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.315780929999988, 38.24393815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市富神台３６" }, "geometry": { "type": "Point", "coordinates": [ 140.278586749999988, 38.24116585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市観音寺字町後２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94137064, 38.97041698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市飛鳥字大道端２５−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.92518615, 38.88788169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市本楯字通伝５４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.882439190000014, 38.96720089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市皆沢字鶴巻８５０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.289154559999986, 38.11146087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市藤吾字三辻２９３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.268697339999989, 38.12960135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字升形字門ヶ沢６６４−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.240790729999986, 38.75199685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字泉田字泉田1番地" }, "geometry": { "type": "Point", "coordinates": [ 140.322495909999986, 38.81071991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字鳥越字南沢山神沢2080番地" }, "geometry": { "type": "Point", "coordinates": [ 140.31907763000001, 38.705695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町大字吉田字霊堂５７９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.31675943, 38.43597176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町谷地字真木６８" }, "geometry": { "type": "Point", "coordinates": [ 140.32270764, 38.41377137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡西川町大字海味４８４" }, "geometry": { "type": "Point", "coordinates": [ 140.14961323, 38.42615732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡朝日町大字大谷字南森１２１２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.178634570000014, 38.34094278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市大字富並１８０７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.341585220000013, 38.54599856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市花作町１６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.031666199999989, 38.10232988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市温海字釜谷坂３２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.581776209999987, 38.61722099 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市上山添字文栄３４番地" }, "geometry": { "type": "Point", "coordinates": [ 139.84498471, 38.67941825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市木野俣字前川原１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.688028190000011, 38.56551589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字高擶南１５５８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.344539669999989, 38.33530152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市神町中央一丁目８番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.37925725, 38.40831383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字郡山大道下４２２" }, "geometry": { "type": "Point", "coordinates": [ 140.35917351, 38.43167559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字東根甲１３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.39486595, 38.44237118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町大字簗沢２６７" }, "geometry": { "type": "Point", "coordinates": [ 140.188800140000012, 38.26235455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字深沼５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.17946525, 38.01217839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字州島字砂田５９２４" }, "geometry": { "type": "Point", "coordinates": [ 140.11006446, 38.00732645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字上小松１７３５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.04707695, 38.00430725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡三川町大字横山字袖東１４４" }, "geometry": { "type": "Point", "coordinates": [ 139.84642793, 38.79774929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町廻館字盛利新田２８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.92713108, 38.82073492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市宮内９１０" }, "geometry": { "type": "Point", "coordinates": [ 140.131464380000011, 38.06499878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町遊佐字鶴田５５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.907845329999986, 39.01160109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町緑町９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.371932249999986, 38.5928662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市幸町7-18" }, "geometry": { "type": "Point", "coordinates": [ 140.32894171, 38.24591327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市西田1丁目2-1" }, "geometry": { "type": "Point", "coordinates": [ 140.31789633, 38.26210784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市青田1丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 140.32763841, 38.22620941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字門伝35" }, "geometry": { "type": "Point", "coordinates": [ 140.26495953, 38.2397761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市東原町1丁目11-31" }, "geometry": { "type": "Point", "coordinates": [ 140.34822308, 38.24856721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市飯塚町日森丘10-8" }, "geometry": { "type": "Point", "coordinates": [ 140.29707663, 38.25639253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市船場町2丁目3-50" }, "geometry": { "type": "Point", "coordinates": [ 139.832131620000013, 38.91431864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字鳥越690-3" }, "geometry": { "type": "Point", "coordinates": [ 140.30958855, 38.74544114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町大字椿字上椿3672-3" }, "geometry": { "type": "Point", "coordinates": [ 139.98941833, 38.04412719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市ままの上1-21" }, "geometry": { "type": "Point", "coordinates": [ 140.0394442, 38.10743341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市みどり町12-5" }, "geometry": { "type": "Point", "coordinates": [ 139.810754050000014, 38.73197072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市千石町3-28" }, "geometry": { "type": "Point", "coordinates": [ 139.829791, 38.71767903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字清池60-2" }, "geometry": { "type": "Point", "coordinates": [ 140.35444007000001, 38.3282578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市東久野本2丁目16-2" }, "geometry": { "type": "Point", "coordinates": [ 140.37834297, 38.37240807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字高畠945番地" }, "geometry": { "type": "Point", "coordinates": [ 140.198997709999986, 38.00319977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町大字余目字月屋敷101-2" }, "geometry": { "type": "Point", "coordinates": [ 139.91100108, 38.85162186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町余目字大塚107-5" }, "geometry": { "type": "Point", "coordinates": [ 139.89560101, 38.85640916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市宮内六角町1058-1" }, "geometry": { "type": "Point", "coordinates": [ 140.14088049, 38.07160608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市本町2丁目6-41" }, "geometry": { "type": "Point", "coordinates": [ 140.107455390000013, 37.90331937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町比子字白木36-103" }, "geometry": { "type": "Point", "coordinates": [ 139.85085179, 38.99246649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市中央2−3−23" }, "geometry": { "type": "Point", "coordinates": [ 140.37294555, 38.48199986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市蟹沢字長谷1332−1" }, "geometry": { "type": "Point", "coordinates": [ 140.37829532, 38.4357517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市東根甲6026−5" }, "geometry": { "type": "Point", "coordinates": [ 140.39260683, 38.42493859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市新山町１３６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.294253129999987, 38.37312725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡戸沢村津谷１６４０−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.18286476, 38.74441523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市江南３丁目２８−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.31501441, 38.27477695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市千手堂字沢田２９３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.33160411, 38.30947721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字松原字谷地８０５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.300230879999987, 38.20920621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市砂越字粕町５９−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.91357283, 38.89368513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東中の口町４−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.84681624000001, 38.91121605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町谷地甲２４" }, "geometry": { "type": "Point", "coordinates": [ 140.31212302, 38.42486502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡大江町左沢字木の沢２１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.240151059999988, 38.38136137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市大久保甲８８４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.33260518, 38.46983598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市藤浪５−８９" }, "geometry": { "type": "Point", "coordinates": [ 139.90425615, 38.76151115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市鎌田１−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.388145329999986, 38.36029368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市山口１３５３" }, "geometry": { "type": "Point", "coordinates": [ 140.40761383, 38.38610406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字蟹沢１８２８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.37658582, 38.42594819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町中山１９１" }, "geometry": { "type": "Point", "coordinates": [ 140.27788214, 38.32871659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市延沢１１２３" }, "geometry": { "type": "Point", "coordinates": [ 140.4511161, 38.57879454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町横山１５４" }, "geometry": { "type": "Point", "coordinates": [ 140.37362776, 38.58537755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市花楯２−２−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.3497872, 38.27168901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市宮町１−４−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.336482780000011, 38.26335792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市桧町３−６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.33024131, 38.27616757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市亀ヶ崎２−４−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.84407672, 38.90824107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市十里塚字村東山北３１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.80354824, 38.88158913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市松美町１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.82715299, 38.93993625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東大町３−３８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.86559983, 38.9040013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市浜中乙５３６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.78012561, 38.83063111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市金瓶字原３０９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.304880059999988, 38.17530657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市万場町８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.30229129, 38.77211743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字荒砥乙３５８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10747136, 38.1847949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町大字手ノ子１４９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96138147, 38.01018394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市外内島字古川３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.83397682, 38.699457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市山王町１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.83669597, 38.73138794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市朝暘町３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.843028800000013, 38.72897172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市板井川字片茎８８" }, "geometry": { "type": "Point", "coordinates": [ 139.85138256, 38.64767436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市美原町２９−５" }, "geometry": { "type": "Point", "coordinates": [ 139.81789253, 38.7189169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市一本木１−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.38216248, 38.42571573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字野川１１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.43327065, 38.41701493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字長崎６１１８−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.27999793, 38.33714209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町狩川字山居２４" }, "geometry": { "type": "Point", "coordinates": [ 139.98139344, 38.78996235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中央４−２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.1096488, 37.91587351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町大字大石田丙２１５−９" }, "geometry": { "type": "Point", "coordinates": [ 140.37271003, 38.58947502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市北町４−２−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.33081246, 38.27142458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡最上町向野沢原口４８０−４" }, "geometry": { "type": "Point", "coordinates": [ 140.510752520000011, 38.76393764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市十文字字木市子１６３１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.36362125, 38.3055028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市深町１−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31779031, 38.2358646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市西田町５−５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.313218, 38.26857267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市長谷堂１１２６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.28222474, 38.21809334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市大町６番１９号" }, "geometry": { "type": "Point", "coordinates": [ 139.856406889999988, 38.90480751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市松本２９６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.298758740000011, 38.75067247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町谷地中央３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31286122, 38.41994369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡大江町左沢８８５" }, "geometry": { "type": "Point", "coordinates": [ 140.20799034, 38.38110142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市温泉町３丁目８−４６" }, "geometry": { "type": "Point", "coordinates": [ 140.386997009999988, 38.46438748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市野川１３２２" }, "geometry": { "type": "Point", "coordinates": [ 140.43365096, 38.41802149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町山辺三河尻５４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.27504753, 38.29298288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町長崎字古城３０５２" }, "geometry": { "type": "Point", "coordinates": [ 140.280594979999989, 38.33188552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市赤湯字川尻２９７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.17030552, 38.04689809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市中町４番６号" }, "geometry": { "type": "Point", "coordinates": [ 140.40499011, 38.60683424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市関１５２３" }, "geometry": { "type": "Point", "coordinates": [ 140.11888323, 37.78269341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中田町９２１" }, "geometry": { "type": "Point", "coordinates": [ 140.11936372, 37.94011752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市上伊佐沢3265" }, "geometry": { "type": "Point", "coordinates": [ 140.06862252, 38.09513315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市宮内2625" }, "geometry": { "type": "Point", "coordinates": [ 140.13903474, 38.07405138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市寒河江字鶴田１６" }, "geometry": { "type": "Point", "coordinates": [ 140.261678499999988, 38.37978277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市東原２−３−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.345601570000014, 38.24282667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市南栄町２−９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.321495590000012, 38.23188172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市鈴川町３−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.35562431, 38.27082665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市みどり町１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.81009769, 38.73529048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市千石町７−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.83038065, 38.71643654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大字下清水字打越３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.77101764, 38.72261157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大宝寺町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.840513030000011, 38.738262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字原町字町尻１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.37607463, 38.34366339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市三間通１２１-５" }, "geometry": { "type": "Point", "coordinates": [ 140.152716840000011, 38.04849096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市三日町３丁目２−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.392709380000014, 38.44512945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町松原１１６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.98666745, 38.02343267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町小国小坂町１−８１" }, "geometry": { "type": "Point", "coordinates": [ 139.74396482, 38.05875285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市高坂字天王原１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.81496515, 38.70427596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市長苗代５８３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.30003922, 38.24317737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県上山市金谷字安信１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29783115, 38.16599631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市宝田３−１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.8433308, 38.74707764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県米沢市大字花沢２９２６" }, "geometry": { "type": "Point", "coordinates": [ 140.127818670000011, 37.92364658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字若山２２６" }, "geometry": { "type": "Point", "coordinates": [ 139.74543036, 38.10309502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字北１６２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.744288250000011, 38.06954787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市長沼字宮東６１" }, "geometry": { "type": "Point", "coordinates": [ 139.87205677, 38.81087724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市下山添字一里塚１０３−６" }, "geometry": { "type": "Point", "coordinates": [ 139.83506397, 38.69598108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡鮭川村大字京塚１２５９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.23747479, 38.82001439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市余慶町１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.829084630000011, 38.74527379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市さくらんぼ駅前３丁目８−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.38810879, 38.42581515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市本丸南３丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.40230831, 38.43897811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市宮崎３丁目１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.385917, 38.45248943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字白岩４８２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.21900668, 38.41098953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市本楯３丁目１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29046829, 38.36959811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町大字田沢１９５２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.37702321, 38.5482644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字高松２７５" }, "geometry": { "type": "Point", "coordinates": [ 140.249637549999989, 38.39805379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市末広町１１−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.306629930000014, 38.75558934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡大江町大字月布東表５２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.11764351, 38.38456659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市あきほ町１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85375378, 38.89400714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町大字山辺４２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.26962047, 38.29909144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字青柳一本木８５" }, "geometry": { "type": "Point", "coordinates": [ 140.36863978, 38.30140344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市万世町梓山１９１４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.17760141, 37.88913982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市成島町３丁目２７５８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08980405, 37.92218492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市木場町８−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.09352474, 37.91885517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町大字中３３９７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.00107026, 38.0771469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市窪田町窪田３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.1215257, 37.94726259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字荷口１５６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.34111922, 38.41300761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市大字李山８３３８" }, "geometry": { "type": "Point", "coordinates": [ 140.10245722, 37.86394474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市富士見町１丁目２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.85899264, 38.92337118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字鮎貝１０４０" }, "geometry": { "type": "Point", "coordinates": [ 140.06969145, 38.1824337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市香澄町３丁目６−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.329827630000011, 38.24659181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字十王２８４１" }, "geometry": { "type": "Point", "coordinates": [ 140.10990142, 38.18648592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市宮町５丁目１１−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.33975723, 38.26417057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東村山郡山辺町大字山辺６２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.266911, 38.29287085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県天童市大字高擶南１８４" }, "geometry": { "type": "Point", "coordinates": [ 140.34313347, 38.33351903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西村山郡河北町谷地中央４丁目８−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.310228959999989, 38.41596867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県上山市新丁３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.280390509999989, 38.1595882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県酒田市東両羽町４−６" }, "geometry": { "type": "Point", "coordinates": [ 139.85343912, 38.89496592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市本町２丁目１５−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.82679490000001, 38.72310165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市宝町２−６８" }, "geometry": { "type": "Point", "coordinates": [ 139.83866054, 38.73621847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県天童市大字高擶中里北２４８４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.365898249999987, 38.32599289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市本町２丁目４−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.33934047, 38.25149996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市下条町２丁目１−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.32536091, 38.26071816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市三日町１丁目３−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.337910709999989, 38.24137487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市若宮２丁目６−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.312893949999989, 38.22466826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県最上郡真室川町大字新町１７０−４" }, "geometry": { "type": "Point", "coordinates": [ 140.25420297, 38.86065284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西村山郡河北町谷地辛１２３" }, "geometry": { "type": "Point", "coordinates": [ 140.31599214, 38.42835635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県米沢市中央３丁目６−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.111373539999988, 37.91694286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県天童市老野森２丁目１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.37509362, 38.3650111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東根市大字東根甲９２６６−３５７" }, "geometry": { "type": "Point", "coordinates": [ 140.39555668, 38.43986731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県天童市大字大清水５０８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.35150334, 38.38691703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西置賜郡小国町大字緑町３丁目４５" }, "geometry": { "type": "Point", "coordinates": [ 139.74816904, 38.05835213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東置賜郡川西町大字上小松１５９４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.045492130000014, 38.00535102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市井岡字塔の腰１５４" }, "geometry": { "type": "Point", "coordinates": [ 139.80147188, 38.71127576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市薬師町２丁目１５−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.345526220000011, 38.26163995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市緑町２丁目１０−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.34965657, 38.25603416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市十日町４丁目４−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.332185790000011, 38.24476706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市十日町２丁目２−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.337296650000013, 38.24675954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市北町１丁目６−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.33226806, 38.26861435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西置賜郡白鷹町大字横田尻１６３７" }, "geometry": { "type": "Point", "coordinates": [ 140.06313837, 38.17338837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市矢来３丁目２−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.08640126, 37.9124373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市江俣４丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.31484565, 38.27540259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市十日町３丁目９−５２" }, "geometry": { "type": "Point", "coordinates": [ 140.33532089, 38.24301035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市宮町４丁目２５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.33954272, 38.26943389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市宮町４丁目５−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.339998470000012, 38.26519579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市流通センター１丁目１２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.353344130000011, 38.292935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市林泉寺１丁目２−２９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.101464529999987, 37.89950299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市鼠ケ関乙９６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.54857359, 38.55830173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市湯温海甲２９６" }, "geometry": { "type": "Point", "coordinates": [ 139.606456650000013, 38.61579523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市湯温海字湯之里１９１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.60293464, 38.6154202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市本丸南３丁目２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.40361741000001, 38.43842877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市大字長瀞４７９４−４４" }, "geometry": { "type": "Point", "coordinates": [ 140.37471689, 38.45911495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県北村山郡大石田町大字大石田丙３９９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.37446252, 38.59474656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東置賜郡高畠町大字高畠大町８４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.19510571, 38.0010333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市鼠ケ関乙７６−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.54693791, 38.55678052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東田川郡庄内町余目字町６８" }, "geometry": { "type": "Point", "coordinates": [ 139.905388789999989, 38.85135844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西置賜郡白鷹町大字中山１００９" }, "geometry": { "type": "Point", "coordinates": [ 140.14400318, 38.23660614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市大山１丁目２８−３２" }, "geometry": { "type": "Point", "coordinates": [ 139.76697758, 38.74420999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市桧町２丁目９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.33349331, 38.27793181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県上山市八日町５−２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.27962208, 38.15444176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市北里町５−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.83697679, 38.92671018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡朝日町大字宮宿１０２６−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.1503914, 38.30133367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県北村山郡大石田町大字大石田丙３８０−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.37361804, 38.59762385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市三日町２丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.3924389, 38.44342524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市香澄町１丁目１１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.33060697, 38.24924958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市老野森３丁目６−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.3724934, 38.3640467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県長井市館町南４−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.04172666, 38.0976001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県新庄市大町１７−９" }, "geometry": { "type": "Point", "coordinates": [ 140.29758535, 38.76037868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市南新町１丁目２−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.83036862, 38.92189057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字湯野沢１７９０−４" }, "geometry": { "type": "Point", "coordinates": [ 140.31632915, 38.47141579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字河島乙９９" }, "geometry": { "type": "Point", "coordinates": [ 140.35888129, 38.48735248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県寒河江市大字八鍬鹿島２７４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.25722012, 38.39639119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県寒河江市大字日田３９９" }, "geometry": { "type": "Point", "coordinates": [ 140.30295099, 38.37540104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県寒河江市中央２丁目１１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.27875565, 38.38523158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市湯野浜１丁目８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.75120768, 38.77923045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県長井市四ツ谷１丁目６−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.03668117, 38.09937804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市広野字中通６６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84942145, 38.84644386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡河北町谷地辛１２８" }, "geometry": { "type": "Point", "coordinates": [ 140.31541083, 38.42855506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県北村山郡大石田町大字大石田乙６２０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.37589018, 38.59367731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡大江町大字左沢４９９" }, "geometry": { "type": "Point", "coordinates": [ 140.20578183, 38.37792586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡西川町大字海味１５６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.1606242, 38.42301062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市鎌田１丁目１４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38742324, 38.36090628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市大字田麦野４０３" }, "geometry": { "type": "Point", "coordinates": [ 140.46411683, 38.36278581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市一日町２丁目３−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.371419300000014, 38.35072637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市大字川原子２９６２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.41731739, 38.39286166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県尾花沢市上町２丁目４−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.403065520000013, 38.60080857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市神町東３丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.38014406, 38.40401997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市大字蟹沢８０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36115232, 38.43394786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市本町１丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.37108693, 38.35948911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市大字青柳１９８−７" }, "geometry": { "type": "Point", "coordinates": [ 140.35987019, 38.29992657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市日和田字醍醐４５７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.25538513, 38.40552858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市伊達城１丁目７番地３号" }, "geometry": { "type": "Point", "coordinates": [ 140.36297298, 38.31123373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市宮町１−５−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.33667936, 38.26394863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市松波４丁目１１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.36995879, 38.24024309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市前明石２６９" }, "geometry": { "type": "Point", "coordinates": [ 140.29960327, 38.23186726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市柏倉８８８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.26696191, 38.23473945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市篭田３−９−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.31789534, 38.23631208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市大宮町４−４−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.86072751, 38.88656632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東泉町４−１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.853167320000011, 38.93040135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市南町４番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.27547001, 38.15012732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市末広町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.30486728, 38.75692613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡朝日町大字大谷１４９１" }, "geometry": { "type": "Point", "coordinates": [ 140.1656174, 38.34569573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字玉川３６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.68289845000001, 38.03425128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市伊勢原町１−４４" }, "geometry": { "type": "Point", "coordinates": [ 139.84809838000001, 38.71972213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市金池７−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.11915916, 37.9270323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市金池８−１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.117922209999989, 37.93022091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市万世町片子清水川５４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14012066, 37.90009034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市下河原１１５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.284747939999988, 38.39997914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市西根２−２６５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.27859988, 38.38704505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字寒河江字久保甲１２８８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.259826510000011, 38.36599704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市白岩１９１" }, "geometry": { "type": "Point", "coordinates": [ 140.228343959999989, 38.41012204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市八鍬８０５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.25069467, 38.39948871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡最上町大字志茂字宮下３４６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.47003568, 38.76614741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡最上町富沢８８４" }, "geometry": { "type": "Point", "coordinates": [ 140.551527889999988, 38.71100796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町及位４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.362163939999988, 38.98015817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町大沢８９４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.21425561, 38.8883931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡大蔵村大字合海３２" }, "geometry": { "type": "Point", "coordinates": [ 140.2281358, 38.70653041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市伊達城１−７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36310809, 38.31017945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字青柳字北柳１５７１番地５" }, "geometry": { "type": "Point", "coordinates": [ 140.349163, 38.30164034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市東青田４−１−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.33305235, 38.22203776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市みずほ２−１９−７" }, "geometry": { "type": "Point", "coordinates": [ 139.8535606, 38.90213013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東泉町３−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84963291, 38.93050391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市法連寺字村前８２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.92726393, 38.96381838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大町２０−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.29693081, 38.76125738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町谷地字月山堂４０３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.313195150000013, 38.41540465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字荒砥乙１０３６" }, "geometry": { "type": "Point", "coordinates": [ 140.10230073, 38.18313085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町上原４９０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.87835641, 37.92013218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市今泉字山田１８１２" }, "geometry": { "type": "Point", "coordinates": [ 140.05497, 38.05477115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市茅原字草見鶴４７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84406966, 38.7556218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市新海町２６−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.81736204, 38.72622963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市友江町５−６" }, "geometry": { "type": "Point", "coordinates": [ 139.77121843, 38.74862293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字老野森字光戒旦２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38449782, 38.37043645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字長崎字赤坂９０５３" }, "geometry": { "type": "Point", "coordinates": [ 140.304751290000013, 38.33559476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡三川町成田新田丁３３" }, "geometry": { "type": "Point", "coordinates": [ 139.83468174, 38.82540447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市郡山５９６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.15694736, 38.044163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市若葉町２−２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.409762160000014, 38.60172409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市上町４−６−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.39761307, 38.59891043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市丸の内２−２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.108450299999987, 37.91140879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市窪田町窪田字東上谷地１２３３" }, "geometry": { "type": "Point", "coordinates": [ 140.12834098, 37.96575595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市美咲町３４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.798719119999987, 38.7329992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市友江字中野６６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.78752204, 38.74787664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市槇代山ノ下８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.60208444, 38.59372105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市東芳賀３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36922141, 38.34096345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字柳沢５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.25612349, 38.32429224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町高畠５３８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.190256839999989, 38.00377606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字下和田２３５５−８" }, "geometry": { "type": "Point", "coordinates": [ 140.18816897, 37.95690628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町字上朝丸６３" }, "geometry": { "type": "Point", "coordinates": [ 139.90950061, 38.84247087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町余目字猿田４４−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.904577960000012, 38.84639771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市赤湯３１７５番地１" }, "geometry": { "type": "Point", "coordinates": [ 140.1710835, 38.05049476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市長岡４７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.16123755000001, 38.038332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市中央１−３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.277276160000014, 38.37921911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡舟形町舟形２８９−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.31972901, 38.69278181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市江南２−１−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.324051809999986, 38.27117919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市松見町２１−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.340710019999989, 38.23052664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市成沢西５−３−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.31789565, 38.20872826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市清住町３−６−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.31308758, 38.2533435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市飯沢８８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.30691718, 38.24085213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市薬師町１−１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.34113603, 38.26257909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市幸町２−８−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.84337858, 38.92304683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東大町２−２５−４" }, "geometry": { "type": "Point", "coordinates": [ 139.856324230000013, 38.90797889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字岩井沢５２５−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.75242702, 38.0570964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字沼沢８４８" }, "geometry": { "type": "Point", "coordinates": [ 139.873701899999986, 38.02867791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡飯豊町大字添川字行人沢３５１４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.02722766, 38.03383124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市鼠ケ関字横路７２１−４５" }, "geometry": { "type": "Point", "coordinates": [ 139.549480820000014, 38.5609353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大字湯田川字中田７３" }, "geometry": { "type": "Point", "coordinates": [ 139.77113924, 38.69547595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大宝寺町１−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.837887560000013, 38.73693002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市文園町３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.82947492, 38.71722295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市長岡北４−７−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.368807, 38.33181373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大字関山４１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.4616299, 38.41705673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市中央１−１２−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.39307618, 38.43318745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市春日２−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.110370499999988, 37.9221783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市大字花沢９００−３" }, "geometry": { "type": "Point", "coordinates": [ 140.129813039999988, 37.92009563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市門東町２−４−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.11122405, 37.91003158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市六郷町一漆１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.0920308, 37.96174253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字寒河江石田２０５５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.276899609999987, 38.36652665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字松川1２１-1" }, "geometry": { "type": "Point", "coordinates": [ 140.224643390000011, 38.37996883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市八鍬５４３−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.255779499999989, 38.39883182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡最上町大字大堀７５３" }, "geometry": { "type": "Point", "coordinates": [ 140.41815234, 38.7547817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市寿町１３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.33911329, 38.2349016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市ゆたか２-９-１５" }, "geometry": { "type": "Point", "coordinates": [ 139.84708666, 38.93780965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市高見台２丁目２−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.819135530000011, 38.89913781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市船場町１丁目８−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.82871948, 38.91676248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市軽井沢２−３−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.27893613, 38.16357468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市鳥越字栗田６９７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.30994897, 38.74323531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市山五十川甲５９４" }, "geometry": { "type": "Point", "coordinates": [ 139.656181229999987, 38.65396472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市新形町４-３４" }, "geometry": { "type": "Point", "coordinates": [ 139.825738769999987, 38.73639945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大字白山字西野２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.77279757, 38.72456183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字荒谷７８７０-１" }, "geometry": { "type": "Point", "coordinates": [ 140.38959746, 38.31880715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字山元字藤田１０４１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38755095, 38.36380598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字糠野目２４２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14364004, 37.9905142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町狩川字萱積場８３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.97184898, 38.79557864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町余目字土堤下２６-２" }, "geometry": { "type": "Point", "coordinates": [ 139.90357112, 38.84384613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市元中山１３８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.20934521, 38.10046082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市横町１-１１-３３" }, "geometry": { "type": "Point", "coordinates": [ 140.405363560000012, 38.60938493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市万世町梓山３３４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.187198880000011, 37.8850836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町大字菅里字菅野２" }, "geometry": { "type": "Point", "coordinates": [ 139.874123739999987, 39.05867565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町大字遊佐町下高砂１０９-４" }, "geometry": { "type": "Point", "coordinates": [ 139.90939336, 39.0200354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町大字遊佐町字小原田沼田１５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.908799320000014, 39.00944548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字西根字谷池田１０６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29238877, 38.38127519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡金山町大字金山字西田表４５６−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.335857260000012, 38.88043572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡戸沢村大字角川４７８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.14962515, 38.69751485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡戸沢村大字名高2237-1" }, "geometry": { "type": "Point", "coordinates": [ 140.195336880000013, 38.7539125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡鮭川村大字石名坂631番地6" }, "geometry": { "type": "Point", "coordinates": [ 140.240447280000012, 38.83119902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町大字新町字下荒川２７８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.24988102, 38.85608507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町大字大沢字上野３６３２−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.22470144, 38.87920711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市下条町２−１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.32420715, 38.26248732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字前明石字水下４４４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29386315, 38.22758151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市亀ケ崎５丁目１４番１７号" }, "geometry": { "type": "Point", "coordinates": [ 139.85491583000001, 38.89710879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市曙町一丁目１番地" }, "geometry": { "type": "Point", "coordinates": [ 139.858733160000014, 38.91947135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市生石字登路田１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93650937000001, 38.92318174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市高野字高野原３４５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.31198883, 38.16118032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字五日町字桂堰7271-1" }, "geometry": { "type": "Point", "coordinates": [ 140.31155535, 38.77675376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町西里字白山堂７４０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.28847685, 38.41823764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡朝日町大字宮宿１０８６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.148580790000011, 38.29943842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字広野３１４８" }, "geometry": { "type": "Point", "coordinates": [ 140.07119542, 38.15745761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市楯岡北町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.393607409999987, 38.49584492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市川原沢２２８" }, "geometry": { "type": "Point", "coordinates": [ 140.00788816, 38.13166608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市羽黒町野荒町字西田１４７" }, "geometry": { "type": "Point", "coordinates": [ 139.91591634, 38.71827718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市下川字樋渡５０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.783902039999987, 38.78028531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市覚岸字水上２２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.82150153, 38.75090616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市藤島字鶴巻８１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.908176020000013, 38.76475269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市白山字西野１９６" }, "geometry": { "type": "Point", "coordinates": [ 139.77670773, 38.72502081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市糠塚２−１０−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.3856566, 38.36607236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字干布４７２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.39250382, 38.33135352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字山口１９７２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.40911527, 38.38681114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字成生９１８" }, "geometry": { "type": "Point", "coordinates": [ 140.35939326, 38.37969081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字蔵増６２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.340070129999987, 38.36772023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字藤内新田字仲原１６３７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31828335, 38.34968742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字矢野目２０９" }, "geometry": { "type": "Point", "coordinates": [ 140.35188624, 38.35444798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町大字根際１０９５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.25409531, 38.28044809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字土橋字滝３９３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.254958929999987, 38.33552657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町肝煎字福地山本５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0119962, 38.71493638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町余目字滑石５３−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.9015493, 38.84348574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市新町五丁目4647-3" }, "geometry": { "type": "Point", "coordinates": [ 140.42150991, 38.60979063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市大字寺内１０４０" }, "geometry": { "type": "Point", "coordinates": [ 140.40644717, 38.6506809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市大字野黒沢字西原６０７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.37357968, 38.63226211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市金池３−１−５５" }, "geometry": { "type": "Point", "coordinates": [ 140.11559677, 37.92116796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市窪田町藤泉字沼田上１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10047255, 37.94372956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市あかねケ丘1丁目16-10" }, "geometry": { "type": "Point", "coordinates": [ 140.308754850000014, 38.2496166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市桜田東1丁目10-23" }, "geometry": { "type": "Point", "coordinates": [ 140.31989342, 38.21893014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字松原309" }, "geometry": { "type": "Point", "coordinates": [ 140.30647851, 38.20706983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市南原町1丁目20-34" }, "geometry": { "type": "Point", "coordinates": [ 140.34477941, 38.23559621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市ゆたか1-15-19" }, "geometry": { "type": "Point", "coordinates": [ 139.84491559, 38.93445988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市京田2丁目13-2" }, "geometry": { "type": "Point", "coordinates": [ 139.83640637, 38.88029408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市金沢字谷地田1286-3" }, "geometry": { "type": "Point", "coordinates": [ 140.309812029999989, 38.75903936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字福田字福田山711-37" }, "geometry": { "type": "Point", "coordinates": [ 140.271008599999988, 38.7349145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字本合海374-17" }, "geometry": { "type": "Point", "coordinates": [ 140.23228391, 38.73327356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字町原字登根簗2-93-1" }, "geometry": { "type": "Point", "coordinates": [ 139.76460687, 38.04478751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市三日町2丁目4-15" }, "geometry": { "type": "Point", "coordinates": [ 140.37145085, 38.35566704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市神町西5丁目2-38" }, "geometry": { "type": "Point", "coordinates": [ 140.37446251, 38.40121519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡山辺町大字山辺633" }, "geometry": { "type": "Point", "coordinates": [ 140.26750752, 38.29275567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡高畠町大字元和田366" }, "geometry": { "type": "Point", "coordinates": [ 140.18205071, 37.97082962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字中小松2800" }, "geometry": { "type": "Point", "coordinates": [ 140.04935276, 38.00911279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市花沢町2735-1" }, "geometry": { "type": "Point", "coordinates": [ 140.120999289999986, 37.92086569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市御廟1丁目7-43" }, "geometry": { "type": "Point", "coordinates": [ 140.09065755, 37.91650032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市八幡原5丁目4862-15" }, "geometry": { "type": "Point", "coordinates": [ 140.1634676, 37.90968823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市船町１０２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.297194819999987, 38.30840621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市楯岡新町3-3-7" }, "geometry": { "type": "Point", "coordinates": [ 140.38847307, 38.47234926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市東山形１丁目6-1" }, "geometry": { "type": "Point", "coordinates": [ 140.37049474, 38.2407121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市四ッ谷２−１−４６" }, "geometry": { "type": "Point", "coordinates": [ 140.28687861, 38.16691441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市中央２−３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.278078740000012, 38.38250544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町平岡字片杉野１７１０−４" }, "geometry": { "type": "Point", "coordinates": [ 140.26165128, 38.86089423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市香澄町２−３−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.33305784, 38.24745294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市中桜田１−７６９−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.328157, 38.217879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市南館５丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.30683309, 38.23793355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市南原町３−１９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.3444768, 38.2322882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市新橋１−５−７" }, "geometry": { "type": "Point", "coordinates": [ 139.85802383, 38.91961814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市金瓶字水上５７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.30771923, 38.17769379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市中山字森合３３８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.21273283, 38.11254001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市住吉町８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.3041512, 38.76654039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市十日町４１５" }, "geometry": { "type": "Point", "coordinates": [ 140.300355239999988, 38.77496428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町谷地字月山堂６６４" }, "geometry": { "type": "Point", "coordinates": [ 140.31684851, 38.41437081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市湯野沢１６８" }, "geometry": { "type": "Point", "coordinates": [ 140.30516368, 38.46647351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市錦町１０−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.8324239, 38.73805922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市芳賀字十二木５７６" }, "geometry": { "type": "Point", "coordinates": [ 140.36917004, 38.33129238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市蟹沢三本壇１６２６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.37721001, 38.43109026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町達磨寺１３１５" }, "geometry": { "type": "Point", "coordinates": [ 140.28745543, 38.32222158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市大字萩袋１３２７−１２１" }, "geometry": { "type": "Point", "coordinates": [ 140.38229243, 38.62132807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市野黒沢字西原５３１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36885071, 38.640256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市窪田町窪田１３７９" }, "geometry": { "type": "Point", "coordinates": [ 140.12640832, 37.95870559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県北村山郡大石田町大字今宿７０９" }, "geometry": { "type": "Point", "coordinates": [ 140.39963896, 38.58427285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡真室川町大字大沢９０７" }, "geometry": { "type": "Point", "coordinates": [ 140.215743010000011, 38.88552064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市桜田西４−１０−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.316115630000013, 38.2186861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市小泉字上川原４１" }, "geometry": { "type": "Point", "coordinates": [ 139.937144710000013, 38.96755766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市竹田字下川原７３−４１" }, "geometry": { "type": "Point", "coordinates": [ 139.94659557, 38.86199299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市東両羽町７−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.85016554, 38.89232807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市富士見町１−２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.85897846, 38.92289954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市河崎１−１−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.26999398000001, 38.14979713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市矢来３−１−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.27587255, 38.15260298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡大江町大字本郷丙２５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.189606739999988, 38.37547095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡朝日町宮宿１１９４" }, "geometry": { "type": "Point", "coordinates": [ 140.14481046, 38.30224455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡小国町大字緑町５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.74725394, 38.05807734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市大字たも山１２６７" }, "geometry": { "type": "Point", "coordinates": [ 140.39659138, 38.50843905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大東町１４−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.839798839999986, 38.72312178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市道形町４４−４" }, "geometry": { "type": "Point", "coordinates": [ 139.84702027, 38.74372556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字貫津字石橋２４１７" }, "geometry": { "type": "Point", "coordinates": [ 140.389046439999987, 38.3582445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市東本町２−２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.37735742000001, 38.36011166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市奈良沢乙２１２" }, "geometry": { "type": "Point", "coordinates": [ 140.39611149000001, 38.33846402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市大林２−２−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.38409536, 38.43391518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町上小松３１４４" }, "geometry": { "type": "Point", "coordinates": [ 140.043381579999988, 38.00427994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字堀金１１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07773094, 37.98408743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字島字皿沼東７４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.28344977, 38.34423853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市下東山１１９４" }, "geometry": { "type": "Point", "coordinates": [ 140.39980975, 38.29630663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市松波４−１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36635161, 38.23949831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市城西町４−３−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.32502962, 38.25992612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市青田４−１−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.32634497, 38.22402186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市双月町４−５−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.356100880000014, 38.2565401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市嶋北４−５−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.318801369999989, 38.28989215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市東青田１丁目１−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.33743572, 38.22696219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市北町１−５−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.33234485, 38.27077599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市落合町字千歳９７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.34694284, 38.28343727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市若竹町１−５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.8367584, 38.90459555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡西川町間沢２９０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.13345476, 38.4324668 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市泉八影浦２０１２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04249094, 38.08902883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市みどり町１７−３２" }, "geometry": { "type": "Point", "coordinates": [ 139.8078653, 38.73394993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大宝寺３７５−７" }, "geometry": { "type": "Point", "coordinates": [ 139.82548805, 38.74762147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市泉町２丁目１４−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.38657446, 38.36418376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町上小松３１５３" }, "geometry": { "type": "Point", "coordinates": [ 140.04222302, 38.00426218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中央７−１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.10928098, 37.92071612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市横町9-19" }, "geometry": { "type": "Point", "coordinates": [ 140.036537610000011, 38.11873473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市館町南1-10" }, "geometry": { "type": "Point", "coordinates": [ 140.03821677, 38.09809333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市今泉1812-75" }, "geometry": { "type": "Point", "coordinates": [ 140.0508434, 38.05508523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市幸町７−６３" }, "geometry": { "type": "Point", "coordinates": [ 140.32766535, 38.24616794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市野田１６８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.35885518, 38.42814582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市長岡字五百苅４４７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.159351320000013, 38.03553623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中央7丁目4-72" }, "geometry": { "type": "Point", "coordinates": [ 140.10799456, 37.92252932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市久野本5-2-4" }, "geometry": { "type": "Point", "coordinates": [ 140.37802477, 38.36952699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市十日町１−４−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.03957838, 38.11312846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市三間通２５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.15724782, 38.04996719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字高屋字西浦４６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.279300479999989, 38.35227798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東村山郡中山町大字金沢１０４" }, "geometry": { "type": "Point", "coordinates": [ 140.259880689999989, 38.31918453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市弁天１−８−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.29180932, 38.16825979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市茅原町２８−５１" }, "geometry": { "type": "Point", "coordinates": [ 139.843011209999986, 38.75241315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東根市宮崎３−１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.38597599, 38.45303855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県南陽市三間通３６０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.15066367, 38.04804999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市桧町２−９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.33370993, 38.27743219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県酒田市東町２−１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.85811895, 38.90726483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市幸町７−６６" }, "geometry": { "type": "Point", "coordinates": [ 140.32799809, 38.24620875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県長井市緑町８−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.03726182, 38.11890257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東根市神町西２−１−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.378129019999989, 38.41638357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県上山市金瓶字水上１８８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.30858244, 38.17865615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市山居町１丁目５−３５" }, "geometry": { "type": "Point", "coordinates": [ 139.835740249999986, 38.91031088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市両羽町４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.84221175, 38.89475549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県最上郡大蔵村大字南山１９６２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.169626670000014, 38.60908926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東置賜郡川西町大字吉田５７９９" }, "geometry": { "type": "Point", "coordinates": [ 140.102575839999986, 38.00648875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市日の出町１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.85893246, 38.91819154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市両羽町２−９" }, "geometry": { "type": "Point", "coordinates": [ 139.8410481, 38.89693265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市大針字小松沢口３９" }, "geometry": { "type": "Point", "coordinates": [ 139.812303140000012, 38.55807323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町当山森ノ下１３５" }, "geometry": { "type": "Point", "coordinates": [ 139.91393197, 39.03952473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町藤崎字茂り松２−３８９" }, "geometry": { "type": "Point", "coordinates": [ 139.85111919, 38.98170782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市亀ケ崎７丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.847988679999986, 38.89841474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字貫津" }, "geometry": { "type": "Point", "coordinates": [ 140.3873683, 38.35204938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県上山市弁天２丁目３−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.29288699, 38.16869309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市高野町１丁目３−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.03435669000001, 38.10841892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市若葉町９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.27376713000001, 38.36904238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市椚塚１６７５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.15922455, 38.04372489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市二色根１１４−９" }, "geometry": { "type": "Point", "coordinates": [ 140.157111859999986, 38.05029505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市穂積８５" }, "geometry": { "type": "Point", "coordinates": [ 140.36142321, 38.28263458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市花沢町２６３４−７" }, "geometry": { "type": "Point", "coordinates": [ 140.121034470000012, 37.91696368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市花沢町和久井田４−２９３１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.12752583, 37.92420665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字中野目２８６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.32024388, 38.33383935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市大字門伝１６７３" }, "geometry": { "type": "Point", "coordinates": [ 140.2323374, 38.23740883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市門東町１丁目２−５８" }, "geometry": { "type": "Point", "coordinates": [ 140.108720440000013, 37.90507321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市中央２丁目７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.10824345, 37.91498193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市大町１丁目１−５９" }, "geometry": { "type": "Point", "coordinates": [ 140.11450321, 37.90454144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県米沢市窪田町窪田１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.12198973, 37.94613679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市蔵王半郷戸苅田３０７−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.315758210000013, 38.18951436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市広野字荒田１０５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.84956462, 38.84082543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県寒河江市大字日田字中向１" }, "geometry": { "type": "Point", "coordinates": [ 140.29783769, 38.37279785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市荒楯町１丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.33272675, 38.23396607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県飽海郡遊佐町吹浦字吉野森２６" }, "geometry": { "type": "Point", "coordinates": [ 139.877180900000013, 39.07093055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市文下字沼田６９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.84572763, 38.76278389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市湯野浜１丁目１８−２９" }, "geometry": { "type": "Point", "coordinates": [ 139.75784293000001, 38.78530208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市錦町１丁目１８５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.83491484000001, 38.88324118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市西新斎町７−７" }, "geometry": { "type": "Point", "coordinates": [ 139.8121897, 38.73542163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県長井市四ツ谷１丁目５−５１" }, "geometry": { "type": "Point", "coordinates": [ 140.03652962000001, 38.10023994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市沖の町４−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.30362119, 38.76265733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市錦町１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.83437554, 38.73660039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県村山市楯岡鶴ケ町２丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.39155803, 38.4887953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東村山郡中山町大字長崎１０８２" }, "geometry": { "type": "Point", "coordinates": [ 140.28504204, 38.33361491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東村山郡山辺町大字山辺２３８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.26994897, 38.29434724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県南陽市宮内２６８０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.13610759, 38.07404546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東根市六田２丁目６−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.38599880000001, 38.44108641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西村山郡河北町谷地丁１０" }, "geometry": { "type": "Point", "coordinates": [ 140.31683264, 38.41787389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県天童市久野本３丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.37481299, 38.36930234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県上山市石崎１丁目４−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.27183131000001, 38.15218624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県新庄市宮内町５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.296451639999987, 38.76070794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県新庄市大字福田７１１−１６１" }, "geometry": { "type": "Point", "coordinates": [ 140.2636952, 38.73022367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県酒田市船場町１丁目６−８" }, "geometry": { "type": "Point", "coordinates": [ 139.83073768, 38.91686562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市みどり町１５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.80774593000001, 38.73506195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市神明町１−３８" }, "geometry": { "type": "Point", "coordinates": [ 139.83168577, 38.72414391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市飯沢５２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.304772179999986, 38.24312225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西置賜郡小国町大字兵庫舘３丁目５−２９" }, "geometry": { "type": "Point", "coordinates": [ 139.755875479999986, 38.05363675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県南陽市竹原２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.103775359999986, 38.0563342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県鶴岡市文下字沼田５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84825222, 38.7582737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県米沢市東大通３丁目８−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.13190868, 37.90030915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県上山市長清水３丁目１−５５" }, "geometry": { "type": "Point", "coordinates": [ 140.27460824, 38.14056056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県米沢市本町１丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.10954425, 37.90050029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市双葉町１丁目１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.322465130000012, 38.24733369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西置賜郡白鷹町大字荒砥乙９７６" }, "geometry": { "type": "Point", "coordinates": [ 140.102311680000014, 38.18649159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東置賜郡高畠町大字高畠１５３５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.19485333, 38.00612475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市大字漆山４３４２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.34422797, 38.31272153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市大字松原７６０" }, "geometry": { "type": "Point", "coordinates": [ 140.30248441, 38.20810297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県山形市小姓町７−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.34198759, 38.24709493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県米沢市丸の内１丁目７−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.10301926, 37.91069313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市中央６丁目１−２１１" }, "geometry": { "type": "Point", "coordinates": [ 140.10406332, 37.91915517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市中田町１８２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.12501713, 37.94665346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市金池２丁目１−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.116692339999986, 37.91810116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市中央１丁目１２−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.11071239, 37.91482537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市緑町４丁目６−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.35101165, 38.25080872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市七日町５丁目２−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.34256527, 38.24842537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市あずま町８−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.337896519999987, 38.23752473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市双葉町２丁目２−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.32102839, 38.24962739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市泉町２丁目１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.104258679999987, 37.89400816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市駅前３丁目５−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.1233533, 37.91052721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市新形町１５−４０" }, "geometry": { "type": "Point", "coordinates": [ 139.823535990000011, 38.73580659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県米沢市御廟２丁目７−１０１" }, "geometry": { "type": "Point", "coordinates": [ 140.09076751, 37.9116608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市字荒町２９" }, "geometry": { "type": "Point", "coordinates": [ 139.94254497, 38.89148201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市湯温海甲２７５" }, "geometry": { "type": "Point", "coordinates": [ 139.607046270000012, 38.61583245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市睦町３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.82619558, 38.7225566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市本町１丁目５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.83192986, 38.72876597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市大字羽入２７５６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.355848720000012, 38.41241692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県新庄市五日町１３１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31006624, 38.77254535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市白山字興野１４６−９" }, "geometry": { "type": "Point", "coordinates": [ 139.78839757, 38.7284596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字楯岡５４２９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.39328303, 38.47070304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市麓字荒町５８−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.94489191, 38.96950451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東置賜郡高畠町大字福沢９０１" }, "geometry": { "type": "Point", "coordinates": [ 140.14793678, 37.99243017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東置賜郡川西町大字上小松１６４４" }, "geometry": { "type": "Point", "coordinates": [ 140.04813077, 38.00482891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東置賜郡川西町大字大塚１５３２" }, "geometry": { "type": "Point", "coordinates": [ 140.07449503, 38.04219845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東置賜郡高畠町大字福沢４−９０１" }, "geometry": { "type": "Point", "coordinates": [ 140.14486015, 37.99945168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県最上郡真室川町大字新町１４２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.25520665, 38.85956615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市大字長瀞１２３８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.374860860000013, 38.45723276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西置賜郡飯豊町大字萩生１３３０" }, "geometry": { "type": "Point", "coordinates": [ 139.989299859999988, 38.05951355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市あかねケ丘２丁目１６−９" }, "geometry": { "type": "Point", "coordinates": [ 140.307630069999988, 38.24440246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県寒河江市大字西根字高畑８１" }, "geometry": { "type": "Point", "coordinates": [ 140.29863931, 38.38004417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市板垣中通り１" }, "geometry": { "type": "Point", "coordinates": [ 140.397133059999987, 38.40987109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市中里３丁目３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.35738784, 38.32658698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市みずほ１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.848956820000012, 38.90768375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市東原町１丁目６−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.34518724, 38.24859766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県長井市草岡１４３３" }, "geometry": { "type": "Point", "coordinates": [ 140.012228599999986, 38.14122842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市北久野本３丁目２−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.374098800000013, 38.37992909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市入船町６−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.83001853, 38.90864417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県最上郡真室川町大字新町８２３" }, "geometry": { "type": "Point", "coordinates": [ 140.255802820000014, 38.86034736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市本町２丁目１６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.82893869, 38.72251671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市円応寺町２０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.343786959999989, 38.26782338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県新庄市若葉町２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.30121648, 38.76128796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県新庄市大字仁間３２８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.28646541, 38.74210081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字湯野沢３２４９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.30202381, 38.4741902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字土生田３７４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.396480489999988, 38.54571727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県村山市大字白鳥３９２１" }, "geometry": { "type": "Point", "coordinates": [ 140.32478088, 38.49514931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県寒河江市大字清助新田１２７" }, "geometry": { "type": "Point", "coordinates": [ 140.2318272, 38.398537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市日和田町９−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.826252180000012, 38.74123095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市本町２丁目１１−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.82509178, 38.72367481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県鶴岡市大山２丁目２３−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.76619338, 38.74831225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市北今町２−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.83560097, 38.92388621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県酒田市こあら３丁目４−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.86131573, 38.91235053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県長井市時庭１７１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.037916630000012, 38.07330925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡河北町笹川" }, "geometry": { "type": "Point", "coordinates": [ 140.31511365, 38.44543795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡河北町大字新吉田９６１" }, "geometry": { "type": "Point", "coordinates": [ 140.34473103, 38.45327647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東村山郡中山町大字柳沢５１０−７" }, "geometry": { "type": "Point", "coordinates": [ 140.25613062, 38.32905756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡大江町大字本郷戊１３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.19744372, 38.38183161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市大字寺津２３３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.317958260000012, 38.34376161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市老野森３丁目１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.37278009, 38.36583255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市大字荒谷１９２７" }, "geometry": { "type": "Point", "coordinates": [ 140.3894398, 38.31931708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県最上郡金山町大字金山４１９" }, "geometry": { "type": "Point", "coordinates": [ 140.337717590000011, 38.88299869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市柏原新林" }, "geometry": { "type": "Point", "coordinates": [ 140.36561237, 38.41045902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県東根市神町中央２丁目９−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.37961653, 38.40589327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県天童市一日町３丁目２−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.370322280000011, 38.34733226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県山形市浜崎１９" }, "geometry": { "type": "Point", "coordinates": [ 140.360771269999987, 38.28585536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西置賜郡白鷹町大字荒砥甲７２０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.10031493, 38.18113915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市大字貫津字東ノ崎２２６２" }, "geometry": { "type": "Point", "coordinates": [ 140.38837079000001, 38.35419024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市坂野部新田字葉萱１１２" }, "geometry": { "type": "Point", "coordinates": [ 139.819951260000011, 38.86103644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市松山字山田１９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.95360132, 38.85807641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市名川字落合８番地" }, "geometry": { "type": "Point", "coordinates": [ 139.83519156, 38.61435945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市南原町１−２０−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.34537033, 38.23549694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市七日町４−１４−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.34565175, 38.25444595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市飯田西5丁目2-2" }, "geometry": { "type": "Point", "coordinates": [ 140.32277751, 38.21311598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市山字金谷原４６００−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.3936095, 38.51427028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県村山市楯岡字俵町３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38299779, 38.47447237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市鳥越大字向平１４４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.309567679999986, 38.73698061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市東原町２４−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.84676077, 38.71798686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市東原町２４−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.846890019999989, 38.71838985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市交り江４丁目６−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.36575893, 38.36565172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県天童市交り江４−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.36660243, 38.36569606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県鶴岡市小淀川字色田７４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.79144667, 38.73007801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市蔵王温泉堰神７０５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.39363405, 38.16802396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県酒田市こがね町１丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85686937, 38.90421445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡河北町溝延字稲荷原４９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.31073688, 38.39109701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市十文字大原２２６８" }, "geometry": { "type": "Point", "coordinates": [ 140.381294239999988, 38.30774103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県尾花沢市大字野黒沢上の原555-12" }, "geometry": { "type": "Point", "coordinates": [ 140.3833841, 38.62791791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県山形市城北町１−２４−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.32567229, 38.25976715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県新庄市大字昭和６６１番地" }, "geometry": { "type": "Point", "coordinates": [ 140.31094131, 38.83599257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県西村山郡西川町大字睦合６８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.17752973, 38.41900946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東田川郡庄内町狩川字西田１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.96139255, 38.79278964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県南陽市椚塚字蛇沼１２６５" }, "geometry": { "type": "Point", "coordinates": [ 140.170433440000011, 38.04538383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "山形県東根市東根甲６１" }, "geometry": { "type": "Point", "coordinates": [ 140.3970538, 38.44254153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県新庄市鳥越１４８８" }, "geometry": { "type": "Point", "coordinates": [ 140.311174849999986, 38.73479297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県新庄市鳥越１４７５−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.309325449999989, 38.73456773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県長井市泉６６７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.03950833, 38.08251279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県東根市若木１２９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.3750354, 38.41977862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県南陽市宮内２−４５５９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.13535679, 38.06492392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡河北町谷地甲１２６" }, "geometry": { "type": "Point", "coordinates": [ 140.3303176, 38.43583249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "山形県西村山郡河北町谷地乙１４４" }, "geometry": { "type": "Point", "coordinates": [ 140.32130147, 38.42384121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "山形県西村山郡河北町谷地甲２７３" }, "geometry": { "type": "Point", "coordinates": [ 140.309903889999987, 38.42381029 ] } }
+
+]
+}

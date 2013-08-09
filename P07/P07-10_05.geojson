@@ -1,0 +1,1506 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町字西上２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.52509662, 39.22511717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市増田町増田字一本柳西１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.53546099, 39.2085865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市八幡石町８０" }, "geometry": { "type": "Point", "coordinates": [ 140.55490425, 39.32629311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町下鍋倉城戸１２" }, "geometry": { "type": "Point", "coordinates": [ 140.478833939999987, 39.25342094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町醍醐字鰌田１３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.53753873, 39.25101448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町造山字広田表９" }, "geometry": { "type": "Point", "coordinates": [ 140.42950008, 39.27588829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市昭和大久保字阿弥陀堂１０３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.05997362, 39.86211259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字蒲沼１３８" }, "geometry": { "type": "Point", "coordinates": [ 139.99175649, 39.87552133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字二田２１" }, "geometry": { "type": "Point", "coordinates": [ 139.99002275, 39.88435332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鹿渡字石田５４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07185204000001, 40.05748623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町浜田字上浜田２５４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.002665799999988, 40.10239328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡藤里町藤琴字大関添１５１" }, "geometry": { "type": "Point", "coordinates": [ 140.26503421000001, 40.28159708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森字湯の尻１９" }, "geometry": { "type": "Point", "coordinates": [ 140.03114758000001, 40.33634252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字小坂２１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.79354459000001, 40.2035406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市十和田毛馬内字押出４９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.770593459999986, 40.26853486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市旭川南町８−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.129595450000011, 39.73688387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市旭南３−２−７６" }, "geometry": { "type": "Point", "coordinates": [ 140.107061109999989, 39.70827683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字松崎８５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.103722260000012, 39.74677194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市上北手百崎字境田３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14948614, 39.69739539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川尻町字大川反３９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.089333939999989, 39.71135683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市泉中央６−４−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.11116021, 39.7320947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市土崎港東４−４−６８" }, "geometry": { "type": "Point", "coordinates": [ 140.08307726000001, 39.75604164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市楢山川口境８−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.11119281, 39.70369188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋新川向１６−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.10278157, 39.73029298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋大畑１丁目３−４６" }, "geometry": { "type": "Point", "coordinates": [ 140.09989771, 39.73378019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋南２−１０−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.087662560000012, 39.71897235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市雄和新波字樋口４３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.23280161, 39.52688358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市常盤字町辺１９５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.1434499, 40.22871411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市扇田字山下１０９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09420787, 40.19459002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ツ井町字上野８７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.243619630000012, 40.21466163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市阿仁幸屋渡字上添根２８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.45353871, 39.90443062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市材木町１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.37193914, 40.23032151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市鷹巣字愛宕下７１" }, "geometry": { "type": "Point", "coordinates": [ 140.36877499, 40.22271305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市綴子字糠沢上谷地１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.39331542, 40.25562614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩渕下３７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.05176624, 39.39121594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇字田尻野２−５１" }, "geometry": { "type": "Point", "coordinates": [ 140.032225329999989, 39.40223333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇字田頭２０６−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.02973769, 39.39150706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市本田仲町２８" }, "geometry": { "type": "Point", "coordinates": [ 140.05433044, 39.38417345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市中三地字十文字１" }, "geometry": { "type": "Point", "coordinates": [ 139.95347797, 39.25340654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字清水尻１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.97095026, 39.28360019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市赤坂大道添３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53988697, 39.30267117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市前郷一番町１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.56763956, 39.31114838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町字東中島１９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.43451227, 39.34452846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大沢字羽根山５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.58985508, 39.29488349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町下吉田下村道の上２２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.49041552, 39.30032514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町浅舞六日町後１４９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.485633080000014, 39.26870334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市昭和大久保字堤の上９１−１３２" }, "geometry": { "type": "Point", "coordinates": [ 140.06445093, 39.87047369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王上江川４７−４３１" }, "geometry": { "type": "Point", "coordinates": [ 139.98885168000001, 39.88267923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市飯田川飯塚字中谷地７０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.07508608, 39.89848111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鹿渡字片カリ橋１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07781853, 40.0456351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡藤里町藤琴字藤琴４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.26211086, 40.27889568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森中浜４４" }, "geometry": { "type": "Point", "coordinates": [ 140.016506389999989, 40.37064153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町峰浜高野々字高野々１４４−６" }, "geometry": { "type": "Point", "coordinates": [ 140.03640998, 40.29004908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角郡小坂町小坂字赤神５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.743505090000014, 40.32435101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市十和田大湯湯の岱２−５２" }, "geometry": { "type": "Point", "coordinates": [ 140.837581660000012, 40.2967148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市卸町１−４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.10697904, 39.70206586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市下新城中野字琵琶沼４１０" }, "geometry": { "type": "Point", "coordinates": [ 140.06065468, 39.79856927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字三後田２５７" }, "geometry": { "type": "Point", "coordinates": [ 140.094599069999987, 39.74813815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字水口１０５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.112266190000014, 39.74089329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市向浜１−１−１３６" }, "geometry": { "type": "Point", "coordinates": [ 140.06599444, 39.7301199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字谷地田５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14688508, 39.71794804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字土手下２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.14817901, 39.72524807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市山王１−２−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.1040561, 39.72063397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市将軍野東３−６−４６" }, "geometry": { "type": "Point", "coordinates": [ 140.08833384, 39.75930246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市将軍野南４−９−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.08522234, 39.74641506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市新屋扇町７−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.08526213, 39.68002505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市新屋豊町４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.09120834, 39.70421955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田新田１−１７−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.12563221, 39.68042916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田目長田３−３−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.1387717, 39.67708773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川元山下町４−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.108115880000014, 39.71367945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市泉北４−２−５" }, "geometry": { "type": "Point", "coordinates": [ 140.11112313000001, 39.73610787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市中通５−９−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.12103234, 39.71240062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市土崎港中央３−５−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.06764314, 39.75623952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市土崎港北６−１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.07549171, 39.76536309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市東通７−７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.13761084, 39.71210814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市楢山登町１−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.11583525, 39.70974683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋字イサノ２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09252744, 39.73649933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋南１−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.09276133, 39.71894159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島道東１−７−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.068962660000011, 39.77481273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市雄和椿川字山篭４９" }, "geometry": { "type": "Point", "coordinates": [ 140.22177779, 39.61107211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町中野字寺田２３２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.564992600000011, 39.4410544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷字南谷地１０２−１０４" }, "geometry": { "type": "Point", "coordinates": [ 140.52593772, 39.4289424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字久保５" }, "geometry": { "type": "Point", "coordinates": [ 140.72638583, 39.69790203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字船場５７" }, "geometry": { "type": "Point", "coordinates": [ 140.71214272, 39.68971151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖卒田荒町７３" }, "geometry": { "type": "Point", "coordinates": [ 140.62348864, 39.6234595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市花岡町字アセ石７７" }, "geometry": { "type": "Point", "coordinates": [ 140.54984851, 40.3153629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市花岡町字根井下１４４" }, "geometry": { "type": "Point", "coordinates": [ 140.55434858000001, 40.33197675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市根下戸新町１５−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.531378389999986, 40.27430303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市住吉町２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.54201470000001, 40.27294164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市川口字大人沢2-2" }, "geometry": { "type": "Point", "coordinates": [ 140.47468878, 40.27728732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市中道１−８−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.55487689, 40.28406105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市白沢字白沢４９１" }, "geometry": { "type": "Point", "coordinates": [ 140.595230890000011, 40.34141678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町扇田字新長岡30" }, "geometry": { "type": "Point", "coordinates": [ 140.5867658, 40.21970875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市協和境字岸館７４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.32962035, 39.60531243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市高関上郷字高屋敷８５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.4926424, 39.4865493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市佐野町８−８" }, "geometry": { "type": "Point", "coordinates": [ 140.469095259999989, 39.46942046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田町小神成字北野２１３" }, "geometry": { "type": "Point", "coordinates": [ 140.63158295, 39.52384889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田町太田字新田街道上２２" }, "geometry": { "type": "Point", "coordinates": [ 140.59259261, 39.51302095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲住吉町３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.4868874, 39.44977593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市南外字湯ノ又６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.35910198, 39.43079313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市五里合箱井桃崎１０５" }, "geometry": { "type": "Point", "coordinates": [ 139.876220460000013, 39.97181701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船越字一向６４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94761533, 39.89811674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船越内子294-1637" }, "geometry": { "type": "Point", "coordinates": [ 139.93221822000001, 39.90376971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市払戸字渡部８８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.92838056, 39.93635352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市北浦野村字前野９９−６" }, "geometry": { "type": "Point", "coordinates": [ 139.763554199999987, 39.96756707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市岩崎字北一条８５" }, "geometry": { "type": "Point", "coordinates": [ 140.50701122000001, 39.20532495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市材木町２−１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.488916640000014, 39.16112567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市小野字小町９１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.459012730000012, 39.0683771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市上院内字小沢１６６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.410894860000013, 39.05038273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市上関字上関８４" }, "geometry": { "type": "Point", "coordinates": [ 140.479804480000013, 39.11222988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市大工町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.49661437, 39.16749075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡井川町小竹花字関合３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.091543910000013, 39.90575198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町大川大堤４１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08138777, 39.93262225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市下悪戸１２０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.04784619, 40.19231982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市昭南町１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.022207830000013, 40.20377882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市東町８−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.02862371, 40.20658415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ツ井町海道上中坪１７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.22915683, 40.20509761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ツ井町切石字館腰２０" }, "geometry": { "type": "Point", "coordinates": [ 140.204673, 40.20516315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市富町１５−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.03263367, 40.20837904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田郡上小阿仁村沖田面字小蒲野７０" }, "geometry": { "type": "Point", "coordinates": [ 140.28738454, 40.04852542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市松葉町８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36570269, 40.22983928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市鷹巣字東中岱１０４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.35945622, 40.22580342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市米内沢字出向５６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36696375, 40.12228912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩城勝手字烏森２５−５３" }, "geometry": { "type": "Point", "coordinates": [ 140.057369959999988, 39.56406254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市西目町海士剥字海士剥下３４" }, "geometry": { "type": "Point", "coordinates": [ 140.01614512, 39.36588679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市西目町沼田字新道下２−６３５" }, "geometry": { "type": "Point", "coordinates": [ 140.01149903000001, 39.34532524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市東由利蔵字上谷地３１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.277986160000012, 39.30716447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町貝沢字稲荷４６" }, "geometry": { "type": "Point", "coordinates": [ 140.440559330000013, 39.18901804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内字中野１１５" }, "geometry": { "type": "Point", "coordinates": [ 140.41185625, 39.19996953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内字本町１" }, "geometry": { "type": "Point", "coordinates": [ 140.400798939999987, 39.19913841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市雄和妙法字上大部６４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.16858878, 39.59050508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町南町字南高野１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54157946, 39.4174012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字山居１９２" }, "geometry": { "type": "Point", "coordinates": [ 140.72097279, 39.70709878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市観音堂５０８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57695406, 40.28101012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市曲田家後１０２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.62450443, 40.21597051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市古川町３８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.564934709999989, 40.27340664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市御成町１−１２−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.55933213, 40.28650171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市住吉町３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.53996145, 40.27319443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市十二所字田町３５" }, "geometry": { "type": "Point", "coordinates": [ 140.67614595, 40.21669256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町扇田字南扇田４６" }, "geometry": { "type": "Point", "coordinates": [ 140.581385039999986, 40.22766584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市若竹町６−４５" }, "geometry": { "type": "Point", "coordinates": [ 140.47205907, 39.46703663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市神宮寺字大坪街道下５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.41479862, 39.49829218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市長野字柳田１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54280323, 39.54603784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市福田町１７−８" }, "geometry": { "type": "Point", "coordinates": [ 140.48653739, 39.46895306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市北長野字野口前２９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.546485, 39.5489381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市払戸字川向２０８" }, "geometry": { "type": "Point", "coordinates": [ 139.93731462, 39.91962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市北浦相川字泉野３１" }, "geometry": { "type": "Point", "coordinates": [ 139.78890453, 39.95569469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市横堀字六郎川原１８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.45276512, 39.06097343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市桜通り２−７０" }, "geometry": { "type": "Point", "coordinates": [ 140.491902079999988, 39.17533035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市川連町字平城下１６−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.565714680000013, 39.15118494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字中柳２１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04282902, 40.187924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市昭南町１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.022153980000013, 40.2029691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町洗釜字砂山５−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.901933359999987, 39.16429886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市駅前町１３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.56385196, 39.30555515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町梨木字村頭海道下８１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.52519977, 39.2317287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市朝日が丘２−３−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.53593511, 39.29898271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市婦気大堤字中田６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.55410322, 39.29617731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町今宿字下谷地１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.42820821, 39.29428032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市昭和大久保阿弥陀堂４９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.0585969, 39.85981818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字上江川６７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.979729600000013, 39.88382457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字北野２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.02224793, 39.84311769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角郡小坂町十和田湖字休平６４−６" }, "geometry": { "type": "Point", "coordinates": [ 140.89521312, 40.42428226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字諏訪野５４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.78103518, 40.23706855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市八幡平字赤渕１７１" }, "geometry": { "type": "Point", "coordinates": [ 140.792231030000011, 40.16232125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市八幡平字谷内１" }, "geometry": { "type": "Point", "coordinates": [ 140.78808705, 40.11187361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市尾去沢字蟹沢１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.77914299, 40.18487081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市旭南３−２−６３" }, "geometry": { "type": "Point", "coordinates": [ 140.10670255, 39.70731182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市河辺三内字外川原９４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.28969412, 39.70713292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市河辺和田字北条ケ崎１３８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.217309089999986, 39.65417975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市御野場２−１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.13433272, 39.67575813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字宮田２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14850625, 39.71405901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市寺内字イサノ４２" }, "geometry": { "type": "Point", "coordinates": [ 140.096352880000012, 39.73891095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島道東２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.06786071, 39.77904997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷字琴平東１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.55048374, 39.42878155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷字道尻６０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53219492, 39.42191145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町上荒井字新屋８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.57109089, 39.65507906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字小先達６９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.717124500000011, 39.73957959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市中道２−２−５８" }, "geometry": { "type": "Point", "coordinates": [ 140.55490473, 40.28236681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市小貫高畑字中荒所８２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.481366759999986, 39.44493571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲西根字嶋村６７" }, "geometry": { "type": "Point", "coordinates": [ 140.453342670000012, 39.43734734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市稲庭町字稲庭１７２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.58317528, 39.10476533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市材木町２−２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.48900321, 39.16030349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡井川町坂本字四百刈１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09488375, 39.91280535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡八郎潟町字中田６９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.077666, 39.94877368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市臥竜山３６−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.01381014, 40.18821705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田郡上小阿仁村小沢田字向川原９５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.297935700000011, 40.06118529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市綴子字大堤８１" }, "geometry": { "type": "Point", "coordinates": [ 140.38172774, 40.251865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市米内沢諏訪岱４０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.37650969, 40.11953259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市中梵天７８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.061398630000014, 39.384494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鳥海町伏見字川添３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.191955900000011, 39.19650952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鳥海町伏見字川添７８" }, "geometry": { "type": "Point", "coordinates": [ 140.190667100000013, 39.19303274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市東由利館合字前田１０" }, "geometry": { "type": "Point", "coordinates": [ 140.28472789, 39.29111308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市表尾崎町２３" }, "geometry": { "type": "Point", "coordinates": [ 140.05141205000001, 39.38626885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町字大塩越２‐１" }, "geometry": { "type": "Point", "coordinates": [ 139.90066226, 39.21864883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字天ヶ町４２" }, "geometry": { "type": "Point", "coordinates": [ 139.97081853, 39.28835059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市条里二丁目５番４号" }, "geometry": { "type": "Point", "coordinates": [ 140.55590783, 39.31353964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市増田町増田字月山西３４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.5407428, 39.20015019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町字大森２７" }, "geometry": { "type": "Point", "coordinates": [ 140.43071577, 39.34503125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町十日町字苗代下１７" }, "geometry": { "type": "Point", "coordinates": [ 140.444369020000011, 39.35527283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平和町９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57365225, 39.30869094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鹿渡字二本柳４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07890101000001, 40.04673314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角郡小坂町字金窪２６-２" }, "geometry": { "type": "Point", "coordinates": [ 140.74744787, 40.31357333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角郡小坂町小坂五十刈８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.74099689, 40.32588711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市卸町３−１−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.10779951, 39.69834466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市下新城中野琵琶沼３１１" }, "geometry": { "type": "Point", "coordinates": [ 140.06086221000001, 39.80032302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市金足大清水字堤ノ下２０-１" }, "geometry": { "type": "Point", "coordinates": [ 140.05235497000001, 39.84868867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字谷地沖３０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14771328, 39.72299889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市上北手猿田字堤の沢４１-８" }, "geometry": { "type": "Point", "coordinates": [ 140.16517142, 39.66857133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市新屋大川町１０−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.08954197, 39.68748557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田字古川向１５-１" }, "geometry": { "type": "Point", "coordinates": [ 140.13933355, 39.67655405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田二ツ屋１−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.1230565, 39.69061967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川尻大川町１７６" }, "geometry": { "type": "Point", "coordinates": [ 140.09197033, 39.70986726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市中通二丁目５‐２０" }, "geometry": { "type": "Point", "coordinates": [ 140.12559421, 39.71621444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市土崎港相染町字浜ナシ山２-１２" }, "geometry": { "type": "Point", "coordinates": [ 140.061410990000013, 39.76225759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市東通１丁目２の１" }, "geometry": { "type": "Point", "coordinates": [ 140.13384007, 39.71637602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市東通２−１４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.14020312, 39.71719461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋本町３丁目２０-１１" }, "geometry": { "type": "Point", "coordinates": [ 140.100574169999987, 39.72722791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市保戸野千代田町２‐３６" }, "geometry": { "type": "Point", "coordinates": [ 140.11187548, 39.72540877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町金沢西根字菅谷地１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.51872409, 39.36524421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町本堂城廻字馬場４４５-１" }, "geometry": { "type": "Point", "coordinates": [ 140.58482872, 39.47336743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町野荒町字街道の上２６４" }, "geometry": { "type": "Point", "coordinates": [ 140.56046307, 39.40391163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷東根字下荒川４２" }, "geometry": { "type": "Point", "coordinates": [ 140.59868321, 39.41544113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町西野川原３３-１２" }, "geometry": { "type": "Point", "coordinates": [ 140.55464213, 39.59178353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町上桧木内字宮田２００" }, "geometry": { "type": "Point", "coordinates": [ 140.58645336, 39.80897543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字武蔵野１１５" }, "geometry": { "type": "Point", "coordinates": [ 140.72666068, 39.70320713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖卒田字荒町１" }, "geometry": { "type": "Point", "coordinates": [ 140.624526659999987, 39.62424911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市花岡町字堤沢６７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.54874426, 40.31971729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市根下戸新町１-６０" }, "geometry": { "type": "Point", "coordinates": [ 140.53572354, 40.27355618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市釈迦内字釈迦内１８７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.563887380000011, 40.30397929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市小館花字萩野台２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.564744280000014, 40.25537062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市常盤木町１１−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.55782918, 40.26791183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市二井田字菖蒲沼２０８" }, "geometry": { "type": "Point", "coordinates": [ 140.546085409999989, 40.24029557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町扇田下扇田４３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.57892899, 40.2296143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市有浦３−１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.5635668, 40.28116558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市協和峰吉川字半仙６４-１７４" }, "geometry": { "type": "Point", "coordinates": [ 140.32587338, 39.56741037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市戸蒔字谷地添７９-１" }, "geometry": { "type": "Point", "coordinates": [ 140.500910800000014, 39.45062186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市戸地谷字川前３７５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49038399, 39.46426707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市泉町９−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.46204827, 39.4733474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田斉内字杉元４０" }, "geometry": { "type": "Point", "coordinates": [ 140.60973494000001, 39.52850929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田町東今泉字大信田３９４" }, "geometry": { "type": "Point", "coordinates": [ 140.63169344, 39.51804103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市長野字新山９２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54203794, 39.54201368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市福田字大面１２３" }, "geometry": { "type": "Point", "coordinates": [ 140.534264369999988, 39.48755956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市豊川字猫沢４６−６" }, "geometry": { "type": "Point", "coordinates": [ 140.58449882, 39.55918373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船川港比詰字羽立６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.86562698, 39.89826817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市脇本富永字野田１１-３" }, "geometry": { "type": "Point", "coordinates": [ 139.90534423, 39.91367376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市舩越字内子１９７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.93914855, 39.90167041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市皆瀬字湯元１２１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.66224731, 39.00688595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市千石町四丁目１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48977002, 39.15381991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市前森三丁目４−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.4909542, 39.1705132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町上町９８" }, "geometry": { "type": "Point", "coordinates": [ 140.12184018, 39.94764329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字悪戸１０４" }, "geometry": { "type": "Point", "coordinates": [ 140.058465500000011, 40.18910203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字高塙２０８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0475242, 40.1855885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市追分町３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.03120751, 40.2033067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ツ井町小繋字恋の沢７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.2613145, 40.21610717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市落合字下谷地２-１" }, "geometry": { "type": "Point", "coordinates": [ 140.02887623, 40.22545587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田郡上小阿仁村小沢田字向川原６９-２" }, "geometry": { "type": "Point", "coordinates": [ 140.29567757, 40.06479439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市阿仁前田字下モ山根１９５-１" }, "geometry": { "type": "Point", "coordinates": [ 140.410444790000014, 40.06687268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市阿仁比立内字家の後１４-１" }, "geometry": { "type": "Point", "coordinates": [ 140.45668358, 39.90098505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市旭町１-１８" }, "geometry": { "type": "Point", "coordinates": [ 140.37379812, 40.22947769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市下杉字狐森３７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.33389373, 40.15729952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩野目沢字上長瀬野１２０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.22451637, 39.39614619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市三条字三条谷地３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.077232759999987, 39.35913396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市水林２８−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.029009620000011, 39.38343661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市中田代字板井沢２６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.22838472, 39.42845687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市表尾崎町２４-５" }, "geometry": { "type": "Point", "coordinates": [ 140.05039231, 39.38609311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市浜三川字栗山１０４−５７" }, "geometry": { "type": "Point", "coordinates": [ 140.027515419999986, 39.42248352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市矢島町元町字大川原１８５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.14767511, 39.22994839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内字中野３８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.411628259999986, 39.19737458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡東成瀬村岩井川字東村２３８" }, "geometry": { "type": "Point", "coordinates": [ 140.7006785, 39.17507259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡藤里町藤琴字鳥谷場１２８" }, "geometry": { "type": "Point", "coordinates": [ 140.26290167, 40.27354252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森字磯村３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.03127726, 40.32547573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町峰浜塙字豊後長根６５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.075409689999987, 40.27673058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角郡小坂町小坂字上前田３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.74089107, 40.32711633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字下中島１２２" }, "geometry": { "type": "Point", "coordinates": [ 140.787461189999988, 40.18901912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市十和田大湯字中田２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.824384290000012, 40.29345256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市十和田毛馬内字南陣馬４５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.76864547, 40.26150237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市八幡平字栃木川原３６７" }, "geometry": { "type": "Point", "coordinates": [ 140.79593477, 40.14601039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市河辺戸島字上高屋2" }, "geometry": { "type": "Point", "coordinates": [ 140.19856324, 39.64081079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字神田608" }, "geometry": { "type": "Point", "coordinates": [ 140.11774193, 39.7520057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市上北手荒巻字堺切２６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14892394, 39.68935161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市雄和田草川字鱸１５５−７４" }, "geometry": { "type": "Point", "coordinates": [ 140.15188171, 39.64361008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町安城寺柳原１５４" }, "geometry": { "type": "Point", "coordinates": [ 140.5617916, 39.43638259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町境田字下八百刈２７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.51757914, 39.40326622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町金沢字下館１２７" }, "geometry": { "type": "Point", "coordinates": [ 140.56783416, 39.37834875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町土崎字上野乙１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.59432917, 39.46776022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町小勝田字下村７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.55329541, 39.59943127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩谷町字大宮田２３７" }, "geometry": { "type": "Point", "coordinates": [ 140.100191239999987, 39.44291405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市金浦字赤石２２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.91591441, 39.24464655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町小滝字前谷地２１" }, "geometry": { "type": "Point", "coordinates": [ 139.94704271, 39.18210433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町洗釜字砂山２−４８" }, "geometry": { "type": "Point", "coordinates": [ 139.903425019999986, 39.16704391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市山内士渕字根子１０４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.6110689, 39.2866226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町佐賀会字上沖田２６７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.516227609999987, 39.21812056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町植田字大清水１８６" }, "geometry": { "type": "Point", "coordinates": [ 140.47456188000001, 39.23178993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町袴形字南越前林１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.44703918, 39.37533434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町上溝字松原８０" }, "geometry": { "type": "Point", "coordinates": [ 140.400756050000012, 39.3412614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大雄字大関２８７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.47494745, 39.33785153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市梅ノ木町１６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.55658706, 39.31442814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市婦気大堤字婦気前１２２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.555382759999986, 39.29922159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町浅舞字荒小屋東２００" }, "geometry": { "type": "Point", "coordinates": [ 140.49537159, 39.26995184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町沼舘字小谷地６２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.43119986, 39.29357196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町東里字東里北８" }, "geometry": { "type": "Point", "coordinates": [ 140.44924935, 39.28104898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町南形字下の谷地１９" }, "geometry": { "type": "Point", "coordinates": [ 140.411072209999986, 39.27493105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市昭和豊川竜毛字中沖７" }, "geometry": { "type": "Point", "coordinates": [ 140.07606191, 39.86619367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字蒲沼１０１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.98834247, 39.87816278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市飯田川下虻川字城の後６６" }, "geometry": { "type": "Point", "coordinates": [ 140.06824079, 39.87580158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鵜川字内田２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.021268060000011, 40.09883402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鹿渡字町後１８４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07889841, 40.04112912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町浜田字堤下８" }, "geometry": { "type": "Point", "coordinates": [ 139.984150770000014, 40.10177784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町上荒井字中屋敷６９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.57117523, 39.6510066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字水尻３９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.723457090000011, 39.6981737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市岩瀬字上軽石野４" }, "geometry": { "type": "Point", "coordinates": [ 140.4640276, 40.27912367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市軽井沢字猿間境１０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.667204950000013, 40.22178739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市字大田面２７２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57616055, 40.28464248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町扇田字小谷地２１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.584416729999987, 40.21758655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市下鶯野字大谷１５７" }, "geometry": { "type": "Point", "coordinates": [ 140.55885867, 39.56419088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市協和小種字田中６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.244759499999986, 39.5507767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市協和船岡字下船岡９１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.31089978, 39.6294254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市強首字根越沢田１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.300213250000013, 39.55148057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市四ツ屋字上古道１８３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.500201940000011, 39.49581088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市神宮寺字西田１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.43072661, 39.49826406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田町横沢字窪関南５２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.59504318, 39.50901631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大沢郷宿字宿１１９−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.30605237, 39.52193625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市土川字西前田２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.405420029999988, 39.53791567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市内小友字中沢３１６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44639586, 39.43447401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市南外字上野２２９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.357513399999988, 39.43929827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市南外字太田１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38271602, 39.47434777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市福田字穴沢４２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.540934920000012, 39.48651349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市北野目字三条川原６６" }, "geometry": { "type": "Point", "coordinates": [ 140.37215347, 39.53562259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市鵜木字白榎２２８" }, "geometry": { "type": "Point", "coordinates": [ 139.91931333, 39.97345459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市男鹿中山町字大室沢１０８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.8131809, 39.95151187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市払戸字大堤１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93662132, 39.92861039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市脇本脇本字石館１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.90748328, 39.90805709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市皆瀬字野中７９" }, "geometry": { "type": "Point", "coordinates": [ 140.58748687, 39.06790708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市字鶴館３４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.48369441, 39.17184996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市秋ノ宮字中島３０１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.46103738, 39.01629184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市川連町字村下１５３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.5571826, 39.15507174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町字鵜ﾉ木９３-１０" }, "geometry": { "type": "Point", "coordinates": [ 140.11324661, 39.94501594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡大潟村字西１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.953501859999989, 40.01672679 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市中関６" }, "geometry": { "type": "Point", "coordinates": [ 140.06570381, 40.18622179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ッ井町字槻ﾉ木３０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.22639186, 40.20256887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市阿仁前田字上館下２３５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.41078728, 40.06151803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市栄字中綱３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38207265, 40.2308985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市川井字鳥屋沢２０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.325902500000012, 40.16173862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市米内沢字中島２３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.366997880000014, 40.12369701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市脇神字米ノ岱２７" }, "geometry": { "type": "Point", "coordinates": [ 140.378266380000014, 40.2118157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩城勝手字島ケ森２７−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.05667039, 39.56318607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩城六呂田字山崎４６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07131726, 39.49853833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市荒町字塒台６４" }, "geometry": { "type": "Point", "coordinates": [ 140.075412269999987, 39.3492095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市西目町沼田字新道下１−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.016678680000012, 39.34633828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市大内三川字三川４１" }, "geometry": { "type": "Point", "coordinates": [ 140.10896728, 39.4448212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鳥海町下川内字大谷地平９７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.19001791, 39.20670678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鳥海町上笹子字堺台１０９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29073652, 39.10901034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市東鮎川字石垣３２７" }, "geometry": { "type": "Point", "coordinates": [ 140.07601258, 39.33024002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市矢島町七日町字羽坂４９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.139724089999987, 39.23081013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市老方字両前寺７１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.28498996, 39.29940651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町下仙道字楢埼２６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.32083576, 39.17000924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町字稲荷７、８" }, "geometry": { "type": "Point", "coordinates": [ 140.436663650000014, 39.18988544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町字大戸５４" }, "geometry": { "type": "Point", "coordinates": [ 140.41337558, 39.19212917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内堀回字南元西１９" }, "geometry": { "type": "Point", "coordinates": [ 140.38110925, 39.19233026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町足田字泉田４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.4117617, 39.22070219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町田代字梺１１４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.313020349999988, 39.2066561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡東成瀬村岩井川字城下１７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.70937758, 39.17440126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡東成瀬村大字田子内字菅生田１２９" }, "geometry": { "type": "Point", "coordinates": [ 140.62542661, 39.18888744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市横手町字四ノ口62-1" }, "geometry": { "type": "Point", "coordinates": [ 140.54871209, 39.31422719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市金沢中野字上矢来沢264" }, "geometry": { "type": "Point", "coordinates": [ 140.56613758, 39.36525537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大屋新町字中野8-17" }, "geometry": { "type": "Point", "coordinates": [ 140.5578612, 39.28177362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市飯田川飯塚字古開70-1" }, "geometry": { "type": "Point", "coordinates": [ 140.08612012, 39.90063154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市茨島4丁目3-36" }, "geometry": { "type": "Point", "coordinates": [ 140.101686089999987, 39.69996313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市卸町2丁目4-1" }, "geometry": { "type": "Point", "coordinates": [ 140.11235453, 39.69969599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市河辺和田字坂本北484-1" }, "geometry": { "type": "Point", "coordinates": [ 140.23941693, 39.65608861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字三後田187-1" }, "geometry": { "type": "Point", "coordinates": [ 140.095054729999987, 39.74933178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字谷地沖22-1" }, "geometry": { "type": "Point", "coordinates": [ 140.14785351, 39.72130464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市広面字昼寝4-4" }, "geometry": { "type": "Point", "coordinates": [ 140.1426351, 39.72422501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市千秋矢留町2-43" }, "geometry": { "type": "Point", "coordinates": [ 140.11969306, 39.72053023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川元松丘町1-22" }, "geometry": { "type": "Point", "coordinates": [ 140.10210459000001, 39.7135146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市泉北一丁目6番4号" }, "geometry": { "type": "Point", "coordinates": [ 140.09877728, 39.73611116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋本町6丁目2番16号" }, "geometry": { "type": "Point", "coordinates": [ 140.0926119, 39.72688013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷字米町43" }, "geometry": { "type": "Point", "coordinates": [ 140.547788489999988, 39.42073772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町上菅沢70" }, "geometry": { "type": "Point", "coordinates": [ 140.576912, 39.5938152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町白岩前郷111" }, "geometry": { "type": "Point", "coordinates": [ 140.61262459, 39.58608742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町上桧木内字大地田23-3" }, "geometry": { "type": "Point", "coordinates": [ 140.58488565, 39.81469463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町桧木内字松葉240" }, "geometry": { "type": "Point", "coordinates": [ 140.59210316, 39.74311275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市花館字常保寺75-5" }, "geometry": { "type": "Point", "coordinates": [ 140.48366532, 39.48085073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市戸蒔字福田52-1" }, "geometry": { "type": "Point", "coordinates": [ 140.49691977, 39.45726811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市高関上郷字大村4-9" }, "geometry": { "type": "Point", "coordinates": [ 140.4991579, 39.48204064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市神宮寺字館ノ越20-1" }, "geometry": { "type": "Point", "coordinates": [ 140.440360739999988, 39.48894981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲日の出町2丁目3の3" }, "geometry": { "type": "Point", "coordinates": [ 140.47976136, 39.4470489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲白金町8-23" }, "geometry": { "type": "Point", "coordinates": [ 140.4732444, 39.46625087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市角間崎字宇津木花84-2" }, "geometry": { "type": "Point", "coordinates": [ 139.91450407, 39.96400839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市五里合神谷字下石117" }, "geometry": { "type": "Point", "coordinates": [ 139.87134875000001, 39.98223671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船越字船越285" }, "geometry": { "type": "Point", "coordinates": [ 139.952487850000011, 39.90242465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船川港船川字化世沢178" }, "geometry": { "type": "Point", "coordinates": [ 139.84464154, 39.87712578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡井川町今戸字イナリ田8-1" }, "geometry": { "type": "Point", "coordinates": [ 140.077121729999988, 39.91891263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡八郎潟町字大道187-2" }, "geometry": { "type": "Point", "coordinates": [ 140.07625151, 39.95203152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市落合字上谷地28" }, "geometry": { "type": "Point", "coordinates": [ 140.02981022, 40.22243834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市阿仁真木沢鉱山字真木沢227-1" }, "geometry": { "type": "Point", "coordinates": [ 140.40543176, 40.00664524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市七日市字家後74" }, "geometry": { "type": "Point", "coordinates": [ 140.40047915, 40.17688307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市川井字才ノ神61-1" }, "geometry": { "type": "Point", "coordinates": [ 140.325672239999989, 40.16127265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県北秋田市米内沢字柳原5-31" }, "geometry": { "type": "Point", "coordinates": [ 140.37198441000001, 40.12489237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鶴沼107-1" }, "geometry": { "type": "Point", "coordinates": [ 140.040385320000013, 39.38601882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町字浜山６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.91346474, 39.19717901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町大須郷字大道下３−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.89141393, 39.15075172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字前田１７０" }, "geometry": { "type": "Point", "coordinates": [ 139.97258689, 39.29290583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町字西下３２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.52305719, 39.22990381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字持谷地１４１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.99779064, 39.87158145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字下タ町５０" }, "geometry": { "type": "Point", "coordinates": [ 140.79359556, 40.19732901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪六月田５" }, "geometry": { "type": "Point", "coordinates": [ 140.789441430000011, 40.19729396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字小深田２８２" }, "geometry": { "type": "Point", "coordinates": [ 140.79000739, 40.21625776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字赤河端７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.78466917, 40.23436999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市卸町３−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.11148393, 39.69642982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田緑町１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.12066091, 39.69305502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市釈迦内稲荷山下１２３−４" }, "geometry": { "type": "Point", "coordinates": [ 140.558218790000012, 40.29630992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市下深井字新百年４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.51963761, 39.42195525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡八郎潟町川崎昼寝１０" }, "geometry": { "type": "Point", "coordinates": [ 140.08425225, 39.94428838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市芹田字深沢１２７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.93408334, 39.28013312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市金浦木の浦山１１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.921309549999989, 39.26355516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字宮田１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96602031, 39.28643019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市駅南２−９０" }, "geometry": { "type": "Point", "coordinates": [ 140.55745528, 39.30244883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大沢字前田１８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.58260714, 39.30445464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町大字浅舞字浅舞２０５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.487585560000014, 39.26271219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鹿渡字片カリ橋８４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.07797672, 40.04386748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森中浜５−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.015839629999988, 40.36678705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市外旭川字小谷地１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09689515, 39.75424853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川尻若葉町５−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.09390947, 39.707744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島道東２−１４−７" }, "geometry": { "type": "Point", "coordinates": [ 140.06777729, 39.78043873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町土崎字上野乙１−７６" }, "geometry": { "type": "Point", "coordinates": [ 140.60232333, 39.46826847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市山館字田尻１８７" }, "geometry": { "type": "Point", "coordinates": [ 140.5786837, 40.23735962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市中山字兎沢６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.59334078, 40.23045734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市太田町横沢泥窪３８４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.59468485, 39.50135497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市内小友仙北屋２９" }, "geometry": { "type": "Point", "coordinates": [ 140.45027307, 39.41983557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市機織轌の目２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.06890952, 40.19006367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字南陽崎３１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.01221184, 40.18709289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市出戸本町１４−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.030313979999988, 40.1963216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市大手町６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.02426266, 40.21052788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市畠町５−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.02873639, 40.21027507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市一番堰１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.05963409, 39.37904155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市給人町３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.04308583, 39.38905437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇字田尻野６−７" }, "geometry": { "type": "Point", "coordinates": [ 140.032334569999989, 39.40434229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇田尻野２２−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.03044035, 39.39532328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市川口字家後１９２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.06269752, 39.40268581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市前郷字前郷５４" }, "geometry": { "type": "Point", "coordinates": [ 140.11100875, 39.31206811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市鳥海町伏見字高平５７" }, "geometry": { "type": "Point", "coordinates": [ 140.18874166, 39.19673124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字田角森２７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.9604234, 39.28556545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市大森町堂林１３８" }, "geometry": { "type": "Point", "coordinates": [ 140.420883800000013, 39.34518332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市八幡字八幡２０１" }, "geometry": { "type": "Point", "coordinates": [ 140.55508518, 39.32075497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市山王中島町１１４" }, "geometry": { "type": "Point", "coordinates": [ 140.090682969999989, 39.7183362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市土崎港相染町字沼端７７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.06830226, 39.76753892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市保戸野千代田町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.1059385, 39.72769631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町細越町６５" }, "geometry": { "type": "Point", "coordinates": [ 140.5633523, 39.60334914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市川口字新塚下１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48431881, 40.27664579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町扇田字伊勢堂岱９０" }, "geometry": { "type": "Point", "coordinates": [ 140.589509349999986, 40.22576932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲通町７−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.478646739999988, 39.46496151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市角間川町字西本町８" }, "geometry": { "type": "Point", "coordinates": [ 140.48080642, 39.40751409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市高関上郷字高屋敷５０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.48907956, 39.4847135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市神宮寺下栗谷田４８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.42207943, 39.49452461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市長野字紫嶋５５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54075454, 39.54304412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市脇本富永字小谷地５" }, "geometry": { "type": "Point", "coordinates": [ 139.90165604, 39.92434267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市横堀字白銀町２０" }, "geometry": { "type": "Point", "coordinates": [ 140.4469918, 39.05906698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市田町２−３−３９" }, "geometry": { "type": "Point", "coordinates": [ 140.48966367, 39.15877097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町七倉１５８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.11433132, 39.94561819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町上町４３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.120218169999987, 39.94452746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市御門２４７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04931761, 39.38240792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇字赤冗１−１０２" }, "geometry": { "type": "Point", "coordinates": [ 140.03089999, 39.40820297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市川口字堂の腰１２６−７" }, "geometry": { "type": "Point", "coordinates": [ 140.060964399999989, 39.40038851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市矢島町七日町字熊之堂５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14287576000001, 39.23106983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市川元開和町９−８" }, "geometry": { "type": "Point", "coordinates": [ 140.10724886, 39.71061147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市明治町１５−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.03845209, 40.19806808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市浅内字赤沼５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.01964818, 40.16686177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市石脇字尾花沢５７−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.030197359999988, 39.39333995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町外岡乗越１５０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.06386787, 40.13237032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町六郷字上町３９" }, "geometry": { "type": "Point", "coordinates": [ 140.54371308, 39.42214336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田蕗見町６−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.1244027, 39.68674063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市字一心院南4-3" }, "geometry": { "type": "Point", "coordinates": [ 140.56098963, 40.26422771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市平鹿町醍醐字下油川７８−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.535809339999986, 39.24967717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市下浜桂根字浜田１３４-３７" }, "geometry": { "type": "Point", "coordinates": [ 140.06540195, 39.63789146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市協和荒川字山の内６３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.35453572, 39.61821316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市旭北錦町４−７２" }, "geometry": { "type": "Point", "coordinates": [ 140.10894507, 39.71546894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市杉沢字中杉沢２４０" }, "geometry": { "type": "Point", "coordinates": [ 140.561850819999989, 39.34728259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市将軍野南2丁目5-40" }, "geometry": { "type": "Point", "coordinates": [ 140.08600353, 39.74544356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市中通3丁目4-45" }, "geometry": { "type": "Point", "coordinates": [ 140.120582610000014, 39.71457261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大仙市戸地谷字大和田２１６" }, "geometry": { "type": "Point", "coordinates": [ 140.49366587, 39.46954509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市朝日が丘３−１−５３" }, "geometry": { "type": "Point", "coordinates": [ 140.534989270000011, 39.29752387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県湯沢市成沢字横山１７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.50450085, 39.19063188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県由利本荘市石脇字田尻３" }, "geometry": { "type": "Point", "coordinates": [ 140.02349331, 39.39218157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県鹿角市十和田錦木字向谷地９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.7695115, 40.25223228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市池内字中台２７８" }, "geometry": { "type": "Point", "coordinates": [ 140.57051021, 40.24770195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市字板子石境１２４" }, "geometry": { "type": "Point", "coordinates": [ 140.558251320000011, 40.29024098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県男鹿市船川港船川字海岸通り１−８−４" }, "geometry": { "type": "Point", "coordinates": [ 139.849971470000014, 39.88311319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市寺内蛭根１−１５−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.086784310000013, 39.72599802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市楢山川口境１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.109572539999988, 39.70501215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市脇本脇本字杉山１４１" }, "geometry": { "type": "Point", "coordinates": [ 139.92165763, 39.90965677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市清水字上大蔵２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.5529708, 39.52093356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町造山字十足馬場１４０" }, "geometry": { "type": "Point", "coordinates": [ 140.429332069999987, 39.28107965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字下悪戸８３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.050720360000014, 40.1915366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町境田字下八百刈１００" }, "geometry": { "type": "Point", "coordinates": [ 140.51749804, 39.40573364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北郡美郷町金沢西根字上四ツ谷８５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.53367216, 39.36495661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市十文字町仁井田字東５６" }, "geometry": { "type": "Point", "coordinates": [ 140.52116296, 39.22001515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市長野字九日町５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.53760409, 39.54430553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市豊岡字中荒井野１９−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.61135807, 39.55785834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市下鴬野字羽場１６" }, "geometry": { "type": "Point", "coordinates": [ 140.56478793, 39.57505039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市野石字芭蕉３１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.925232240000014, 40.02061146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖小松字城廻２７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.56747292, 39.60679979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市牛島東６丁目２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.121468420000014, 39.69489526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内字大山２１" }, "geometry": { "type": "Point", "coordinates": [ 140.40517197, 39.20347555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町南形字叶川７２" }, "geometry": { "type": "Point", "coordinates": [ 140.41497752, 39.27897196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町足田字古堤下２５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.41126351, 39.22394243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市向浜１丁目４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.066548899999987, 39.73016145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町貝沢十三本塚３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.438833499999987, 39.19500748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市桑崎字街道西６６−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.47223301, 39.08511948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市山内土渕字二瀬５３−７" }, "geometry": { "type": "Point", "coordinates": [ 140.6211339, 39.27894928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町大川下樋口字屋敷下６２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08433918, 39.93592542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡八郎潟町真坂字沢田４５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.08032465, 39.96871611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡八郎潟町字中田３６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.07732888000001, 39.94697949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県南秋田郡五城目町上樋口字熊野堂下４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10866657, 39.9339638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町川尻字川尻昼根下４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.03524857, 40.08779191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖生保内字街道ノ上９０" }, "geometry": { "type": "Point", "coordinates": [ 140.7260664, 39.69973253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鵜川字古川添１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.02630151, 40.09478514 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町鵜川字家の下２４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.02345161, 40.09720829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町森岳字町尻５０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.071555499999988, 40.10397105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町豊岡金田字下谷地５３" }, "geometry": { "type": "Point", "coordinates": [ 140.059017219999987, 40.10524279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市岩谷町字大宮田３２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09834955, 39.44265089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市角館町横町１６" }, "geometry": { "type": "Point", "coordinates": [ 140.56274005, 39.59586966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市土川字楯越８" }, "geometry": { "type": "Point", "coordinates": [ 140.45608174, 39.55133814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市北野目字四ツ谷１８９" }, "geometry": { "type": "Point", "coordinates": [ 140.35036502, 39.54823103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市刈和野字一里塚東２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36667409, 39.54744545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市矢島町七日町字熊之堂４" }, "geometry": { "type": "Point", "coordinates": [ 140.1432408, 39.22904577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市象潟町字太郎島７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.900959300000011, 39.21571582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市北長野字袴田７９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.55059359, 39.55263623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市新屋鳥木町１−９８" }, "geometry": { "type": "Point", "coordinates": [ 140.095844629999988, 39.67795925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市釈迦内字山神台３７−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.5680635, 40.30696714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市字沖鶴２５８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.47510194, 39.17454533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県にかほ市平沢字中町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96376485, 39.29130023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市落合字砂田７１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.025586659999988, 40.23236498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市雄物川町深井字東又２４８" }, "geometry": { "type": "Point", "coordinates": [ 140.423396059999988, 39.28742249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市田沢湖小松字羽根ケ台１３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.58355426, 39.61360255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市天王字蒲沼６３−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.004897480000011, 39.8657763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島字堀川４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.062423130000013, 39.79207614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市釈迦内字山神社後３０−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.56549547, 40.29288463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市釈迦内字稲荷山下１２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.56007879, 40.29558906 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市二番堰５７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.05567985, 39.37894132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市上新城中字南波掛１９" }, "geometry": { "type": "Point", "coordinates": [ 140.10837977, 39.77744903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市大町３丁目２−４４" }, "geometry": { "type": "Point", "coordinates": [ 140.116442330000012, 39.71715773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字寺向１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.051284869999989, 40.18347399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市寺内後城２２−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.07513789, 39.73776634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島道東３丁目１−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.06641495, 39.78334406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森字岩館８７" }, "geometry": { "type": "Point", "coordinates": [ 139.97039784, 40.40216486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市仁井田栄町１０−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.12550336000001, 39.68555527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市飯島字平右衛門田尻２３６" }, "geometry": { "type": "Point", "coordinates": [ 140.06462292, 39.78796238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市山王中園町３−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.09682202, 39.71379051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市相川字須川４７" }, "geometry": { "type": "Point", "coordinates": [ 140.47719647, 39.0926367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡八峰町八森字磯村１６５" }, "geometry": { "type": "Point", "coordinates": [ 140.031588230000011, 40.32944073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市二ツ井町飛根字清水５６０" }, "geometry": { "type": "Point", "coordinates": [ 140.17735356, 40.21882924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市岩瀬字羽貫谷地山下９８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.456876920000013, 40.27927592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲丸子町１５−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.493364430000014, 39.46198139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市比内町笹館字細越１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.5564338, 40.2040148 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市十和田毛馬内字上陣場２０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.77384597, 40.2662996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市字部垂町２０" }, "geometry": { "type": "Point", "coordinates": [ 140.56750064, 40.27031025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市有浦４丁目９−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.57076096, 40.28377121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市池内字中台１８３" }, "geometry": { "type": "Point", "coordinates": [ 140.56911854, 40.24939807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市字豊祥岱１−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.029693970000011, 40.19398037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市西通町７−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.023094570000012, 40.20759039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市根下戸字下袋家後６２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.53573767, 40.2634166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市十二所字田町４９" }, "geometry": { "type": "Point", "coordinates": [ 140.67534699, 40.21738899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市横手町字六ノ口１２" }, "geometry": { "type": "Point", "coordinates": [ 140.54707804, 39.31903273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県山本郡藤里町藤琴字藤琴７９" }, "geometry": { "type": "Point", "coordinates": [ 140.26119787, 40.27885653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県山本郡三種町鵜川字西鵜川７０" }, "geometry": { "type": "Point", "coordinates": [ 140.026865679999986, 40.09617463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県山本郡三種町鹿渡字町後１１９" }, "geometry": { "type": "Point", "coordinates": [ 140.08031691, 40.0380842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市比内町扇田字下扇田４５" }, "geometry": { "type": "Point", "coordinates": [ 140.579653189999988, 40.22973169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県鹿角市花輪字下花輪４３" }, "geometry": { "type": "Point", "coordinates": [ 140.79089694000001, 40.19235116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県男鹿市船川港船川字船川４５" }, "geometry": { "type": "Point", "coordinates": [ 139.84590839, 39.88516765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県由利本荘市石脇字田尻野６−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.03168892, 39.4043663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市中道１丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.55536598, 40.28557755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市片山町２丁目２−９" }, "geometry": { "type": "Point", "coordinates": [ 140.5422424, 40.2735425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市御成町１丁目１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.560019509999989, 40.28691715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市平鹿町醍醐字上狐渕５７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53343064, 39.24775438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市幸町６−４２" }, "geometry": { "type": "Point", "coordinates": [ 140.565852799999988, 39.32594624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市鍛冶町４−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.56855887, 39.31094845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県能代市花園町２６−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.02292315, 40.19966966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市仁井田本町２丁目５−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.134557199999989, 39.68081083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市寺内神屋敷２９５−５５" }, "geometry": { "type": "Point", "coordinates": [ 140.07740757, 39.73018629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市寺内大小路２０７−６" }, "geometry": { "type": "Point", "coordinates": [ 140.06972445, 39.73908069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市寺内後城３２２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.073329120000011, 39.74204315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市新屋大川町５−９" }, "geometry": { "type": "Point", "coordinates": [ 140.08786147, 39.6891603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市御成町４丁目８−７９" }, "geometry": { "type": "Point", "coordinates": [ 140.55968255, 40.27877807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市牛島西１丁目６−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.11373939, 39.69471065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市十文字町字本町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.52383286, 39.22159762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県鹿角市八幡平字谷内１３１" }, "geometry": { "type": "Point", "coordinates": [ 140.78869454, 40.11421292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県由利本荘市鳥海町上笹子字下野１３６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.29160031, 39.10647454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市平鹿町浅舞字浅舞５８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.485994760000011, 39.26210866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県仙北市角館町竹原町５" }, "geometry": { "type": "Point", "coordinates": [ 140.56487826, 39.59415657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大仙市大曲須和町１丁目６−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.48282712, 39.45755385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県能代市字臥竜山３９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.01365752000001, 40.1900019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県鹿角市花輪字上花輪６５" }, "geometry": { "type": "Point", "coordinates": [ 140.78879235, 40.18407272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市片山町３丁目１３−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.53440133, 40.27618083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市平和町５−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.56993619, 39.31064799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市新屋沖田町１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08758175, 39.67541489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県秋田市茨島４丁目６−４２" }, "geometry": { "type": "Point", "coordinates": [ 140.104865100000012, 39.69541023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県湯沢市田町２丁目３−４" }, "geometry": { "type": "Point", "coordinates": [ 140.49041513, 39.15909334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県仙北市角館町水ノ目沢１０８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.56740681, 39.59537632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県大館市釈迦内字釈迦内７５" }, "geometry": { "type": "Point", "coordinates": [ 140.561647560000011, 40.3036101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市飯島鼠田１丁目８−７" }, "geometry": { "type": "Point", "coordinates": [ 140.06883764, 39.78295727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市中通５丁目９−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.121373979999987, 39.71242007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県南秋田郡井川町北川尻字下村３８" }, "geometry": { "type": "Point", "coordinates": [ 140.08479327, 39.91259942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市南通亀の町１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.120208530000014, 39.70926871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市山王５丁目５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.10324006, 39.71416008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市石脇字田中１０５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.02514062, 39.38988133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市字長木川南１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.56433422, 40.27571606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市早口字上野１１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.445396429999988, 40.2725565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市刈和野字愛宕下１７４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.37243962, 39.54574989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市清水字上大蔵１２６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.55520893, 39.51921955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市上鴬野字上遠藤４" }, "geometry": { "type": "Point", "coordinates": [ 140.579364700000013, 39.57195499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県仙北市角館町田町上丁１５" }, "geometry": { "type": "Point", "coordinates": [ 140.56477388, 39.5923128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市下鴬野字羽場１２" }, "geometry": { "type": "Point", "coordinates": [ 140.568899069999986, 39.57616517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市長野字二日町２０" }, "geometry": { "type": "Point", "coordinates": [ 140.53233508, 39.5411173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市刈和野１" }, "geometry": { "type": "Point", "coordinates": [ 140.37812707, 39.54255847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市北楢岡字下中野７５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.378121599999986, 39.51488152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県潟上市天王字追分１１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.054200869999988, 39.82319213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市新屋南浜町９−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.070348020000012, 39.6960737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市中神明町５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.550994659999986, 40.26611032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市字下野１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.04095414, 40.18887272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市日吉町２２−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.0330983, 40.215194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市牛島東６丁目４−９" }, "geometry": { "type": "Point", "coordinates": [ 140.12466226, 39.69532166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市新屋南浜町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.07447606, 39.69804502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市十文字町仁井田字八萩７３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.51767342, 39.21607146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市協和上淀川字上淀川３０" }, "geometry": { "type": "Point", "coordinates": [ 140.32839339, 39.60397176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市西小人町５５" }, "geometry": { "type": "Point", "coordinates": [ 140.044533840000014, 39.37929565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市字大田面４０７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57125299, 40.28420342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市赤館町１" }, "geometry": { "type": "Point", "coordinates": [ 140.569495460000013, 40.27145738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市道目木字下谷地５７−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.625565669999986, 40.21203313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市中通６丁目４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.123848759999987, 39.71251736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市山館字屋敷尻２７" }, "geometry": { "type": "Point", "coordinates": [ 140.58355827, 40.23341582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市釈迦内字台野道下２１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.56795951, 40.30002612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市大曲上大町８−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.47749457, 39.45632605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市大鍬町２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0466283, 39.3759247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市下新城中野字街道端西８９−８" }, "geometry": { "type": "Point", "coordinates": [ 140.05604877, 39.80601938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市広面字樋ノ下７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.15000666, 39.72290593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市雄物川町今宿字今宿８１" }, "geometry": { "type": "Point", "coordinates": [ 140.42753901, 39.29245908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市二ツ井町字下野家後９１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.23660123, 40.20847515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県南秋田郡八郎潟町夜叉袋字一向堂２５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.074181470000013, 39.95822549 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市平和町６−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.57069908, 39.30871686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県潟上市天王字上北野８９−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.04476319, 39.8156944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港相染町字浜ナシ山６−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.05678178, 39.76574812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市美園町９−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.54752262, 40.26980422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県南秋田郡五城目町高崎字里下８０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.12643689, 39.94304878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市大曲通町２−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.47891338, 39.46386425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市寺内油田３丁目１１−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.087556189999987, 39.73186959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市新屋寿町６−５１" }, "geometry": { "type": "Point", "coordinates": [ 140.076870570000011, 39.69689838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市大曲あけぼの町１６−４７" }, "geometry": { "type": "Point", "coordinates": [ 140.47064834, 39.45508154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市土谷字前田１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.075285650000012, 39.38428766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県にかほ市金浦字十二林３３−４" }, "geometry": { "type": "Point", "coordinates": [ 139.91925956, 39.25566296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市字板子石境９６" }, "geometry": { "type": "Point", "coordinates": [ 140.55907002, 40.28984066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市東通５丁目７−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.14112204, 39.71408996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市横森１丁目６−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.13793127, 39.70591855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市東通観音前１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.13023411, 39.71180073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市浜田字元中村６５" }, "geometry": { "type": "Point", "coordinates": [ 140.06783377, 39.67586147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市仁井田新田１丁目１１−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.12123087, 39.68190199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市仁井田字西潟敷２２−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.11328405, 39.69043057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市南通宮田６−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.1290179, 39.7104622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市能代町字赤沼４３−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.044805169999989, 40.1907357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市上八丁字大巻３２" }, "geometry": { "type": "Point", "coordinates": [ 140.53137618, 39.33193335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市鍛冶町３−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.5688676, 39.31248411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市清助町６−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.01676873, 40.21454673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市河戸川字下大須賀７−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.023087, 40.18468997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市落合字下大野７０−４９" }, "geometry": { "type": "Point", "coordinates": [ 140.04042163, 40.22594621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県能代市磐字銭ケ台４９" }, "geometry": { "type": "Point", "coordinates": [ 140.04930825, 40.25752894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市赤坂字上後野２４１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.543611739999989, 39.30800597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市牛島東７丁目５−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.12797427000001, 39.69611656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港中央３丁目５−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.06822594, 39.75563572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港北３丁目７−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.08136843, 39.76504891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市外旭川字水口６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10362532, 39.73992535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市将軍野南３丁目７−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.083336339999988, 39.74717324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港中央５丁目５−８" }, "geometry": { "type": "Point", "coordinates": [ 140.06821847, 39.75925222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市泉一ノ坪１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.12187216, 39.73412943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市泉字登木５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.09842722, 39.7379776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市飯島飯田２丁目８−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.09068162, 39.77365125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市金足追分字海老穴２６６" }, "geometry": { "type": "Point", "coordinates": [ 140.05574305, 39.80996327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市手形田中１１−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.131049530000013, 39.73355139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市寺内字イサノ１２３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.09281658, 39.73776076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市手形山崎町６−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.13170838, 39.72447463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市手形字山崎２８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.13451108000001, 39.72183335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港中央７丁目１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.06892819, 39.76406538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港中央７丁目１２−４２" }, "geometry": { "type": "Point", "coordinates": [ 140.069664139999986, 39.76445775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県秋田市土崎港中央７丁目１３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.07001141, 39.76449315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市幸町３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.56434955, 39.32380528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市四ツ屋ばば田１１９" }, "geometry": { "type": "Point", "coordinates": [ 140.50598007, 39.50178801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県山本郡八峰町八森字中浜２３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.01639813, 40.36921947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県山本郡三種町鹿渡字勢奈尻５８" }, "geometry": { "type": "Point", "coordinates": [ 140.08062321, 40.03854576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市早口字上野３８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.44478791, 40.27065881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市岩瀬字上軽石野３９" }, "geometry": { "type": "Point", "coordinates": [ 140.45902526, 40.27993085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県北秋田市米内沢字寺の下７−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.366429970000013, 40.12009146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市四ツ屋字上前村７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.50804176, 39.50310131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大仙市大花町８−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.4826967, 39.46401812 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県湯沢市佐竹町６−６" }, "geometry": { "type": "Point", "coordinates": [ 140.49657016, 39.1653042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県男鹿市脇本脇本字向山１−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.903610609999987, 39.91367689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県男鹿市脇本富永字梅ノ沢９４" }, "geometry": { "type": "Point", "coordinates": [ 139.88679663, 39.92341467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市西目町海士剥字御月森１−７８" }, "geometry": { "type": "Point", "coordinates": [ 140.01655036, 39.36918599 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県男鹿市鵜木字道村６１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.91832204, 39.9771063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県潟上市天王大崎字沖中谷地４７" }, "geometry": { "type": "Point", "coordinates": [ 140.00849187, 39.89199203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県山本郡三種町森岳字泉八日５１" }, "geometry": { "type": "Point", "coordinates": [ 140.04867829, 40.09797323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県南秋田郡八郎潟町字一日市３３９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.07682619, 39.94306505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県南秋田郡八郎潟町字一日市２７１" }, "geometry": { "type": "Point", "coordinates": [ 140.07714848, 39.94414629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市横山町２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.56590703, 39.30448529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市八幡字石町４−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.55468144, 39.32336953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市前郷一番町７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.56591214, 39.31015122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県横手市前郷字兀山２７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.57385299, 39.30115356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市川口字八幡前２３７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.059908940000014, 39.39953638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県男鹿市北浦北浦字忍田７２−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.784297790000011, 39.96009405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市片山町１丁目５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.54599764, 40.27288992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市御門２７５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.04877688, 39.3830635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市十二所字水上３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.69165043000001, 40.20546436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市釈迦内字街道上３６" }, "geometry": { "type": "Point", "coordinates": [ 140.56121488, 40.2909632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県大館市片山町２丁目５−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.53887875, 40.27500611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "秋田県由利本荘市松ヶ崎字高野１７１" }, "geometry": { "type": "Point", "coordinates": [ 140.06230319, 39.49419461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町森岳御休下１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.082552060000012, 40.09534476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪寺後２８-１" }, "geometry": { "type": "Point", "coordinates": [ 140.79081036, 40.21169871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字蒼前平３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.790966239999989, 40.21048144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県横手市増田町増田字土肥館２１２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.54378216, 39.20069682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市横堀字中屋敷25-6" }, "geometry": { "type": "Point", "coordinates": [ 140.45763457000001, 39.06021451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市富町１６−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.03208719, 40.20829237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市新屋大川町１０−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.08970645, 39.68787841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市払戸字浜３" }, "geometry": { "type": "Point", "coordinates": [ 139.93659491, 39.92169904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市脇本脇本字打ケ崎６１−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.89785672, 39.91478288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町桧木内字松葉４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.59328918, 39.74568341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県仙北市西木町桧木内字松葉５８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.59457828, 39.7453649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県男鹿市船越字内子１７４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94013236, 39.90121281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲西根字仁応治８２" }, "geometry": { "type": "Point", "coordinates": [ 140.44775077, 39.44224804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県湯沢市古館町７−３９" }, "geometry": { "type": "Point", "coordinates": [ 140.490648209999989, 39.17186509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市小館花字萩野台８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.564340820000012, 40.25577235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町浜田字上浜田２５１" }, "geometry": { "type": "Point", "coordinates": [ 140.00340918, 40.10304526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県潟上市昭和大久保字虻川境１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.06436195, 39.87113156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市八橋大畑１−８−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.09791433, 39.73626689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市一番堰１７７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.06172318, 39.3780407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県雄勝郡羽後町西馬音内字本町１７" }, "geometry": { "type": "Point", "coordinates": [ 140.40149808000001, 39.19946913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市大曲日の出町2丁目3-18" }, "geometry": { "type": "Point", "coordinates": [ 140.48061144, 39.4463375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町森岳字長田３０" }, "geometry": { "type": "Point", "coordinates": [ 140.07708846, 40.10196038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町森岳字森谷地１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08359474, 40.09179965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県鹿角市花輪字張渡１１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.80087445, 40.18313033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県能代市字下悪戸１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.04748956, 40.19255511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県能代市字下悪戸１１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04979372, 40.19133674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大仙市花舘字下殿屋敷12-1" }, "geometry": { "type": "Point", "coordinates": [ 140.47883228, 39.47664611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県秋田市河辺和田字下田川原１６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.22633338, 39.65220134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県山本郡三種町下岩川字長面谷地３９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.13793465, 40.08804824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県能代市河戸川字上長沼布２３" }, "geometry": { "type": "Point", "coordinates": [ 140.02003023, 40.17550548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県由利本荘市大字松ヶ崎字西離山71番75号" }, "geometry": { "type": "Point", "coordinates": [ 140.04646706, 39.4996835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県横手市十文字町佐賀会字石川原１０６" }, "geometry": { "type": "Point", "coordinates": [ 140.51559835, 39.21077893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県仙北郡美郷町六郷字北矢口２６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.518223830000011, 39.42143464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県仙北市角館町岩瀬字上菅沢５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57621676, 39.59322878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県湯沢市小豆田９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.4864265, 39.15972363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "秋田県北秋田市七日市字ケン越岱１１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.40302218, 40.1871068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "秋田県大館市字観音堂３４５" }, "geometry": { "type": "Point", "coordinates": [ 140.57705583, 40.28212556 ] } }
+
+]
+}

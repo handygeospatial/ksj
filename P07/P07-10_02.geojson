@@ -1,0 +1,1980 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町戦敷１９−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.17539925, 41.40083106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市中央１丁目１８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.1831104, 41.29395137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市仲町４６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.19477606, 41.28023645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡大間町字割石６−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.91116147, 41.53364616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡風間浦村下風呂字街道添３９" }, "geometry": { "type": "Point", "coordinates": [ 141.07891813, 41.47460503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市栄町２０" }, "geometry": { "type": "Point", "coordinates": [ 140.445054520000014, 40.79889034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市下り枝１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44920686, 40.801066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市下平井町１５１" }, "geometry": { "type": "Point", "coordinates": [ 140.448275169999988, 40.81691237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町吉良市千刈６６番地" }, "geometry": { "type": "Point", "coordinates": [ 140.48020648, 40.89579726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町沢部３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.448804990000014, 40.90298266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市安原２丁目１−８、１−９、１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.485968430000014, 40.57531657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市鬼沢菖蒲沢４９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.4118632, 40.68414695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市元長町２５−８" }, "geometry": { "type": "Point", "coordinates": [ 140.4681012, 40.60289406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市種市字高瀬８３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.446278220000011, 40.69435371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市青女子字桂川１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.450060330000014, 40.6934773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市石渡２−２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.45414964, 40.62838541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市石渡４−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.459368070000011, 40.62961603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字一町田字村元６０８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.42771656, 40.61415841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字神田１−６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48675547, 40.61706938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字田園３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.507157439999986, 40.60374928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市百沢字寺沢１６０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.343568549999986, 40.61988586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市薬師堂字館の平９−９" }, "geometry": { "type": "Point", "coordinates": [ 140.56901664, 40.55671548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市錦町５" }, "geometry": { "type": "Point", "coordinates": [ 140.601536829999986, 40.645864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町大字道仏字榊山９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.66318679, 40.45817795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町大字道仏字耳ケ吠４３−３６" }, "geometry": { "type": "Point", "coordinates": [ 141.615445990000012, 40.45402146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町大字道佛字榊山５−６１" }, "geometry": { "type": "Point", "coordinates": [ 141.66072792, 40.45974426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字小泉字上館野２９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.39548966000001, 40.47001372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市鹿中二丁目５１６" }, "geometry": { "type": "Point", "coordinates": [ 141.426344840000013, 40.68406519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市中央町１−３−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.36770678, 40.68403258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市三本木矢神１３０" }, "geometry": { "type": "Point", "coordinates": [ 141.151010289999988, 40.59600241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字奥瀬字栃久保１１" }, "geometry": { "type": "Point", "coordinates": [ 140.98412911, 40.57585787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東十三番町２９−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.228117559999987, 40.61429571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字上笹橋３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.212717629999986, 40.77869102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町大字野辺地３９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.127085920000013, 40.8638911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字泊字川原６２７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.38638549, 41.06926119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町岩崎字丸山１３" }, "geometry": { "type": "Point", "coordinates": [ 139.91850893, 40.58632143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字建石字雲雀野２９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.31509255, 40.7624945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市栄町２−８−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.771981079999989, 40.82583267 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市沖館五丁目５番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.723357279999988, 40.83262181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市古川３−２４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.73725787, 40.82102429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市高田字川瀬１２４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.72165156, 40.76348083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市勝田２−２−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.7558985, 40.81759778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新城山田６７７−８５" }, "geometry": { "type": "Point", "coordinates": [ 140.65784481, 40.8285666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市石江字三好１４２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.70410564, 40.83025444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市千刈１−２０−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.725812350000012, 40.82540034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市中佃１丁目３番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.77563397, 40.81606072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市東造道三丁目７番２３号" }, "geometry": { "type": "Point", "coordinates": [ 140.79729713, 40.82696487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市馬屋尻字清水流３４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82497397, 40.83975052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市本町１−６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.750011699999988, 40.82443594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市野尻今田９７−８" }, "geometry": { "type": "Point", "coordinates": [ 140.76362721000001, 40.78554731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡杉沢字井の下１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.58912397, 40.71946355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字下十川字扇田３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.56510827, 40.69993579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字吉野田字樋田１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54414467, 40.72147932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町三厩中浜３０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.4296881, 41.20111066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡今別町大字今別字中沢１６５−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.49080493, 41.17614952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町大字藤崎西村井３４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.497493850000012, 40.65522128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市下長５丁目９−６" }, "geometry": { "type": "Point", "coordinates": [ 141.47952831, 40.5401828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市根城７−１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.464734, 40.50298199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市鮫町字金屎３５−１５８" }, "geometry": { "type": "Point", "coordinates": [ 141.57227304, 40.52001069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市市川町上大谷地２０" }, "geometry": { "type": "Point", "coordinates": [ 141.459551299999987, 40.58205949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市沼館２−２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.487915249999986, 40.52354285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市城下１−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.490106239999989, 40.51730115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市新湊３−６−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.52754798, 40.52773537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市是川三十刈頭９−６５" }, "geometry": { "type": "Point", "coordinates": [ 141.48017099, 40.47777796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市青葉１−９−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.5048243, 40.50998686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市長苗代２−２２−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.467841600000014, 40.52669291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市長苗代字二日市１１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.446550660000014, 40.51076859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市長苗代中坪１０３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.45063169, 40.51527568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市田向字冷水４６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.509408760000014, 40.48907215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市内丸３−５−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.491232630000013, 40.51361741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南類家２−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.50897444, 40.50091867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市白銀町大沢片平３１−４８" }, "geometry": { "type": "Point", "coordinates": [ 141.53885452, 40.52236606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊高台１−１１−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.534988309999989, 40.5051104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊高台三丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.54275818, 40.50837331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市妙大開８６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.56479657, 40.48154805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市高木原富２２−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.58347391, 40.61509554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市吹上平岡９５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.56787488, 40.57271181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市碇ヶ関８５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.63015092, 40.47203114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市碇ヶ関山神堂２４−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.62425667, 40.47660274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市柏木町藤山２−９" }, "geometry": { "type": "Point", "coordinates": [ 140.56342594, 40.58209528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町菖蒲川字一本柳２０５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.42450875, 40.73634738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町大字板柳字土井１４１" }, "geometry": { "type": "Point", "coordinates": [ 140.45233142, 40.69831561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市牛潟町鷲野沢２９−６８" }, "geometry": { "type": "Point", "coordinates": [ 140.34977439, 40.92041897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市森田町大字大館字広ヶ平３２" }, "geometry": { "type": "Point", "coordinates": [ 140.30148616, 40.78431728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市柏桑野木田福井１１５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.40965995, 40.7831453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造館岡上稲元６９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.337094650000012, 40.87866832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造菰槌字江野島１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.33512545, 40.86030839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市奥内字近川８" }, "geometry": { "type": "Point", "coordinates": [ 141.28155454, 41.19139949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市横迎町２丁目１７−５０" }, "geometry": { "type": "Point", "coordinates": [ 141.22092831, 41.29342547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市金谷二丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.19250211, 41.29186838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市赤川町１４−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.21290502, 41.26552789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市川内町品木４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.00069124, 41.19925877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町松ノ木１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15205667, 41.39843266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町水木沢３２−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.177440170000011, 41.39932048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市中央２丁目７７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.18700098, 41.2863582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡佐井村佐井字佐井４１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.862711420000011, 41.43233204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡大間町大間平３７−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.91799702, 41.53538305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市栄町６９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44681042, 40.79840468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町玉水１８０−７" }, "geometry": { "type": "Point", "coordinates": [ 140.45525314, 40.89705985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町菅原２８３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.45066928, 40.8999762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市字旭町３４" }, "geometry": { "type": "Point", "coordinates": [ 140.44581829, 40.81031772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字沖飯詰字帯刀１２５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.45690152, 40.83629048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字高野字北原１４４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.52617618, 40.74371973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字七ツ館字鶴ヶ沼１５６−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.47362811, 40.77899243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字十三字深津２２４" }, "geometry": { "type": "Point", "coordinates": [ 140.32625184, 41.02674841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市小沢字大原２丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.450419290000013, 40.57898622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市松原西３丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.481672089999989, 40.56809004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市城東北４丁目１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.498866670000012, 40.60435544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市青山４−２０−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.483489170000013, 40.62693925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大久保字沼田２０４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.4941909, 40.63442233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字外崎１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49211103, 40.59890765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字熊嶋字豊田３６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44261875, 40.6113656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字小栗山字長田７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.490700479999987, 40.55966612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市中野１−９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.47131203, 40.58256239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市土手町２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.47796334, 40.59533381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市北瓦ヶ町１９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.47648062, 40.6021651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市野田２丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.47947316, 40.60801995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市錦町１" }, "geometry": { "type": "Point", "coordinates": [ 140.60138935, 40.64469902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町扇田字西ノ沢５−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.32050437, 40.49236715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡新郷村西越字沢口４１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.20228462, 40.4419389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町上名久井字下モ町２" }, "geometry": { "type": "Point", "coordinates": [ 141.32761442, 40.41678215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字剣吉字大坊７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.3447621, 40.44843052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市新町２−１２１−８１" }, "geometry": { "type": "Point", "coordinates": [ 141.35352982, 40.67392437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市緑町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.37243085, 40.6861422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市元町西１丁目１４−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.20195788, 40.62190908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字三本木字里ノ沢１−６０６" }, "geometry": { "type": "Point", "coordinates": [ 141.25112341, 40.62750022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東二番町９−４４" }, "geometry": { "type": "Point", "coordinates": [ 141.218644110000014, 40.61816043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市穂並町９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.22141695, 40.60424404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町字瓢４３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.35096108, 40.60368266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町字吹越５６−８８" }, "geometry": { "type": "Point", "coordinates": [ 141.24491497, 41.02065773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町字金沢平４１８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.148722819999989, 40.75640055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町森ケ沢２１２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.1539146, 40.74811441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町旭北４丁目３１−５２６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.27868708, 40.7363377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字赤川道１６" }, "geometry": { "type": "Point", "coordinates": [ 141.22553069, 40.77385309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字切左坂道ノ上３８−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.27196036, 40.82992572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字滝沢平２−５３５" }, "geometry": { "type": "Point", "coordinates": [ 141.27805129, 40.79959856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字鶴ケ崎２" }, "geometry": { "type": "Point", "coordinates": [ 141.32235658, 40.75483823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字泊字川原７５−８２" }, "geometry": { "type": "Point", "coordinates": [ 141.385729989999987, 41.07351952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字犬落瀬字明土１１１" }, "geometry": { "type": "Point", "coordinates": [ 141.322006280000011, 40.60369415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町深浦字岡崎３３８−４０" }, "geometry": { "type": "Point", "coordinates": [ 139.915384139999986, 40.64090533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町姥袋町大磯２" }, "geometry": { "type": "Point", "coordinates": [ 140.14563397, 40.75189223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字建石町字島田１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.310338019999989, 40.76374597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字田中町１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.21729377, 40.77780673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市羽白字沢田３０３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.680991189999986, 40.85618213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市金沢１丁目５−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.73569469, 40.81379081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市篠田３丁目１２−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.72200458, 40.82665643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市小柳４−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.79312622, 40.81866598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市松原３−９−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.763577880000014, 40.81731871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新田２−１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.71726756000001, 40.83972202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新田忍４２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.692354380000012, 40.8331005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市青葉１丁目１番地１" }, "geometry": { "type": "Point", "coordinates": [ 140.74135314, 40.8064237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字荒川字柴田１０２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.73855555, 40.78891864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字新城字山田５８７−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.66195382, 40.83048635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字平新田字森越２０−７" }, "geometry": { "type": "Point", "coordinates": [ 140.816228380000013, 40.8305817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市堤町２丁目１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.75665842, 40.82353007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市南佃１−８−６" }, "geometry": { "type": "Point", "coordinates": [ 140.777668049999988, 40.81231197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市妙見３−１−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.762432030000014, 40.78805116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字北中野字下嶋田２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.5997064, 40.71070525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字浪岡字若松１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.59098574, 40.70853735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町字蟹田大平山元９４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.55398151, 41.06528272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町大字榊字福田７０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.525235400000014, 40.66997577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町大字榊字和田１１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.530873109999987, 40.6731109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市下長１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.469146200000012, 40.52685087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市下長４−２１−７" }, "geometry": { "type": "Point", "coordinates": [ 141.47427454000001, 40.53933114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市諏訪３−１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.5164792, 40.50777709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字糠塚字大開１１−７" }, "geometry": { "type": "Point", "coordinates": [ 141.47927607, 40.48859438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字市川町字桔梗野１−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.4502488, 40.55970962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字上野字山在家６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.410603619999989, 40.47622579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字新井田字小久保尻２４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.54076813, 40.49973517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市長根２−１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.47829814, 40.51320642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市八幡字五日町３４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.43215888, 40.4893955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市小和森種取２５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.56793825, 40.58607465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市本町北柳田１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.563112069999988, 40.58630932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町今泉字布引２２７" }, "geometry": { "type": "Point", "coordinates": [ 140.42067744, 41.0249053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字小泊字浜野４１−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.30711901, 41.12892769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字豊岡字若松６５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.415079029999987, 40.94580656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字鶴田字生松１４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.43266827, 40.76002657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町大字福野田字実田５１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.460476379999989, 40.69870158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町板柳字土井３７８" }, "geometry": { "type": "Point", "coordinates": [ 140.45893844, 40.6888296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市小川町２−５−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.20948221, 41.29354251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市松山町１−４５" }, "geometry": { "type": "Point", "coordinates": [ 141.19639727, 41.2992782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市赤川町１０２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.21581057, 41.2639567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大字田名部字前田５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.21980659, 41.30467928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町湊村８８番地" }, "geometry": { "type": "Point", "coordinates": [ 141.165197, 41.40966073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字門外字村井５０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.51065789, 40.58353037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市大字三沢字堀口１７−９７" }, "geometry": { "type": "Point", "coordinates": [ 141.393753589999989, 40.69157792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市南山３−２０８−４" }, "geometry": { "type": "Point", "coordinates": [ 141.39544573, 40.67632626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市三本木字並木西１７８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.19887341, 40.60289194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東二十三番町２７−６" }, "geometry": { "type": "Point", "coordinates": [ 141.23433634, 40.62420138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町立蛇７６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.381522139999987, 40.6040037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町鶉久保２６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.376441410000012, 40.66210732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町旭北１−３−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.264642329999987, 40.73592555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字膳前５１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.21089749, 40.77930184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町上北北３−３３−１２３" }, "geometry": { "type": "Point", "coordinates": [ 141.256216450000011, 40.72881891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町字二本木１１" }, "geometry": { "type": "Point", "coordinates": [ 141.112639449999989, 40.86712128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字北浮田町字外馬屋１７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.266922920000013, 40.78121791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市石堂２−２６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.4723993, 40.52862162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大久保字鷹待場２５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.554499670000013, 40.51383532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字尻内町字畑田１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.41406967, 40.51591052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字長苗代字元木１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.46162206, 40.51497238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊高台６−１−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.535010050000011, 40.51219978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町大字板柳字土井１３２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.453472839999989, 40.69834003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造町大字吹原字桜２３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.3118074, 40.82380768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市旭町６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.17665946, 41.28528481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市金曲２-１２-３" }, "geometry": { "type": "Point", "coordinates": [ 141.21600297, 41.27364278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大字大湊字宇曽利川２６-５" }, "geometry": { "type": "Point", "coordinates": [ 141.1271529, 41.23796022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市境関字西田２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49682482, 40.61317338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字賀田１丁目３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.42116976, 40.61528231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字青山５丁目２６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.481113810000011, 40.62713654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡田子町山口五林７１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.077530810000013, 40.29317454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市米田字向町７５" }, "geometry": { "type": "Point", "coordinates": [ 141.229523590000014, 40.5470445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町神明前１２８-１" }, "geometry": { "type": "Point", "coordinates": [ 141.373052910000013, 40.60557136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町二川目３丁目７３−１１４" }, "geometry": { "type": "Point", "coordinates": [ 141.43519938, 40.65943608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町関字豊田６８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.109614459999989, 40.74106623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町大字追良瀬塩見山平２１１−２００" }, "geometry": { "type": "Point", "coordinates": [ 139.97511449000001, 40.69068779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市安方１丁目９−９" }, "geometry": { "type": "Point", "coordinates": [ 140.74033021, 40.82874921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市栄町２丁目３-４" }, "geometry": { "type": "Point", "coordinates": [ 140.76917286, 40.82483841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市金沢４丁目１５番１８号" }, "geometry": { "type": "Point", "coordinates": [ 140.73103439, 40.80888285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市三内玉作２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.70976264, 40.8209374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市篠田３丁目１−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.72682061, 40.83021244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新城字山田６１９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.66816871, 40.83256746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新城平岡１６０−１６０９" }, "geometry": { "type": "Point", "coordinates": [ 140.673662650000011, 40.81695911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市青葉３−９−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.75659208, 40.80016235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市石江江渡９−７６" }, "geometry": { "type": "Point", "coordinates": [ 140.701382959999989, 40.82462465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市石江字三好１４４" }, "geometry": { "type": "Point", "coordinates": [ 140.70592288, 40.82978458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字幸畑字谷脇２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.7863438, 40.79272318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市東大野一丁目４−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.740865680000013, 40.80238991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市平新田字森越１９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.81691761, 40.830312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市六枚橋磯打２５−５０" }, "geometry": { "type": "Point", "coordinates": [ 140.66383819, 40.93493672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町字三厩東町６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.44532691, 41.18918459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡今別町大字今別１６４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49177122, 41.17645429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡平内町沼館字家岸６２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.9762639, 40.92632798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡平内町清水川字和山６４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.02534186, 40.92219255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市根城７−１−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.471868230000013, 40.5023778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市市川町高屋敷２−９０" }, "geometry": { "type": "Point", "coordinates": [ 141.433378760000011, 40.58770263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市市川町字下大谷地７５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.46977859, 40.57838553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字河原木字前谷地５９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.453123119999987, 40.52889309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字大久保字大塚１７−１１７" }, "geometry": { "type": "Point", "coordinates": [ 141.5570074, 40.48370487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市長苗代３丁目４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.476453, 40.52219104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南類家５丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.511366040000013, 40.49775522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市大字岩館字山の井１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.54072808, 40.55975669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字鶴田字中泉２３５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.44331872, 40.76319607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市森田町森田平山１０９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.34604475, 40.78264712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市稲垣町豊川字初瀬６３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.396879719999987, 40.87421371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市森田町山田字滝元１２" }, "geometry": { "type": "Point", "coordinates": [ 140.36111035, 40.7831493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市柏上古川字八重崎１１８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.41116847, 40.79894249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造豊田字富久地１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.408424380000014, 40.82961091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市横迎町１−１３−４５" }, "geometry": { "type": "Point", "coordinates": [ 141.219085729999989, 41.29047265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字広田字榊森１０−８" }, "geometry": { "type": "Point", "coordinates": [ 140.46748446, 40.78167381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字鶴ヶ丘字川袋１６３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.41374540000001, 40.84512135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字石川字石川２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53889572, 40.55426406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市湯口字一の細川９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.41375778, 40.59052863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市大字牡丹平字福民１２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.61523241, 40.63596838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町大字道仏字耳ヶ吠３３−１４３" }, "geometry": { "type": "Point", "coordinates": [ 141.61893416, 40.45212226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町大字上市川字沼廻20-3" }, "geometry": { "type": "Point", "coordinates": [ 141.38929854, 40.5532263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町大字倉石中市字上ミ平５６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.250583909999989, 40.50431945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町大字川守田字雀舘１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.24438871000001, 40.37823203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町大字斗内字清水田91-5" }, "geometry": { "type": "Point", "coordinates": [ 141.204707109999987, 40.35781202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡新郷村大字戸来字中野平１９−４" }, "geometry": { "type": "Point", "coordinates": [ 141.17740633, 40.47078517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字沖田面字久保１５４" }, "geometry": { "type": "Point", "coordinates": [ 141.29175704, 40.41685509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市大字三沢字堀口１７−５３" }, "geometry": { "type": "Point", "coordinates": [ 141.39910771000001, 40.69152542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市大字谷地頭２−５５９" }, "geometry": { "type": "Point", "coordinates": [ 141.3682339, 40.77842867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字奥瀬字小沢口１１１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.11270886, 40.58741573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字三本木字佐井幅１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.162678879999987, 40.60484665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字相坂字小林１４９−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.23721778, 40.59342234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字東一番町６−５１" }, "geometry": { "type": "Point", "coordinates": [ 141.21420498, 40.61952393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字洞内字後野２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.19213167, 40.65713489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町向山２の９２３" }, "geometry": { "type": "Point", "coordinates": [ 141.38652344, 40.64231534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町上前田８" }, "geometry": { "type": "Point", "coordinates": [ 141.43072944, 40.60117858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町馳下り５５" }, "geometry": { "type": "Point", "coordinates": [ 141.39928573, 40.59833195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町字夏焼２１−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.13349119, 40.67704625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町天間舘字森ノ上２０９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.155938639999988, 40.74485795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字外蛯沢西平６５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.22815638, 40.78297336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町大字上野字山添１１６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.26414666, 40.72914456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村倉内芋ヶ崎３９１" }, "geometry": { "type": "Point", "coordinates": [ 141.269708009999988, 40.8845396 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字倉内字前谷地１１８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.36739136, 40.84650737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字犬落瀬字柴山２−６２" }, "geometry": { "type": "Point", "coordinates": [ 141.32430183, 40.61062566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字小松ヶ丘１−７７−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.33630789, 40.6605201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町大字岩崎字松原５１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92872109000001, 40.58115076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字赤石町字砂山７９−４４" }, "geometry": { "type": "Point", "coordinates": [ 140.17390838, 40.77086223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字駒込字蛍沢２５７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.7964505, 40.79872573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字高田字川瀬１９２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.724542140000011, 40.76876088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字飛鳥字福浦１２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.678596629999987, 40.87986754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字野内字菊川８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.816785040000013, 40.84632895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡杉沢字山元３２４−1" }, "geometry": { "type": "Point", "coordinates": [ 140.58147847, 40.71983986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町蟹田字高銅屋５４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.63523878, 41.04151098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡平内町大字藤沢字竹達１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.943312670000012, 40.92054526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡蓬田村大字阿弥陀川字汐干１０６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.65058431, 40.97219143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡大鰐町大字鯖石字一本柳３７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.55531614, 40.53656746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡田舎館村大字畑中字観妙寺１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.55076953, 40.64068302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町常盤字一西田５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.54483201, 40.67107107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町大字藤崎字中豊田１５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.508456200000012, 40.65648007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字櫛引字上川原３−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.427382810000012, 40.48329111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南郷区中野字大久保１５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.4371965, 40.40762469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南郷区島守字中里２８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.48943381, 40.41943575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市小和森字上松岡２１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.569507929999986, 40.5904433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市碇ヶ関阿原１４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.622558669999989, 40.48390764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市日沼字富田１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.52824118, 40.61846485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字富野字千歳８８" }, "geometry": { "type": "Point", "coordinates": [ 140.415944450000012, 40.93614483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字境字里見８２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44158465000001, 40.73762104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町大字夕顔関字西田６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.50170476, 40.73146112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市富萢町寿7の4" }, "geometry": { "type": "Point", "coordinates": [ 140.37205318, 40.97759158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村大字岩屋150" }, "geometry": { "type": "Point", "coordinates": [ 141.408209410000012, 41.38688886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村大字白糠字銅屋24-246" }, "geometry": { "type": "Point", "coordinates": [ 141.37444001, 41.17087221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市相内字相内72-1" }, "geometry": { "type": "Point", "coordinates": [ 140.35345831, 41.05302385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字中畑字旭岡27" }, "geometry": { "type": "Point", "coordinates": [ 140.31284048, 40.58493564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡田子町大字田子字上野ノ下タ4-2" }, "geometry": { "type": "Point", "coordinates": [ 141.16226549000001, 40.34543227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市塩釜4丁目47-14" }, "geometry": { "type": "Point", "coordinates": [ 141.39766143, 40.80223905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市東岡三澤3-41-85" }, "geometry": { "type": "Point", "coordinates": [ 141.38891304, 40.69181103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市緑町3丁目2-2" }, "geometry": { "type": "Point", "coordinates": [ 141.37681654, 40.68673077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町阿光坊106-20" }, "geometry": { "type": "Point", "coordinates": [ 141.3784872, 40.60481644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町下明堂1-5" }, "geometry": { "type": "Point", "coordinates": [ 141.430828569999989, 40.59392385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町大字柳田字宮崎69-12" }, "geometry": { "type": "Point", "coordinates": [ 140.120872920000011, 40.74081974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市久須志2丁目1-6" }, "geometry": { "type": "Point", "coordinates": [ 140.73051432, 40.82046067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新田3丁目5-12" }, "geometry": { "type": "Point", "coordinates": [ 140.71218918, 40.84258606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字後潟字大原45" }, "geometry": { "type": "Point", "coordinates": [ 140.66225512, 40.93998914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字荒川字成瀬100" }, "geometry": { "type": "Point", "coordinates": [ 140.746233280000013, 40.79651604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字石江字三好141-1" }, "geometry": { "type": "Point", "coordinates": [ 140.703263389999989, 40.83081737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字筒井字八ツ橋1307" }, "geometry": { "type": "Point", "coordinates": [ 140.77535093, 40.79661264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字矢田前字弥生田20-10" }, "geometry": { "type": "Point", "coordinates": [ 140.81303662, 40.82908934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字本郷字柳田51-3" }, "geometry": { "type": "Point", "coordinates": [ 140.61676049, 40.69368745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市河原木高舘前9" }, "geometry": { "type": "Point", "coordinates": [ 141.45975908, 40.53447163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市江陽1丁目21-1" }, "geometry": { "type": "Point", "coordinates": [ 141.50307172, 40.52042119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市根城3丁目4-8" }, "geometry": { "type": "Point", "coordinates": [ 141.47716202, 40.50248464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字売市字観音下10-1" }, "geometry": { "type": "Point", "coordinates": [ 141.486343260000012, 40.51598913 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市類家1丁目2-6" }, "geometry": { "type": "Point", "coordinates": [ 141.498926610000012, 40.5096614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市岩館山の井149-3" }, "geometry": { "type": "Point", "coordinates": [ 140.54132884, 40.55920379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市松崎亀井42-1" }, "geometry": { "type": "Point", "coordinates": [ 140.533835860000011, 40.59341382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字中里字紅葉坂15-4" }, "geometry": { "type": "Point", "coordinates": [ 140.44272974, 40.96027085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市栄町16" }, "geometry": { "type": "Point", "coordinates": [ 140.44568218, 40.79640943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市松ヶ枝1-2-1" }, "geometry": { "type": "Point", "coordinates": [ 140.484794959999988, 40.60365474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町本町" }, "geometry": { "type": "Point", "coordinates": [ 141.127969150000013, 40.86393629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町犬落瀬字後田６２" }, "geometry": { "type": "Point", "coordinates": [ 141.32413157, 40.60744298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市諏訪沢字岩田８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82758568, 40.83023741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡下十川字大沼袋１９" }, "geometry": { "type": "Point", "coordinates": [ 140.555009649999988, 40.68576751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字樽沢字村元１６１" }, "geometry": { "type": "Point", "coordinates": [ 140.55412608, 40.71375246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字浪岡佐野３９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.593766100000011, 40.72177548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡田舎館村畑中字樋口２１１" }, "geometry": { "type": "Point", "coordinates": [ 140.54386799, 40.63065359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町藤崎豊岡５９" }, "geometry": { "type": "Point", "coordinates": [ 140.51057426, 40.66331541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市下長３−２０−４" }, "geometry": { "type": "Point", "coordinates": [ 141.47138571, 40.53885795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市根城８−１５−１５３" }, "geometry": { "type": "Point", "coordinates": [ 141.46092354000001, 40.50443807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市城下４−９−７" }, "geometry": { "type": "Point", "coordinates": [ 141.49166424, 40.5226516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市石堂４−１４−５" }, "geometry": { "type": "Point", "coordinates": [ 141.47840568, 40.53290864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字長苗代字元木２３−５" }, "geometry": { "type": "Point", "coordinates": [ 141.45857695, 40.51467714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南郷区市野沢５７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.43450464, 40.40061461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市廿六日町６０−３" }, "geometry": { "type": "Point", "coordinates": [ 141.48872907, 40.50727027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊高台６丁目１５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.53633983, 40.51393014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市類家４−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.509816410000013, 40.50595675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町中里字亀山５３９" }, "geometry": { "type": "Point", "coordinates": [ 140.43477679, 40.97041982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市柏鷺坂清見１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.432274869999986, 40.80329611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市旭町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.18089801, 41.28652645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大曲３−７−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.2312397, 41.25242168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村砂子又字揚ノ尻４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.37079792, 41.25984552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市一ツ谷２７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.45227857, 40.8069693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市田町１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44515654, 40.80310857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市駅前三丁目１３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.47920251, 40.59802868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市黒土川合８２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.34137794, 40.59098375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市十面沢字轡６７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.35069085, 40.72788048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市新町１５７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.455488550000013, 40.60695646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字早稲田４丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.513985350000013, 40.60027243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市東長町４７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.47298251, 40.6069022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市和徳町１６５" }, "geometry": { "type": "Point", "coordinates": [ 140.48252715000001, 40.60757858 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市一番町１４８" }, "geometry": { "type": "Point", "coordinates": [ 140.59471987, 40.64821109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市温湯字長漕５" }, "geometry": { "type": "Point", "coordinates": [ 140.66700125, 40.60985158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市境松三丁目１９" }, "geometry": { "type": "Point", "coordinates": [ 140.5731778, 40.65070975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市市ノ町１８−６" }, "geometry": { "type": "Point", "coordinates": [ 140.59365046, 40.64185439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市赤坂字東池田９３−７" }, "geometry": { "type": "Point", "coordinates": [ 140.619416730000012, 40.66471744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市中川字篠村２１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.59712484, 40.63280106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市追子野木２−２３０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.579543699999988, 40.63880403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町平内字長塚１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.550227009999986, 40.41487537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町六日町２５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.26075622, 40.38536108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡新郷村戸来字沢出口７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.13009861, 40.46845951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町沖田面字塚の越２３" }, "geometry": { "type": "Point", "coordinates": [ 141.27729734, 40.41104813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東２３番町１６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.23113507, 40.62294137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市洞内字後野３３１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.19906871, 40.64244916 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市穂並町２−５８" }, "geometry": { "type": "Point", "coordinates": [ 141.217771410000012, 40.60978539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町百目木９２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.248846640000011, 41.03668065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町苗代川目５４" }, "geometry": { "type": "Point", "coordinates": [ 141.273843910000011, 41.13357849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡下田町高田７９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.42091697, 40.59905673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市牛潟町村上３３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.35426367, 40.93011032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造中館２３−６" }, "geometry": { "type": "Point", "coordinates": [ 140.36539638, 40.81465973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市上川町３−５８" }, "geometry": { "type": "Point", "coordinates": [ 141.220542990000013, 41.29725005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市新町１０−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.20664209, 41.28991735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡佐井村大字佐井字中道８１−７１" }, "geometry": { "type": "Point", "coordinates": [ 140.87188351, 41.44483227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡大間町大字大間字中山２５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.91659549, 41.52542002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村大字蒲野沢字石持山１−６６" }, "geometry": { "type": "Point", "coordinates": [ 141.29061611, 41.33048545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村大字小田野沢字南通２−１９０" }, "geometry": { "type": "Point", "coordinates": [ 141.39229755, 41.22317104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市下り枝４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.450927299999989, 40.79906426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市太刃打早蕨５２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.45687883, 40.82101487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字唐笠柳字藤巻５１７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.456783, 40.80015048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市一町田字早稲田７８０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.432867359999989, 40.61296104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市川合浅田１１４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.51714636, 40.5795576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市代官町８３" }, "geometry": { "type": "Point", "coordinates": [ 140.479080540000012, 40.60301724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字福村字新舘添２４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.518461589999987, 40.60543951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市大字下山形字村下９７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.656991870000013, 40.61427593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市中川字篠村２６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.599426810000011, 40.6314806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町神明後５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.304529230000014, 40.51583076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市稲生町１９−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.214442279999986, 40.61176888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市元町西１−３−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.20746085, 40.62363337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市西二十一番町２４−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.1959683, 40.61256821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東一番町２−４８" }, "geometry": { "type": "Point", "coordinates": [ 141.211861, 40.61948994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市法量字焼山５６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98750763000001, 40.57734041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町字舘ノ後８０" }, "geometry": { "type": "Point", "coordinates": [ 141.24737192, 41.08640458 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字滝沢平２−９７３" }, "geometry": { "type": "Point", "coordinates": [ 141.27671081, 40.80302022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町上笹橋１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.215194919999988, 40.7779592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字鷹架字向田８１" }, "geometry": { "type": "Point", "coordinates": [ 141.28646222, 40.94061212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村平沼字道ノ上５２" }, "geometry": { "type": "Point", "coordinates": [ 141.36883194, 40.87790662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市羽白字池上１８４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.68598778, 40.85322234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市橋本１−９−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.75363264, 40.82397968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市自由ケ丘２−３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.79659331, 40.81219329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市諏訪沢桜川９３−４" }, "geometry": { "type": "Point", "coordinates": [ 140.82060273, 40.82883464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市石江三好３５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.70082172, 40.83497659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字荒川字藤戸１０７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.73973558, 40.79273041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大野字若宮１６４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.741170579999988, 40.80480656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市中佃２−１９−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.78426205, 40.81751987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浜館間瀬１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.792872499999987, 40.80775292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浜田豊田３８４" }, "geometry": { "type": "Point", "coordinates": [ 140.75640209, 40.80357273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町蟹田１３７" }, "geometry": { "type": "Point", "coordinates": [ 140.64291953, 41.04442293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡平内町大字小湊字小湊１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.95735968, 40.92346116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町榊和田６５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.52850079000001, 40.67574333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町俵舛東平岡１３０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.50839019, 40.69749337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市沼館３−４−９" }, "geometry": { "type": "Point", "coordinates": [ 141.49267828, 40.53071632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市新井田出口平３７−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.54570396, 40.49069993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市青葉１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.50234891, 40.51122591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市石堂３−１４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.481187299999988, 40.52910508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字市川町字市川４３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.45688188, 40.58582424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字湊町字大沢４２" }, "geometry": { "type": "Point", "coordinates": [ 141.53182389, 40.52679454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市南類家２−９−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.5055724, 40.50226855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市類家５−１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.51364299, 40.5073096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町薄市字花持３３３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.42320425, 41.01691032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造千代町４３" }, "geometry": { "type": "Point", "coordinates": [ 140.38597718, 40.80908078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市堅田１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.48967934, 40.61340018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市西三番町２４−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.21104247, 40.60778451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市荒川字藤戸１３０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.73997703, 40.79591835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町葛野字前田５１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.502404969999986, 40.65793179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字折笠字法立堂３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.41388899, 40.64133484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市稲垣町豊川宮川１−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.397373320000014, 40.87461392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市柏稲盛幾世５５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.41637877, 40.80491645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市中央１−５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.18888960000001, 41.28969102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市旭町６−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.44518874, 40.8105388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市一ツ谷１２６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.45283568, 40.80877473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町川倉５２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.448374949999987, 40.93365352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市広田字柳沼９１" }, "geometry": { "type": "Point", "coordinates": [ 140.46354312, 40.78418948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市高野字柳田２７３" }, "geometry": { "type": "Point", "coordinates": [ 140.51987377, 40.73844086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市野里字野岸７−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.508836659999986, 40.77727007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市向外瀬字豊田２２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.481211339999987, 40.62768862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市紺屋町１８５" }, "geometry": { "type": "Point", "coordinates": [ 140.46176958, 40.61443575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市樹木４−８−８" }, "geometry": { "type": "Point", "coordinates": [ 140.45668982, 40.58762242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市松原西３−７−２共和サ−ビス" }, "geometry": { "type": "Point", "coordinates": [ 140.48310036, 40.56720595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市城東北４−１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.499013420000011, 40.60386738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市石川字和田５１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.551879109999987, 40.55223177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市川合字浅田５番地１５" }, "geometry": { "type": "Point", "coordinates": [ 140.5172093, 40.57848382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字南大町一丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.486619929999989, 40.59147293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市旭町１３" }, "geometry": { "type": "Point", "coordinates": [ 140.6017842, 40.64899971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町田代字庭野３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.527546, 40.39517816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町上市川字赤川々原７８" }, "geometry": { "type": "Point", "coordinates": [ 141.38929456, 40.5556485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町切谷内字向田２２" }, "geometry": { "type": "Point", "coordinates": [ 141.35730684, 40.54921025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町中道９−８" }, "geometry": { "type": "Point", "coordinates": [ 141.31042632, 40.52404151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町川守田字沖中１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.266955130000014, 40.38920175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡田子町田子柏木田２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.15572975, 40.34227036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市三沢字園沢２１９−２２３" }, "geometry": { "type": "Point", "coordinates": [ 141.41368864, 40.67819865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市大町２−４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.360323060000013, 40.6786517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市元町西２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.20712742, 40.62427185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市東三番町３８−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.22513036, 40.61414747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町天間館字後平１５０−７４" }, "geometry": { "type": "Point", "coordinates": [ 141.147371, 40.7858567 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町天間館船場向川久保" }, "geometry": { "type": "Point", "coordinates": [ 141.183910090000012, 40.75198214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町天間舘字前川原１" }, "geometry": { "type": "Point", "coordinates": [ 141.144095490000012, 40.76877076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ケ所村平沼字二階坂９２−３０" }, "geometry": { "type": "Point", "coordinates": [ 141.35864998, 40.87031469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町犬落瀬字千刈田２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.322941320000012, 40.60356628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市安方町２−１１−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.74182868, 40.8285954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市岡造道２−１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.78876356, 40.82800765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市古館字大柳７１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.78364566, 40.79937329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市石江岡部７６−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.70868037, 40.82559754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市第二問屋町４丁目１０−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.75034202, 40.78827373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪館前田４−９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.71854234, 40.81103921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県中津軽郡岩木町百沢字寺沢３９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.3526291, 40.61954044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町字平舘舟岡１３７" }, "geometry": { "type": "Point", "coordinates": [ 140.63235198000001, 41.10618386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡平内町小湊字愛宕６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.949850199999986, 40.92253755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡大鰐町虹貝字中熊沢６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.56115404, 40.51383113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡田舎館村堂野前字種井１９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.560267, 40.64980167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町藤崎字村井３８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.50201445, 40.64915844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町藤崎字武元５７" }, "geometry": { "type": "Point", "coordinates": [ 140.4934543, 40.65369293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市河原木字神才７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.45069589, 40.52538757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市市川町上大谷地６４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.46511843, 40.58501808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市小中野８−８−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.520833540000012, 40.52287723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市沼館１−１０−２９" }, "geometry": { "type": "Point", "coordinates": [ 141.495394839999989, 40.52608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市尻内町字八百刈２３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.437160690000013, 40.5089076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市是川字三十刈頭９−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.479769080000011, 40.47691689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市田面木字下田面木１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.451721060000011, 40.49991097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市白銀町２−６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.545272579999988, 40.52400346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町高根字小金石９３０" }, "geometry": { "type": "Point", "coordinates": [ 140.41745757000001, 41.00391385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町中里字亀山４９６の" }, "geometry": { "type": "Point", "coordinates": [ 140.43609566, 40.96688423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町鶴田字早瀬１９８" }, "geometry": { "type": "Point", "coordinates": [ 140.43033297, 40.75796011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町辻字岸田４３" }, "geometry": { "type": "Point", "coordinates": [ 140.46925081, 40.6891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市小比内４−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49618473000001, 40.58872627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市小比内５丁目１８−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.4993761, 40.58413807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市川先２−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.494794289999987, 40.58834308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字樋の口二丁目６−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.446120760000014, 40.60180136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市中崎字苅田１９４" }, "geometry": { "type": "Point", "coordinates": [ 140.45934835, 40.65109885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市独狐字島田３１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.445320790000011, 40.6411366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市本町７７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.46844244, 40.60030544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町往来ノ下１３−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.27838739, 40.77501909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浦町字奥野４丁目１８−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.76301816, 40.80969992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県中津軽郡岩木町高屋字安田１５８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.428015460000012, 40.61467419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡尾上町尾上字栄松６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.579018960000013, 40.61428749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市卸センター一丁目１６番１３" }, "geometry": { "type": "Point", "coordinates": [ 141.448843829999987, 40.52220357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市下長４−２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.479451970000014, 40.53423333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市河原木字浜名谷地７６−３５１" }, "geometry": { "type": "Point", "coordinates": [ 141.48814791, 40.55316059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市城下３−１４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.488320179999988, 40.52313202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市諏訪１−１５−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.52147469, 40.51883226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市柏崎６−３０−３" }, "geometry": { "type": "Point", "coordinates": [ 141.50507321, 40.51600634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊町下大久保道１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.543968940000013, 40.51159746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字売市四丁目７−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.47160297, 40.51236922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市青柳１丁目１６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.76013408, 40.83157807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字広田字柳沼54-13" }, "geometry": { "type": "Point", "coordinates": [ 140.458776449999988, 40.78621268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市字寺町４４" }, "geometry": { "type": "Point", "coordinates": [ 140.43966724, 40.81037437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市城東３丁目5-4" }, "geometry": { "type": "Point", "coordinates": [ 140.49200105, 40.59578936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市唐竹字苺原１９０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.60218297, 40.56055734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字奥瀬字小沢口425-3" }, "geometry": { "type": "Point", "coordinates": [ 141.10273772, 40.58723167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市五所字野沢２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.398783189999989, 40.58664078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字鮫町字中道２０−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.607373020000011, 40.51109222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡大鰐町大鰐字川辺２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.56382077, 40.52261659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市西四番町４−３９" }, "geometry": { "type": "Point", "coordinates": [ 141.214576490000013, 40.6087941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市緑ヶ丘１７" }, "geometry": { "type": "Point", "coordinates": [ 140.59767023, 40.66231983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市長島二丁目１番８号" }, "geometry": { "type": "Point", "coordinates": [ 140.74059007, 40.82344317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町下明堂７８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.43346329, 40.59641346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市根城２−３０−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.47290718, 40.5022385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市城下３−９−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.485303429999988, 40.5217122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県上北郡野辺地町字二十平９６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11054693, 40.86628831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県上北郡七戸町川去１６−４" }, "geometry": { "type": "Point", "coordinates": [ 141.15793201, 40.74460224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字金浜字伊吹７４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.73411, 40.76787934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市横迎町２−２−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.21784519, 41.29449893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字川先４−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48900396, 40.59046364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市南佃１−１９−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.78204539, 40.81233709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市田名部字女舘２９−９" }, "geometry": { "type": "Point", "coordinates": [ 141.21434843, 41.30779592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市三沢字猫又２２−１１１" }, "geometry": { "type": "Point", "coordinates": [ 141.35251308, 40.68482756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市平畑１−１０−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.36849479, 40.69164958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県十和田市東二番町８−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.215867440000011, 40.6187468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市長苗代字元木２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.45949396, 40.5142406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市沼館３−６−５" }, "geometry": { "type": "Point", "coordinates": [ 141.49195569, 40.53126439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県黒石市追子野木２−２３６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.57816326, 40.63845404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市鎌谷町２３" }, "geometry": { "type": "Point", "coordinates": [ 140.44743903, 40.80603526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市栄町５０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.446776840000012, 40.79807272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市港町２−２７−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.768023910000011, 40.83000412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市問屋町２−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.76162535, 40.78850306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市藤代５−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.45567083, 40.62037723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字境関１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.50397686, 40.61148816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字平沼字二階坂８７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.359417150000013, 40.87113926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字大谷字小谷１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.68916195, 40.73835335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字常盤坂２丁目７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.44300518, 40.59400269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字笹舘字市原１４" }, "geometry": { "type": "Point", "coordinates": [ 140.39867859, 40.74043542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪館前田４丁目１６−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.720514439999988, 40.81003257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字鶴田字小泉２９１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44253132, 40.75889955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字高根字小金石７３２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.427167379999986, 40.98605704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字廻堰字上桂井４７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.39420643, 40.75828053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡鶴田町大字妙堂崎字米元１７" }, "geometry": { "type": "Point", "coordinates": [ 140.38278061, 40.77280059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町嘉瀬雲雀野１１３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.46674164, 40.88157768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町嘉瀬萩元２６２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.45498014, 40.88874225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町字家ノ上１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10075967, 40.8719374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字小泊字長坂１２３" }, "geometry": { "type": "Point", "coordinates": [ 140.2909291, 41.11962384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字小泊字小泊２６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.30374038, 41.12946677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市磯松磯野２７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.336638099999988, 41.06514033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町字鳴沢１８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.12525346000001, 40.85634172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市牛潟町大田光５９−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.361606130000013, 40.92545659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造日向７５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.39381665, 40.80907502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市柏稲盛幾世１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.41716679000001, 40.80517362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市南田中西原１２５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.59071689000001, 40.61232676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市猿賀明堂１００−４" }, "geometry": { "type": "Point", "coordinates": [ 140.55310233, 40.615265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町大字藤崎字村岡２０" }, "geometry": { "type": "Point", "coordinates": [ 140.49657252, 40.64974904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字百沢字寺沢１−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.33880579, 40.61951111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字犬落瀬字後田１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.32756156, 40.60406888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市新井田西２丁目２１−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.52213, 40.50029093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字河原木字海岸１６−４" }, "geometry": { "type": "Point", "coordinates": [ 141.495791739999987, 40.55329645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市柳町３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.2143006, 41.30102609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市車力町若林２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.36154778, 40.95044154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町伊勢堂８" }, "geometry": { "type": "Point", "coordinates": [ 141.170569590000014, 41.40507239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字相坂字六日町山１６６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.25898184, 40.60206149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町字夷堂５６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.21109439, 40.7387779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町字二本木３７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.113469439999989, 40.86561091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字乙越１９" }, "geometry": { "type": "Point", "coordinates": [ 141.27455482, 40.77186544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字高杉字五反田２２６" }, "geometry": { "type": "Point", "coordinates": [ 140.43181023, 40.66183915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市沼館１丁目２０−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.49923942, 40.52560512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字田向字間ノ田１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.51345629, 40.49587383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県中津軽郡西目屋村大字田代字稲元１７７" }, "geometry": { "type": "Point", "coordinates": [ 140.29788754, 40.5751279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市豊洲２−３８" }, "geometry": { "type": "Point", "coordinates": [ 141.51270947, 40.53655235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大畑町湊村１９４−８" }, "geometry": { "type": "Point", "coordinates": [ 141.164132169999988, 41.40848929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字沢田字筒場１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.143188149999986, 40.59129566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字三本木字千歳森５０８−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.20252345, 40.63471569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市小和森上松岡１９７" }, "geometry": { "type": "Point", "coordinates": [ 140.56865312, 40.59051446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大字城ヶ沢字下前田２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.113475279999989, 41.21485869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字三本木字野崎４０−４８８" }, "geometry": { "type": "Point", "coordinates": [ 141.26003319, 40.61176407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町上北南１丁目３１−８８８" }, "geometry": { "type": "Point", "coordinates": [ 141.26612845, 40.73069303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市宇田町１２−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.14347317, 41.25874669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡中泊町大字大沢内字二タ見４６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.42888364, 40.93646168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町字森ヶ沢２１５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.153212599999989, 40.74936477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市石堂２丁目２１−９" }, "geometry": { "type": "Point", "coordinates": [ 141.470847569999989, 40.52607973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町大字同心町字金堀５７" }, "geometry": { "type": "Point", "coordinates": [ 141.24645184, 40.3721259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村大字尻屋字八峠２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.438233989999986, 41.4092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字倉内字笹崎３５２" }, "geometry": { "type": "Point", "coordinates": [ 141.28439461, 40.88764002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村大字尾駮字野附４７２" }, "geometry": { "type": "Point", "coordinates": [ 141.37434043, 40.96581426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町大字浅水字浅水１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.30124131, 40.4751676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字塔ノ沢山６５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.223241589999986, 40.78038006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町字家ノ下タ３２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.13181541, 40.80875378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字犬落瀬字権現沢１４" }, "geometry": { "type": "Point", "coordinates": [ 141.303914670000012, 40.6412602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町菜飯１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.416428200000013, 40.60015352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡五戸町字蛯川村７５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.33009238, 40.54315361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字荒川字品川１１０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.7267971, 40.77936059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字津賀野字浅田６７１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48847089, 40.63651175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字大向字田ノ尻６５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.273700749999989, 40.40579682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市大字浜町１" }, "geometry": { "type": "Point", "coordinates": [ 140.5974235, 40.64651566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市湊高台２丁目１３−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.53964287, 40.50245766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市吹上５丁目７−７６" }, "geometry": { "type": "Point", "coordinates": [ 141.498414630000013, 40.49543027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字沖飯詰字鴻ノ巣２２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.45895010000001, 40.84490326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字松木平字松山下２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49749406, 40.559032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市白銀５丁目１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.55003141, 40.52349465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字新荒町２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.483774110000013, 40.50653418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字白銀町字沢向１１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.54465309, 40.52006948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市江陽５丁目６−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.50774887, 40.52478677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字高野字柳田４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.52562998, 40.74043308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市北インター工業団地１丁目８−８" }, "geometry": { "type": "Point", "coordinates": [ 141.43169672, 40.54347585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字鮫町字骨沢３５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.6218982, 40.49228124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字是川字東前田４７−５" }, "geometry": { "type": "Point", "coordinates": [ 141.49530823, 40.45888831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字舞戸町字東阿部野１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.218356699999987, 40.76912815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ケ沢町大字本町２１３" }, "geometry": { "type": "Point", "coordinates": [ 140.20655441, 40.78053168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字赤石町字大和田２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.18976333, 40.78066077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大字関根字北関根２１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.20549803, 41.35814712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市新町１７−５" }, "geometry": { "type": "Point", "coordinates": [ 141.21104194, 41.29100744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字毘沙門字中熊石９１" }, "geometry": { "type": "Point", "coordinates": [ 140.45830293, 40.84651266 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字太刀打字馬繋２３−４" }, "geometry": { "type": "Point", "coordinates": [ 140.45799681, 40.82313367 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造芦沼２９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.40013922, 40.82371262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市西二番町１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.21019017, 40.61650788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字滝沢字赤伏１６" }, "geometry": { "type": "Point", "coordinates": [ 141.18520177, 40.49949459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県黒石市緑ケ丘４３" }, "geometry": { "type": "Point", "coordinates": [ 140.59676663, 40.66246236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市松島町７丁目３８" }, "geometry": { "type": "Point", "coordinates": [ 140.46149347, 40.80549395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県十和田市西二十二番町１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.19642539, 40.6120271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市字下平井町２０８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.448996670000014, 40.81678885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県十和田市西十二番町７−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.20261353, 40.61342174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市字錦町１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.44037548, 40.81202327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字宮田字玉水１１７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.83619757, 40.83699417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県西津軽郡鰺ヶ沢町大字本町９３" }, "geometry": { "type": "Point", "coordinates": [ 140.204597619999987, 40.78325624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字根城字大久保５５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.46794988, 40.49851196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡田子町大字田子字柏木田７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.157649279999987, 40.3433602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡五戸町字下モ沢向８−５６" }, "geometry": { "type": "Point", "coordinates": [ 141.302997690000012, 40.52396327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡三戸町大字二日町４５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.25875416, 40.382277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市字新宮町６５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.43870315, 40.81785029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡三戸町大字川守田町１３" }, "geometry": { "type": "Point", "coordinates": [ 141.26283801, 40.38704874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県下北郡風間浦村大字易国間字易国間２" }, "geometry": { "type": "Point", "coordinates": [ 140.99509034, 41.48790198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県上北郡おいらせ町下明堂１５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.430349830000011, 40.59662926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県上北郡野辺地町字前田１７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.121217480000013, 40.86336037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県上北郡野辺地町字坊ノ塚１１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.12697413, 40.85983855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県平川市町居山元２５７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.5883275, 40.58680239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市原別５丁目１１−５６" }, "geometry": { "type": "Point", "coordinates": [ 140.80797227, 40.84187601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県南津軽郡藤崎町大字藤崎字若松２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49353617, 40.65805098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市旭町３丁目２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.73722958, 40.8112472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市久須志３丁目１７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.727463199999988, 40.81760473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市茶屋町６−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.762310789999987, 40.82596275 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県つがる市柏下古川亀井２９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.42628253, 40.80717357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字沼館字浜梨子河原１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.49478865, 40.53385024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市売市４丁目４−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.47451849, 40.51260263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市けやき１丁目２５−８" }, "geometry": { "type": "Point", "coordinates": [ 140.80046543, 40.82237526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県つがる市木造清水３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.38119905, 40.81386644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市大湊浜町９−９" }, "geometry": { "type": "Point", "coordinates": [ 141.156951420000013, 41.27751586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県西津軽郡深浦町大字関字豊田８６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.10709456, 40.74297075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市東岡三沢１丁目６６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.38330459, 40.69161935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市大字三沢字下沢８３−１９１" }, "geometry": { "type": "Point", "coordinates": [ 141.387804820000014, 40.69413893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市中央町１丁目８−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.365262370000011, 40.68156709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市岡三沢５丁目２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.38323503, 40.69441353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県十和田市大字三本木字北平１１５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.2057127, 40.62967084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市大湊浜町１３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.156510590000011, 41.27603996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市矢作３丁目６−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.802284070000013, 40.83346016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県北津軽郡中泊町大字大沢内字海原２２１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.444153910000011, 40.94489321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県黒石市昭和町２" }, "geometry": { "type": "Point", "coordinates": [ 140.59755565, 40.65459677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県平川市李平上安原３９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.596657599999986, 40.61406057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市第二問屋町４丁目８−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.75230112, 40.79017762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字宮田字玉水７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82809556, 40.8389269 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字城東５丁目２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.489893130000013, 40.59188966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字高田３丁目７−６" }, "geometry": { "type": "Point", "coordinates": [ 140.5056218, 40.59897299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字高田４丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.50851667, 40.60171362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字土堂字長瀬２５２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.445528880000012, 40.62024229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字中野１丁目１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.47069693, 40.58482303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字中野２丁目１０−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.47154767, 40.58220949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字富士見町１２−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.4706832, 40.59206677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市矢作１丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.798303979999986, 40.83568202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市佃２丁目１６−６" }, "geometry": { "type": "Point", "coordinates": [ 140.78006421, 40.8215218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市佃２丁目１５−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.7792028, 40.8207601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市奥野２丁目２５−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.763455529999987, 40.81285317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市造道１丁目３−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.7829557, 40.83089607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字青山２丁目２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.484358250000014, 40.62086388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市沖館５丁目１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.7206573, 40.83540272 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市桂木４丁目７−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.75257308, 40.80864782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市虹ケ丘２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.79579966, 40.81116257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市浜館２丁目１１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.784434119999986, 40.81009854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市岡造道２丁目４−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.78746659, 40.82535793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字新井田字長宝野２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.53392763, 40.49103697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市北インター工業団地１丁目８−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.43117546, 40.54352257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字尻内町字平中後２７−８" }, "geometry": { "type": "Point", "coordinates": [ 141.43562609, 40.50724984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字尻内町字中崎３−７" }, "geometry": { "type": "Point", "coordinates": [ 141.42834209, 40.50518062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字和徳町１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48104278, 40.60611005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字十六日町５１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.48925956, 40.50732027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字鮫町字忍町２９−２" }, "geometry": { "type": "Point", "coordinates": [ 141.55697091, 40.52920755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字廿六日町２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.487154260000011, 40.50689807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市吹上５丁目４−９８" }, "geometry": { "type": "Point", "coordinates": [ 141.49856738, 40.49763556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市岬台１丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 141.565078770000014, 40.51794804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市古川２丁目７−８" }, "geometry": { "type": "Point", "coordinates": [ 140.73590424, 40.82272095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市旭ヶ丘４丁目１−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.538018599999987, 40.49688631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字市川町字尻引前山３１−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.44909549, 40.56061834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市江陽１丁目２６−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.50648972, 40.52063217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市江陽５丁目２２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.51201180000001, 40.52283477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市小中野６丁目２２−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.5190303, 40.51919666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市小中野８丁目１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.51875376000001, 40.52391028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字川先１丁目３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.492735540000012, 40.58872961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字市川町字尻引前山３１" }, "geometry": { "type": "Point", "coordinates": [ 141.448042679999986, 40.56104536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県黒石市大字市ノ町５１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.59377016, 40.64282888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字荒川字筒井２１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.73408103, 40.78275493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市合浦１丁目３−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.769123939999986, 40.82740444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市北金沢２丁目１３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.733612959999988, 40.81582721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字清水字浜元１８８−７" }, "geometry": { "type": "Point", "coordinates": [ 140.673794750000013, 40.90232669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字滝沢字下川原１１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.861939799999988, 40.82604102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市茶屋町１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.76114195, 40.82724697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市中央１丁目６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.74524552, 40.8200325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市篠田２丁目１９−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.72523519, 40.82615936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市大字荒川字筒井４７−７" }, "geometry": { "type": "Point", "coordinates": [ 140.738852580000014, 40.78188363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市旭町１丁目１１−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.73777655, 40.81762431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字城東中央１丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.48889781, 40.60046491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市新町１６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.21064718, 41.29020499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市吹上１丁目１−３４" }, "geometry": { "type": "Point", "coordinates": [ 141.49461452, 40.50700645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市小中野８丁目２−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.51781986, 40.52485747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市南赤川町１０−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.22137727, 41.25985506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市城下３丁目８−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.484609580000011, 40.52313007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市売市２丁目１３−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.474938759999986, 40.51118335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県十和田市稲生町１３−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.212510259999988, 40.61538496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県五所川原市字東町１０" }, "geometry": { "type": "Point", "coordinates": [ 140.446323760000013, 40.8084445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市久須志３丁目１６−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.72792705, 40.81794637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市吹上３丁目５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.49658396, 40.50317649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字湊町字鮫ノ口１４−６" }, "geometry": { "type": "Point", "coordinates": [ 141.53037436, 40.51526722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県南津軽郡田舎館村大字田舎舘字前川１３８" }, "geometry": { "type": "Point", "coordinates": [ 140.54651899000001, 40.62985982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字廿六日町５３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.48817914, 40.50709528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県むつ市緑町１５−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.19555557000001, 41.28759929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市大字尻内町字平中２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.436895420000013, 40.50702767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県八戸市青葉１丁目１８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.50720439, 40.51294486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市中央町３丁目１−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.36435741, 40.68147568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三沢市春日台３丁目１５４−１５３" }, "geometry": { "type": "Point", "coordinates": [ 141.33632598, 40.67054775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県弘前市大字茂森町７１" }, "geometry": { "type": "Point", "coordinates": [ 140.46097756, 40.6004323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字熊嶋字亀田１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.44003816, 40.61188576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市石堂１丁目２０−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.47928212, 40.53108078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡東北町上北北３丁目３２−９０" }, "geometry": { "type": "Point", "coordinates": [ 141.25573158, 40.72910156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡おいらせ町住吉２丁目５０−１１４５" }, "geometry": { "type": "Point", "coordinates": [ 141.36605171, 40.67091245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県平川市新屋栄館１７４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.60052595, 40.59377724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字浜田字玉川２１４−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.75591176, 40.79763527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市卸センター２丁目９−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.4494938, 40.52114818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字白銀町字昭和町９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.549925699999989, 40.52803625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市浪岡長沼北藤巻１８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.59011396, 40.74996041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野８丁目１５−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.52051135, 40.52409096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県十和田市大字三本木字野崎４０−５５６" }, "geometry": { "type": "Point", "coordinates": [ 141.2625099, 40.61180742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市花園２丁目１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.770571170000011, 40.82412707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市原別８丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.81216074, 40.84303154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県五所川原市字新町１５" }, "geometry": { "type": "Point", "coordinates": [ 140.4437227, 40.80574077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字久栗坂字浜田８２９" }, "geometry": { "type": "Point", "coordinates": [ 140.845664379999988, 40.8724877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市北白山台４丁目１１−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.46157974, 40.49039691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市緑１丁目２１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.745465239999987, 40.80866709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三戸郡五戸町字下大町１６" }, "geometry": { "type": "Point", "coordinates": [ 141.30055177, 40.52266392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字小栗山字長田１０−８" }, "geometry": { "type": "Point", "coordinates": [ 140.49341917000001, 40.55901843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字早稲田１丁目１３−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.510126539999987, 40.60436985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県下北郡大間町大字大間字七郎平１２−７６" }, "geometry": { "type": "Point", "coordinates": [ 140.916805180000011, 41.51489107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市南郷区市野沢市野沢１６" }, "geometry": { "type": "Point", "coordinates": [ 141.436188460000011, 40.40258085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三戸郡南部町大字大向字勘吉５４−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.26998144, 40.39653559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三戸郡田子町大字田子字小沼２１−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.14407061, 40.33116169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市長島２丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.739048520000011, 40.82247936 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字松原東２丁目４−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.47985319, 40.57432443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字幸畑字阿部野１６５−４１７" }, "geometry": { "type": "Point", "coordinates": [ 140.79101086, 40.78240402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字十八日町４１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.49440598000001, 40.51145314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字栄町４丁目３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.46887582, 40.61805833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字大久保字若松３２６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.49476224, 40.63553145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市多賀台４丁目３−６" }, "geometry": { "type": "Point", "coordinates": [ 141.441987719999986, 40.58864452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県平川市新館藤巻３３−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.58141598, 40.57737006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字三内字稲元５８−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.704940810000011, 40.82324958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字筒井字八ツ橋１３１７" }, "geometry": { "type": "Point", "coordinates": [ 140.77607405, 40.79682203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県十和田市大字相坂字高見９２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.27040956, 40.59832109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡七戸町字七戸２７０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15287557, 40.69533824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市沼館２丁目６−４" }, "geometry": { "type": "Point", "coordinates": [ 141.48555076, 40.52455999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字亀甲町８２" }, "geometry": { "type": "Point", "coordinates": [ 140.46751244, 40.61218954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡野辺地町字上小中野３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.12247782, 40.8569558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市旭ヶ丘２丁目１−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.53348022, 40.4973084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県五所川原市大字神山字殊ノ峰９５−９" }, "geometry": { "type": "Point", "coordinates": [ 140.52068669, 40.79934058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市富田１丁目１７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.718377049999987, 40.82997555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字桜ケ丘３丁目１１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.45195845, 40.57261177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三沢市美野原１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.37490863, 40.68215892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡野辺地町字中道１２−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.13705141, 40.86937443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県黒石市ぐみの木１丁目１０" }, "geometry": { "type": "Point", "coordinates": [ 140.59540618, 40.64825104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三沢市平畑１丁目７−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.369080919999988, 40.69040527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字白銀町字洲賀端３３" }, "geometry": { "type": "Point", "coordinates": [ 141.54572439, 40.52536437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字鮫町字上鮫７７" }, "geometry": { "type": "Point", "coordinates": [ 141.5574369, 40.53303543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市柳町１丁目７−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.214042439999986, 41.29822909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市大字田名部字下川１８−７７" }, "geometry": { "type": "Point", "coordinates": [ 141.22888218, 41.29644096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三沢市中央町２丁目４−５４" }, "geometry": { "type": "Point", "coordinates": [ 141.36491217, 40.68455294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野６丁目２１−２９" }, "geometry": { "type": "Point", "coordinates": [ 141.51800594, 40.52077187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県西津軽郡鰺ヶ沢町大字建石町字大曲１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.306572139999986, 40.7664911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字浜の町東３丁目７−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.457695410000014, 40.62517112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字野木字野尻６０−９" }, "geometry": { "type": "Point", "coordinates": [ 140.74457743, 40.77111262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市湊高台１丁目１５−９" }, "geometry": { "type": "Point", "coordinates": [ 141.534423940000011, 40.50754854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県平川市苗生松川崎１９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53136107, 40.593847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県つがる市木造藤田４７−７" }, "geometry": { "type": "Point", "coordinates": [ 140.383872239999988, 40.815166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県西津軽郡深浦町大字風合瀬字中砂子川８０−９" }, "geometry": { "type": "Point", "coordinates": [ 140.01684837, 40.7308242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県西津軽郡鰺ケ沢町大字赤石町字砂山１４２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.16711546, 40.76541891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県東津軽郡外ヶ浜町字蟹田１５６" }, "geometry": { "type": "Point", "coordinates": [ 140.642736180000014, 41.04529505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県つがる市木造曙２７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.389471969999988, 40.8080309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県つがる市柏下古川前原１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.4249576, 40.79374582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県西津軽郡深浦町大字深浦字浜町４８" }, "geometry": { "type": "Point", "coordinates": [ 139.92982414, 40.64302318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字市川町字和野９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.430580350000014, 40.57689046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字外崎４丁目４−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.49481745, 40.59677271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字外崎２丁目９−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.496156140000011, 40.5985837 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字富栄字浅井名１３８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.427777819999989, 40.64665972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三沢市幸町３丁目２０−３" }, "geometry": { "type": "Point", "coordinates": [ 141.37068482, 40.68777212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字野田１丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.47987383, 40.60666693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字浜の町東１丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.46175678, 40.61693611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字前坂字赤井２９８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.43590791, 40.65885683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字松原東４丁目１−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.481208509999988, 40.56884418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字和徳町７" }, "geometry": { "type": "Point", "coordinates": [ 140.47544306, 40.60599878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市旭ヶ丘３丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.533441290000013, 40.49831383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県十和田市西十四番町２８−８" }, "geometry": { "type": "Point", "coordinates": [ 141.210399020000011, 40.60278138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字市川町字桔梗野上３−５２" }, "geometry": { "type": "Point", "coordinates": [ 141.44962353, 40.55922492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字市川町字桔梗野上３−４" }, "geometry": { "type": "Point", "coordinates": [ 141.44975539, 40.55854951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字文京町１２−９" }, "geometry": { "type": "Point", "coordinates": [ 140.47425494, 40.58583376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字栄町３丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.47037691, 40.61853268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市緑１丁目１−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.742618169999986, 40.80995023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市緑３丁目４−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.75120653, 40.80641471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字新町１１０" }, "geometry": { "type": "Point", "coordinates": [ 140.456435840000012, 40.60504835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字土手町１５３" }, "geometry": { "type": "Point", "coordinates": [ 140.476367360000012, 40.59703293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字大開１丁目２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.44966582, 40.57872041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字外崎３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.49809502, 40.59974777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字駒越町７８" }, "geometry": { "type": "Point", "coordinates": [ 140.45081932, 40.60881167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字茂森町６０" }, "geometry": { "type": "Point", "coordinates": [ 140.46121385, 40.60090318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字品川町８６" }, "geometry": { "type": "Point", "coordinates": [ 140.477732659999987, 40.59433064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字宮園５丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.476330929999989, 40.6196583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字新寺町４６" }, "geometry": { "type": "Point", "coordinates": [ 140.46495821, 40.59629951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字桔梗野５丁目１３−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.46628937, 40.58636447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県黒石市ぐみの木１丁目７４" }, "geometry": { "type": "Point", "coordinates": [ 140.596634130000012, 40.64856364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字新井田字横町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.519806929999987, 40.49362531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字湊町字館鼻１０" }, "geometry": { "type": "Point", "coordinates": [ 141.52449427, 40.5255464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県十和田市西一番町２１−７" }, "geometry": { "type": "Point", "coordinates": [ 141.207089169999989, 40.6162144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字十一日町５５" }, "geometry": { "type": "Point", "coordinates": [ 141.49434215, 40.51040884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字鮫町字棚久保８−８" }, "geometry": { "type": "Point", "coordinates": [ 141.6097949, 40.50515353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県十和田市穂並町１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22227816, 40.60273453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野５丁目２−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.5157342, 40.52022939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野６丁目２５−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.519694750000014, 40.51822778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野７丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.51894755, 40.52072745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市小中野８丁目１５−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.521414060000012, 40.52384657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字中居林字道合１９−９" }, "geometry": { "type": "Point", "coordinates": [ 141.49942041, 40.49062531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字鮫町字林通１" }, "geometry": { "type": "Point", "coordinates": [ 141.55312885, 40.5281788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字白銀町字三島下２４" }, "geometry": { "type": "Point", "coordinates": [ 141.53730671, 40.52384404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市仲町１４−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.19493078, 41.27922201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市赤川町２−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.209433139999987, 41.2689928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字野内字菊川２２５" }, "geometry": { "type": "Point", "coordinates": [ 140.82168716000001, 40.85356955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字野内字菊川５９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.816143509999989, 40.84752282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字羽白字沢田７４７" }, "geometry": { "type": "Point", "coordinates": [ 140.68296296, 40.85882889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市花園２丁目３９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.77580673, 40.82418554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市古川２丁目１５−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.73736671, 40.82159496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市中央２丁目５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.74698698, 40.81977977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市桜川６丁目２２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.76847333, 40.81269235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県三沢市下久保１丁目９−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.37753586, 40.68780291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市奥野４丁目６−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.75784214, 40.81128375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市幸畑３丁目２４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.78738562, 40.78220504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字後潟字平野５７" }, "geometry": { "type": "Point", "coordinates": [ 140.66045172, 40.94558238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市筒井１丁目６−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.76647484, 40.80773083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字金浜字稲田８９" }, "geometry": { "type": "Point", "coordinates": [ 140.73838884, 40.77805623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字駒込字蛍沢３７９−８" }, "geometry": { "type": "Point", "coordinates": [ 140.80865194, 40.79312891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字三内字丸山１２７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.706749800000011, 40.81478359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字新城字平岡２４６−７０" }, "geometry": { "type": "Point", "coordinates": [ 140.682985, 40.83033317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字新城字平岡１５１−７７６" }, "geometry": { "type": "Point", "coordinates": [ 140.67393857, 40.81797729 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市大字奥内字宮田３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.676050980000014, 40.88752278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県北津軽郡鶴田町大字鶴田字早瀬１２１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.42895968, 40.7559734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡七戸町字笊田川久保５−９" }, "geometry": { "type": "Point", "coordinates": [ 141.15966733, 40.69585765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡七戸町字笊田３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16052005, 40.69571879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県八戸市大字売市字左水門下１２−８５" }, "geometry": { "type": "Point", "coordinates": [ 141.485523629999989, 40.51293888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市大畑町湯坂下１０４" }, "geometry": { "type": "Point", "coordinates": [ 141.161596050000014, 41.40802197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市大畑町筒万坂１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16470171, 41.40213642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県むつ市川内町川内１６３" }, "geometry": { "type": "Point", "coordinates": [ 140.99575522, 41.19801734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県上北郡七戸町字七戸２８４" }, "geometry": { "type": "Point", "coordinates": [ 141.15440935, 40.69639637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市浪岡浪岡浅井１７７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.59374007, 40.71248168 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県弘前市大字湯口字二ノ安田７１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.409901710000014, 40.58972341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県北津軽郡板柳町大字板柳字土井３１６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.455767290000011, 40.69687068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県北津軽郡板柳町大字福野田字実田１７−７" }, "geometry": { "type": "Point", "coordinates": [ 140.462270640000014, 40.69907664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県北津軽郡板柳町大字三千石字里見２−９" }, "geometry": { "type": "Point", "coordinates": [ 140.46752845, 40.70482358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県南津軽郡田舎館村大字川部字上西田１０４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.51569609, 40.64472535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県青森市浪岡吉野田樋田３８２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.53627194, 40.73009182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "青森県北津軽郡板柳町いたや町３丁目２７" }, "geometry": { "type": "Point", "coordinates": [ 140.46472598, 40.70126543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市下北町４−４" }, "geometry": { "type": "Point", "coordinates": [ 141.18878644, 41.28413281 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造森山３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.3742695, 40.81670218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市橋本１丁目６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.7518838, 40.82534315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市栄町２丁目１１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.774751259999988, 40.82621608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市古川１丁目１４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.7373096, 40.82555122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市新町１丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.73674483, 40.82813305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市第二問屋町３丁目８−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.7502346, 40.79194682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市問屋町１−４−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.76134012, 40.78904353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市桂木４丁目５−７" }, "geometry": { "type": "Point", "coordinates": [ 140.75331191, 40.80969217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字姥萢字桜木9-1" }, "geometry": { "type": "Point", "coordinates": [ 140.44982748000001, 40.79273233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字唐笠柳字藤巻628-3" }, "geometry": { "type": "Point", "coordinates": [ 140.45986423, 40.80069353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大字田名部字土手内７４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22847388, 41.30054685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市下北町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.18822541, 41.28438243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市松園町３丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.36504054, 40.67559258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字相坂字小林１５１−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.23541602, 40.59440594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字剣吉字仲町１７" }, "geometry": { "type": "Point", "coordinates": [ 141.33989076, 40.44428849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字売市字観音下６" }, "geometry": { "type": "Point", "coordinates": [ 141.48592904, 40.51564963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字末広2丁目1-1" }, "geometry": { "type": "Point", "coordinates": [ 140.49981048, 40.6033369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡田舎館村大字堂野前字種井２０−８" }, "geometry": { "type": "Point", "coordinates": [ 140.56016423, 40.64980999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市牛潟町村上２７" }, "geometry": { "type": "Point", "coordinates": [ 140.35351492, 40.92996888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県むつ市大湊町１９−２" }, "geometry": { "type": "Point", "coordinates": [ 141.1354426, 41.25087973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡東通村砂子又字揚ノ尻４−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.37075349, 41.25986084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡おいらせ町一川目２−２１１" }, "geometry": { "type": "Point", "coordinates": [ 141.441259190000011, 40.63592946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町旭北１丁目７７６" }, "geometry": { "type": "Point", "coordinates": [ 141.2657218, 40.73545206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市東岡三沢１丁目１６３−３７" }, "geometry": { "type": "Point", "coordinates": [ 141.38105269, 40.69110433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字相坂字高清水７４−３６" }, "geometry": { "type": "Point", "coordinates": [ 141.24979183, 40.63223742 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県下北郡風間浦村大字下風呂字街道添２３" }, "geometry": { "type": "Point", "coordinates": [ 141.077948420000013, 41.47526973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市北白山台２丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.46411629, 40.49108777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造越水長谷川１４３" }, "geometry": { "type": "Point", "coordinates": [ 140.28801475, 40.78648043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県黒石市追子野木２丁目２９０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.57696686, 40.63888871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字神田２丁目４−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.485765289999989, 40.620661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字田町１丁目８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48155073, 40.61129004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市字古間木山６８−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.3552276, 40.67087605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市穂並町５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.21908399, 40.6073201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字野木字野尻３７−４９８" }, "geometry": { "type": "Point", "coordinates": [ 140.73887503, 40.76946629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市三川目１−７８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.43117098, 40.67012744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字沢田字田屋１０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.153997839999988, 40.58325209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三沢市中央町4丁目11-21" }, "geometry": { "type": "Point", "coordinates": [ 141.364862570000014, 40.67819543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字津賀野字浅田６７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48833758, 40.63628123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字北浮田字外馬屋２１９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.281165109999989, 40.77594705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市大字糠塚字大杉平４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.4812164, 40.49835192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡田子町大字田子字風張１２−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.14582826, 40.33930787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡田子町大宇田子字上野ノ下夕９１−９" }, "geometry": { "type": "Point", "coordinates": [ 141.15849445, 40.34369608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字米田字高谷５８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.23190641, 40.5520836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町字三保野１３６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.24685019, 41.07763288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市大字小橋字田川５８−６" }, "geometry": { "type": "Point", "coordinates": [ 140.66614066, 40.92642981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字堅田字神田493-4" }, "geometry": { "type": "Point", "coordinates": [ 140.48850457, 40.6307126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町大字沖田面字千刈15" }, "geometry": { "type": "Point", "coordinates": [ 141.28261108, 40.41233475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡横浜町字林ノ後５９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.25594995, 41.08567574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町旭北１−６４６" }, "geometry": { "type": "Point", "coordinates": [ 141.2696331, 40.73296048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡東北町上北北３−３２−８９" }, "geometry": { "type": "Point", "coordinates": [ 141.26962178, 40.73298453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字五代字早稲田３６０の１" }, "geometry": { "type": "Point", "coordinates": [ 140.414769369999988, 40.61582212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡藤崎町藤崎字南豊田７−３" }, "geometry": { "type": "Point", "coordinates": [ 140.50684528, 40.65360977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡七戸町字影津内３６" }, "geometry": { "type": "Point", "coordinates": [ 141.16001481, 40.6999354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町沢部454-9" }, "geometry": { "type": "Point", "coordinates": [ 140.44358928, 40.90592981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字清野袋字増田119-1" }, "geometry": { "type": "Point", "coordinates": [ 140.48382804, 40.64134017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鯵ヶ沢町大字舞戸字蒲生113-1" }, "geometry": { "type": "Point", "coordinates": [ 140.22146498, 40.77268885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市稲垣町繁田字源８７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.414024250000011, 40.90915327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市車力町字坂元２３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.36403275, 40.95070632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市森田町床舞字真鶴４６-１" }, "geometry": { "type": "Point", "coordinates": [ 140.32380634, 40.78263086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市木造越水字神山１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.29831428, 40.8049652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町大字嘉瀬字雲雀野１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.46824965, 40.88098872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町大字吉良市字弓矢形２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.48339538, 40.89050713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市金木町大字川倉字宇田野１３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.451209119999987, 40.92989028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県五所川原市大字羽野木沢字実吉６８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.52107598, 40.7531983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市相馬字八反田２０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.366860839999987, 40.56269252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県弘前市大字十腰内字赤坂５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.34445564, 40.74060773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡階上町道仏字榊山１０" }, "geometry": { "type": "Point", "coordinates": [ 141.66488727, 40.45614455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸郡名川町大字下名久井字舘５" }, "geometry": { "type": "Point", "coordinates": [ 141.3364626, 40.42349929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡三戸町目時字森鉢８４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.27554462, 40.34602293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡新郷村大字戸来字高畑下４４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13204169, 40.44537919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町玉掛字諏訪ノ平２８−４" }, "geometry": { "type": "Point", "coordinates": [ 141.302359239999987, 40.4146658 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県三戸郡南部町平字虚空蔵5-1" }, "geometry": { "type": "Point", "coordinates": [ 141.33247314, 40.42006732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字三本木字野崎４０-３３" }, "geometry": { "type": "Point", "coordinates": [ 141.259454119999987, 40.61212284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字深持字林１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.14531388, 40.62072829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県十和田市大字切田字平林１８４" }, "geometry": { "type": "Point", "coordinates": [ 141.19493365, 40.57925448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六戸町大字折茂６７−５６" }, "geometry": { "type": "Point", "coordinates": [ 141.299301500000013, 40.63602282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡野辺地町野辺地字二十平１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10932889, 40.86661182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県上北郡六ヶ所村尾駮字野附４７" }, "geometry": { "type": "Point", "coordinates": [ 141.373508320000013, 40.9625087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町吾妻沢１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.938234810000012, 40.65558496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町黒崎字大浜１２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.95037493, 40.51083539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡深浦町北金ヶ沢塩見形２２８" }, "geometry": { "type": "Point", "coordinates": [ 140.088590040000014, 40.75114533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字中村町字中山の井１４０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.22771512, 40.75643532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県西津軽郡鰺ヶ沢町大字南金沢町字晴間２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.18405385, 40.72589448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字樽沢字村元３３５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.55778812, 40.71162101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字北中野字天王６０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.60632078, 40.70859195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字本郷字岸田５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.61726972, 40.69118063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡大字浪岡字細田８７" }, "geometry": { "type": "Point", "coordinates": [ 140.58469075, 40.7104707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県東津軽郡外ヶ浜町湯岸字湯の沢３の８" }, "geometry": { "type": "Point", "coordinates": [ 140.63814317, 41.14797589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡大鰐町大字長峰字下川原７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.58758902, 40.51994086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県八戸市市川町字田ノ沢頭３５−８" }, "geometry": { "type": "Point", "coordinates": [ 141.43951364, 40.54869693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市葛川大川添２７の５" }, "geometry": { "type": "Point", "coordinates": [ 140.7182173, 40.52655569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県平川市尾崎字稲元７６" }, "geometry": { "type": "Point", "coordinates": [ 140.6038476, 40.58976215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市荒川字藤戸134-1" }, "geometry": { "type": "Point", "coordinates": [ 140.740309020000012, 40.79729088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県北津軽郡板柳町灰沼東269-1の一部" }, "geometry": { "type": "Point", "coordinates": [ 140.45594986, 40.70615561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県つがる市富萢町字里見５" }, "geometry": { "type": "Point", "coordinates": [ 140.3743586, 40.98017359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県青森市浪岡町浪岡淋城７９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.59082951, 40.71674163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "青森県南津軽郡大鰐町鯖石字一本柳26-4" }, "geometry": { "type": "Point", "coordinates": [ 140.55486699, 40.53447253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡五戸町豊間内字地蔵平１−６４７" }, "geometry": { "type": "Point", "coordinates": [ 141.32132243, 40.50861457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県三戸郡三戸町川守田字東張渡２１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.257717070000012, 40.3876735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "青森県青森市浪岡大字女鹿沢西花岡１２−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.579370860000012, 40.70944182 ] } }
+
+]
+}

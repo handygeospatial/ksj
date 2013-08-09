@@ -1,0 +1,1690 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市室根町折壁字梅木３" }, "geometry": { "type": "Point", "coordinates": [ 141.46642884, 38.91793277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市東山町松川字滝の沢２２９−８" }, "geometry": { "type": "Point", "coordinates": [ 141.237977629999989, 38.97418861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町下鱒沢１７−６９−４" }, "geometry": { "type": "Point", "coordinates": [ 141.396983940000013, 39.29942782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町上宮守１３−２６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.397850150000011, 39.36869763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市松崎町白岩字地森２４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.535469010000014, 39.34030356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区愛宕観音堂沖２３６" }, "geometry": { "type": "Point", "coordinates": [ 141.16951825000001, 39.18296187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字中ノ町６０" }, "geometry": { "type": "Point", "coordinates": [ 141.143672329999987, 39.16411068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字東沖ノ目８５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.156874359999989, 39.14899066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区西町１３０−５" }, "geometry": { "type": "Point", "coordinates": [ 141.13297544, 39.1394118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区台町５３" }, "geometry": { "type": "Point", "coordinates": [ 141.154074830000013, 39.13108321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町織笠１１−３７−５" }, "geometry": { "type": "Point", "coordinates": [ 141.9615186, 39.45092482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡普代村第１９地割字白井１０４−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.86977916, 40.04760772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市桜台２丁目３１番１号" }, "geometry": { "type": "Point", "coordinates": [ 141.10528778, 39.40048771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市山の神７２９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.111799389999987, 39.35609173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市山の神８１２" }, "geometry": { "type": "Point", "coordinates": [ 141.11503129, 39.36481226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市西宮野目第１３地割７０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.125733450000013, 39.41218839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市二枚橋３地割１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11649164, 39.44145156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市甲子町４−１７９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.759397650000011, 39.25015765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市甲子町第１０地割１６０番地３１" }, "geometry": { "type": "Point", "coordinates": [ 141.81593319000001, 39.25638785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市上中島町４−３−５２" }, "geometry": { "type": "Point", "coordinates": [ 141.84889787, 39.26640172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市只越町３丁目１−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.88276316, 39.27516899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字沼宮内８-４２-１" }, "geometry": { "type": "Point", "coordinates": [ 141.22794645, 39.98280467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町塩ケ森６−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.99571397, 39.68871869 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町橋場上野山１７３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.877814590000014, 39.70456833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町上町東１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.96978519000001, 39.69543198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大字滝沢巣子９５４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.123166270000013, 39.80053794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市山形町霜畑７−４５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.59756637000001, 40.10093138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市大川目町６−１３１" }, "geometry": { "type": "Point", "coordinates": [ 141.72049549, 40.1783325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市中央３−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.76999831, 40.19014181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市長内町第３０地割２１番地２" }, "geometry": { "type": "Point", "coordinates": [ 141.78473452, 40.18988457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市金浜第６地割字古川６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.943905629999989, 39.59292651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市太田１−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.92858457, 39.63843164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村大字伊保内１２−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.42447095, 40.20385596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町軽米１３−３１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.45449983, 40.3326474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市３９−８−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.68396868, 40.43819616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市第２３地割５３" }, "geometry": { "type": "Point", "coordinates": [ 141.71048482, 40.40815035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町帯島第２地割３２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.68012753, 40.24029829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野第４７地割１７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.677417209999987, 40.3018485 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野第６１地割２４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.63627929, 40.27842698 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町犬淵字深田１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15740899, 39.51160859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字間野々第１０地割字西田７１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.170742530000012, 39.59035707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字西徳田第６地割１３０" }, "geometry": { "type": "Point", "coordinates": [ 141.17215424, 39.61300821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町安渡１丁目１９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.9120198, 39.35999436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市みたけ４丁目１０−５０" }, "geometry": { "type": "Point", "coordinates": [ 141.12176352, 39.74235304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市下太田下川原１１−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.12023524, 39.69550817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上厨川字新田６６番地の１" }, "geometry": { "type": "Point", "coordinates": [ 141.104079469999988, 39.71032249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市川目町１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.17939428, 39.68803606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市門２丁目１６番３７号" }, "geometry": { "type": "Point", "coordinates": [ 141.17256336, 39.66472063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町吉浜字扇洞１８番地３" }, "geometry": { "type": "Point", "coordinates": [ 141.83825237, 39.15483568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市赤崎町字跡浜５０−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.73437248, 39.06920884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市末崎町字峰岸１４９−９" }, "geometry": { "type": "Point", "coordinates": [ 141.71485608, 39.01891684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町一戸字北舘１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.30546591, 40.21883496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市金田一字上平８８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.29733833, 40.29954726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市清水１２２" }, "geometry": { "type": "Point", "coordinates": [ 141.04900813, 40.10438501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市鬼柳町笊渕２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10007026, 39.27058221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市字村崎野第１５地割４２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.11118445, 39.3227326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市中野町３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12905074, 39.29495387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市和賀町岩崎３０−７４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.05876183, 39.28347647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町永井粒乱田２９２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.228516789999986, 38.77834878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市青葉２丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.12892973000001, 38.93179534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町奥玉中日向９１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.380428349999988, 38.95827637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町磐清水字関代３０−６" }, "geometry": { "type": "Point", "coordinates": [ 141.33540194, 38.95135474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町鳥海字古戸前２９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.366726, 39.05319355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市東山町長坂羽根堀１２５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.24781127, 38.9882991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市南町２−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.132005819999989, 38.91660589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町達曽部１８−１２８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.339633209999988, 39.39310613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市小友町第１３地割高木１３３−５" }, "geometry": { "type": "Point", "coordinates": [ 141.41386232, 39.27648048 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市松崎町白岩第１９地割字羽根通り７９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.549650500000013, 39.33493188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市上郷町板沢第１２地割５２−５９" }, "geometry": { "type": "Point", "coordinates": [ 141.58824026, 39.28385975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市中央通り９−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.53183911, 39.33023104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市土淵町栃内２１−３２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.603246539999986, 39.37382618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区愛宕大畑２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.176681769999988, 39.15748335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区豊田町２−１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.17952079, 39.1859338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区梁川中宿１５３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.26570922, 39.2770558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字東広町４３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.154484599999989, 39.14386524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字竈神３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.13186409, 39.1666274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区多賀９１" }, "geometry": { "type": "Point", "coordinates": [ 141.14308958, 39.15273122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区三日町７" }, "geometry": { "type": "Point", "coordinates": [ 141.12231232, 39.04769382 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区竹沢９３" }, "geometry": { "type": "Point", "coordinates": [ 141.133564189999987, 39.05539491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区南塔ヶ崎１８" }, "geometry": { "type": "Point", "coordinates": [ 141.11930381, 39.03852832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区小山字萩屋敷６３２" }, "geometry": { "type": "Point", "coordinates": [ 141.07804739, 39.09968585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区南都田字下広岡３１７" }, "geometry": { "type": "Point", "coordinates": [ 141.09608133, 39.12842797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区南都田字小十文字２２３" }, "geometry": { "type": "Point", "coordinates": [ 141.067536530000012, 39.12262574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町安家年々２９６" }, "geometry": { "type": "Point", "coordinates": [ 141.74035711, 39.98326183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町小本字鈩３０３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.96301086, 39.84676466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町浅内字小森６９" }, "geometry": { "type": "Point", "coordinates": [ 141.7273787, 39.82042992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町門字滝の上１５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.653922669999986, 39.87674968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市御田屋町１−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.12457342, 39.38712496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市轟木１０−１６２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.05138299, 39.36142801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市桜台１−７−８" }, "geometry": { "type": "Point", "coordinates": [ 141.106746070000014, 39.39721038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市大迫町外川目２８−２０−４" }, "geometry": { "type": "Point", "coordinates": [ 141.331362969999986, 39.44626525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市中根子中屋敷５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.09629745, 39.37919433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市上中島町２丁目７−９" }, "geometry": { "type": "Point", "coordinates": [ 141.85340531, 39.26652136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市只越町２丁目１２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.88325242, 39.27499546 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市箱崎町７−６０−３" }, "geometry": { "type": "Point", "coordinates": [ 141.94479027, 39.31603957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市野田町２丁目１４−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.8229414, 39.25744063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町葛巻８−３２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.448705210000014, 40.03763646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町江刈第１０地割１３０−６" }, "geometry": { "type": "Point", "coordinates": [ 141.459690779999988, 40.0166024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町江刈内６−８−７" }, "geometry": { "type": "Point", "coordinates": [ 141.21965785, 39.96448687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村鵜飼笹森１３９" }, "geometry": { "type": "Point", "coordinates": [ 141.09147403, 39.73186329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大釜字塩の森１６５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.06151814, 39.69960448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県気仙郡住田町上有住土倉２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.666733959999988, 39.23023834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市宇部町６−５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.788965420000011, 40.12906205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市夏井町字夏井１−３５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.75368225, 40.22218241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市侍浜町向町７−１０５" }, "geometry": { "type": "Point", "coordinates": [ 141.796909950000014, 40.26916027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市小久慈町３２−３−５" }, "geometry": { "type": "Point", "coordinates": [ 141.75485637, 40.17568902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市宮町３丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.94099659, 39.63934175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市崎鍬ヶ崎４−４７" }, "geometry": { "type": "Point", "coordinates": [ 141.950245489999986, 39.6579785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市実田一丁目５−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.95651562, 39.62464586 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市小国第２０地割平館１４−９" }, "geometry": { "type": "Point", "coordinates": [ 141.66872491, 39.51991424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市川井第２地割１９７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.685006179999988, 39.6001509 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市田老町字館ケ森１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.96977039, 39.73551026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市茂市９−３−６" }, "geometry": { "type": "Point", "coordinates": [ 141.80702165, 39.61894345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村伊保内１１−１５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.420745540000013, 40.20894587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町大字軽米８−１５７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.46132033, 40.32932965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町大字上館第３０地割３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.513759310000012, 40.31304639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡野田村野田２８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.816416729999986, 40.1153292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市第２３地割８１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.71625946, 40.41223874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野２３−３５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.60772699, 40.32307394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野６２−４２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.63285782, 40.28278115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町稲藤字升形５６" }, "geometry": { "type": "Point", "coordinates": [ 141.11048499, 39.55379764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町片寄字御在所" }, "geometry": { "type": "Point", "coordinates": [ 141.10177427, 39.51588116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町北日詰字城内７５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.1693163, 39.5394632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字間野々第１０地割字西徳田１８" }, "geometry": { "type": "Point", "coordinates": [ 141.170951730000013, 39.59332845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町南矢巾第１３地割字神前１１７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.14447757, 39.60673617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市玉山区好摩字夏間木８３−６０" }, "geometry": { "type": "Point", "coordinates": [ 141.17141946000001, 39.87447705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市高松１丁目７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.143250669999986, 39.71843848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三本柳１地割２８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.1588087, 39.66607892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市山岸２−１２−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.168016349999988, 39.71430403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市清水町２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.1532829, 39.69591282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市青山２丁目１３−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.11359502, 39.72667117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市津志田中央３−１７−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.15356569, 39.66115136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市天昌寺町７−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.12080167, 39.71198844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市東安庭３丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16477529, 39.67869609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮２−１６−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.13617396, 39.68832663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮稲荷３１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.124428709999989, 39.68492595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町越喜来杉下９０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.81642315, 39.11560492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町越喜来仲崎浜５５" }, "geometry": { "type": "Point", "coordinates": [ 141.86060624000001, 39.10464098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市盛町字権現堂１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.70646105, 39.09106104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市赤崎町石橋前２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.72239575, 39.08257008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市赤崎町長崎１３２" }, "geometry": { "type": "Point", "coordinates": [ 141.75602014, 39.02095203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町下平５６" }, "geometry": { "type": "Point", "coordinates": [ 141.72375656, 39.04428144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町茶屋前９２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.72194445, 39.0645491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ヶ崎町永沢字関田前２６" }, "geometry": { "type": "Point", "coordinates": [ 141.07108033, 39.17661755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ヶ崎町三ケ尻荒巻横道上４３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.098836080000012, 39.2198965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ヶ崎町西根古寺９３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11430759000001, 39.19323344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ヶ崎町西根字医者屋敷１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.09539515, 39.19590423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町黄海字町裏８" }, "geometry": { "type": "Point", "coordinates": [ 141.29889588, 38.85042194 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町中山字大塚６１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.229802400000011, 40.0680156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町鳥越字野月内館３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.27711516, 40.23735309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市浄法寺町下前田１６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.1599306, 40.18376401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市米沢字下村１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.29434625, 40.28007893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市西根寺田１６−６１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.10645704, 39.97732533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市赤坂田１６６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.00429994000001, 40.05050165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第２５地割６４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.09633885, 39.91284942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市平館１０−３１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.08752714, 39.95029797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市さくら通り３丁目１−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.11842673000001, 39.29594681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市村崎野１８地割２９４−６" }, "geometry": { "type": "Point", "coordinates": [ 141.11021528, 39.33159637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市気仙町字湊１８９" }, "geometry": { "type": "Point", "coordinates": [ 141.62259359, 38.99221527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市気仙町奈々切４４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.62008694, 39.01203662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市広田町字前花貝１７３" }, "geometry": { "type": "Point", "coordinates": [ 141.69622207, 38.96749402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町第本内４６地割" }, "geometry": { "type": "Point", "coordinates": [ 140.84405027, 39.29880808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町沢内字川舟３４地割６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.79805099, 39.48119922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町金沢字内の目１６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.17974819, 38.84806638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市三関字日照３０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.14935609, 38.92751715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字中野４０" }, "geometry": { "type": "Point", "coordinates": [ 141.11842861, 38.93451206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字梅田４６−５" }, "geometry": { "type": "Point", "coordinates": [ 141.32693548, 38.91136028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大原町大原字稗沢６２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.392674950000014, 39.0125578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町摺沢荒屋敷６３−５" }, "geometry": { "type": "Point", "coordinates": [ 141.319554759999988, 38.99672043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市滝沢鶴ヶ沢６３−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.16078035000001, 38.90954664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市上組町１２−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.536932869999987, 39.33328388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区太日通り２−２−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.15033883000001, 39.13575507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区大鐘町２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.13807096, 39.12875092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区塔ケ崎８８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11987793, 39.0411162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村田野畑１２３" }, "geometry": { "type": "Point", "coordinates": [ 141.89163463, 39.93072712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字五日市１２−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.21695969000001, 39.96243176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大字滝沢字砂込７３４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13596694, 39.81833046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市大川目町３−７−６" }, "geometry": { "type": "Point", "coordinates": [ 141.72808233, 40.1835897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市夏屋４−３９−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.60033146, 39.64042051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市上鼻２−８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.91069155, 39.63114565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市大通３−６−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.947789840000013, 39.64031341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市田の神２−５−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.9370524, 39.64742395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町字軽米４−８０" }, "geometry": { "type": "Point", "coordinates": [ 141.46792627, 40.32318109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡野田村大字玉川５−７４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.82620667, 40.08164425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町高水寺字中田５８−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.166214669999988, 39.5774571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町日詰郡山駅８０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.170066889999987, 39.55716501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字又兵エ新田第８地割１０３番地３" }, "geometry": { "type": "Point", "coordinates": [ 141.15745623, 39.61293518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市稲荷町１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.113734, 39.7086468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市永井１３−２５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.140162839999988, 39.65692841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市高松４−１５−２９" }, "geometry": { "type": "Point", "coordinates": [ 141.13866203, 39.7275734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市高崩１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16464245, 39.68723215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市材木町１２−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.13734342, 39.70850724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市西見前１２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.171080679999989, 39.636806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市青山２−２−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.11770585, 39.72467147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市東見前９地割７０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16742735, 39.64353494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市北山２−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.154161789999989, 39.71538472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市流通センタ−北１−３２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.11434741, 39.64539321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県西磐井郡平泉町平泉字志羅山３−９" }, "geometry": { "type": "Point", "coordinates": [ 141.115719360000014, 38.9886054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字地の森１−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.717645690000012, 39.07276299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市荒木田１−７４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.10083961, 39.9630314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市柏台３−４−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.98100445, 39.91281046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市鬼柳町笊渕３６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.101118109999987, 39.27286356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市相去町字和田１２７" }, "geometry": { "type": "Point", "coordinates": [ 141.09355421, 39.2352317 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市相去町平林２１−２０３" }, "geometry": { "type": "Point", "coordinates": [ 141.09925148, 39.25389242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市北鬼柳１８−１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10237102, 39.29295556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市本通り４−１３−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.11998915, 39.29531384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市流通センター９−３" }, "geometry": { "type": "Point", "coordinates": [ 141.1002177, 39.31394989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市和賀町岩崎２７−１８９−２" }, "geometry": { "type": "Point", "coordinates": [ 141.05384185, 39.28353682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町花泉字下北浦２９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17835829, 38.83950873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字十二神４６" }, "geometry": { "type": "Point", "coordinates": [ 141.116018700000012, 38.92916494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市赤荻字堺８９−４" }, "geometry": { "type": "Point", "coordinates": [ 141.10662997, 38.93831583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町大原字中島７−７" }, "geometry": { "type": "Point", "coordinates": [ 141.40394365, 39.01682931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市東山町長坂字町２９０" }, "geometry": { "type": "Point", "coordinates": [ 141.25188355, 38.98992773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字前田８０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15000858, 39.1470371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区字久田１５" }, "geometry": { "type": "Point", "coordinates": [ 141.130955949999986, 39.14403042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区字沖田" }, "geometry": { "type": "Point", "coordinates": [ 141.121059839999987, 39.03890932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区字裏新田前沢ＳＡ上り線給油所" }, "geometry": { "type": "Point", "coordinates": [ 141.10273468, 39.06742763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町船越６−１４２−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.97327926, 39.43638315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町大沢第５地割３８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.96905014, 39.48383806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村菅窪２０５−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.899619230000013, 39.92448359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市石鳥谷町好地１７-３０" }, "geometry": { "type": "Point", "coordinates": [ 141.15033054, 39.4879406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市鵜住居町１４−１２−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.884990789999989, 39.32991362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大字滝沢２０字砂込７３２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.13111451, 39.81217592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市宇部町２１−１０７−３１" }, "geometry": { "type": "Point", "coordinates": [ 141.84730969, 40.13481285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市田老字荒谷７４" }, "geometry": { "type": "Point", "coordinates": [ 141.971966579999986, 39.73944819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村江刺家７２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.41064548, 40.2524952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市第２４地割１５９−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.7088094, 40.41263789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町吉里吉里１−２−５０" }, "geometry": { "type": "Point", "coordinates": [ 141.9405586, 39.36835512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町大町８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.906922650000013, 39.35945233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三ツ割字櫃石２-４１" }, "geometry": { "type": "Point", "coordinates": [ 141.166315200000014, 39.73848826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町越喜来字所通１７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.81019536, 39.12047151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町永沢１９−８" }, "geometry": { "type": "Point", "coordinates": [ 141.72150126, 39.05102593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市末崎町字西舘１３５" }, "geometry": { "type": "Point", "coordinates": [ 141.725967770000011, 38.99268745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市立根町字桑原２２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.71227284, 39.10642329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市浄法寺町漆沢中前田２１５" }, "geometry": { "type": "Point", "coordinates": [ 141.1754568, 40.19922555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更１-３０８-２" }, "geometry": { "type": "Point", "coordinates": [ 141.09505453, 39.88628537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市平笠第２地割２１８" }, "geometry": { "type": "Point", "coordinates": [ 141.046611469999988, 39.91544203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市気仙町字的場１３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.619462489999989, 39.00313431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町大沓３６地割２０番地９" }, "geometry": { "type": "Point", "coordinates": [ 140.78314174, 39.32125593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市狐禅寺字峯下７６" }, "geometry": { "type": "Point", "coordinates": [ 141.16724661, 38.93778569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字三反田１１０" }, "geometry": { "type": "Point", "coordinates": [ 141.11880772, 38.93270912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市室根町矢越字大畑133-1" }, "geometry": { "type": "Point", "coordinates": [ 141.43035383, 38.93612647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字下駒場２８３−６" }, "geometry": { "type": "Point", "coordinates": [ 141.347117059999988, 38.92443562 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市川崎町薄衣字久伝１５４" }, "geometry": { "type": "Point", "coordinates": [ 141.27449099, 38.89839818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町摺沢字羽山前１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.33260869, 38.99797128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町鳥海字古戸前４３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.36517502, 39.0546688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市東山町長坂字町１８０" }, "geometry": { "type": "Point", "coordinates": [ 141.25128619, 38.98897507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町下宮守３０−８９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.353576729999986, 39.345814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市松崎町白岩２５−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.54244551, 39.34401963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市青笹町青笹２３−２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.57070249, 39.31170827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区愛宕字境畑７０" }, "geometry": { "type": "Point", "coordinates": [ 141.15820654, 39.17423501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区玉里字新田前８５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.237277299999988, 39.22561441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区西大通り１１−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.17131683, 39.19200484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区藤里向畑７８" }, "geometry": { "type": "Point", "coordinates": [ 141.22631654, 39.19118603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区東大通１−８−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.149020760000013, 39.14086492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区衣川村大字下衣川字池田西２８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10820338, 39.00887487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区前沢町古城字東見寺下１２" }, "geometry": { "type": "Point", "coordinates": [ 141.135802539999986, 39.0808825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区前沢町七日町裏１３５" }, "geometry": { "type": "Point", "coordinates": [ 141.124134520000013, 39.04995816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町岩泉字森の越３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.79989612, 39.84723518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市重茂第３地割字大浜３" }, "geometry": { "type": "Point", "coordinates": [ 142.023311299999989, 39.58013985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町永井字粒乱田２６９−４" }, "geometry": { "type": "Point", "coordinates": [ 141.22630301, 38.78047365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町金沢字運南田１８２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16142657, 38.85854156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町油島字北堀越２７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17886361, 38.81127947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区胆沢町若柳一本松７９−２" }, "geometry": { "type": "Point", "coordinates": [ 141.053400720000013, 39.12967459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区胆沢町小山字北峠４６−５" }, "geometry": { "type": "Point", "coordinates": [ 141.08127319, 39.1009919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区胆沢町南都田字本木１６５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09329854, 39.14176082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市胡四王１−３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.172341069999987, 39.40617163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市高木１４−１４４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.140592270000013, 39.38653325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市上根子字谷地１７６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.07552816, 39.38227362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市石鳥谷町猪鼻７−７０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17503123, 39.45046101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市石鳥谷町八幡２３−１２６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.14444448, 39.46954064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市太田３１−２９２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.05248906, 39.37463212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市大迫町大迫１１−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.28533547, 39.47067699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市東和町土沢６区１５１" }, "geometry": { "type": "Point", "coordinates": [ 141.23150525, 39.38264866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市湯本４−４０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.08769854, 39.44433052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市野田３６２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.1011394, 39.39974348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡玉山村大字渋民鶴飼１３２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.171782689999986, 39.85145491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡玉山村大字藪川字外山１１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.38099233, 39.82464103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町柿木１５０" }, "geometry": { "type": "Point", "coordinates": [ 140.96497926, 39.70235213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町西安庭４０−４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.969026719999988, 39.66244017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県気仙郡住田町世田米字赤畑１６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.55782926, 39.1452027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町桜町一丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16700327, 39.55069311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字南矢幅１４−８９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.137895250000014, 39.60593909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上厨川字横長根３９−３" }, "geometry": { "type": "Point", "coordinates": [ 141.08776194, 39.70797895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町越喜来字前田34-1" }, "geometry": { "type": "Point", "coordinates": [ 141.8126569, 39.11883515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市猪川町字前田１３−７" }, "geometry": { "type": "Point", "coordinates": [ 141.70771703, 39.09711011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ヶ崎町三ヶ尻字南荒沢２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.100613790000011, 39.21739428 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町藤沢字西古谷１３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.33699468, 38.85691867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町中山字大塚82番地１" }, "geometry": { "type": "Point", "coordinates": [ 141.23041928, 40.06576333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第３６地割４６６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10482943, 39.92346071 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市上江釣子１６−８５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.07293501, 39.30129501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市和賀町横川目１１−２０８−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.97680458, 39.30863358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市和賀町藤根１７−３８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.03308905, 39.30457414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市高田町字中宿１５" }, "geometry": { "type": "Point", "coordinates": [ 141.640561170000012, 39.00961757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡沢内村大字太田第2地割81番地1" }, "geometry": { "type": "Point", "coordinates": [ 140.750814, 39.43489137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市三関字神田158-1" }, "geometry": { "type": "Point", "coordinates": [ 141.14439625, 38.92430102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町摺沢字但馬崎70-7" }, "geometry": { "type": "Point", "coordinates": [ 141.33065481, 38.99588061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市青笹町青笹26-46" }, "geometry": { "type": "Point", "coordinates": [ 141.576016360000011, 39.30346181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区字新城64-3" }, "geometry": { "type": "Point", "coordinates": [ 141.11717717, 39.03162282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町岩泉字三本松19-2" }, "geometry": { "type": "Point", "coordinates": [ 141.79966065, 39.84679176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町門字国境４６" }, "geometry": { "type": "Point", "coordinates": [ 141.58297474, 39.91538013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町織笠12-12-11" }, "geometry": { "type": "Point", "coordinates": [ 141.958562550000011, 39.45528371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市大迫町大迫14-87-2" }, "geometry": { "type": "Point", "coordinates": [ 141.27398627, 39.47339889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市大字平田3-25-15" }, "geometry": { "type": "Point", "coordinates": [ 141.88813807, 39.24650252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市片岸町4-11-4" }, "geometry": { "type": "Point", "coordinates": [ 141.89079806, 39.33571694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字一方井14-163" }, "geometry": { "type": "Point", "coordinates": [ 141.17063359, 39.96977245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字子抱6-35-1" }, "geometry": { "type": "Point", "coordinates": [ 141.21116204, 39.94073225 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字川口41-167-14" }, "geometry": { "type": "Point", "coordinates": [ 141.33028245, 39.94003552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村鵜飼字高柳42-1" }, "geometry": { "type": "Point", "coordinates": [ 141.08798472, 39.73117034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字巣子156" }, "geometry": { "type": "Point", "coordinates": [ 141.12835038, 39.77377475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県気仙郡住田町世田米字向川口102-9" }, "geometry": { "type": "Point", "coordinates": [ 141.54454876, 39.14928855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市新中の橋第4地割31-1" }, "geometry": { "type": "Point", "coordinates": [ 141.76749999, 40.19507621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市刈屋第11地割81-2" }, "geometry": { "type": "Point", "coordinates": [ 141.75829633, 39.64405479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市築地2丁目1-8" }, "geometry": { "type": "Point", "coordinates": [ 141.96005745, 39.64109502 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市藤の川15-40" }, "geometry": { "type": "Point", "coordinates": [ 141.96177320000001, 39.6116235 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字間野々第12地割字定法田101-1" }, "geometry": { "type": "Point", "coordinates": [ 141.171187089999989, 39.596719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町流通センター南2丁目4-10" }, "geometry": { "type": "Point", "coordinates": [ 141.11567857, 39.64231161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町流通センタ-南3丁目10-1" }, "geometry": { "type": "Point", "coordinates": [ 141.11567998000001, 39.63754988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市紺屋町6-8" }, "geometry": { "type": "Point", "coordinates": [ 141.15720282, 39.70398056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上堂4丁目9-1" }, "geometry": { "type": "Point", "coordinates": [ 141.124449340000012, 39.73508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市西松園1丁目3-1" }, "geometry": { "type": "Point", "coordinates": [ 141.158007059999989, 39.75003051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市中屋敷町8-74" }, "geometry": { "type": "Point", "coordinates": [ 141.1196506, 39.70730363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市津志田12地割新田堰91-7" }, "geometry": { "type": "Point", "coordinates": [ 141.1528346, 39.65676454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字地ノ森42-12" }, "geometry": { "type": "Point", "coordinates": [ 141.71459017, 39.07179037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町黄海字中田178" }, "geometry": { "type": "Point", "coordinates": [ 141.29292437, 38.8490176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町砂子田字高田77" }, "geometry": { "type": "Point", "coordinates": [ 141.35198947, 38.8846126 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町小鳥谷宇野里17-3" }, "geometry": { "type": "Point", "coordinates": [ 141.30592252, 40.1742864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市松尾1-210-1" }, "geometry": { "type": "Point", "coordinates": [ 141.03566515, 39.97325191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第1地割203-20" }, "geometry": { "type": "Point", "coordinates": [ 141.09814825, 39.88018032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市田山石名坂50-1" }, "geometry": { "type": "Point", "coordinates": [ 140.94026116, 40.14025338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市平笠2-1-139" }, "geometry": { "type": "Point", "coordinates": [ 141.04602681, 39.91341104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市野駄4-163-1" }, "geometry": { "type": "Point", "coordinates": [ 141.027864920000013, 39.94708893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市村崎野22-5-1" }, "geometry": { "type": "Point", "coordinates": [ 141.1092247, 39.33353484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市本石町2丁目1-6" }, "geometry": { "type": "Point", "coordinates": [ 141.11624878, 39.29102771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区株樹95" }, "geometry": { "type": "Point", "coordinates": [ 141.135469949999987, 39.06066311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県西磐井郡平泉町平泉字佐野１９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.124064010000012, 38.96533651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県西磐井郡平泉町平泉字宿５３−４" }, "geometry": { "type": "Point", "coordinates": [ 141.121157360000012, 38.9638734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第35地割200-1" }, "geometry": { "type": "Point", "coordinates": [ 141.09679809, 39.92256651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市相去町字笹長根３９−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.09122517, 39.23130049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市宮前町３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.12958033000001, 38.9375732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市真柴字岩の沢７２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11771678, 38.88468701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市川崎町薄衣字法道寺２１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.27267704, 38.89935722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市釣山１−１１８" }, "geometry": { "type": "Point", "coordinates": [ 141.129002359999987, 38.92720499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区西大通り１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.171960899999988, 39.19534539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区八日町１−４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.172898800000013, 39.18842614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区梁川字舘下１" }, "geometry": { "type": "Point", "coordinates": [ 141.2625276, 39.28343529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字沼田４７" }, "geometry": { "type": "Point", "coordinates": [ 141.14425895, 39.16322646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区真城字中上野２２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.14592011, 39.12104891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区斉の神８９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12878916, 39.14107561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区古城字田中９７" }, "geometry": { "type": "Point", "coordinates": [ 141.13551877, 39.06590053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡普代村１３−１２８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.884585640000012, 40.007192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町西安庭第１５地割４５" }, "geometry": { "type": "Point", "coordinates": [ 140.9865883, 39.6732507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市宮町１−１−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.94589059, 39.63878361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町小軽米第３−６０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.52215407, 40.30193101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市永井１２−１２８" }, "geometry": { "type": "Point", "coordinates": [ 141.13673165, 39.65756836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市西見前１５−４８" }, "geometry": { "type": "Point", "coordinates": [ 141.16456958, 39.64814461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本町通２−１−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.15113108, 39.70648291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県西磐井郡平泉町平泉字高田６８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.11886105, 38.97103656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町永栄天王川原１２" }, "geometry": { "type": "Point", "coordinates": [ 141.065179910000012, 39.1557805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡胆沢町小山字川北１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.09215157, 39.11711598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町町裏１−９" }, "geometry": { "type": "Point", "coordinates": [ 141.34866899, 38.86158634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町藤沢字町裏１−９" }, "geometry": { "type": "Point", "coordinates": [ 141.34980226, 38.86111976 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市釜沢字山道３７−７" }, "geometry": { "type": "Point", "coordinates": [ 141.27541007, 40.34188923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市米沢字荒谷３０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.29234195, 40.2838161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市和賀町藤根１７−７８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.03244111, 39.30183077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字泥田４５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.11194971, 38.93821233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市川崎町薄衣字法道地４２−９" }, "geometry": { "type": "Point", "coordinates": [ 141.27099431, 38.89878808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市綾織町新里２８−７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.50351733, 39.3274528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市早瀬町４−８−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.527128010000013, 39.33900506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市附馬牛町上附馬牛１３−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.53408873, 39.41273378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字後樋２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15254966, 39.15248347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町岩泉字村木１８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.79157702, 39.84686078 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町門字町６３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.64817066, 39.87657765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町山田第２地割２４" }, "geometry": { "type": "Point", "coordinates": [ 141.95612105, 39.47565683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町船越第２２地割１８８" }, "geometry": { "type": "Point", "coordinates": [ 142.00449817, 39.44749948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町船越第６地割１４８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.9702914, 39.44371283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町大沢第８地割１０９" }, "geometry": { "type": "Point", "coordinates": [ 141.97661346000001, 39.48299018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村島越１０４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.9438299, 39.91507476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市円万寺下中野３６−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.052030620000011, 39.39021626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市下似内第１７地割８１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12321637, 39.4008215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市上町８−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.1186281, 39.38652737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市台第５地割７−９" }, "geometry": { "type": "Point", "coordinates": [ 141.07289035, 39.44874711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市中根子字堂前２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09018705, 39.38051052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市港町１−５−８" }, "geometry": { "type": "Point", "coordinates": [ 141.888016709999988, 39.26806958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市只越町１−６−４" }, "geometry": { "type": "Point", "coordinates": [ 141.88806587, 39.27397932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町葛巻第２８地割２５" }, "geometry": { "type": "Point", "coordinates": [ 141.408146319999986, 39.98149476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字江刈内３−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.216458609999989, 39.95202902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大釜字竹鼻１６３−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.072217020000011, 39.70316538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大字滝沢字木賊川３２０−１１８" }, "geometry": { "type": "Point", "coordinates": [ 141.11219233, 39.7793357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字巣子１２４８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.11762037, 39.81486836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字木賊川３２０−１１１" }, "geometry": { "type": "Point", "coordinates": [ 141.11167713, 39.77833243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市光岸地１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.96318892, 39.64050866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市港町１−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.9684297, 39.64566214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市田老町青砂里１７２" }, "geometry": { "type": "Point", "coordinates": [ 141.97763729, 39.73460206 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町吉水字中村３８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10809778, 39.56809261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町日詰字下丸森１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.167907860000014, 39.55533802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町須賀町９−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.9071223, 39.35694748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市玉山区下田字石羽根９９−７６" }, "geometry": { "type": "Point", "coordinates": [ 141.11235059, 39.84433327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市玉山区渋民字渋民５７" }, "geometry": { "type": "Point", "coordinates": [ 141.169030819999989, 39.84316258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三ツ割４−２−３９" }, "geometry": { "type": "Point", "coordinates": [ 141.1594696, 39.72775963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市手代森１４地割１９−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.18274793, 39.65103563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上堂４−２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.12362509, 39.73088618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市西仙北１−３３−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.143866800000012, 39.68680027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市前潟１−１−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.10762372, 39.70978394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市大字湯沢第５地割３４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.1039362, 39.64714503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市茶畑１−１９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16692641, 39.69499391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市津志田１５地割２９−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.16096375, 39.65770648 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市東黒石野２−１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.15270995, 39.74840042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市北山２−１８−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.146387440000012, 39.71712629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町綾里館１３４" }, "geometry": { "type": "Point", "coordinates": [ 141.79727548, 39.04312847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町吉浜向野３７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.861763270000012, 39.15602092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市盛町字津野沢５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.70968488, 39.08202999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町三ケ尻荒巻横道上６６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09950272, 39.21897997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市堀野字東側１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.296028080000013, 40.28907205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市平舘第２５地割１２５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.09575056, 39.93557041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市亦戸川原２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.94737476, 40.13800164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市帷子１０−６１" }, "geometry": { "type": "Point", "coordinates": [ 141.1041875, 39.97431966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市常盤台３−１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11554836, 39.30462201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市村崎野１５地割２５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.10266571, 39.32260749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市大堤南１−１−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.09930064, 39.26281447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市町分４地割３６" }, "geometry": { "type": "Point", "coordinates": [ 141.10703311, 39.29966949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市北鬼柳１９地割２８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.095436260000014, 39.29371393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市本通り１−２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.11479524, 39.28532697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市高田町字本宿６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.63563918, 39.01278585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市小友町字下新田１２" }, "geometry": { "type": "Point", "coordinates": [ 141.69998479, 38.98866277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市竹駒町字細根沢９−３" }, "geometry": { "type": "Point", "coordinates": [ 141.60928587, 39.03418778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市米崎町字沼田１５８" }, "geometry": { "type": "Point", "coordinates": [ 141.65171756, 39.00626035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町川尻４０地割１１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.77539339, 39.31576847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町沢内新町９−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.75812129, 39.39184322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県和賀郡西和賀町湯本３０地割１０５" }, "geometry": { "type": "Point", "coordinates": [ 140.773102959999989, 39.34192456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市花泉町涌津字道下３０−７" }, "geometry": { "type": "Point", "coordinates": [ 141.183729559999989, 38.82926774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市厳美町字沖野々１７５" }, "geometry": { "type": "Point", "coordinates": [ 141.05263439, 38.94358653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字大槻８８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.119363990000011, 38.93745298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市室根町折壁字絵図下" }, "geometry": { "type": "Point", "coordinates": [ 141.443114939999987, 38.93807255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字館山２２" }, "geometry": { "type": "Point", "coordinates": [ 141.335159549999986, 38.91673494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町猿沢字板倉５５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.295315249999987, 39.03394844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町大原字立町５８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.39657577, 39.01524406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市銅谷町１０−６" }, "geometry": { "type": "Point", "coordinates": [ 141.12346226, 38.93177609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区字土器田３４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.12961673, 39.14522521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区太日通り１丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.14972889, 39.13367966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市西宮野目第５地割４０４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.13070054, 39.42849012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市石鳥谷町好地第９−１２５" }, "geometry": { "type": "Point", "coordinates": [ 141.153587710000011, 39.49969602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市東和町土沢１８−１２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.236659980000013, 39.38256727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町葛巻１４−１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.4400263, 40.04171495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町長山第４１地割上曽根" }, "geometry": { "type": "Point", "coordinates": [ 140.97888587, 39.69536585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市川貫町６−３４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.75492365, 40.19071977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村伊保内１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.418553159999988, 40.21092116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町円子第４−１７７" }, "geometry": { "type": "Point", "coordinates": [ 141.48171141, 40.27297389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町晴山２４−１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.375671329999989, 40.32450413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野７１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.627871, 40.2858138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県水沢市南町４−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.14437088, 39.13662227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上田４−１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.132949020000012, 39.72309977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市中野２−１６−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.16547194, 39.68910735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市津志田２５−２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.15659555, 39.66939228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市東安庭二丁目２番１２号" }, "geometry": { "type": "Point", "coordinates": [ 141.16326208000001, 39.68034006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市盛町字内の目１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.71275737, 39.08010966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字永沢６２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.720015960000012, 39.05039951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町三ケ尻横道上６６" }, "geometry": { "type": "Point", "coordinates": [ 141.09934161000001, 39.21937158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町西法寺字関屋４４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.297118790000013, 40.20310893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市金田一字八ツ長１６５" }, "geometry": { "type": "Point", "coordinates": [ 141.30671179, 40.31362651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市金田一字八ツ長２９６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.3087228, 40.31087973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市福岡字八幡下６９−４" }, "geometry": { "type": "Point", "coordinates": [ 141.29440377, 40.26406641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市堀野字長地７２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.29786615, 40.29320675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更２１−５４−４" }, "geometry": { "type": "Point", "coordinates": [ 141.09915454, 39.9104862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市鍛冶町２−２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.10396936, 39.28897759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市高田町字裏田２５" }, "geometry": { "type": "Point", "coordinates": [ 141.634245740000011, 39.01577991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市青笹町糠前９−１−７" }, "geometry": { "type": "Point", "coordinates": [ 141.55798085, 39.33189596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区姉体町字山居前１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.173647030000012, 39.09480487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市材木町５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.11118694000001, 39.3864535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡玉山村下田字船綱９５−７" }, "geometry": { "type": "Point", "coordinates": [ 141.15282986, 39.83174664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市磯鶏２丁目３−８" }, "geometry": { "type": "Point", "coordinates": [ 141.96180614, 39.62314704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市大字津軽石５−７９" }, "geometry": { "type": "Point", "coordinates": [ 141.93635464, 39.57816293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町山内２９地割２" }, "geometry": { "type": "Point", "coordinates": [ 141.39601174, 40.30198027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町晴山５−７３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.41660607, 40.33995118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町高水寺字中田９２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16571733, 39.57597744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市下太田下川原２２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.12032162, 39.69595215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市月が丘３−３９−４５" }, "geometry": { "type": "Point", "coordinates": [ 141.10839221, 39.73872806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市手代森１４地字田中１６−４４３" }, "geometry": { "type": "Point", "coordinates": [ 141.182291029999988, 39.65654977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字欠ノ下向１２９" }, "geometry": { "type": "Point", "coordinates": [ 141.72510119, 39.06520904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市北工業団地７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.123171789999986, 39.33542877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区小石田６７" }, "geometry": { "type": "Point", "coordinates": [ 141.1325388, 39.15003663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町永沢２２−８" }, "geometry": { "type": "Point", "coordinates": [ 141.72200414, 39.04924368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市永井１２地割７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13613876, 39.65710314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市気仙町字土手影１４５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.62624499, 39.00831332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町豊間根第３地割３３" }, "geometry": { "type": "Point", "coordinates": [ 141.92433803, 39.53578652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市川崎町11-30" }, "geometry": { "type": "Point", "coordinates": [ 141.77091794, 40.19244054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市日影町１３１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.9592792, 39.6501561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三本柳１２地割４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.164551929999988, 39.65337327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市向中野字千刈田３８−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.13511786, 39.68354517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢巣子１０７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.128935250000012, 39.77199876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市西宮野目第5地割505-6" }, "geometry": { "type": "Point", "coordinates": [ 141.129682910000014, 39.42555203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三本柳10地割1" }, "geometry": { "type": "Point", "coordinates": [ 141.1635693, 39.65405692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区愛宕金谷１００−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17980144, 39.15870263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市東見前６地割２７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17021788, 39.64224283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県二戸市金田一上田面７６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.31173593, 40.32058684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市堤ケ丘１−９−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.115445810000011, 39.30956959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県宮古市上鼻２−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.916376680000013, 39.63156144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市真柴字中田８７" }, "geometry": { "type": "Point", "coordinates": [ 141.130404919999989, 38.90642995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市赤荻桜町１７５" }, "geometry": { "type": "Point", "coordinates": [ 141.09276974, 38.93881899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県大船渡市盛町二本枠２３−４" }, "geometry": { "type": "Point", "coordinates": [ 141.71384339, 39.08011247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県久慈市大沢第８地割２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.74811759, 40.18964577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県久慈市長内町１７−１００−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.76545957, 40.15330835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県奥州市水沢区山崎町１４−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.144590529999988, 39.13174917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県花巻市材木町１７−３７" }, "geometry": { "type": "Point", "coordinates": [ 141.1079268, 39.38872533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県遠野市青笹町青笹４−５８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.55605635, 39.32485775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県大船渡市盛町字中道下２−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.71540721, 39.07834605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市盛岡駅西通２−３−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.136285429999987, 39.69957766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県釜石市松原町３−１−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.87983166, 39.2687118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市下太田田中４７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11491535, 39.69275821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市厨川１−１５−４６" }, "geometry": { "type": "Point", "coordinates": [ 141.130762440000012, 39.7463665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市青山３丁目２６−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.11358107, 39.72858762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町安家字松林１１８" }, "geometry": { "type": "Point", "coordinates": [ 141.73226609, 39.98671234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市金田一字八ツ長２６６" }, "geometry": { "type": "Point", "coordinates": [ 141.31000588, 40.31192539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市松尾寄木第２７地割１１" }, "geometry": { "type": "Point", "coordinates": [ 141.04431512, 39.92540923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区佐倉河字前田５１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.149147989999989, 39.14761155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市桜町１丁目５６７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.117979, 39.37486059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市音部第５地割１７" }, "geometry": { "type": "Point", "coordinates": [ 142.02593751, 39.59831218 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区字不断町１９" }, "geometry": { "type": "Point", "coordinates": [ 141.14270794, 39.15209187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市綾織町新里１９地割６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.48111591, 39.32806875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市二子町鳥喰２１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13984162, 39.32116475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市山形町霜畑第６地割１７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.594172789999988, 40.09333799 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡軽米町大字晴山第２０地割７７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.38502276, 40.3310304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡普代村第２０地割字馬場野６９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.86273343, 40.04866111 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市蟇目第５地割４４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.83769096, 39.62985515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村大字伊保内第３地割３７" }, "geometry": { "type": "Point", "coordinates": [ 141.424182980000012, 40.20540412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市野田３０７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.09708869, 39.40027084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市第３３地割３２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.699493819999986, 40.42147804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町中野第６地割２８" }, "geometry": { "type": "Point", "coordinates": [ 141.773983390000012, 40.30332984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市門馬田代第２地割１１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.40276502, 39.6427637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市玉山区渋民字鶴飼４０" }, "geometry": { "type": "Point", "coordinates": [ 141.17147162, 39.8504142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市金田一字上田面７８" }, "geometry": { "type": "Point", "coordinates": [ 141.302687350000014, 40.30460711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市立根町字堰口２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.708331789999988, 39.09991147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町西根新田５" }, "geometry": { "type": "Point", "coordinates": [ 141.07348307, 39.19529846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市赤荻字槻本２９３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.087078709999986, 38.93450813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市盛岡駅西通２丁目１７−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.13550221, 39.69805278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町六原東町３６０" }, "geometry": { "type": "Point", "coordinates": [ 141.09230019, 39.22957849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市里分４地割４３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13586383, 39.29349563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町阿子木第１８地割３５−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.70690717, 40.260131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町中央町２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.95298559, 39.46895308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市高田町字古川２８" }, "geometry": { "type": "Point", "coordinates": [ 141.62947, 39.00935856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮字谷地１１６" }, "geometry": { "type": "Point", "coordinates": [ 141.123153660000014, 39.68936159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市城西町９−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.123828089999989, 39.70464057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市堀野字三十刈５−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.296469269999989, 40.28573271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字野々田２５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.71820753, 39.06080934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市西宮野目第１３地割１１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12524074000001, 39.41042867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市松尾寄木第１３地割８１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.016267199999987, 39.91827377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町袰綿字浦場６４−８" }, "geometry": { "type": "Point", "coordinates": [ 141.685052039999988, 39.85138169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第２４地割８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.09463297, 39.91354327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市大更第２６地割５０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.10511815000001, 39.91196863 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大沢字谷地上４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.07368116, 39.72481193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字土沢２２４−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.09908558, 39.75485395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町葛巻第８地割６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.45210294, 40.03710764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市松尾第２８地割５５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.061185630000011, 39.96401587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市玉山区好摩字夏間木２０２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.17429833, 39.87599151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町日詰字郡山駅１８" }, "geometry": { "type": "Point", "coordinates": [ 141.16967365, 39.55285933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市両石町第２地割１５" }, "geometry": { "type": "Point", "coordinates": [ 141.88981482, 39.30909215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市広田町字天王前７５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.70163426, 38.96363498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字川口第５地割９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.20170653, 39.93533686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市東前町２０−３４" }, "geometry": { "type": "Point", "coordinates": [ 141.894740180000014, 39.27269346 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区広瀬字下日向６２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.21156926, 39.25490091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市上斗米字太田４４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22612817000001, 40.28127556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町下鱒沢１７地割７２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.397815650000013, 39.30036359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字町８７" }, "geometry": { "type": "Point", "coordinates": [ 141.33103759, 38.9171041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町綾里字石浜１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.79267744, 39.04261387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町綾里字岩崎５６−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.793150419999989, 39.04868125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町吉里吉里１丁目５−１０１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.9436571, 39.36885064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町清田字田畑４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.384555189999986, 38.93298657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町下宮守２６地割１２５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.350023029999988, 39.3514718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡山田町川向町８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.950322089999986, 39.46446736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区南都田字独光１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.0682324, 39.13468716 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町大川字下町９９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.65628174, 39.80203519 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市東和町土沢２区３０６" }, "geometry": { "type": "Point", "coordinates": [ 141.224042200000014, 39.38913025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町西根中江甫２５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.11609766, 39.20193619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区向田２丁目３４" }, "geometry": { "type": "Point", "coordinates": [ 141.13132248, 39.05187697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区小山字道場６１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.080242090000013, 39.09822323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字構井田６６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.34137246, 38.92317854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市胆沢区若柳字愛宕４１５" }, "geometry": { "type": "Point", "coordinates": [ 140.987879709999987, 39.12503974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大東町猿沢字山崎１０６−５" }, "geometry": { "type": "Point", "coordinates": [ 141.29434071, 39.04064989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県東磐井郡藤沢町保呂羽字二本柳９７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.374194460000012, 38.8456983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県九戸郡洋野町大野第７１地割２８" }, "geometry": { "type": "Point", "coordinates": [ 141.62863782, 40.28635972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県岩手郡滝沢村滝沢字巣子１０３１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.12826383, 39.79570557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市赤荻字桜町１２４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09314466, 38.94017719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市本宮４丁目２０−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.13173347, 39.68742593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県八幡平市大更第２１地割４６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.0972773, 39.91063531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県花巻市桜町４丁目１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12365345, 39.37452465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市山目町３丁目５−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.13087991, 38.9512189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市新穀町１丁目７−４７" }, "geometry": { "type": "Point", "coordinates": [ 141.112982499999987, 39.28830012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市上厨川字杉原１１５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.1093653, 39.70847303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県二戸郡一戸町中山字大塚１１６" }, "geometry": { "type": "Point", "coordinates": [ 141.23116471, 40.06412647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市口内町草刈場３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.21519583, 39.27953432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県東磐井郡藤沢町藤沢字狩野３６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.34859701, 38.85674517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県二戸郡一戸町高善寺字野田９４" }, "geometry": { "type": "Point", "coordinates": [ 141.298746240000014, 40.21274403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県釜石市定内町３丁目２−３１" }, "geometry": { "type": "Point", "coordinates": [ 141.8344148, 39.25887136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市仙北１丁目１５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.15130445, 39.69079496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市山岸６丁目１０−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.17275067, 39.72706139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市厨川１丁目４−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.128773880000011, 39.74127257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県岩手郡岩手町大字五日市第８地割７６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22742273, 39.97950018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市山岸２丁目１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.1681322, 39.71154659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市山岸１丁目２−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.165443540000012, 39.71194091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市厨川３丁目９−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.133556449999986, 39.75221316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県岩手郡葛巻町葛巻第１２地割２４−５" }, "geometry": { "type": "Point", "coordinates": [ 141.4413341, 40.04088195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市津志田１２地割９３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.151910539999989, 39.65681011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡紫波町中島字落合５６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.155243610000014, 39.58201375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市仙北３丁目１６−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.151303930000012, 39.68306028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡紫波町中島字前郷６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.15710458, 39.58030011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡紫波町日詰字朝日田９３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16061327, 39.55891942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市高松２丁目１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13393782, 39.72334143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市玉山区好摩字夏間木８３−６" }, "geometry": { "type": "Point", "coordinates": [ 141.17253778, 39.87421431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県大船渡市大船渡町字野々田１１−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.72229327, 39.05922356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県陸前高田市竹駒町字十日市場１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.617784339999986, 39.02845443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県奥州市水沢区字西光田７７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.11029911, 39.14378038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県釜石市只越町３丁目９−７" }, "geometry": { "type": "Point", "coordinates": [ 141.885077450000011, 39.27592216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県陸前高田市気仙町字町１０４" }, "geometry": { "type": "Point", "coordinates": [ 141.616165669999987, 39.00944806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市内丸１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.14911201000001, 39.69909759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市山目字十二神１６３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.119417660000011, 38.92867937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県大船渡市大船渡町字砂森１−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.71879309, 39.07640193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市若園町１−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.15763899, 39.70282743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市内丸１４−４" }, "geometry": { "type": "Point", "coordinates": [ 141.15420912, 39.70342666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県奥州市江刺区川原町９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.18111908, 39.18655512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県宮古市横町３−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.95080508, 39.64400814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県宮古市向町３−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.95377833, 39.64188762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市三関字日照４０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.14749314, 38.9265389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市大沢川原２丁目５−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.14408744, 39.70008068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県宮古市栄町１−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.94437402, 39.64159433 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県遠野市新穀町３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.53004743, 39.33155606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市宮下町１２−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.127416509999989, 38.94046727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県久慈市長内町第４０地割１６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.79429169, 40.19749262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市本町通１丁目１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.152422589999986, 39.70802996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市堤ケ丘１丁目７−３０" }, "geometry": { "type": "Point", "coordinates": [ 141.11660382, 39.3086675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市大東町摺沢字街道下２３" }, "geometry": { "type": "Point", "coordinates": [ 141.32116856, 38.99496515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市和賀町横川目１２地割７９" }, "geometry": { "type": "Point", "coordinates": [ 140.97350409, 39.30656604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県花巻市石鳥谷町好地第１６地割５２" }, "geometry": { "type": "Point", "coordinates": [ 141.15409879, 39.49604923 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡矢巾町大字西徳田第８地割１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.17656263, 39.61251905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市和賀町藤根１８地割８１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.03774626, 39.30259434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市本町通１丁目７−３１" }, "geometry": { "type": "Point", "coordinates": [ 141.15558902, 39.70627191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県奥州市前沢区字三日町４９" }, "geometry": { "type": "Point", "coordinates": [ 141.12276782, 39.04811323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県上閉伊郡大槌町安渡３丁目１１−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.91972374, 39.35795383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市大東町摺沢字大森１１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.34420215, 39.00081777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡紫波町日詰字郡山駅２０４" }, "geometry": { "type": "Point", "coordinates": [ 141.17001792, 39.55670608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市本町通２丁目１５−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.14730081, 39.70871865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県盛岡市館向町１７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12971905, 39.71946721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市鍛冶町１丁目１−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.10830238, 39.2873362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市上田２丁目１７−６" }, "geometry": { "type": "Point", "coordinates": [ 141.14152338, 39.71730625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市前九年２丁目４−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.12731942, 39.71534512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市仙北２丁目１２−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.151151019999986, 39.68806815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市高松２丁目１０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13586265, 39.72279987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市館向町２５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.129874449999988, 39.72011686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市上田字小鳥沢８５−４４" }, "geometry": { "type": "Point", "coordinates": [ 141.160950750000012, 39.76247947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市門２丁目９−９" }, "geometry": { "type": "Point", "coordinates": [ 141.17157764000001, 39.66677911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市大沢川原２丁目６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.144642940000011, 39.70030846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県釜石市新浜町１丁目１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.896003979999989, 39.27201578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県釜石市只越町３丁目７−７" }, "geometry": { "type": "Point", "coordinates": [ 141.88490478, 39.27569578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県一関市山目町１丁目１２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.12763586, 38.94265592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県久慈市中央２丁目３３" }, "geometry": { "type": "Point", "coordinates": [ 141.76947045, 40.19121487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県遠野市上郷町平倉３９地割９−３" }, "geometry": { "type": "Point", "coordinates": [ 141.59111112, 39.2655377 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県遠野市穀町３−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.533919059999988, 39.3313706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県岩手郡雫石町上町東１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.96918722, 39.69544796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県岩手郡岩手町大字五日市第１０地割１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.21222997000001, 39.96846781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県陸前高田市高田町字下宿９−２" }, "geometry": { "type": "Point", "coordinates": [ 141.6455183, 39.01103771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県北上市本通り４丁目１４−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.11988997, 39.29564123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県一関市赤荻字亀田２３２" }, "geometry": { "type": "Point", "coordinates": [ 141.09183371, 38.93888283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県八幡平市大更第１８地割８８−９０" }, "geometry": { "type": "Point", "coordinates": [ 141.0965807, 39.89914207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市夕顔瀬町１７−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.13297158, 39.70936532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県胆沢郡金ケ崎町西根本町４３" }, "geometry": { "type": "Point", "coordinates": [ 141.1178155, 39.19780244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市花城町１２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.11607043, 39.38740905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県二戸市福岡字八幡平２２" }, "geometry": { "type": "Point", "coordinates": [ 141.3004616, 40.26365835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県久慈市川崎町５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.773851900000011, 40.18962669 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市三ツ割字櫃石２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.1662149, 39.7381598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市中ノ橋通１丁目１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.156553, 39.69953659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市前九年１丁目９−４８" }, "geometry": { "type": "Point", "coordinates": [ 141.12932178, 39.71438406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県八幡平市田沢９０−１２４" }, "geometry": { "type": "Point", "coordinates": [ 140.971521169999988, 40.13239339 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市湯沢１６地割１５−３４" }, "geometry": { "type": "Point", "coordinates": [ 141.11653077, 39.65446782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市乙部５地割７５" }, "geometry": { "type": "Point", "coordinates": [ 141.192408300000011, 39.61204453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県宮古市日の出町４−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.95395073, 39.65370686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県奥州市水沢区羽田町字並柳３" }, "geometry": { "type": "Point", "coordinates": [ 141.18112874, 39.13996318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市石鳥谷町好地第８地割１５１−４" }, "geometry": { "type": "Point", "coordinates": [ 141.151874, 39.4980184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県二戸郡一戸町一戸字本町８１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.29957939, 40.21978777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県一関市川崎町薄衣字町裏１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.26938293, 38.8990766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県九戸郡洋野町種市第９地割３５−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.73741704, 40.37593297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県九戸郡軽米町大字軽米第８地割６８" }, "geometry": { "type": "Point", "coordinates": [ 141.46196858, 40.32786434 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県下閉伊郡岩泉町岩泉字三本松２１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.80010503, 39.8467859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県下閉伊郡岩泉町安家字日蔭２７" }, "geometry": { "type": "Point", "coordinates": [ 141.73123566000001, 39.98579019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県下閉伊郡岩泉町浅内字浅内向１４" }, "geometry": { "type": "Point", "coordinates": [ 141.7342318, 39.8167436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県上閉伊郡大槌町吉里吉里２丁目６−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.94278914, 39.37043848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県上閉伊郡大槌町安渡３丁目１１−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.92036934, 39.35677024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県岩手郡雫石町長山上小林１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.968922029999987, 39.71906757 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県久慈市荒町２丁目１０" }, "geometry": { "type": "Point", "coordinates": [ 141.76057497, 40.19170687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市松園町７０３" }, "geometry": { "type": "Point", "coordinates": [ 141.100704760000013, 39.40912008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県一関市宮坂町８−７" }, "geometry": { "type": "Point", "coordinates": [ 141.132066900000012, 38.92055011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県久慈市十八日町１丁目２５" }, "geometry": { "type": "Point", "coordinates": [ 141.76648996, 40.19159035 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市みたけ３丁目４−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.11357718, 39.73698904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県岩手郡岩手町大字江刈内第６地割２１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22077936, 39.9656378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県一関市山目字寺前６" }, "geometry": { "type": "Point", "coordinates": [ 141.12077824, 38.93817842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県釜石市甲子町第１０地割３３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.80168608, 39.25553828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県奥州市前沢区白山字船橋５５" }, "geometry": { "type": "Point", "coordinates": [ 141.1609364, 39.0665369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県岩手郡滝沢村鵜飼字笹森１０７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09013253, 39.73239778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県二戸市石切所字枋ノ木６４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.28761558, 40.26003888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県遠野市中央通り１−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.53151129, 39.32844815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県二戸市金田一字下平道ノ上５２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.3012258, 40.31800366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県八幡平市大更第２５地割１１５−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.09858258, 39.91406553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県二戸市米沢字下村８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.29376147, 40.27716987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県宮古市築地２丁目４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.961527960000012, 39.64166959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市湯沢１０地割４８−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.11315371, 39.64570209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県宮古市港町６−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.96841324, 39.6475745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県奥州市水沢区字吉小路３７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13754097, 39.14334504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県奥州市水沢区真城字町下１０１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.13504541, 39.09846636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県奥州市水沢区字寺小路１１" }, "geometry": { "type": "Point", "coordinates": [ 141.14259605, 39.14165922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市松園２丁目７−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.16613116, 39.75076958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市緑が丘３丁目１０−７" }, "geometry": { "type": "Point", "coordinates": [ 141.14315, 39.73481781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市南青山町５−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.11703941, 39.71776945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市南大通１丁目１２−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.15794462, 39.6964925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市南仙北１丁目１８−４３" }, "geometry": { "type": "Point", "coordinates": [ 141.151031859999989, 39.6782885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市茶畑２丁目４−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.16244267, 39.69230086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市本町通１丁目１１−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.153403090000012, 39.70686068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県盛岡市南仙北１丁目１７−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.15280117, 39.67763028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市矢沢第５地割２５０" }, "geometry": { "type": "Point", "coordinates": [ 141.16790081, 39.41289319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市若葉町２丁目８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.10589785, 39.38832189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県北上市大通り２丁目８−４" }, "geometry": { "type": "Point", "coordinates": [ 141.11651846, 39.28306743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市葛第５地割２７２" }, "geometry": { "type": "Point", "coordinates": [ 141.13675297, 39.42368535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "岩手県花巻市二枚橋町大通り２丁目１３" }, "geometry": { "type": "Point", "coordinates": [ 141.13253298, 39.44212722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市前沢区養ヶ森" }, "geometry": { "type": "Point", "coordinates": [ 141.09959136, 39.06691329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町字永沢３８−７" }, "geometry": { "type": "Point", "coordinates": [ 141.721654730000012, 39.05012583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市川崎町薄衣字久伝３８−９" }, "geometry": { "type": "Point", "coordinates": [ 141.273931510000011, 38.89905797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢砂込７３２−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.13327662, 39.81440917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町片寄字二ツ森" }, "geometry": { "type": "Point", "coordinates": [ 141.10270974, 39.5133357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字巣子１２４８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11720306, 39.81488637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市帷子第１０地割４８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.10536516, 39.97582974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市石鳥谷町好地9-126-1" }, "geometry": { "type": "Point", "coordinates": [ 141.15344382, 39.49921482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市長内町第１７地割３−７" }, "geometry": { "type": "Point", "coordinates": [ 141.77204755, 40.16340457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市末崎町字神坂６４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.71727417, 39.0186958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市水沢区天文台通り２−７" }, "geometry": { "type": "Point", "coordinates": [ 141.13658967, 39.13520287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市立根町字立根山１−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.724642139999986, 39.12749511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市夕顔瀬町７−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.13206062, 39.70672393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市永井１５地割３８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.1446751, 39.65754597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市港町２−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.96845493, 39.64621633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市桜町１丁目１９８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.11945101, 39.37665764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市上組町５−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.53590591, 39.33237866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市侍浜町北野第１０地割８３" }, "geometry": { "type": "Point", "coordinates": [ 141.78796144, 40.25460882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市青葉２丁目８−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.12887608, 38.93269353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市大町３−５８" }, "geometry": { "type": "Point", "coordinates": [ 141.135910700000011, 38.92846884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市十八日町２丁目５" }, "geometry": { "type": "Point", "coordinates": [ 141.76579204, 40.19078664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市小久慈町第６１地割８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.741643689999989, 40.15917135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県北上市北工業団地７−９" }, "geometry": { "type": "Point", "coordinates": [ 141.12331991, 39.338598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市高田町字中長砂１３" }, "geometry": { "type": "Point", "coordinates": [ 141.64014022, 39.01188776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市開運橋通４−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.14265053, 39.70273534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡九戸村大字戸田第２２地割８" }, "geometry": { "type": "Point", "coordinates": [ 141.42346686, 40.14877447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市月ケ丘３丁目５０−７" }, "geometry": { "type": "Point", "coordinates": [ 141.10648669, 39.74104167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市小友町字三日市１２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.684319069999987, 38.9973887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市寺志田１６５−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.04500255, 40.0886581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村一の渡１０１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.841299170000013, 39.94912191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市川井第１地割１０２" }, "geometry": { "type": "Point", "coordinates": [ 141.67160152, 39.59238448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市堀野字長地７５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.29895529, 40.29387892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市松尾第２８地割２８−５" }, "geometry": { "type": "Point", "coordinates": [ 141.06110154000001, 39.96243588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字間野々第１０地割１２４" }, "geometry": { "type": "Point", "coordinates": [ 141.17076103, 39.59099374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町又兵エ新田第８地割字腰巡" }, "geometry": { "type": "Point", "coordinates": [ 141.15746981, 39.61303172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村島越１９０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.94248611, 39.91571633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市千厩町千厩字上駒場３３９−６" }, "geometry": { "type": "Point", "coordinates": [ 141.35651348, 38.92567122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市長町２丁目９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.91777248, 39.63190472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市山形町川井第８地割１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.57284777000001, 40.15016494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市三陸町越喜来字東崎浜８９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.8613149, 39.10455972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡種市町中野１３−１９−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.77628402, 40.29937712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市藤原1-7-11" }, "geometry": { "type": "Point", "coordinates": [ 141.95966662, 39.63819316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市宮町４丁目２−４０" }, "geometry": { "type": "Point", "coordinates": [ 141.9349224, 39.63917076 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市中央町１丁目６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.12831293, 38.93388058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市南大通１丁目１２−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.15773354, 39.69630918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町小鎚第２７地割３−４" }, "geometry": { "type": "Point", "coordinates": [ 141.893483260000011, 39.35342894 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市山目字泥田４２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.112292950000011, 38.93825866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町丸谷地３６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.01546337, 39.74731021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮字林崎４−５" }, "geometry": { "type": "Point", "coordinates": [ 141.11101609, 39.68191752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市西根縦街道７番１" }, "geometry": { "type": "Point", "coordinates": [ 141.11579649, 39.19134824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市大字津軽石第１３地割字大判川３６５−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.94012247, 39.55928861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町上町６２" }, "geometry": { "type": "Point", "coordinates": [ 141.89669569, 39.35676451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡葛巻町葛巻１９-５０-１" }, "geometry": { "type": "Point", "coordinates": [ 141.43060062, 40.04524215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町大野２９−６−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.63467297, 40.30732106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市浄法寺町駒ヶ嶺樋口１９-１０" }, "geometry": { "type": "Point", "coordinates": [ 141.11716888, 40.15803862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡野田村大字野田第２７地割７３" }, "geometry": { "type": "Point", "coordinates": [ 141.813564320000012, 40.11671539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市中野１丁目２７番２３号" }, "geometry": { "type": "Point", "coordinates": [ 141.172331570000011, 39.69196681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市上堂１‐７‐４５" }, "geometry": { "type": "Point", "coordinates": [ 141.12380507, 39.72305633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市磯鶏１−１−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.96468479, 39.62724926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市卸町６４" }, "geometry": { "type": "Point", "coordinates": [ 141.11442209, 39.44394762 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市西大通り１丁目２３５番４" }, "geometry": { "type": "Point", "coordinates": [ 141.10705171, 39.3942663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市萩荘字小萩８-１" }, "geometry": { "type": "Point", "coordinates": [ 141.11239185, 38.92362217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市堀野字大川原毛１１１−９" }, "geometry": { "type": "Point", "coordinates": [ 141.3021918, 40.2982561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡岩手町大字沼宮内１８-１-１０" }, "geometry": { "type": "Point", "coordinates": [ 141.237142479999989, 40.00153563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字高田１６字前田６８−７３" }, "geometry": { "type": "Point", "coordinates": [ 141.17409392, 39.62053043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県気仙郡住田町世田米字川向３４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.57033375, 39.14337808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市田老字片巻２１" }, "geometry": { "type": "Point", "coordinates": [ 141.96155872, 39.80868657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市２３−２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.71314886, 40.41295736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町鳥越字駒木平２８-１" }, "geometry": { "type": "Point", "coordinates": [ 141.26992621, 40.24892326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市名須川町１７-１５" }, "geometry": { "type": "Point", "coordinates": [ 141.15038127, 39.7109174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市月ケ丘１丁目１-５" }, "geometry": { "type": "Point", "coordinates": [ 141.10987304, 39.72844868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮１丁目２番１２号" }, "geometry": { "type": "Point", "coordinates": [ 141.14241954, 39.69134974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市みたけ４丁目５-４２" }, "geometry": { "type": "Point", "coordinates": [ 141.11767457, 39.74268484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市築地２-１-４" }, "geometry": { "type": "Point", "coordinates": [ 141.95947437, 39.64124914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市大字田鎖第１３地割字高柳３２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.8982035, 39.63226617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県宮古市藤原１‐１‐１" }, "geometry": { "type": "Point", "coordinates": [ 141.9566896, 39.63820331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市大船渡町地の森３３−９" }, "geometry": { "type": "Point", "coordinates": [ 141.71824772, 39.07267623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県大船渡市盛町字木町６−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.70708351, 39.0883402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市長内町２４−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.77164862, 40.1864462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市侍浜町字北野第１０地割８３−６" }, "geometry": { "type": "Point", "coordinates": [ 141.78886691, 40.27044805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県久慈市長内町３４-１７-１" }, "geometry": { "type": "Point", "coordinates": [ 141.78728829, 40.18908722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市小友町高木第１４地割１７-１" }, "geometry": { "type": "Point", "coordinates": [ 141.41546863, 39.27467479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市中央通３-８" }, "geometry": { "type": "Point", "coordinates": [ 141.52737683, 39.33007735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県一関市青葉２−２−３２" }, "geometry": { "type": "Point", "coordinates": [ 141.12787239, 38.93092942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県陸前高田市広田町字中沢３−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.692496, 38.95476521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市大町１−８−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.88298555, 39.27402093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市中妻町３-１４-１" }, "geometry": { "type": "Point", "coordinates": [ 141.856633249999987, 39.26775517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市松原町３-１０-２２" }, "geometry": { "type": "Point", "coordinates": [ 141.88526246, 39.26650135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡雫石町第２３地割字板橋４１" }, "geometry": { "type": "Point", "coordinates": [ 141.02314381, 39.69854242 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村大釜字吉水８９-１" }, "geometry": { "type": "Point", "coordinates": [ 141.05449096000001, 39.69947596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県岩手郡滝沢村滝沢字湯舟沢４９４-２０" }, "geometry": { "type": "Point", "coordinates": [ 141.10716255, 39.77199459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市安比高原６０５―１" }, "geometry": { "type": "Point", "coordinates": [ 140.9741108, 40.00203866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町北日詰大日堂１５-８" }, "geometry": { "type": "Point", "coordinates": [ 141.16732701, 39.53741597 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡紫波町日詰桜町字下川原３５-１" }, "geometry": { "type": "Point", "coordinates": [ 141.16947001, 39.55136997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市黒川２２-１３-２" }, "geometry": { "type": "Point", "coordinates": [ 141.189626479999987, 39.61730333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市永井１地割字高屋６６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.133188, 39.65689326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県花巻市大迫町大迫１４-２８-１" }, "geometry": { "type": "Point", "coordinates": [ 141.27239283, 39.47519457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県上閉伊郡大槌町安渡三丁目１１-６" }, "geometry": { "type": "Point", "coordinates": [ 141.920594099999988, 39.3557516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡岩泉町大字岩泉字田屋峠３９-１" }, "geometry": { "type": "Point", "coordinates": [ 141.78267175, 39.84687058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡田野畑村大字浜岩泉１１６" }, "geometry": { "type": "Point", "coordinates": [ 141.913943890000013, 39.88920718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県下閉伊郡普代村第９地割字銅屋３１-４" }, "geometry": { "type": "Point", "coordinates": [ 141.88820526, 40.00737607 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県九戸郡洋野町種市字南平内３３−１３２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.70752484, 40.41329174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市浄法寺町浄法寺下前田１-２" }, "geometry": { "type": "Point", "coordinates": [ 141.16225264, 40.18547662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県八幡平市清水９４-２" }, "geometry": { "type": "Point", "coordinates": [ 141.050164450000011, 40.10649138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸郡一戸町字蒔前４９-１３" }, "geometry": { "type": "Point", "coordinates": [ 141.294874850000014, 40.22480163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県胆沢郡金ケ崎町三ケ尻荒巻１６５" }, "geometry": { "type": "Point", "coordinates": [ 141.09989345, 39.22066268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市宮守町下宮守２６−１２４" }, "geometry": { "type": "Point", "coordinates": [ 141.349436, 39.35177642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県遠野市上組町167-22" }, "geometry": { "type": "Point", "coordinates": [ 141.53714079, 39.33292735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県釜石市第２地割１１７番地３" }, "geometry": { "type": "Point", "coordinates": [ 141.73019043, 39.2637722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県二戸市上斗米字小平４６-１" }, "geometry": { "type": "Point", "coordinates": [ 141.218712219999986, 40.27650164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県一関市千厩町千厩字上駒場１０６−５" }, "geometry": { "type": "Point", "coordinates": [ 141.34889114, 38.92637988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県釜石市鵜住居町第９地割４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.87037772, 39.33733622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県宮古市根市第２地割３３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.89424179, 39.63205361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県紫波郡紫波町南日詰字箱清水１２７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.16041275, 39.53511746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県二戸市堀野長地１８" }, "geometry": { "type": "Point", "coordinates": [ 141.300653509999989, 40.29470714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県八幡平市平舘第２５地割５５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.09553089, 39.94012675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県北上市村崎野第１９地割１２７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.10882564, 39.33843116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "岩手県陸前高田市米崎町字中田２２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.649185890000012, 39.01228284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市本宮字稲荷１０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12674089, 39.68423891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県盛岡市三ツ割５−１７−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.1626804, 39.72963848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県紫波郡矢巾町大字高田第１１地割３５−４" }, "geometry": { "type": "Point", "coordinates": [ 141.17383478, 39.62775034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "岩手県奥州市江刺区愛宕字金谷72-4" }, "geometry": { "type": "Point", "coordinates": [ 141.17924628, 39.15801709 ] } }
+
+]
+}

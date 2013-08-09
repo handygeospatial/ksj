@@ -1,0 +1,2316 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市旭２−６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.88583429, 36.55302369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市越戸町１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92642679, 36.57068987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下田原町１９９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.9020114, 36.62382154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下平出町７７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.943670340000011, 36.55728601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市吉野１−６−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.87165764, 36.54574228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市元今泉６−３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.914568730000013, 36.56252465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市御幸本町４７３６−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.92811322, 36.5844656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市幸町３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.86531134, 36.55568397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市江曽島町１３５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.86909147, 36.52127202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市砂田町字原６５９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.90872256, 36.50569008 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市城東２丁目２７−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.90725095, 36.5519393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市清原台６丁目２番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.00110622, 36.54550675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市川田町６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.890474329999989, 36.53184612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市飯貝２１５３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.04792221, 36.48364393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市旭町８４７−８" }, "geometry": { "type": "Point", "coordinates": [ 139.45608431, 36.33996888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市奥戸町３０７" }, "geometry": { "type": "Point", "coordinates": [ 139.51924403000001, 36.29680773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市借宿町１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.42844148, 36.32796088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市助戸仲町４８５−５" }, "geometry": { "type": "Point", "coordinates": [ 139.465166759999988, 36.33101335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市松田町４２６" }, "geometry": { "type": "Point", "coordinates": [ 139.41880097, 36.38556127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市瑞穂野町４９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.51330911, 36.28163677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市朝倉町３−７−７" }, "geometry": { "type": "Point", "coordinates": [ 139.44353646, 36.32078725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市通６丁目３２２９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.44091057, 36.33820343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市福居町２２０６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.462054920000014, 36.31447449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市問屋町３５３−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.46645774000001, 36.30712216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市紫塚１−１３−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.01024415, 36.87581496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市実取７９５−６" }, "geometry": { "type": "Point", "coordinates": [ 139.984136220000011, 36.8377323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市田町５９３" }, "geometry": { "type": "Point", "coordinates": [ 140.12071244, 36.85927279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市南金丸１１６４" }, "geometry": { "type": "Point", "coordinates": [ 140.10475422, 36.85734045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市薄葉２２２０−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.960388560000013, 36.83985313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市薗部町２−１９−３６" }, "geometry": { "type": "Point", "coordinates": [ 139.71575658, 36.37690201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市家中５２０３" }, "geometry": { "type": "Point", "coordinates": [ 139.75216691, 36.44035113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市尻内町６２３" }, "geometry": { "type": "Point", "coordinates": [ 139.67608396, 36.43011828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町西野田２５６" }, "geometry": { "type": "Point", "coordinates": [ 139.71210697, 36.32213537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町川連４３７" }, "geometry": { "type": "Point", "coordinates": [ 139.72403331000001, 36.36677191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町都賀２８３５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.62051019, 36.29530506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町藤岡１８４５−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.6474776, 36.25240327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町大前９０９" }, "geometry": { "type": "Point", "coordinates": [ 139.65731881, 36.27629515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町榎本９００" }, "geometry": { "type": "Point", "coordinates": [ 139.72417578, 36.32058686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町西野田５４３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.71495029, 36.33381589 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町藤岡８７８" }, "geometry": { "type": "Point", "coordinates": [ 139.64992872, 36.26595953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市平柳町１−３４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.73730337, 36.39430619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市野中町５０３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.71734761, 36.39880759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市八ケ代１５６" }, "geometry": { "type": "Point", "coordinates": [ 140.07331799, 36.63057096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市下厚崎３６５−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.0403526, 36.95083613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市下厚崎字立道西３０−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.04178811, 36.94336526 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市字二区町４２９−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.95320082, 36.86941796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市西原７−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.97467187, 36.889201 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市青木２０" }, "geometry": { "type": "Point", "coordinates": [ 139.99924433000001, 36.99251496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市島方６６９" }, "geometry": { "type": "Point", "coordinates": [ 140.00821068, 36.93780006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町大字小川１０２" }, "geometry": { "type": "Point", "coordinates": [ 140.13159295, 36.75333758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字伊王野字下城１７５５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.15641105, 36.95641444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市小代１５４９" }, "geometry": { "type": "Point", "coordinates": [ 139.72028835, 36.65798438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市清滝１−３−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.56329039, 36.7412759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市大室８４６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.75288952, 36.72360463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市長畑５２７" }, "geometry": { "type": "Point", "coordinates": [ 139.7007601, 36.67335999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市柄倉７６３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.70341462, 36.78267568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町大字下延生１２８−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.05420619, 36.52850765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市泉が丘５−５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.91636685, 36.56772321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市竹林町３８１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.907661389999987, 36.57827451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市長岡町２２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.891322370000012, 36.59683127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市幕田町合の田６８５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.838991889999988, 36.50627721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東２丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.923744989999989, 36.55226093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市簗瀬４−１６−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.89948438, 36.54689504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鐺山町字松原１５−４" }, "geometry": { "type": "Point", "coordinates": [ 139.97659205, 36.53172853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町上高根沢５４９０" }, "geometry": { "type": "Point", "coordinates": [ 140.015590659999987, 36.61463723 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大字石末６９６" }, "geometry": { "type": "Point", "coordinates": [ 139.99438944, 36.62837229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町下津原４６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.64403219, 36.31881964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字静戸４９８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.693446560000012, 36.30337843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字稲葉原太神１３３４" }, "geometry": { "type": "Point", "coordinates": [ 139.7850574, 36.44268748 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字七ツ石８８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.7691586, 36.46294135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町丸林５５７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.736588680000011, 36.22775282 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市大字小金井２６３１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.849007590000014, 36.38894217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市薬師寺１８３１" }, "geometry": { "type": "Point", "coordinates": [ 139.8777145, 36.40486473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市緑２−２３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.853864359999989, 36.38555951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町大字上蒲生４０５" }, "geometry": { "type": "Point", "coordinates": [ 139.906339370000012, 36.44318451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市吉水町１１５０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.57596966, 36.35550842 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市小中町２３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.559649510000014, 36.33509629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市植下町２７８７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.58185487, 36.29141443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市浅沼町５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.59183522, 36.30482312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市大橋町３２３５−３７" }, "geometry": { "type": "Point", "coordinates": [ 139.565520889999988, 36.30835902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市馬門町１８５５" }, "geometry": { "type": "Point", "coordinates": [ 139.59944873, 36.291694 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市富岡町３３８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.588485670000011, 36.31298263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市富士見町１３−８" }, "geometry": { "type": "Point", "coordinates": [ 139.60871192, 36.39541165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市堀米町２２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.59000369, 36.32295963 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上石川字北原１１１９−７" }, "geometry": { "type": "Point", "coordinates": [ 139.80443889, 36.53416632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市千渡１−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.80056553, 36.5626122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市富岡字八幡台１５１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.742721679999988, 36.60195712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市稲葉郷字向原２７−６" }, "geometry": { "type": "Point", "coordinates": [ 139.82470233, 36.32735199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市駅東通り２−２９−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.81094969, 36.31350651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市駅南町２−２８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.806294259999987, 36.30038105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市犬塚９９８−３１０" }, "geometry": { "type": "Point", "coordinates": [ 139.829900619999989, 36.2996768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市若木町２−１０−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.80990141, 36.32689925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字出井字東原新田１０３５−３３" }, "geometry": { "type": "Point", "coordinates": [ 139.851852720000011, 36.32669059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市東城南５−２６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.805762570000013, 36.28653935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市鉢形１１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.862992780000013, 36.33591926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県上都賀郡西方町大字真名子10-4" }, "geometry": { "type": "Point", "coordinates": [ 139.70678655, 36.46440783 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市久下田西７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96540897, 36.37251817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市高勢町１−１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.97565518, 36.43480233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市寺内字大野原１０５１−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.9682302, 36.41945477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市西田井１８０９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04692384, 36.44748214 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市蒲須坂３７９" }, "geometry": { "type": "Point", "coordinates": [ 139.95437467, 36.72845677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家１２０５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.95675646, 36.66197939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家１８８４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.965243249999986, 36.67766566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市みどり野町３７−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.86016147, 36.49292113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市越戸２−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92269103000001, 36.57049531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市屋板町４８８" }, "geometry": { "type": "Point", "coordinates": [ 139.8970521, 36.50562358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下栗中ノ内１６６４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89833417, 36.53544229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下川俣町字二ツ塚４０９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.91166317, 36.59279411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市海道町８" }, "geometry": { "type": "Point", "coordinates": [ 139.92148125, 36.59876004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市岩曽町１２５２" }, "geometry": { "type": "Point", "coordinates": [ 139.9127049, 36.58625132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市岩曽町４７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.894581530000011, 36.59018667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市駒生町東高田３３６４−３７" }, "geometry": { "type": "Point", "coordinates": [ 139.84979101, 36.58258388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市元今泉４丁目１４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.90768906, 36.56026249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市江曽島町１０３−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.86899514000001, 36.52245182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市砂田町字笹塚１−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.910727900000012, 36.48978298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石井町２８０４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92828372, 36.54793584 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石井町３３７３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.91979066, 36.52849779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市大谷町１１５２" }, "geometry": { "type": "Point", "coordinates": [ 139.8192161, 36.59396507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市中戸祭町８６８−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.8681526, 36.58284524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鶴田町２０５３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84965274000001, 36.56888655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鶴田町３０５３" }, "geometry": { "type": "Point", "coordinates": [ 139.86195002, 36.54988385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市田下町７９９−３" }, "geometry": { "type": "Point", "coordinates": [ 139.8128573, 36.59928571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市田野町７１６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.80411089, 36.59540248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市道場宿町１１０４" }, "geometry": { "type": "Point", "coordinates": [ 139.975257449999987, 36.56554984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市徳次郎町１９７８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.84044212, 36.65596022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市八千代２−２−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.8586707, 36.52985709 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市不動前２丁目２−５１" }, "geometry": { "type": "Point", "coordinates": [ 139.880474099999986, 36.54624259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市平松本町１１２１−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.90471116, 36.54539436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市野沢町３２０−５" }, "geometry": { "type": "Point", "coordinates": [ 139.85662051, 36.60988611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町船生３１９４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.79278646, 36.76884306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大宮１９７５" }, "geometry": { "type": "Point", "coordinates": [ 139.87401323, 36.74543301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町光陽台４−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.986480769999986, 36.61576119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町光陽台１−５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.99173828, 36.62227245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町和泉１５４３" }, "geometry": { "type": "Point", "coordinates": [ 139.67044736, 36.31928883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町あけぼの町８−９" }, "geometry": { "type": "Point", "coordinates": [ 139.82594139, 36.46494764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町壬生乙２６" }, "geometry": { "type": "Point", "coordinates": [ 139.80373563, 36.4052602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町中央町６番４２号" }, "geometry": { "type": "Point", "coordinates": [ 139.80282122, 36.42530039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町丸林６７１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.734370430000013, 36.22495862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市下坪山１６７９" }, "geometry": { "type": "Point", "coordinates": [ 139.872909529999987, 36.3700528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市上古山１５０２−４８" }, "geometry": { "type": "Point", "coordinates": [ 139.86125349, 36.47512848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市石橋１５６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.86396609, 36.4307326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市石橋３８７" }, "geometry": { "type": "Point", "coordinates": [ 139.863590929999987, 36.43478621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市薬師寺１４８３" }, "geometry": { "type": "Point", "coordinates": [ 139.87750825, 36.3972358 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市緑２−３２８９−７" }, "geometry": { "type": "Point", "coordinates": [ 139.850744170000013, 36.38199381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町上三川４９４４" }, "geometry": { "type": "Point", "coordinates": [ 139.912653330000012, 36.43379831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町石田１２８９" }, "geometry": { "type": "Point", "coordinates": [ 139.899223009999986, 36.46458996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町大字梁３６９" }, "geometry": { "type": "Point", "coordinates": [ 139.88364536, 36.4280374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町東汗９９７" }, "geometry": { "type": "Point", "coordinates": [ 139.94373250000001, 36.47321659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市下羽田町１０８１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.5446251, 36.28245456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市高萩町５１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.59183224, 36.30342193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市高萩町７９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.600989700000014, 36.29652965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市新吉水町４６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.57749851, 36.35264386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市赤坂町９７３−９" }, "geometry": { "type": "Point", "coordinates": [ 139.56656177, 36.30508566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市村上町２２６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.54183021, 36.30149677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市築地町５−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.61623271, 36.40703761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市田沼町５４６" }, "geometry": { "type": "Point", "coordinates": [ 139.57905317, 36.36598265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市堀米町菊川３３９７" }, "geometry": { "type": "Point", "coordinates": [ 139.56768824, 36.32808007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市口粟野８９４" }, "geometry": { "type": "Point", "coordinates": [ 139.6717382, 36.51582162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市深津１０１４" }, "geometry": { "type": "Point", "coordinates": [ 139.81539605, 36.54084852 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市西茂呂２−７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.766705120000012, 36.55443714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市西茂呂３−１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.76723296, 36.55182637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市寒川１５９０" }, "geometry": { "type": "Point", "coordinates": [ 139.7310794, 36.28829992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市荒井９" }, "geometry": { "type": "Point", "coordinates": [ 139.83046158, 36.34877431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市城北３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.819276339999988, 36.32672324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字中久喜１５２１−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.85272131, 36.32210929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市東間々田２−４−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.77279829, 36.26712572 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市南小林２９" }, "geometry": { "type": "Point", "coordinates": [ 139.74041628, 36.32002604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市八幡町２−５−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.79765568, 36.30905981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県上都賀郡西方町金崎７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75242339, 36.46311379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市久下田８９３" }, "geometry": { "type": "Point", "coordinates": [ 139.969667390000012, 36.37920221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市原町１０２" }, "geometry": { "type": "Point", "coordinates": [ 140.042232180000013, 36.47364362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市荒町４−２４−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.01821525, 36.44678276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市寺内８４３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.98042904, 36.41277212 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市上江連４４３" }, "geometry": { "type": "Point", "coordinates": [ 139.92541083, 36.34494004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市上高間木３−２−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.988646499999987, 36.44070582 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市中郷２７３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.01329988, 36.45096238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市田町１７８４" }, "geometry": { "type": "Point", "coordinates": [ 140.011855270000012, 36.43713004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市伊勢南町１０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.45598673, 36.33112063 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市下渋垂町７０１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.480089389999989, 36.29779139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市県町１０３３" }, "geometry": { "type": "Point", "coordinates": [ 139.4692383, 36.27975472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市江川町１−１９−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.46696338000001, 36.34942555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市山下町２４５８−５" }, "geometry": { "type": "Point", "coordinates": [ 139.41282677, 36.34954769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市福富町３２８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.48138361, 36.30776412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市堀込町１６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.44162039, 36.30999859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市葉鹿町３９４" }, "geometry": { "type": "Point", "coordinates": [ 139.38362422, 36.3630398 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市緑町２−４１９７" }, "geometry": { "type": "Point", "coordinates": [ 139.43535778, 36.33434798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市佐良土７３５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.12371442, 36.78654464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市須賀川３０００" }, "geometry": { "type": "Point", "coordinates": [ 140.23487481, 36.84278491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市浅香３−３５７８−７８６" }, "geometry": { "type": "Point", "coordinates": [ 140.01668776, 36.8556657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市本町１−２６９０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.014695319999987, 36.87330983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市境町２４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.727604109999987, 36.37162304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市尻内町１８５４" }, "geometry": { "type": "Point", "coordinates": [ 139.68268863, 36.43908542 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大宮町１５７９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.7576125, 36.38879895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大町２０−８" }, "geometry": { "type": "Point", "coordinates": [ 139.734373440000013, 36.3950985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町赤麻１１６２" }, "geometry": { "type": "Point", "coordinates": [ 139.6749898, 36.27015656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町太田３３７" }, "geometry": { "type": "Point", "coordinates": [ 139.64193799, 36.30024677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町太田字島崎７９０" }, "geometry": { "type": "Point", "coordinates": [ 139.63711921, 36.30427388 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町都賀７６９" }, "geometry": { "type": "Point", "coordinates": [ 139.61867412, 36.2776882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町部屋４６１" }, "geometry": { "type": "Point", "coordinates": [ 139.71302895, 36.27454028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市箱森町３９−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.720686980000011, 36.39420318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市箱森町３９−５０" }, "geometry": { "type": "Point", "coordinates": [ 139.72153415, 36.39542155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市木野地町１８０" }, "geometry": { "type": "Point", "coordinates": [ 139.73205733, 36.41651961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市城東１６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.15723014, 36.66177873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市一区町２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96955033, 36.84374776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市塩原１２８０−５" }, "geometry": { "type": "Point", "coordinates": [ 139.83638688, 36.96823876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市関谷２０６２−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.90541212, 36.94331134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市埼玉８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.0305146, 36.98028494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市新南１６３−７６９" }, "geometry": { "type": "Point", "coordinates": [ 139.99845756, 36.88272465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市島方字中町６６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.01158199, 36.93746364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市二区町３５２" }, "geometry": { "type": "Point", "coordinates": [ 139.96479376, 36.88138992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市豊浦３４−５６" }, "geometry": { "type": "Point", "coordinates": [ 140.056045719999986, 36.96354205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町馬頭２０８６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.15944084, 36.73436958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町北向田１９８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.145541189999989, 36.74967338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字高久丙１４５４" }, "geometry": { "type": "Point", "coordinates": [ 140.036731800000013, 37.05693321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字寺子乙３９６７−１６１" }, "geometry": { "type": "Point", "coordinates": [ 140.1245446, 37.01588815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字豊原丙字上海道西２１８８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10081539, 37.05600489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大島１８７９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.083611280000014, 37.11126014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市下鉢石町９５８" }, "geometry": { "type": "Point", "coordinates": [ 139.61031861, 36.75018042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市岩崎８９９" }, "geometry": { "type": "Point", "coordinates": [ 139.73582756, 36.6314836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市鬼怒川温泉大原１４１１−７" }, "geometry": { "type": "Point", "coordinates": [ 139.713282670000012, 36.82190445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市今市４６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.69957899, 36.72064491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市川治温泉高原４３−７" }, "geometry": { "type": "Point", "coordinates": [ 139.708002029999989, 36.89382021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市中宮祠２４７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.50321731, 36.74014199 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市中宮祠２４８５" }, "geometry": { "type": "Point", "coordinates": [ 139.452353609999989, 36.75540187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市東和町５８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.62488631, 36.74425994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市日向４９６" }, "geometry": { "type": "Point", "coordinates": [ 139.6512252, 36.8853465 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市平ヶ崎３８９" }, "geometry": { "type": "Point", "coordinates": [ 139.67848365, 36.72129932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市木和田島字木曽浦２３８０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.74999781, 36.68470608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町益子２３２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0996217, 36.46376096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町大沢１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.1009175, 36.4923375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町大沢１８３１" }, "geometry": { "type": "Point", "coordinates": [ 140.08935141, 36.49439578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町塙３０９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.0781038, 36.45936912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町東高橋１３７２" }, "geometry": { "type": "Point", "coordinates": [ 140.03895806, 36.51853674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町馬門１５６０" }, "geometry": { "type": "Point", "coordinates": [ 140.217919200000011, 36.54294059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町北高岡１２８８" }, "geometry": { "type": "Point", "coordinates": [ 140.15105706, 36.52556183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町茂木１７３１" }, "geometry": { "type": "Point", "coordinates": [ 140.18380892, 36.53283319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市鹿島町６−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.9255011, 36.80405308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市中４４９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94396285, 36.8109252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市細谷町３８９" }, "geometry": { "type": "Point", "coordinates": [ 139.85391845, 36.58974074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市雀宮５−３−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.872595710000013, 36.48759849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西２−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.87916787, 36.55791187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西原町５４６" }, "geometry": { "type": "Point", "coordinates": [ 139.88080783, 36.53324764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市大通り３−５−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.89280563, 36.55910667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市宝木本町２２５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.849511760000013, 36.62790815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市野高谷町５４９" }, "geometry": { "type": "Point", "coordinates": [ 139.988901590000012, 36.56629392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東５−１２−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.931402319999989, 36.55729311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大字上平３" }, "geometry": { "type": "Point", "coordinates": [ 139.87553886, 36.73658256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字壬生甲３４５３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.81395604, 36.43120177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町中央町１３−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.80426838, 36.4225159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町友沼字卯ノ木６０２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.72340742, 36.22639653 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市国分寺１３２２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.80348625, 36.39245629 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市戸奈良町８７" }, "geometry": { "type": "Point", "coordinates": [ 139.564281279999989, 36.372895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市赤見町１０８４" }, "geometry": { "type": "Point", "coordinates": [ 139.53830681, 36.34436752 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市大橋町１６６２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.56032296, 36.31399149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市神鳥谷１０６４" }, "geometry": { "type": "Point", "coordinates": [ 139.79798921, 36.30338326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字鉢形字上野原１０５５−６" }, "geometry": { "type": "Point", "coordinates": [ 139.852766870000011, 36.33291947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市喜連川町早乙女字五郎地２０２９−９" }, "geometry": { "type": "Point", "coordinates": [ 140.01527288, 36.70046561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市桜野字弁財天１４４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.977370760000014, 36.68721645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家字大野３４３７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.95779356, 36.70764843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市富野岡１０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94589968, 36.69123332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市鷲宿１９０６−８" }, "geometry": { "type": "Point", "coordinates": [ 139.979231840000011, 36.75198771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市久下田７３８" }, "geometry": { "type": "Point", "coordinates": [ 139.968078920000011, 36.37238051 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市田島１５４８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.03685264, 36.46649462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市上渋垂町１２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.47368558, 36.30282491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市西新井町字稲荷前３３４６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.426611150000014, 36.31452816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市須佐木２７７" }, "geometry": { "type": "Point", "coordinates": [ 140.19921896, 36.84345904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市都賀町升塚６０７" }, "geometry": { "type": "Point", "coordinates": [ 139.74912772, 36.41742672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市梅沢町１６４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.67167529, 36.43216437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市片柳町５−５−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.7157085, 36.37108657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市二区町５０２" }, "geometry": { "type": "Point", "coordinates": [ 139.956028120000013, 36.87265766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市波立１９８" }, "geometry": { "type": "Point", "coordinates": [ 139.99437966, 36.95286103 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市箕輪５９２" }, "geometry": { "type": "Point", "coordinates": [ 139.9674094, 36.97219768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町小川２９７１" }, "geometry": { "type": "Point", "coordinates": [ 140.12289364, 36.76048036 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町伊王野１９１１" }, "geometry": { "type": "Point", "coordinates": [ 140.15608097, 36.95915736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町湯本３７６" }, "geometry": { "type": "Point", "coordinates": [ 140.012747280000013, 37.08131893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市瀬尾３３４−６" }, "geometry": { "type": "Point", "coordinates": [ 139.689878889999989, 36.73638621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市瀬尾間々下１３８６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.69052052, 36.73353592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市大桑町小間田９１２" }, "geometry": { "type": "Point", "coordinates": [ 139.71550854, 36.76909342 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市中小来川２６４８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.622989679999989, 36.6625287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町大字七井５５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.09626219, 36.4931472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡市貝町塩田３４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.11327821, 36.61242023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町大字祖母井７３８" }, "geometry": { "type": "Point", "coordinates": [ 140.06007358, 36.55330302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町大字茂木１４" }, "geometry": { "type": "Point", "coordinates": [ 140.187725269999987, 36.53346961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市小入" }, "geometry": { "type": "Point", "coordinates": [ 139.99488944, 36.72917431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市御幸本町４７３１−７" }, "geometry": { "type": "Point", "coordinates": [ 139.9299307, 36.58518788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市高砂町１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.872202030000011, 36.48746922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市今里町１１４９" }, "geometry": { "type": "Point", "coordinates": [ 139.891303529999988, 36.69030774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上田原６９９-２" }, "geometry": { "type": "Point", "coordinates": [ 139.89800311, 36.64124457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西川田町５２２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.83904568, 36.51143715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石井町住吉２４９０" }, "geometry": { "type": "Point", "coordinates": [ 139.94420556, 36.54359772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市長岡町８８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.88721368, 36.59771656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東塙田２-２-１７" }, "geometry": { "type": "Point", "coordinates": [ 139.8900157, 36.56687115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市徳次郎町３６４" }, "geometry": { "type": "Point", "coordinates": [ 139.84754487, 36.64148987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市徳次郎町７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.84748348, 36.6319481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市白沢５９４" }, "geometry": { "type": "Point", "coordinates": [ 139.92967336000001, 36.61746498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市平出町字上野３７８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94139232, 36.57562405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鐺山町１７７６−８" }, "geometry": { "type": "Point", "coordinates": [ 139.97925681000001, 36.53244354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町玉生７４７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.85111186, 36.77719501 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大字宝積寺１８１９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.97891607, 36.61068412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大谷１７５３" }, "geometry": { "type": "Point", "coordinates": [ 139.98501728, 36.66139407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町畳岡明見堂５４３−７" }, "geometry": { "type": "Point", "coordinates": [ 139.640719530000013, 36.32257427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町藤井２７２２−６" }, "geometry": { "type": "Point", "coordinates": [ 139.822732269999989, 36.43156468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町大字友沼４９３４" }, "geometry": { "type": "Point", "coordinates": [ 139.72716247, 36.23598343 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市下坪山１４９２" }, "geometry": { "type": "Point", "coordinates": [ 139.8775039, 36.36868875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市吉水駅前３丁目１３−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.57405644, 36.34103743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市黒袴町字八幡１０７５" }, "geometry": { "type": "Point", "coordinates": [ 139.61907427, 36.31855683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市水木町２８１" }, "geometry": { "type": "Point", "coordinates": [ 139.54781895, 36.4786848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市仙波町１３１‐１" }, "geometry": { "type": "Point", "coordinates": [ 139.593775779999987, 36.43253957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市北茂呂町１−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.59103772, 36.29912867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市栄町３−３９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.77317799, 36.54831548 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市加園８６７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.69829267, 36.56025085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市見野２" }, "geometry": { "type": "Point", "coordinates": [ 139.73663062, 36.58820904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上石川１５１０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.800825800000013, 36.5273994 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上田町２３３８" }, "geometry": { "type": "Point", "coordinates": [ 139.74931557, 36.56779131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市日吉町字店久保８６３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.729290850000012, 36.56625901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市羽川４４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.83242121, 36.3619884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市雨ヶ谷４７３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.81457669, 36.28268419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市下河原田８８８" }, "geometry": { "type": "Point", "coordinates": [ 139.741440250000011, 36.31314661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市間々田７９７−７" }, "geometry": { "type": "Point", "coordinates": [ 139.77227887, 36.27474047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市出井字馬廻１１１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85305606, 36.34611164 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市西城南４丁目５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.806962660000011, 36.29460498 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市田間８４８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.82403882, 36.26573031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市本郷町３−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.802127289999987, 36.31768739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県上都賀郡西方町大字金崎５９２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.74717554, 36.47325552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市久下田西５丁目１４" }, "geometry": { "type": "Point", "coordinates": [ 139.96351343, 36.3773734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市荒町２丁目２１−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.01115439, 36.44630314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市田島１０７４" }, "geometry": { "type": "Point", "coordinates": [ 140.034165089999988, 36.46012435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市白布ヶ丘６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.99960922, 36.43566478 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市八木岡７４６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.98766267, 36.42741554 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市並木町３−８" }, "geometry": { "type": "Point", "coordinates": [ 139.99383244, 36.44203098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市久保田町字松の木１６８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.502947909999989, 36.2886392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市小俣町５１０-２" }, "geometry": { "type": "Point", "coordinates": [ 139.3716206, 36.37522384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市大町５３６-８" }, "geometry": { "type": "Point", "coordinates": [ 139.45711301, 36.33847849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市加治屋８６−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.99658002000001, 36.85344678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市城山２−１５−６" }, "geometry": { "type": "Point", "coordinates": [ 140.03247296, 36.86896249 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市親園１９９７" }, "geometry": { "type": "Point", "coordinates": [ 139.98952694, 36.83319867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市美原１丁目３５２４-３" }, "geometry": { "type": "Point", "coordinates": [ 140.00851355, 36.86337438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市薗部町１丁目２１−３０" }, "geometry": { "type": "Point", "coordinates": [ 139.716438110000013, 36.3829993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市今泉町１丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.74881443000001, 36.3809904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町新波１１７５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.717542869999988, 36.26993492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市志鳥２０４２" }, "geometry": { "type": "Point", "coordinates": [ 140.087320580000011, 36.73531307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市下田野字街道東５３１−７２" }, "geometry": { "type": "Point", "coordinates": [ 139.90978726, 36.93952743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市新町豊住町８１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.03649768, 36.97792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町小川２９１１" }, "geometry": { "type": "Point", "coordinates": [ 140.12712438, 36.75929585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字高久乙２７３０" }, "geometry": { "type": "Point", "coordinates": [ 140.01356529, 37.05517184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市瀬川１１８９" }, "geometry": { "type": "Point", "coordinates": [ 139.6720674, 36.7283865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市大沢町１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75942319, 36.6924151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市湯西川３８７" }, "geometry": { "type": "Point", "coordinates": [ 139.61311702, 36.96795189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町七井中央１３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.09998977, 36.49017538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町西水沼４３８" }, "geometry": { "type": "Point", "coordinates": [ 140.02093394, 36.52477128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町祖母井９７７" }, "geometry": { "type": "Point", "coordinates": [ 140.06243937, 36.55576094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町大字下高根沢３９４２-４" }, "geometry": { "type": "Point", "coordinates": [ 140.01791126, 36.56032847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町２１４５" }, "geometry": { "type": "Point", "coordinates": [ 140.18634678, 36.53378705 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市上町１５００−３" }, "geometry": { "type": "Point", "coordinates": [ 139.926467699999989, 36.81427445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市中字直沢９３８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.944361930000014, 36.7956674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市木幡字権現原１３６５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.92523719, 36.80214208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市黒袴町１０２２" }, "geometry": { "type": "Point", "coordinates": [ 139.620243499999987, 36.31723889 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市喜連川１６９６" }, "geometry": { "type": "Point", "coordinates": [ 140.02167043, 36.72767955 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市桜野１６７０-２" }, "geometry": { "type": "Point", "coordinates": [ 139.978368139999986, 36.68779137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下岡本町４５２８−８" }, "geometry": { "type": "Point", "coordinates": [ 139.93164857, 36.59960205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下小倉町１２０９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.90799578, 36.68286192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下小池町５６９" }, "geometry": { "type": "Point", "coordinates": [ 139.81441128, 36.68089118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市川田町登戸１０２２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.88900985, 36.53870297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市宝木町１６９６" }, "geometry": { "type": "Point", "coordinates": [ 139.83951851, 36.61209328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大字船生３５７４" }, "geometry": { "type": "Point", "coordinates": [ 139.7832478, 36.76738749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大字太田８９８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.035107790000012, 36.62264813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡大平町大字横堀７８７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.73472417, 36.34784311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡都賀町大字原宿８７２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.73944789, 36.43483974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町大字上三川４４１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.906480890000012, 36.42879145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市奈佐原字西原５８２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.749699639999989, 36.52469369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字羽川８０２番地２" }, "geometry": { "type": "Point", "coordinates": [ 139.82959742, 36.35524901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字横倉新田９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.82319884, 36.27253122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字下石塚２６１" }, "geometry": { "type": "Point", "coordinates": [ 139.77726861, 36.31220943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字松沼９６７" }, "geometry": { "type": "Point", "coordinates": [ 139.78080614000001, 36.35055253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字生良９６７" }, "geometry": { "type": "Point", "coordinates": [ 139.72932076, 36.26186224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市福良１１２０" }, "geometry": { "type": "Point", "coordinates": [ 139.89672778, 36.32825047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市田町字奉行松１３６７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.01833624, 36.4371681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市百頭町２１００" }, "geometry": { "type": "Point", "coordinates": [ 139.45844313, 36.29952293 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市親園字高室９７３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.0127984, 36.82332993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市堀之内２７２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.131660219999986, 36.87874031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大宮町1419-4" }, "geometry": { "type": "Point", "coordinates": [ 139.76682377, 36.39300303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市初音８５８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.158809710000014, 36.65370872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市藤田字東長田１１３−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.096961349999987, 36.67744333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市戸田１４−３５" }, "geometry": { "type": "Point", "coordinates": [ 139.9624499, 37.01274399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市住吉町２−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.05235918, 36.96628223 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町大字大内２５３６" }, "geometry": { "type": "Point", "coordinates": [ 140.222799189999989, 36.76130114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町大字馬頭１４２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.169705990000011, 36.73829079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字寺子丙４の２０" }, "geometry": { "type": "Point", "coordinates": [ 140.118653169999988, 37.02445405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市森友大桑道下９９２−６" }, "geometry": { "type": "Point", "coordinates": [ 139.7184117, 36.71907098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町大字益子１９９４" }, "geometry": { "type": "Point", "coordinates": [ 140.09249352, 36.46903754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町祖母井７７" }, "geometry": { "type": "Point", "coordinates": [ 140.06507894, 36.54319856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町大字茂木７１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.19200824, 36.53326355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市本町１３０" }, "geometry": { "type": "Point", "coordinates": [ 139.922108110000011, 36.80911504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市長田町441" }, "geometry": { "type": "Point", "coordinates": [ 139.96304996, 36.43757435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市並木町1丁目10番8" }, "geometry": { "type": "Point", "coordinates": [ 140.00190131, 36.44054397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市西新井町3348" }, "geometry": { "type": "Point", "coordinates": [ 139.42694488, 36.3149732 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市福居町174" }, "geometry": { "type": "Point", "coordinates": [ 139.44831339000001, 36.30779102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市佐久山2208" }, "geometry": { "type": "Point", "coordinates": [ 140.008656589999987, 36.80818375 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市若松町513-3" }, "geometry": { "type": "Point", "coordinates": [ 140.026641540000014, 36.85635419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町下皆川字壱町田852-3他" }, "geometry": { "type": "Point", "coordinates": [ 139.71042775, 36.35229105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市仲方町173-1" }, "geometry": { "type": "Point", "coordinates": [ 139.689161399999989, 36.42422603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町都賀寅原2753-2" }, "geometry": { "type": "Point", "coordinates": [ 139.62333154, 36.29542139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市共墾社共墾場123-13" }, "geometry": { "type": "Point", "coordinates": [ 140.04774656, 36.95973113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市三区町627-25" }, "geometry": { "type": "Point", "coordinates": [ 139.96096049, 36.87897606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市太夫塚6丁目232番480" }, "geometry": { "type": "Point", "coordinates": [ 139.973122600000011, 36.88533352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市南郷屋2丁目106-13" }, "geometry": { "type": "Point", "coordinates": [ 139.98102295000001, 36.89409302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市豊浦北町69番地" }, "geometry": { "type": "Point", "coordinates": [ 140.04035251, 36.97691464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字高久甲4304" }, "geometry": { "type": "Point", "coordinates": [ 140.03330319, 37.00650287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市鬼怒川温泉大原879" }, "geometry": { "type": "Point", "coordinates": [ 139.71581029, 36.81940483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市今市627" }, "geometry": { "type": "Point", "coordinates": [ 139.684847280000014, 36.7266479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市卯の里4丁目51-2" }, "geometry": { "type": "Point", "coordinates": [ 139.95932352, 36.6806499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市押上782" }, "geometry": { "type": "Point", "coordinates": [ 139.934216959999986, 36.71506506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市喜連川4233" }, "geometry": { "type": "Point", "coordinates": [ 140.02866705, 36.71777983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市馬場788-7" }, "geometry": { "type": "Point", "coordinates": [ 139.96330264, 36.69276015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市櫻野409-6" }, "geometry": { "type": "Point", "coordinates": [ 139.97236802, 36.68105185 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市インタ-パ-ク1丁目5番3" }, "geometry": { "type": "Point", "coordinates": [ 139.90481513, 36.49740878 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市越戸1丁目7-8" }, "geometry": { "type": "Point", "coordinates": [ 139.92496565, 36.56543182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下小倉町1315-5" }, "geometry": { "type": "Point", "coordinates": [ 139.91586525, 36.6876361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市駒生町1282" }, "geometry": { "type": "Point", "coordinates": [ 139.84546179, 36.57818924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市瑞穂2丁目18-5" }, "geometry": { "type": "Point", "coordinates": [ 139.91940781, 36.50703933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西刑部町字西原2745-1" }, "geometry": { "type": "Point", "coordinates": [ 139.91236188, 36.49084882 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鶴田町1531" }, "geometry": { "type": "Point", "coordinates": [ 139.84800157, 36.54908229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鶴田町3492-112" }, "geometry": { "type": "Point", "coordinates": [ 139.85032284, 36.54224888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東簗瀬1丁目28-1" }, "geometry": { "type": "Point", "coordinates": [ 139.89943752, 36.54391499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市飯田町258-3" }, "geometry": { "type": "Point", "coordinates": [ 139.81508928, 36.56249315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市柳田町583-2" }, "geometry": { "type": "Point", "coordinates": [ 139.95964786, 36.56871538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東7丁目3番18号" }, "geometry": { "type": "Point", "coordinates": [ 139.92830798, 36.54860357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字静字新井橋1660-1" }, "geometry": { "type": "Point", "coordinates": [ 139.65113377, 36.3120902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町緑町3丁目18-14" }, "geometry": { "type": "Point", "coordinates": [ 139.8286201, 36.47183661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町大字友沼5844-3" }, "geometry": { "type": "Point", "coordinates": [ 139.72959479, 36.220588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市駅東1丁目14-17" }, "geometry": { "type": "Point", "coordinates": [ 139.84278999, 36.37001585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市小金井1-6-7" }, "geometry": { "type": "Point", "coordinates": [ 139.84453119, 36.38361516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市石橋839-3" }, "geometry": { "type": "Point", "coordinates": [ 139.85924947, 36.4372239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町大字上蒲生字願成寺1976" }, "geometry": { "type": "Point", "coordinates": [ 139.90853066, 36.45831257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市高萩町31-1" }, "geometry": { "type": "Point", "coordinates": [ 139.605618349999986, 36.29654647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市中町971-1" }, "geometry": { "type": "Point", "coordinates": [ 139.608935409999987, 36.38704663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市栃本町1438-1" }, "geometry": { "type": "Point", "coordinates": [ 139.586821109999988, 36.37235646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市飛駒町小庭1088-1" }, "geometry": { "type": "Point", "coordinates": [ 139.47471844, 36.44876416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市栄町2丁目16-3" }, "geometry": { "type": "Point", "coordinates": [ 139.77710905, 36.55243073 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市城東3丁目1-25" }, "geometry": { "type": "Point", "coordinates": [ 139.81311209, 36.31592177 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字松沼80-1" }, "geometry": { "type": "Point", "coordinates": [ 139.77568516, 36.34101701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市下籠谷2471-3" }, "geometry": { "type": "Point", "coordinates": [ 139.974327210000013, 36.48759366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市荒町4丁目23-9" }, "geometry": { "type": "Point", "coordinates": [ 140.01768779, 36.44673413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市小代字東原296-1" }, "geometry": { "type": "Point", "coordinates": [ 139.72217262, 36.65061601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市上栗山719" }, "geometry": { "type": "Point", "coordinates": [ 139.59129002, 36.86747649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市森友23-3" }, "geometry": { "type": "Point", "coordinates": [ 139.73254062, 36.71265633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市川治温泉川治1219" }, "geometry": { "type": "Point", "coordinates": [ 139.707365720000013, 36.89178484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市湯西川656番地" }, "geometry": { "type": "Point", "coordinates": [ 139.593797779999989, 36.96445338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市豊田358-2" }, "geometry": { "type": "Point", "coordinates": [ 139.70686881, 36.73649763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町大字大沢14街区1他" }, "geometry": { "type": "Point", "coordinates": [ 140.09876211, 36.49014758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町大字下高根沢2083-4" }, "geometry": { "type": "Point", "coordinates": [ 140.04345487, 36.5745517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町大字山内300-1" }, "geometry": { "type": "Point", "coordinates": [ 140.24366136, 36.56515055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市富田三斗蒔138" }, "geometry": { "type": "Point", "coordinates": [ 139.926681660000014, 36.7988009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市戸祭2-11-27" }, "geometry": { "type": "Point", "coordinates": [ 139.86481547, 36.57284865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市新町1−1−2" }, "geometry": { "type": "Point", "coordinates": [ 139.87548519, 36.5507486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市茂原2−1023−2" }, "geometry": { "type": "Point", "coordinates": [ 139.87164544, 36.47384868 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町玉生568-5" }, "geometry": { "type": "Point", "coordinates": [ 139.85064656, 36.77133158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町静840" }, "geometry": { "type": "Point", "coordinates": [ 139.6559581, 36.31953506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町落合3-35-18" }, "geometry": { "type": "Point", "coordinates": [ 139.82405001, 36.45641397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町上三川3187" }, "geometry": { "type": "Point", "coordinates": [ 139.91313648, 36.43074632 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市柿平244" }, "geometry": { "type": "Point", "coordinates": [ 139.56135964, 36.45902292 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市万町2775−9" }, "geometry": { "type": "Point", "coordinates": [ 139.57640224, 36.31303513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上殿町982-1" }, "geometry": { "type": "Point", "coordinates": [ 139.75322608, 36.55452314 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市奈佐原町16−2" }, "geometry": { "type": "Point", "coordinates": [ 139.751960270000012, 36.51389413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市茂呂字岩石609−5" }, "geometry": { "type": "Point", "coordinates": [ 139.79903158, 36.5442824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市駅東通り1−2−30" }, "geometry": { "type": "Point", "coordinates": [ 139.806265090000011, 36.3095512 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市喜沢字海道間682−4" }, "geometry": { "type": "Point", "coordinates": [ 139.8204802, 36.34173893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市石島477−1" }, "geometry": { "type": "Point", "coordinates": [ 139.971376959999986, 36.39363454 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市鶴田9−83" }, "geometry": { "type": "Point", "coordinates": [ 140.0464681, 36.45700875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市並木町4-20-8" }, "geometry": { "type": "Point", "coordinates": [ 140.001579779999986, 36.44676348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市五十部町265-1" }, "geometry": { "type": "Point", "coordinates": [ 139.42062719, 36.34088683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町益子1397-1" }, "geometry": { "type": "Point", "coordinates": [ 140.08628789, 36.46340552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市乙畑1647" }, "geometry": { "type": "Point", "coordinates": [ 139.94917736, 36.75375719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下栗1-11-6" }, "geometry": { "type": "Point", "coordinates": [ 139.89963917, 36.53599974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市細谷町５４８" }, "geometry": { "type": "Point", "coordinates": [ 139.85232412, 36.59704264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東横田町６３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89660583, 36.50184715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市下坪山1892-1" }, "geometry": { "type": "Point", "coordinates": [ 139.86025679, 36.36192133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市赤見町1156" }, "geometry": { "type": "Point", "coordinates": [ 139.53745887, 36.34878624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市免鳥町８７１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.5461661, 36.31336279 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市高勢町１−１７２" }, "geometry": { "type": "Point", "coordinates": [ 139.977111689999987, 36.43586203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市長田１６７２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96261501, 36.45225977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市並木町１−９−７" }, "geometry": { "type": "Point", "coordinates": [ 140.00134802, 36.43935399 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市薗部町2-5-16" }, "geometry": { "type": "Point", "coordinates": [ 139.71590311, 36.37447462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市平柳町3丁目21-26" }, "geometry": { "type": "Point", "coordinates": [ 139.74715176, 36.39438024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県安蘇郡葛生町中央東３−２−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.61285251000001, 36.40677787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県安蘇郡田沼町戸室９８９" }, "geometry": { "type": "Point", "coordinates": [ 139.5747102, 36.39036784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下岡本町字金井台２４１７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93369944, 36.60242513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市桜４−４−６" }, "geometry": { "type": "Point", "coordinates": [ 139.86849039, 36.5682604 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上大曽町３７１" }, "geometry": { "type": "Point", "coordinates": [ 139.89034143, 36.57512591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西川田町９１５" }, "geometry": { "type": "Point", "coordinates": [ 139.85183805, 36.52436186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市田野町１６２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.80011405, 36.59533596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市白沢町６９３" }, "geometry": { "type": "Point", "coordinates": [ 139.93980369, 36.63043553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市平出町上野３５４５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.9392666, 36.58338603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東１−９−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.92470061, 36.54905369 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大字花岡２９８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.01686048, 36.64770831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町本丸２−１５−５４" }, "geometry": { "type": "Point", "coordinates": [ 139.79491102, 36.42130221 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡都賀町家中２１７３" }, "geometry": { "type": "Point", "coordinates": [ 139.74941401000001, 36.42223198 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡都賀町家中５９７３" }, "geometry": { "type": "Point", "coordinates": [ 139.74895824, 36.42864691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡都賀町合戦場８０４" }, "geometry": { "type": "Point", "coordinates": [ 139.74450826, 36.40833828 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡河内町下岡本２０９３" }, "geometry": { "type": "Point", "coordinates": [ 139.946245839999989, 36.60273107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町上三川４６５４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.90892716, 36.43274835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町多功４６６" }, "geometry": { "type": "Point", "coordinates": [ 139.87789966, 36.41625389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市葛生東１−１２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.60925587, 36.40098031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市閑馬町５０８" }, "geometry": { "type": "Point", "coordinates": [ 139.516451030000013, 36.40085983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市大町２９５７" }, "geometry": { "type": "Point", "coordinates": [ 139.57281636, 36.31378217 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市田沼町３６６" }, "geometry": { "type": "Point", "coordinates": [ 139.573960910000011, 36.36734848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市栃本町２３８１" }, "geometry": { "type": "Point", "coordinates": [ 139.57673309, 36.36332939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市白岩町４８６" }, "geometry": { "type": "Point", "coordinates": [ 139.521447349999988, 36.45941884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市富岡町字トミオカ１４０３" }, "geometry": { "type": "Point", "coordinates": [ 139.592096410000011, 36.31364704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上石川１１１９−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.80511747, 36.53465462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上田町１９７７" }, "geometry": { "type": "Point", "coordinates": [ 139.75166809000001, 36.56760372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市深津１２１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.81906526, 36.53778497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市西沢町３４０" }, "geometry": { "type": "Point", "coordinates": [ 139.709170879999988, 36.51931308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市中粕尾１２３６" }, "geometry": { "type": "Point", "coordinates": [ 139.58110312, 36.53720088 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市奈佐原町３６７" }, "geometry": { "type": "Point", "coordinates": [ 139.751146260000013, 36.52063227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市北赤塚町イナリマエ１７５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.76471501, 36.47599946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市緑町１−２−３０" }, "geometry": { "type": "Point", "coordinates": [ 139.76738996, 36.5565448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市延島１５２６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89477369, 36.34955039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市暁１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.76644927000001, 36.26361764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市下籠谷２４９７" }, "geometry": { "type": "Point", "coordinates": [ 139.97638084, 36.4857569 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市大前町２−２０６" }, "geometry": { "type": "Point", "coordinates": [ 139.39299856, 36.35852326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市板倉町字原３０−６" }, "geometry": { "type": "Point", "coordinates": [ 139.40043125, 36.3696877 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市浅香町３１０５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.01469416, 36.86032389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市薗部町１−２０−４４" }, "geometry": { "type": "Point", "coordinates": [ 139.71907664, 36.38451556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市薗部町１−９−３４" }, "geometry": { "type": "Point", "coordinates": [ 139.72252642, 36.37974406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市皆川城内町１７６１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.68192496, 36.39217468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市吹上町１６３" }, "geometry": { "type": "Point", "coordinates": [ 139.71660366, 36.41279764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大町１１−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.734762460000013, 36.3924956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市日ノ出町５−６" }, "geometry": { "type": "Point", "coordinates": [ 139.74003246, 36.38569621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市平柳町３−２７−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.75136626, 36.39529356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市五軒町４−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.97750772, 36.89138015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市字埼玉四方３−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.02452906, 36.98300291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市上赤田２３８" }, "geometry": { "type": "Point", "coordinates": [ 139.943827879999986, 36.91144154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市新南１６３" }, "geometry": { "type": "Point", "coordinates": [ 139.992553640000011, 36.88678682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市大原間４３４" }, "geometry": { "type": "Point", "coordinates": [ 140.02006916, 36.92963947 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市豊浦町１００−４８３" }, "geometry": { "type": "Point", "coordinates": [ 140.039624909999986, 36.96669685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市本町７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.05783236, 36.9711464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町馬頭１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.16768934000001, 36.73760616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町高久甲４１３９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.03237612, 37.00819045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町高久甲６０８８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.047031510000011, 37.02848883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町寺子丙３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.11868234, 37.0217914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市今市５１" }, "geometry": { "type": "Point", "coordinates": [ 139.698575299999987, 36.72099019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市小佐越６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.70154853, 36.79443229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市上三依５６７" }, "geometry": { "type": "Point", "coordinates": [ 139.72753257, 37.01342692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市石屋町４０８" }, "geometry": { "type": "Point", "coordinates": [ 139.61539665, 36.74875091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市足尾町赤沢１５−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.44223409, 36.6379061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市大沢町１０８" }, "geometry": { "type": "Point", "coordinates": [ 139.75571853, 36.69637566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市豊田４１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.70541092, 36.72944561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町益子１６４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08981975, 36.46298385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町益子１６７０" }, "geometry": { "type": "Point", "coordinates": [ 140.09325555, 36.46331441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡市貝町赤羽３５３" }, "geometry": { "type": "Point", "coordinates": [ 140.055990830000013, 36.49388227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市扇町２−６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.931916910000012, 36.81177506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市一ノ沢町２７２" }, "geometry": { "type": "Point", "coordinates": [ 139.86011294, 36.57543708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下栗町７０７−８" }, "geometry": { "type": "Point", "coordinates": [ 139.92388653, 36.5213001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下砥上町３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.8477526, 36.52934431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市錦３−１０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.89549373, 36.57469609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市駒生町１２９８" }, "geometry": { "type": "Point", "coordinates": [ 139.844021989999987, 36.57880023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市元今泉１−７−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.90398016, 36.5618468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市御幸ケ原町６２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92763365, 36.59354826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市今泉新町１５９" }, "geometry": { "type": "Point", "coordinates": [ 139.91124247, 36.5722847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市今里町１１４９" }, "geometry": { "type": "Point", "coordinates": [ 139.889884060000014, 36.68981263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市山本町１−３１−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.890445269999987, 36.58078116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上桑島町６９４" }, "geometry": { "type": "Point", "coordinates": [ 139.94151653, 36.51559239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上戸祭町２−１−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.86489577, 36.58725595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西原３−３−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.87362421, 36.55101473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西川田南１−１２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.85094436, 36.51059639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石井町３１４９−３８" }, "geometry": { "type": "Point", "coordinates": [ 139.927222410000013, 36.53189114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市泉ケ丘５−８−３８" }, "geometry": { "type": "Point", "coordinates": [ 139.91671939, 36.57043958 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市滝の原１−３−４１" }, "geometry": { "type": "Point", "coordinates": [ 139.86417149, 36.54496628 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市中里町１１９５−４" }, "geometry": { "type": "Point", "coordinates": [ 139.888468350000011, 36.67259262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市長岡町８５６−３０" }, "geometry": { "type": "Point", "coordinates": [ 139.87347601, 36.59393147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東塙田１−２−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.88984208, 36.56479901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市白沢町１８４９−５" }, "geometry": { "type": "Point", "coordinates": [ 139.93596667, 36.63003232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市簗瀬町１４３７−２" }, "geometry": { "type": "Point", "coordinates": [ 139.8937076, 36.54440318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鐺山町４９７" }, "geometry": { "type": "Point", "coordinates": [ 139.96964884, 36.53728645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町玉生１０５７−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.85777658, 36.7811978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町船生長峰９５５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.79933429, 36.77165768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町光陽台３−１６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.98920992, 36.61785989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町寺渡戸５７８" }, "geometry": { "type": "Point", "coordinates": [ 140.02867953, 36.62163049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字小野寺１５７２" }, "geometry": { "type": "Point", "coordinates": [ 139.62669498, 36.36056561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字静２１８０" }, "geometry": { "type": "Point", "coordinates": [ 139.65936348, 36.31393456 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字静２２４４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.66286825, 36.31437553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町おもちゃのまち３−１−４０" }, "geometry": { "type": "Point", "coordinates": [ 139.83795294, 36.46272684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町至宝１−６−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.82238948, 36.45292021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大師町１４−２７" }, "geometry": { "type": "Point", "coordinates": [ 139.79984618, 36.43134023 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字福和田１００４" }, "geometry": { "type": "Point", "coordinates": [ 139.797428520000011, 36.44496897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市下古山２９０５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.87044943, 36.4685418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市細谷５７５" }, "geometry": { "type": "Point", "coordinates": [ 139.83846157, 36.42999613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市薬師寺３３２８" }, "geometry": { "type": "Point", "coordinates": [ 139.85975292, 36.41062341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町しらさぎ１−６−３" }, "geometry": { "type": "Point", "coordinates": [ 139.906759, 36.43981886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町五分一１８７−５" }, "geometry": { "type": "Point", "coordinates": [ 139.89931723, 36.41441551 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町大字五分一２７４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.897968389999988, 36.41411313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市あくと町４１９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.605404, 36.40530024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市下彦間町３９" }, "geometry": { "type": "Point", "coordinates": [ 139.51091345, 36.40252504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市久保町１８０" }, "geometry": { "type": "Point", "coordinates": [ 139.58462992, 36.3149564 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市犬伏新町２０６５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.60689783, 36.32587411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市上台町２１２５" }, "geometry": { "type": "Point", "coordinates": [ 139.57803844, 36.30921056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市赤見町３２２２" }, "geometry": { "type": "Point", "coordinates": [ 139.538844970000014, 36.35428818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市田沼町４９３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.57543704, 36.36205129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市下南摩町２３０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.71741222, 36.52195655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上永野９０６" }, "geometry": { "type": "Point", "coordinates": [ 139.585098609999989, 36.50331038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上材木町１７９４" }, "geometry": { "type": "Point", "coordinates": [ 139.74750316, 36.5699085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上石川１４４７" }, "geometry": { "type": "Point", "coordinates": [ 139.80098105, 36.5325795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上殿町７６０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75342674, 36.55070033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市深津１３１３" }, "geometry": { "type": "Point", "coordinates": [ 139.81724449, 36.54190484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市草久１３６６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.58783942, 36.64054459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市栃窪１２６６−６１" }, "geometry": { "type": "Point", "coordinates": [ 139.77009063, 36.58198429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市奈佐原町５９−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.75145749, 36.5150801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市板荷１４６７−５" }, "geometry": { "type": "Point", "coordinates": [ 139.709376709999987, 36.61894387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市緑町２−６−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.774924660000011, 36.55542427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市粟宮１８５２" }, "geometry": { "type": "Point", "coordinates": [ 139.785725039999988, 36.2943637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市犬塚２−２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.826818089999989, 36.31099647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字乙女６０５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.75042133, 36.25476619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字犬塚４９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.83207151, 36.32413333 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市荒町３−１−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.01256182, 36.44291046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市寺内７９０−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.97033532, 36.3999144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市並木町３−４−７" }, "geometry": { "type": "Point", "coordinates": [ 139.9979935, 36.4427294 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市江川町２−９−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.46674288, 36.35140287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市寿町１１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.467382250000014, 36.32532883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市常見町２−１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.486823390000012, 36.31792995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市大前町７９１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.394090260000013, 36.35761145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市朝倉町２−２２−８" }, "geometry": { "type": "Point", "coordinates": [ 139.44617907, 36.31574645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市田中町９２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.44756412000001, 36.32871948 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市名草下町３９８４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.481803180000014, 36.37406891 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市葉鹿町２−２２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.385498790000014, 36.36864416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市河原２８６" }, "geometry": { "type": "Point", "coordinates": [ 140.15674023, 36.92245977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市狭原１１５６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.10976482, 36.85678779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市佐良土７０３" }, "geometry": { "type": "Point", "coordinates": [ 140.12149715000001, 36.78789049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市鹿畑３−４２" }, "geometry": { "type": "Point", "coordinates": [ 140.06449988, 36.83949403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市吹上町１２１９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.70196904, 36.41059992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市川原田町１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.7355732, 36.40664647 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市泉町１８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.73526245, 36.38468445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大森町４４１−７" }, "geometry": { "type": "Point", "coordinates": [ 139.695083860000011, 36.41639095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大平町富田１３６１" }, "geometry": { "type": "Point", "coordinates": [ 139.70370268, 36.34605494 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市都賀町木３５６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.726578389999986, 36.4268813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡町大田和６１４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.62796913, 36.29692624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市樋の口町３９６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75438902, 36.3628018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市湊町５−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.72789418, 36.37928362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市三箇１１９６" }, "geometry": { "type": "Point", "coordinates": [ 140.06550585, 36.69178909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市初音１５−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.15505575, 36.64807479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市上境２５６" }, "geometry": { "type": "Point", "coordinates": [ 140.17327771, 36.64880784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市大金１９２" }, "geometry": { "type": "Point", "coordinates": [ 140.09664399, 36.65682237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市中央１−８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.14696484000001, 36.65621442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市木綿畑５０８" }, "geometry": { "type": "Point", "coordinates": [ 139.937293329999989, 36.98893975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市沼野田和５３９" }, "geometry": { "type": "Point", "coordinates": [ 140.026156390000011, 36.9160857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市西富山１２９" }, "geometry": { "type": "Point", "coordinates": [ 139.98633589, 36.9048532 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市島方２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.00706352, 36.92119574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市東小屋４６１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.02442936, 36.9292486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町三輪８０８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.10799086, 36.75531911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町小川２６２０" }, "geometry": { "type": "Point", "coordinates": [ 140.12687403000001, 36.76480539 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町芦野２７２５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.163459530000011, 36.99056338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町寺子丙３−５３" }, "geometry": { "type": "Point", "coordinates": [ 140.1192821, 37.02187158 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字高久甲５０７３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.06302243, 36.9813956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字寺子丙１２２４−６" }, "geometry": { "type": "Point", "coordinates": [ 140.0968911, 37.03724007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字豊原丙４０９２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.10134912, 37.05761141 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市花石町１８６６" }, "geometry": { "type": "Point", "coordinates": [ 139.586491919999986, 36.75146524 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市今市８８−６" }, "geometry": { "type": "Point", "coordinates": [ 139.6931008, 36.72190841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市足尾町４４４０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.45848071, 36.65970207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市藤原高徳５８７" }, "geometry": { "type": "Point", "coordinates": [ 139.710667449999988, 36.78282992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市野口８７６" }, "geometry": { "type": "Point", "coordinates": [ 139.64969563, 36.73455324 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡市貝町赤羽２６９７" }, "geometry": { "type": "Point", "coordinates": [ 140.06452581, 36.51360278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡市貝町大字杉山４８８" }, "geometry": { "type": "Point", "coordinates": [ 140.10704339, 36.57987731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町黒田１９２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.15122467, 36.60259499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市中３６３" }, "geometry": { "type": "Point", "coordinates": [ 139.946596629999988, 36.79102444 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市中３７７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.9440323, 36.79727699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市箱森新田４９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.96763589, 36.71264515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下川俣町薄原３５７" }, "geometry": { "type": "Point", "coordinates": [ 139.908088310000011, 36.59326167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市今里町字中丸地内" }, "geometry": { "type": "Point", "coordinates": [ 139.89129036, 36.69029079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市長岡町谷口４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89220932, 36.59571651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市柳田町５９２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96065174, 36.56878018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡氏家町上阿久津５２６" }, "geometry": { "type": "Point", "coordinates": [ 139.96283881, 36.64750448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上河内村今里字中丸地内" }, "geometry": { "type": "Point", "coordinates": [ 139.89145889, 36.69026537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市葛生西３丁目１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.60814695, 36.40961247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市山菅町字下川原３３７７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.605423519999988, 36.39375069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市天明町２５５０" }, "geometry": { "type": "Point", "coordinates": [ 139.57173042, 36.31244061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市田島町１７３" }, "geometry": { "type": "Point", "coordinates": [ 139.56557636, 36.29228967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市寺内字篠山原７９３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.97084012, 36.3995841 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市住吉町１−１４−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.01859613, 36.87142283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市南１丁目１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.1522406, 36.65064781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市共墾社１３７" }, "geometry": { "type": "Point", "coordinates": [ 140.045962519999989, 36.95729132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市東小屋４６２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.02497438, 36.92999981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市豊町５−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.04803252, 36.96752469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市扇町２−３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93057219, 36.81130764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市今泉町5-1-8" }, "geometry": { "type": "Point", "coordinates": [ 139.89755079, 36.56671086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上籠谷町字下西原2986-1" }, "geometry": { "type": "Point", "coordinates": [ 139.96793606, 36.49851984 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字壬生丁130-4" }, "geometry": { "type": "Point", "coordinates": [ 139.82024893, 36.44965102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市大根田８８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.98093775000001, 36.37159957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市橋本町1-1" }, "geometry": { "type": "Point", "coordinates": [ 140.05859095, 36.97513634 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町高久甲4008-8" }, "geometry": { "type": "Point", "coordinates": [ 140.03887647, 37.00044174 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市卯の里５−６１" }, "geometry": { "type": "Point", "coordinates": [ 139.96123437, 36.67731663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家１９８９" }, "geometry": { "type": "Point", "coordinates": [ 139.959998250000012, 36.67358642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市こて山町１０５９−５" }, "geometry": { "type": "Point", "coordinates": [ 139.95860319, 36.5416795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下ケ橋町１０７３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.938084010000011, 36.64912183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下栗町石井境２３１３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.91499489, 36.53340147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市宮の内３−１８３" }, "geometry": { "type": "Point", "coordinates": [ 139.87546509, 36.50450895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市桜２−２−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.86974883, 36.56422756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市若松原３−３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.862473169999987, 36.50494527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上戸祭１−１−４７" }, "geometry": { "type": "Point", "coordinates": [ 139.86566496, 36.58457789 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市上小倉町８６８" }, "geometry": { "type": "Point", "coordinates": [ 139.90601812, 36.70213905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西刑部町１４０１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93377121, 36.49360613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西川田本町４−４−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.84599458, 36.51306844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市大谷町１１０１番地" }, "geometry": { "type": "Point", "coordinates": [ 139.82419711, 36.59080738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市竹林町８５７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89897357000001, 36.57495796 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市鶴田町１６４３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85065142, 36.55233677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大宮１３６２" }, "geometry": { "type": "Point", "coordinates": [ 139.875377320000013, 36.742581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上河内村中里原２２５" }, "geometry": { "type": "Point", "coordinates": [ 139.90105574, 36.67829204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県河内郡上三川町多功１５８４" }, "geometry": { "type": "Point", "coordinates": [ 139.87500714, 36.42956726 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県今市市今市６７" }, "geometry": { "type": "Point", "coordinates": [ 139.69477025, 36.72163719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市黒袴町八幡１０７５" }, "geometry": { "type": "Point", "coordinates": [ 139.62001956, 36.31940019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市仙波町１７２" }, "geometry": { "type": "Point", "coordinates": [ 139.594925460000013, 36.4305484 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市天神町７２７" }, "geometry": { "type": "Point", "coordinates": [ 139.57565352, 36.31911973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市中粕尾３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.60571703, 36.52034268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市緑町１−１−１７" }, "geometry": { "type": "Point", "coordinates": [ 139.76621182, 36.55870701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市小山五反田９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.81992926, 36.29776538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市神鳥谷４−９−６２" }, "geometry": { "type": "Point", "coordinates": [ 139.787425789999986, 36.29773361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市東城南２−４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.81847105, 36.29792084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市寺内１０３１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.97963108, 36.41132261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市西新井町３１８８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.43160744, 36.31819045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市寒井１４７０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.10956131, 36.92088421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市黒羽向町１１３６" }, "geometry": { "type": "Point", "coordinates": [ 140.11826407, 36.87318558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市南金丸馬場１５８８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0868003, 36.86147568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市本町２７０１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.00698882, 36.87668603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市昭和町２−２８" }, "geometry": { "type": "Point", "coordinates": [ 139.73578171, 36.38910917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市城内町２−２４−５２" }, "geometry": { "type": "Point", "coordinates": [ 139.74687448, 36.371982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市大宮町２１８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75980594, 36.39912243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市月次４６５" }, "geometry": { "type": "Point", "coordinates": [ 140.12827649, 36.6675192 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市神長５７３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.13746912, 36.66011856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市塩原１２２１" }, "geometry": { "type": "Point", "coordinates": [ 139.84558832, 36.9635365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市下厚崎２６７" }, "geometry": { "type": "Point", "coordinates": [ 140.0424408, 36.95224318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市関谷４８８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.900674040000013, 36.9538971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市共懇社９６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.049199179999988, 36.96168097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市南赤田３２０" }, "geometry": { "type": "Point", "coordinates": [ 139.9519956, 36.90682738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市豊浦１０−４４７" }, "geometry": { "type": "Point", "coordinates": [ 140.05276684, 36.95068749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市今市字下原１２３２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.70868812, 36.72265098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市松原町１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.619572049999988, 36.74728025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市清滝町４丁目字水尻１２４" }, "geometry": { "type": "Point", "coordinates": [ 139.56333899, 36.73695468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市大桑町８３６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.7165752, 36.76607202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡益子町益子７９８" }, "geometry": { "type": "Point", "coordinates": [ 140.09952723, 36.4631117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡市貝町文谷５４５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.1042972, 36.56765832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町茂木１４４６" }, "geometry": { "type": "Point", "coordinates": [ 140.1825926, 36.52999207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市乙畑９２２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.953572939999987, 36.73933083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市鹿島町４−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.9252683, 36.80525175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市泉５７２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.91208404, 36.843503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市東町花１２３７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.94437901, 36.79443966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市本町１３０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92211375, 36.80817553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市西原町３２８２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.88449297, 36.54818521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市羽川５１７" }, "geometry": { "type": "Point", "coordinates": [ 139.83596368, 36.36882876 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市平ケ崎８３" }, "geometry": { "type": "Point", "coordinates": [ 139.68637321, 36.72170615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡大平町西水代1992-2" }, "geometry": { "type": "Point", "coordinates": [ 139.71246634, 36.31401116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市雨ヶ谷新田６６" }, "geometry": { "type": "Point", "coordinates": [ 139.8212743, 36.29760558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡大平町富田１５２０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.69596456, 36.33327643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡藤岡町大字中根１３１" }, "geometry": { "type": "Point", "coordinates": [ 139.691738719999989, 36.28102571 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市平柳町1-1-27" }, "geometry": { "type": "Point", "coordinates": [ 139.74045407, 36.38658824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市所野５４１−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.64541834, 36.74751646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上殿町９４" }, "geometry": { "type": "Point", "coordinates": [ 139.74830952, 36.54556674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上日向４２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.71957766, 36.56408737 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市西富山４３２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.990609549999988, 36.90981738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市葉鹿町３９６" }, "geometry": { "type": "Point", "coordinates": [ 139.383173019999987, 36.36330413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市口粟野695" }, "geometry": { "type": "Point", "coordinates": [ 139.68078442, 36.51806461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下岡本町４１２１" }, "geometry": { "type": "Point", "coordinates": [ 139.94360945, 36.59619208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町小川７２３" }, "geometry": { "type": "Point", "coordinates": [ 140.13274704, 36.75859883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市西郷１５５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.99716748, 36.45383522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市中久喜１３５２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.83915216, 36.32110017 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東１−１７−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.92763091, 36.54852299 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市松原２−８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.87124545, 36.5748931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須塩原市関谷１６３７" }, "geometry": { "type": "Point", "coordinates": [ 139.91627734, 36.94882123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県矢板市針生７１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.932218979999988, 36.81547934 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県足利市問屋町１８２９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.46646937, 36.31016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市平柳町１−２１−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.74081283000001, 36.39178643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県大田原市紫塚１−１４−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.00819426000001, 36.87668862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市宮の内４−１８９" }, "geometry": { "type": "Point", "coordinates": [ 139.874500070000011, 36.5018939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市下戸祭２−１４−９" }, "geometry": { "type": "Point", "coordinates": [ 139.87730887, 36.5738962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市大宮町２１９０−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75936653, 36.39874839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市花垣町２−１１−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.80941023, 36.3254674 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市城北２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.814111020000013, 36.32520326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県足利市山川町７５９" }, "geometry": { "type": "Point", "coordinates": [ 139.47764418, 36.32748059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県大田原市上石上１７９９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.94921241, 36.86461278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須郡那須町大字高久甲５６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.06478338, 36.98599146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県真岡市石島９５４" }, "geometry": { "type": "Point", "coordinates": [ 139.97178068, 36.39481344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市野口６３８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.658859400000011, 36.7326527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字高久甲１７４２−２３４" }, "geometry": { "type": "Point", "coordinates": [ 140.08724958, 36.9973721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市扇町３−９" }, "geometry": { "type": "Point", "coordinates": [ 139.984212969999987, 36.882712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字湯本３７７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.012908399999986, 37.08103229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市西遅沢３３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.99641892, 36.91389227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市東三島５丁目８９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.9785435, 36.90016315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市亀久１２５１" }, "geometry": { "type": "Point", "coordinates": [ 140.146805660000012, 36.81335224 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市大豆田３１８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.11467502, 36.85619355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町小川２５９２" }, "geometry": { "type": "Point", "coordinates": [ 140.12730267, 36.76214302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字寺子丙１４０" }, "geometry": { "type": "Point", "coordinates": [ 140.113729369999987, 37.02781121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市柿平町８７６" }, "geometry": { "type": "Point", "coordinates": [ 139.55349697, 36.47126888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市多田町３０８５" }, "geometry": { "type": "Point", "coordinates": [ 139.598610650000012, 36.38552085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市多田町３７４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.59868431000001, 36.38085049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市三島３丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.971763610000011, 36.89671261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡岩舟町大字下津原１１９６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.63533246, 36.32494075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大字船生６０８２−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.75897796000001, 36.7683163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡塩谷町大字佐貫８９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.80537404, 36.74917475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市藤岡３３８９" }, "geometry": { "type": "Point", "coordinates": [ 139.648662800000011, 36.24680593 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市都賀３５５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.6297719, 36.27493941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市赤麻４２４３−４" }, "geometry": { "type": "Point", "coordinates": [ 139.67633351, 36.26965255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市大桶７５５" }, "geometry": { "type": "Point", "coordinates": [ 140.15492088, 36.7094196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町松野１２８３" }, "geometry": { "type": "Point", "coordinates": [ 140.16484565, 36.70867843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家２６５９−５" }, "geometry": { "type": "Point", "coordinates": [ 139.967460460000012, 36.68047089 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那珂川町馬頭４３１" }, "geometry": { "type": "Point", "coordinates": [ 140.17222572, 36.73810284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市氏家２０１０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.960953030000013, 36.67463866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市田野倉７７９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.081675170000011, 36.65543226 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市志鳥３１９８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.082860079999989, 36.73352884 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市喜連川１６５" }, "geometry": { "type": "Point", "coordinates": [ 140.038148979999988, 36.71769065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市大通り４丁目１−１９" }, "geometry": { "type": "Point", "coordinates": [ 139.894169330000011, 36.5604677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市丸山町６８７−７" }, "geometry": { "type": "Point", "coordinates": [ 139.457053230000014, 36.34042034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市野高谷町３３６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.989663619999988, 36.56624243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市大月町３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.47735757, 36.33570535 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市弥生１丁目７−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.86936652, 36.5436797 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市東町２丁目１−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.77264495, 36.56568734 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市駒生町２６３３" }, "geometry": { "type": "Point", "coordinates": [ 139.83713925, 36.59330563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市砥上町９５７−８" }, "geometry": { "type": "Point", "coordinates": [ 139.837661200000014, 36.54983471 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町大字漆塚２０３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08978559, 37.02313186 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市東町７３５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.94263159, 36.80071031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市大金１６０" }, "geometry": { "type": "Point", "coordinates": [ 140.097093339999986, 36.65669011 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市西田井１６６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.0534978, 36.45103761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町中央町１８−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.80262861, 36.42064631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市野間７４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.08349927, 36.92854274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市若草１丁目７１１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.02959422, 36.8572316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市板橋１６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.73590547, 36.68332983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市東泉２３４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.9145258, 36.83079353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市上坪山６３９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.89281048, 36.36824251 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡芳賀町大字下高根沢４９８６−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.01217846, 36.57725558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市城東１８８７" }, "geometry": { "type": "Point", "coordinates": [ 140.15761045, 36.66213979 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市針ケ谷町５０２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85423304, 36.49159558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下川俣町２０６" }, "geometry": { "type": "Point", "coordinates": [ 139.9196344, 36.59146492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市中町６０７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.61032151, 36.39155794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市神長６８１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.13491302, 36.65868025 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市簗瀬２丁目１３−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.892195070000014, 36.55026306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県さくら市櫻野１５１１" }, "geometry": { "type": "Point", "coordinates": [ 139.97182479, 36.68900362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須烏山市中央１丁目１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.15384146, 36.65731527 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市蛭田１９８５" }, "geometry": { "type": "Point", "coordinates": [ 140.0803717, 36.82266847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市中央町２丁目９−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.80360513, 36.31374341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下野市下古山３３７５" }, "geometry": { "type": "Point", "coordinates": [ 139.87007752, 36.46907021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市若草１丁目１２５６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.04219015000001, 36.85367625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市市野沢１１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.055764720000013, 36.91427137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石井町１４７１−５" }, "geometry": { "type": "Point", "coordinates": [ 139.93625787, 36.54562596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市石那田町１２５" }, "geometry": { "type": "Point", "coordinates": [ 139.83082176, 36.66706782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町大字中谷５２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.74596623, 36.22286026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東宿郷３丁目９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.90375212, 36.55708231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市新里町丙４６５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.82226499, 36.63442767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市東谷町４８４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.89870262, 36.48203361 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市江曽島本町２−７" }, "geometry": { "type": "Point", "coordinates": [ 139.872552860000013, 36.53317805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市岩曽町１３９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.913663, 36.58687365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市若木町３丁目２０−３５" }, "geometry": { "type": "Point", "coordinates": [ 139.81104069, 36.32856437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須塩原市鍋掛１０８８−２２５" }, "geometry": { "type": "Point", "coordinates": [ 140.065414550000014, 36.96058423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市鹿島町１３−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.92551705, 36.80186079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市中田原１４３５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.04192752, 36.87967276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市瀬尾３８" }, "geometry": { "type": "Point", "coordinates": [ 139.69462571, 36.73677238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市赤羽１５６３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.049319669999988, 36.48599137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市下粕尾７８６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.633228699999989, 36.5056998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市八幡町２丁目２−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.79925555, 36.30972703 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県小山市大字出井１５３３−４４" }, "geometry": { "type": "Point", "coordinates": [ 139.84423815, 36.34600531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市陽東２丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 139.92515198000001, 36.55429352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県真岡市勝瓜２２１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96480048, 36.46384997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡壬生町大字安塚８７４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.83162392, 36.48347528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下岡本町１８０３" }, "geometry": { "type": "Point", "coordinates": [ 139.94810145, 36.59650135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市下田原町１０２２" }, "geometry": { "type": "Point", "coordinates": [ 139.90296647, 36.6316553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町大字飯１３４４" }, "geometry": { "type": "Point", "coordinates": [ 140.16411557, 36.48190097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市黒袴町１００５" }, "geometry": { "type": "Point", "coordinates": [ 139.61826206, 36.31668041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市上羽田町４８１−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.54612832, 36.299213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市平柳町１丁目１８−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.73944653, 36.38992383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県栃木市木野地町１７７" }, "geometry": { "type": "Point", "coordinates": [ 139.73165717, 36.41783921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市芹沼１４５２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.71092947, 36.7412026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市八椚町３８２" }, "geometry": { "type": "Point", "coordinates": [ 139.489124260000011, 36.31984402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市上野町２０６−７" }, "geometry": { "type": "Point", "coordinates": [ 139.76360487, 36.56791873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市寺岡町６６８" }, "geometry": { "type": "Point", "coordinates": [ 139.53547171, 36.31373143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市助戸３丁目４０８−３" }, "geometry": { "type": "Point", "coordinates": [ 139.462794659999986, 36.33171034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市小俣町４９９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.371266350000013, 36.37542092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市伊勢町１丁目８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.45916233, 36.33139544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県足利市芳町１３" }, "geometry": { "type": "Point", "coordinates": [ 139.47072187, 36.33543415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市玉田町６３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.75160793, 36.5775681 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市塩野室町１０２０−２" }, "geometry": { "type": "Point", "coordinates": [ 139.798660829999989, 36.73539441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県日光市本町４−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.595127139999988, 36.752957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市流通センター７" }, "geometry": { "type": "Point", "coordinates": [ 139.79700842, 36.5174038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市樅山町５３２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.7441068, 36.5374143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県佐野市町谷町１２２" }, "geometry": { "type": "Point", "coordinates": [ 139.631240819999988, 36.32535474 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市西鹿沼町１４０−３" }, "geometry": { "type": "Point", "coordinates": [ 139.742031989999987, 36.56452951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市御成橋町１丁目２０１９" }, "geometry": { "type": "Point", "coordinates": [ 139.751592499999987, 36.57544885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市府所町２２０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.759441829999986, 36.56891253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県宇都宮市宿郷２丁目１０−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.90224414, 36.55352707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市匠町３−４５" }, "geometry": { "type": "Point", "coordinates": [ 139.59630327, 36.75192222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県佐野市石塚町２４２４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.555262739999989, 36.36274581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市中岡本町２８４７−７" }, "geometry": { "type": "Point", "coordinates": [ 139.94358452, 36.60932176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市下岡本町４２１０" }, "geometry": { "type": "Point", "coordinates": [ 139.9453604, 36.59789441 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須塩原市宮町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.05885772, 36.97316666 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県真岡市台町２３９０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.00403961, 36.44092779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市城山町３丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.80449395, 36.3144517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市大字雨ケ谷新田７−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.81929882, 36.28993575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市森友３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.723195659999988, 36.71383459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県芳賀郡益子町大字下大羽９３０" }, "geometry": { "type": "Point", "coordinates": [ 140.12793248, 36.47454405 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県芳賀郡茂木町大字小深２９６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.2310884, 36.5730823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市稲荷町３丁目１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.61858299, 36.74867575 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市日吉町６２０" }, "geometry": { "type": "Point", "coordinates": [ 139.72582498, 36.56684064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市下田町２丁目１０４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.74942026, 36.56255777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市上田町１８８１" }, "geometry": { "type": "Point", "coordinates": [ 139.74899224, 36.566056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市上材木町１７８９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.74716404, 36.56971793 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市上石川１４７７" }, "geometry": { "type": "Point", "coordinates": [ 139.80222278, 36.52947704 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県佐野市茂呂山町３−１２" }, "geometry": { "type": "Point", "coordinates": [ 139.59373736, 36.29613463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須塩原市扇町７−６" }, "geometry": { "type": "Point", "coordinates": [ 139.983741009999989, 36.8847639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市瀬川１６３" }, "geometry": { "type": "Point", "coordinates": [ 139.68585295, 36.72810985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県大田原市住吉町２丁目１９−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.017860250000012, 36.87213671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市大字喜沢７６" }, "geometry": { "type": "Point", "coordinates": [ 139.81290447, 36.33046702 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県塩谷郡塩谷町大字船生３６１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.79136136, 36.76942085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県佐野市葛生東３丁目４−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.61161064, 36.40785443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県佐野市栃本町２３３７−５" }, "geometry": { "type": "Point", "coordinates": [ 139.578594009999989, 36.36405431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須塩原市五軒町２−２６" }, "geometry": { "type": "Point", "coordinates": [ 139.9807908, 36.88946662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市中岡本町２８５７−８" }, "geometry": { "type": "Point", "coordinates": [ 139.93931822, 36.60803013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県佐野市浅沼町７０−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.58681298, 36.30522234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県さくら市喜連川４３７９" }, "geometry": { "type": "Point", "coordinates": [ 140.02559206, 36.71979274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県塩谷郡高根沢町大字宝積寺２１３４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.98099678, 36.61862895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市大平町下高島７９９" }, "geometry": { "type": "Point", "coordinates": [ 139.73955759, 36.33834124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須塩原市石林１０１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.002411349999988, 36.87924643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市石井町２４６５" }, "geometry": { "type": "Point", "coordinates": [ 139.94465399, 36.5431641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市西川田町２６９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84495275, 36.51891782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市倭町５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.73263169, 36.37935625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市本町３−２１" }, "geometry": { "type": "Point", "coordinates": [ 139.74058581, 36.37573962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県足利市福居町５８２" }, "geometry": { "type": "Point", "coordinates": [ 139.454336, 36.30601163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市峰３丁目１９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.91834565, 36.55321537 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市御幸町６２−４" }, "geometry": { "type": "Point", "coordinates": [ 139.91699112, 36.57677773 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市川田町７４２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.88786563, 36.53350054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市富士見町２−１４" }, "geometry": { "type": "Point", "coordinates": [ 139.86456974, 36.48022261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市平松本町１１４０−７" }, "geometry": { "type": "Point", "coordinates": [ 139.90383621, 36.54176422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市塙田３丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 139.887728, 36.56355047 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市川田町１０３３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.88897359, 36.53994166 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市戸祭２丁目１０−３３" }, "geometry": { "type": "Point", "coordinates": [ 139.86478488, 36.57372077 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市天神２丁目５−７" }, "geometry": { "type": "Point", "coordinates": [ 139.88891715, 36.55369379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市川田町７９６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.890493099999986, 36.53598926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市江曽島町１４４９" }, "geometry": { "type": "Point", "coordinates": [ 139.88080528, 36.52807037 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市中今泉１丁目９−４３" }, "geometry": { "type": "Point", "coordinates": [ 139.903670729999988, 36.56904211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市中今泉３丁目３１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.91037548, 36.57170313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市泉が丘２丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.91768897, 36.56261924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市平出町１３１３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94303906, 36.57346794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県栃木市大平町富田１４３４" }, "geometry": { "type": "Point", "coordinates": [ 139.69908124, 36.3425403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県下野市小金井４丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 139.84215329, 36.37985351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県鹿沼市上野町１２９−４" }, "geometry": { "type": "Point", "coordinates": [ 139.75996233, 36.57000386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市大字出井１２３５−６" }, "geometry": { "type": "Point", "coordinates": [ 139.84969038, 36.34742753 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市岩曽町１２０９" }, "geometry": { "type": "Point", "coordinates": [ 139.91396845, 36.58864012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市八幡町２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.79941943, 36.30974925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市瀬川１３７−１" }, "geometry": { "type": "Point", "coordinates": [ 139.687460140000013, 36.72801197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市御幸町５７５" }, "geometry": { "type": "Point", "coordinates": [ 139.61271715, 36.74929101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市旭１丁目４−４２" }, "geometry": { "type": "Point", "coordinates": [ 139.883559350000013, 36.5552345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市中久喜１９８" }, "geometry": { "type": "Point", "coordinates": [ 139.83824157, 36.30622933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市鐺山町４２８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.96594746, 36.53854234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市宝木本町１１７７−３０" }, "geometry": { "type": "Point", "coordinates": [ 139.856184500000012, 36.60362523 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市松原町１２−５" }, "geometry": { "type": "Point", "coordinates": [ 139.6185697, 36.74726591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県さくら市喜連川４４５５" }, "geometry": { "type": "Point", "coordinates": [ 140.0262783, 36.71614044 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市岩曽町１５１０−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.91536871, 36.58177986 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県足利市有楽町８４３" }, "geometry": { "type": "Point", "coordinates": [ 139.45718646, 36.34435335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市鶴田町３３３９−９" }, "geometry": { "type": "Point", "coordinates": [ 139.86083262, 36.5399766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市今泉２丁目１−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.89565769, 36.56204055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市大谷町１２１９" }, "geometry": { "type": "Point", "coordinates": [ 139.819696850000014, 36.59660114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市栄町５−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.89040524, 36.56261642 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市桜１丁目６−８" }, "geometry": { "type": "Point", "coordinates": [ 139.871590520000012, 36.56114184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市雀の宮４丁目６−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.872004870000012, 36.49138534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市中央本町１−３４" }, "geometry": { "type": "Point", "coordinates": [ 139.88431461, 36.55961464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市鶴田町２５６４" }, "geometry": { "type": "Point", "coordinates": [ 139.864282949999989, 36.55648101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市鶴田町３３４３−３" }, "geometry": { "type": "Point", "coordinates": [ 139.86144221, 36.54072982 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市問屋町３１７２−５４" }, "geometry": { "type": "Point", "coordinates": [ 139.92279038, 36.53084636 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市滝谷町１７−３" }, "geometry": { "type": "Point", "coordinates": [ 139.868169239999986, 36.5520229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市金屋仲町２４９３" }, "geometry": { "type": "Point", "coordinates": [ 139.57519786, 36.3116372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市大橋町１６３２−３" }, "geometry": { "type": "Point", "coordinates": [ 139.55891738, 36.31351243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市中岡本町３７１０−９９" }, "geometry": { "type": "Point", "coordinates": [ 139.93629625, 36.60707183 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市中粕尾１３６５−２" }, "geometry": { "type": "Point", "coordinates": [ 139.577165830000013, 36.55076806 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市足尾町赤沢１９−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.444179029999987, 36.63931124 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県真岡市久下田８６４" }, "geometry": { "type": "Point", "coordinates": [ 139.96976472, 36.37785639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県芳賀郡茂木町大字茂木１７７３" }, "geometry": { "type": "Point", "coordinates": [ 140.18529694, 36.53335925 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下野市石橋２２４" }, "geometry": { "type": "Point", "coordinates": [ 139.86511302, 36.43538618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県河内郡上三川町大字上三川４８７９" }, "geometry": { "type": "Point", "coordinates": [ 139.91315345000001, 36.43153529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下野市下古山３３１０" }, "geometry": { "type": "Point", "coordinates": [ 139.862459699999988, 36.45239815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下野市小金井４８−２０" }, "geometry": { "type": "Point", "coordinates": [ 139.84142852, 36.37681775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下野市小金井１７９５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.84786840000001, 36.40147601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡野木町大字野木２０６５−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.713191419999987, 36.22275145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡野木町大字丸林３９７−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.7338953, 36.23080909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡壬生町大字七ツ石７９３" }, "geometry": { "type": "Point", "coordinates": [ 139.769010939999987, 36.46408829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市新富町１丁目９−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.03074844, 36.86308803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市花垣町１丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.80439306, 36.32270366 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市大字福良２２４３" }, "geometry": { "type": "Point", "coordinates": [ 139.89730997, 36.32950587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市大字松沼９５０" }, "geometry": { "type": "Point", "coordinates": [ 139.780761750000011, 36.35030813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市宮本町２丁目１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.8012881, 36.30920536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市八幡町２丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 139.79930554, 36.30983257 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市乙女３丁目２４−２８" }, "geometry": { "type": "Point", "coordinates": [ 139.75707553, 36.25758745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県真岡市田町２２９４" }, "geometry": { "type": "Point", "coordinates": [ 140.00836117, 36.43997355 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下野市本吉田７５５" }, "geometry": { "type": "Point", "coordinates": [ 139.90956418, 36.37146725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県真岡市東郷１８４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.03696073, 36.4541477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県河内郡上三川町大字上文挾１９１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.94863196, 36.47585034 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市元町１丁目８−９" }, "geometry": { "type": "Point", "coordinates": [ 140.03194846, 36.8609216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市山の手１丁目１２−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.02557629, 36.87054268 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県矢板市末広町１５−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.935191409999987, 36.80646117 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県矢板市本町８−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.92619871, 36.80837207 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市共墾社１１２" }, "geometry": { "type": "Point", "coordinates": [ 140.04842149000001, 36.9605505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市埼玉８−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.028325919999986, 36.9808699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市高砂町３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.05296617, 36.97355153 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県真岡市台町２３４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.00349759, 36.44214825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市新吉水町３０" }, "geometry": { "type": "Point", "coordinates": [ 139.58110002, 36.34690066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市五軒町６−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.980107479999987, 36.89079143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市太夫塚１丁目２３２" }, "geometry": { "type": "Point", "coordinates": [ 139.977213760000012, 36.88183684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市西三島１丁目１５１−４３" }, "geometry": { "type": "Point", "coordinates": [ 139.97020009, 36.89202423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市下彦間町１３８−２" }, "geometry": { "type": "Point", "coordinates": [ 139.50757402, 36.40430933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市会沢町３３３−１" }, "geometry": { "type": "Point", "coordinates": [ 139.62589786, 36.4143483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市葛生東３丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 139.61075792, 36.40814049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県芳賀郡芳賀町大字八ツ木８６０" }, "geometry": { "type": "Point", "coordinates": [ 140.04885965, 36.60106311 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市岩崎町１４１４" }, "geometry": { "type": "Point", "coordinates": [ 139.57064399, 36.39457688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡岩舟町大字畳岡７０２" }, "geometry": { "type": "Point", "coordinates": [ 139.64623412, 36.31873646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字大宮１９６４−１" }, "geometry": { "type": "Point", "coordinates": [ 139.872991320000011, 36.746129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字大宮２２２５" }, "geometry": { "type": "Point", "coordinates": [ 139.87349405, 36.74448353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字田所２４９４−９" }, "geometry": { "type": "Point", "coordinates": [ 139.86354812, 36.77602136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字玉生５３０" }, "geometry": { "type": "Point", "coordinates": [ 139.85005304, 36.77416577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字船生７６５５" }, "geometry": { "type": "Point", "coordinates": [ 139.7888921, 36.76881803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那須町大字寺子丙４" }, "geometry": { "type": "Point", "coordinates": [ 140.11843006, 37.02472545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡高根沢町大字上高根沢７６２" }, "geometry": { "type": "Point", "coordinates": [ 140.0300918, 36.59576835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那須町大字寺子丙３" }, "geometry": { "type": "Point", "coordinates": [ 140.1187401, 37.02066193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡高根沢町光陽台３丁目７−５" }, "geometry": { "type": "Point", "coordinates": [ 139.989413500000012, 36.6191909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那珂川町馬頭５１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.17605353, 36.73959637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市蛭畑１２６５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.09429698, 36.80494775 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那須町大字芦野２７５８" }, "geometry": { "type": "Point", "coordinates": [ 140.16314153, 36.99018871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市大字大川島５７８" }, "geometry": { "type": "Point", "coordinates": [ 139.74619081, 36.32290988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市昭和町８−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.736639950000011, 36.38877061 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市錦町５９" }, "geometry": { "type": "Point", "coordinates": [ 139.46264842, 36.32735615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市羽刈町７７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.4711615, 36.28126623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市葉鹿町３８６" }, "geometry": { "type": "Point", "coordinates": [ 139.384626880000013, 36.36262815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市久松町１２６−１" }, "geometry": { "type": "Point", "coordinates": [ 139.46928598, 36.33255791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市福居町１００５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.45315107, 36.31102873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市百頭町２１６４" }, "geometry": { "type": "Point", "coordinates": [ 139.45931474, 36.29360045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市五十部町１１４３−４" }, "geometry": { "type": "Point", "coordinates": [ 139.426618389999987, 36.34545855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市常見町６２９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.49730557, 36.32089945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市大町１１−２２" }, "geometry": { "type": "Point", "coordinates": [ 139.73492905, 36.39313163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市仲仕上町７９−１" }, "geometry": { "type": "Point", "coordinates": [ 139.75318791, 36.37055749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市富士見町４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.7245476, 36.37771239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市本町６−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.73918745, 36.37756123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市本町１０−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.741668839999988, 36.37827823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市室町６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.73249203, 36.37652813 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市赤見町５２６" }, "geometry": { "type": "Point", "coordinates": [ 139.527776780000011, 36.34114778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市泉川町８５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.71279961, 36.38847319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市野沢町５５１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.85697848, 36.61448227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市塙田４丁目３−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.8892445, 36.56426156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市東峰町３０４０" }, "geometry": { "type": "Point", "coordinates": [ 139.92002322, 36.54951965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市御幸本町４７３６−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.92768503, 36.58424949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市若松原３丁目１９−３８" }, "geometry": { "type": "Point", "coordinates": [ 139.860931849999986, 36.49955029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市通７丁目３１２７" }, "geometry": { "type": "Point", "coordinates": [ 139.438565860000011, 36.339453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市陽東１丁目１７−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.92650901, 36.54869171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市通４丁目２５８４" }, "geometry": { "type": "Point", "coordinates": [ 139.4462215, 36.33700228 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市宿郷２丁目４−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.89933557, 36.55426359 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市伊勢町２丁目１４−５" }, "geometry": { "type": "Point", "coordinates": [ 139.46049478, 36.33187961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市今福町９４" }, "geometry": { "type": "Point", "coordinates": [ 139.434053760000012, 36.34008888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市大沼田町３７７" }, "geometry": { "type": "Point", "coordinates": [ 139.50290761, 36.32802662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市利保町１丁目４１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.47361647, 36.35244623 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市助戸１丁目２０" }, "geometry": { "type": "Point", "coordinates": [ 139.47147196, 36.32816413 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市大正町８６５" }, "geometry": { "type": "Point", "coordinates": [ 139.45349515, 36.3425978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市大町４３２" }, "geometry": { "type": "Point", "coordinates": [ 139.45793102, 36.33684846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市金屋仲町２４２３" }, "geometry": { "type": "Point", "coordinates": [ 139.57660789, 36.31125476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市２８６" }, "geometry": { "type": "Point", "coordinates": [ 139.68771877, 36.72192092 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市植野町２００４−３" }, "geometry": { "type": "Point", "coordinates": [ 139.5867711, 36.30480477 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市緑町１丁目２−１３" }, "geometry": { "type": "Point", "coordinates": [ 139.76881549, 36.55839467 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市西茂呂３丁目５６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.76870535, 36.54489671 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市御幸町６１４" }, "geometry": { "type": "Point", "coordinates": [ 139.61345318, 36.74944657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市猪倉３５０７−２４" }, "geometry": { "type": "Point", "coordinates": [ 139.77756438, 36.67089823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市６７０" }, "geometry": { "type": "Point", "coordinates": [ 139.68663, 36.72628157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１１８６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.70126527, 36.72413686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１３６９" }, "geometry": { "type": "Point", "coordinates": [ 139.69151865, 36.73249231 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市４６７" }, "geometry": { "type": "Point", "coordinates": [ 139.685843870000014, 36.72406788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１２００−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.704949590000012, 36.72491988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市瀬尾９９５" }, "geometry": { "type": "Point", "coordinates": [ 139.68447968000001, 36.74113845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市粟宮１８５８" }, "geometry": { "type": "Point", "coordinates": [ 139.78519345, 36.29371744 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市南大通り３丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 139.89606404, 36.55359901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１４９２" }, "geometry": { "type": "Point", "coordinates": [ 139.686410239999987, 36.72890075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市大字小山２７１０" }, "geometry": { "type": "Point", "coordinates": [ 139.79585538, 36.31858707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市上台町２１５０" }, "geometry": { "type": "Point", "coordinates": [ 139.57562377, 36.30774626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市天神町６０５" }, "geometry": { "type": "Point", "coordinates": [ 139.57705439, 36.32204807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市免鳥町１０２６" }, "geometry": { "type": "Point", "coordinates": [ 139.54336562, 36.31381211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市今宮町１６３７" }, "geometry": { "type": "Point", "coordinates": [ 139.744545640000013, 36.56446016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市府所町１９２−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.756155580000012, 36.56793792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市上田町１９７１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.75166432, 36.56777391 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市下沢７２７" }, "geometry": { "type": "Point", "coordinates": [ 139.68968084, 36.58859176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市下田町１丁目１０２２" }, "geometry": { "type": "Point", "coordinates": [ 139.749062, 36.56102182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市千手町２５４０−４" }, "geometry": { "type": "Point", "coordinates": [ 139.74572581000001, 36.57232601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市戸張町２３６６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.74853904, 36.57200643 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市千渡１６０５−３４１" }, "geometry": { "type": "Point", "coordinates": [ 139.78728364, 36.5582429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市仲町１７０１−６" }, "geometry": { "type": "Point", "coordinates": [ 139.74740372, 36.56423529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市西鹿沼町９１" }, "geometry": { "type": "Point", "coordinates": [ 139.7404359, 36.56424336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市東末広町１１３５−８" }, "geometry": { "type": "Point", "coordinates": [ 139.75370313, 36.56487431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市２６９" }, "geometry": { "type": "Point", "coordinates": [ 139.68900681, 36.72107617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市大谷町１４２０" }, "geometry": { "type": "Point", "coordinates": [ 139.81550041, 36.59300145 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市七軒町２１９６" }, "geometry": { "type": "Point", "coordinates": [ 139.57421949, 36.30582191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県足利市柳原町８５７" }, "geometry": { "type": "Point", "coordinates": [ 139.45358303, 36.34115708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市若松町６７２" }, "geometry": { "type": "Point", "coordinates": [ 139.581288160000014, 36.31507283 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市八千代２丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.86003994, 36.53056972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市富士見町１４−１１" }, "geometry": { "type": "Point", "coordinates": [ 139.729458630000011, 36.37628598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市下岡本町４２６４" }, "geometry": { "type": "Point", "coordinates": [ 139.94626818, 36.5990843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡壬生町中央町１１−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.802585029999989, 36.42409393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市６２１" }, "geometry": { "type": "Point", "coordinates": [ 139.684825030000013, 36.72560656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市大原間２４４" }, "geometry": { "type": "Point", "coordinates": [ 140.02093265, 36.92804468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市北栄町６３７" }, "geometry": { "type": "Point", "coordinates": [ 140.03983595, 36.98005354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市中田町１３５１−１" }, "geometry": { "type": "Point", "coordinates": [ 139.74837206, 36.56361239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市高砂町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 139.871952310000012, 36.48623595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市雀の宮３丁目６−６" }, "geometry": { "type": "Point", "coordinates": [ 139.87344638, 36.49251857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市三番町１−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.89035032000001, 36.55818167 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡高根沢町大字宝積寺２３８３−４０" }, "geometry": { "type": "Point", "coordinates": [ 139.98195576, 36.62909031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市東峰町３１２０−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.9232762, 36.53779854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市西川田本町４丁目４−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.846041820000011, 36.51254905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１３０３" }, "geometry": { "type": "Point", "coordinates": [ 139.697411609999989, 36.73108412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県小山市南乙女１丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 139.756986680000011, 36.2567431 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県塩谷郡塩谷町大字船生７５８５" }, "geometry": { "type": "Point", "coordinates": [ 139.81761938, 36.77553193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市一区町２３７−２７−１０１" }, "geometry": { "type": "Point", "coordinates": [ 139.96249264, 36.84237686 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市旭町２６−５" }, "geometry": { "type": "Point", "coordinates": [ 139.73586629, 36.38046941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市戸野内４４６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.02507248, 36.89663975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那須町大字高久甲３３４７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.05109857, 37.00043735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡岩舟町大字曲ケ島８４３−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.67250952, 36.30507496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須烏山市金井２丁目６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.15401939, 36.65426843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県矢板市末広町８−５４" }, "geometry": { "type": "Point", "coordinates": [ 139.93823565, 36.80488641 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県芳賀郡益子町大字芦沼６４４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.12769456, 36.51529818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市末広３丁目３００５" }, "geometry": { "type": "Point", "coordinates": [ 140.013415759999987, 36.86536322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市清住３丁目１−１８" }, "geometry": { "type": "Point", "coordinates": [ 139.87411791, 36.56482486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県鹿沼市日吉町２３３" }, "geometry": { "type": "Point", "coordinates": [ 139.735951660000012, 36.56588772 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県さくら市氏家２７７６−４" }, "geometry": { "type": "Point", "coordinates": [ 139.96544932, 36.68612295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市清原台３丁目９−３１" }, "geometry": { "type": "Point", "coordinates": [ 139.993001740000011, 36.56129291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市今泉新町２７２−２" }, "geometry": { "type": "Point", "coordinates": [ 139.91451663, 36.57315864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市金井上町２４９９" }, "geometry": { "type": "Point", "coordinates": [ 139.5741775, 36.31160743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県真岡市長沼１０７８−１" }, "geometry": { "type": "Point", "coordinates": [ 139.92949309, 36.36898525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須郡那須町大字湯本４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.00416335, 37.09149823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市奈良渕町３１７−８" }, "geometry": { "type": "Point", "coordinates": [ 139.58561703, 36.33215258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県日光市今市１１７" }, "geometry": { "type": "Point", "coordinates": [ 139.6902603, 36.72274968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市大曽１丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 139.88906365, 36.56959154 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市駒生町１８０７" }, "geometry": { "type": "Point", "coordinates": [ 139.83222315, 36.58519591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市沼和田町２１−８" }, "geometry": { "type": "Point", "coordinates": [ 139.730620679999987, 36.36838187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県大田原市中央２丁目８−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.021513410000011, 36.86824101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡壬生町通町９−２５" }, "geometry": { "type": "Point", "coordinates": [ 139.80272659, 36.42731855 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県芳賀郡市貝町大字赤羽１９５６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.06013904, 36.52070973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県下都賀郡壬生町大字安塚１００９−２" }, "geometry": { "type": "Point", "coordinates": [ 139.8329358, 36.48519618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県佐野市伊勢山町１７８３−２" }, "geometry": { "type": "Point", "coordinates": [ 139.60208031, 36.3183908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市砂田町１５５２−８" }, "geometry": { "type": "Point", "coordinates": [ 139.90833971, 36.50874824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県那須塩原市中央町３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.05516788, 36.9722354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県芳賀郡芳賀町大字祖母井５３８" }, "geometry": { "type": "Point", "coordinates": [ 140.06166805, 36.54923968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県さくら市蒲須坂６３９" }, "geometry": { "type": "Point", "coordinates": [ 139.95459118, 36.72132886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市平出町３５６５−１" }, "geometry": { "type": "Point", "coordinates": [ 139.93804158, 36.58542739 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県栃木市河合町９−６" }, "geometry": { "type": "Point", "coordinates": [ 139.733878159999989, 36.37427013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "栃木県宇都宮市西原１丁目１−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.87432296, 36.55486098 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県鹿沼市深津字向ノ内９９６−２" }, "geometry": { "type": "Point", "coordinates": [ 139.81397142, 36.54028102 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県塩谷郡高根沢町大字花岡字中島２０３" }, "geometry": { "type": "Point", "coordinates": [ 140.01265161, 36.64653156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県下都賀郡野木町友沼卯ノ木５９８１−２" }, "geometry": { "type": "Point", "coordinates": [ 139.72619859, 36.22822585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県大田原市北金丸１５７１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.07847922, 36.86869414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町高久乙２７９９" }, "geometry": { "type": "Point", "coordinates": [ 140.01387211, 37.04394392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県那須郡那須町湯本２４１" }, "geometry": { "type": "Point", "coordinates": [ 140.0027801, 37.09326824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県芳賀郡茂木町桧山１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.225388259999988, 36.5376755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "栃木県矢板市乙畑１４７８" }, "geometry": { "type": "Point", "coordinates": [ 139.95252819000001, 36.74526541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県宇都宮市竹下町金剛林１１００−２３" }, "geometry": { "type": "Point", "coordinates": [ 139.97543013, 36.55836331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県下都賀郡大平町下皆川３０１−３" }, "geometry": { "type": "Point", "coordinates": [ 139.70941061, 36.35111807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県下野市石橋町下古山若林３２６１−４" }, "geometry": { "type": "Point", "coordinates": [ 139.86194286, 36.45409338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県小山市萱橋１２００−１（小山第二工業団地）" }, "geometry": { "type": "Point", "coordinates": [ 139.86660845, 36.33151254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県那須烏山市愛宕台３０６７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.14169697, 36.6572332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県日光市倉ヶ崎松原１１７−４" }, "geometry": { "type": "Point", "coordinates": [ 139.70095222, 36.74073803 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "栃木県芳賀郡茂木町北高岡１８２０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.17180349, 36.51247237 ] } }
+
+]
+}

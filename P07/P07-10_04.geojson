@@ -1,0 +1,2252 @@
+{
+"type": "FeatureCollection",
+"source": "国土数値情報（燃料給油所データ）　国土交通省",
+"features": [
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町筆甫字平館８２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.7295535, 37.82918079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町砂田土手外６１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.14965317, 38.52737687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町太田字舟ケ沢３６" }, "geometry": { "type": "Point", "coordinates": [ 141.18755632, 38.57031646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市港町２−９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.02805375, 38.31633924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市新浜町１丁目１４−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.04169335, 38.32615714 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市新浜町２丁目７−７" }, "geometry": { "type": "Point", "coordinates": [ 141.04318742000001, 38.33119722 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市泉沢町６８−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.00531134, 38.32321042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡色麻町大字下新町２６" }, "geometry": { "type": "Point", "coordinates": [ 140.86478695, 38.51450644 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字錦町３６−５番地" }, "geometry": { "type": "Point", "coordinates": [ 140.78196017, 37.98064121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡七ヶ宿町湯原８４" }, "geometry": { "type": "Point", "coordinates": [ 140.32413761, 38.01162365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市たけくま３−５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.85317998, 38.10792885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市仲町１−２−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.57740876, 38.8972362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市長磯牧通１１９" }, "geometry": { "type": "Point", "coordinates": [ 141.578191729999986, 38.8365233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市田谷１１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.56770708, 38.89376411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市唐桑町境６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.6259838, 38.92842541 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市波路上瀬向７７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.592591, 38.83328853 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ヶ浜町菖蒲田浜字西峠下１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.06133336, 38.28740356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町手樽字中沢１３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.095725359999989, 38.40507479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町沢乙字山岸前４６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.96256935, 38.32695553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市高清水中の沢３３−４１" }, "geometry": { "type": "Point", "coordinates": [ 141.008344349999987, 38.67709712 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市志波姫堀口見渡１２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.02163101, 38.73753373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川南道伝前２０１" }, "geometry": { "type": "Point", "coordinates": [ 141.13237032, 38.76438422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大郷町中村字山沢１８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.99464144, 38.42398954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大衡村古館下１６" }, "geometry": { "type": "Point", "coordinates": [ 140.88825049, 38.4491286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大衡村大衡字河原６８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.88083131, 38.48843056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町落合舞野字庚申２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.918415, 38.43306067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富ケ丘一丁目１−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.87289945, 38.36270555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富谷字一枚沖８７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88382783, 38.39546443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町字新東２１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.73534236, 38.05782069 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市あけぼの１−８−７" }, "geometry": { "type": "Point", "coordinates": [ 141.27553581, 38.45297614 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市鹿妻南３−７−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.34439538, 38.41786616 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字下谷地５１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.28081723, 38.44144418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字東道下８３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.28203751, 38.4564062 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市成田字岩崎前８０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.29127035, 38.52371613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市雄勝町上雄勝２−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.465150310000013, 38.51561055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市和渕字和渕町８０" }, "geometry": { "type": "Point", "coordinates": [ 141.2232605, 38.52753492 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区岩切一丁目２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.93960494, 38.2939022 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区苦竹２−３−７０" }, "geometry": { "type": "Point", "coordinates": [ 140.92306656, 38.2697085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区新田四丁目３３番３号" }, "geometry": { "type": "Point", "coordinates": [ 140.930364520000012, 38.27542422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町４丁目６−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.95319955, 38.26145943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字高松２８２−３" }, "geometry": { "type": "Point", "coordinates": [ 141.01370057, 38.26165859 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字神妻85" }, "geometry": { "type": "Point", "coordinates": [ 140.98768915, 38.27137374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区萩野町３−８−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.918362910000013, 38.25729064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福室字県道前１１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.973268460000014, 38.27453464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区一本杉町５−９" }, "geometry": { "type": "Point", "coordinates": [ 140.90640535, 38.24365875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町１−１−７" }, "geometry": { "type": "Point", "coordinates": [ 140.920373829999988, 38.25175784 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町４−７−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.93261874, 38.26082574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区荒浜字一本杉北５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.97718332, 38.22212191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区六丁の目西町７番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.93883743, 38.25508041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区六丁の目東町１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.948568279999989, 38.25013215 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区芋沢字吉成山１８−１５９" }, "geometry": { "type": "Point", "coordinates": [ 140.81445657, 38.30361987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区吉成三丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82025074, 38.29007938 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区栗生１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.79736176, 38.2643875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区荒巻本沢２丁目７番４４号" }, "geometry": { "type": "Point", "coordinates": [ 140.85080079, 38.28877598 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区桜ヶ丘７−１４−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.850373639999987, 38.30864108 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区春日町１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.86657061, 38.26548128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区米ヶ袋１−６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.869974789999986, 38.25209928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区落合５丁目２７−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.78271199, 38.27302578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区市名坂字原田１９６" }, "geometry": { "type": "Point", "coordinates": [ 140.90707706, 38.31421944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区七北田字古内１３２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.87270712, 38.32603645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区実沢字立田屋敷１６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.83950718, 38.33442613 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区将監８−１−１９６" }, "geometry": { "type": "Point", "coordinates": [ 140.87959214, 38.33160427 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区上谷刈六丁目１０番３５号" }, "geometry": { "type": "Point", "coordinates": [ 140.87957863, 38.31479511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区山田田中前５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.835207380000014, 38.2151638 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西の平１丁目１４−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.85186151, 38.22776237 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西多賀３−３−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.85397645, 38.22117253 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区東中田５−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.8976212, 38.19759743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区富沢１丁目１３番１号" }, "geometry": { "type": "Point", "coordinates": [ 140.86570787, 38.21916473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区柳生２丁目２４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.8709337, 38.19663892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市伝上山３−１−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.01397422, 38.2986749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市八幡４丁目１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.008395580000013, 38.28843435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川旭３−８−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.97650303, 38.56785864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川新田字沢目６６" }, "geometry": { "type": "Point", "coordinates": [ 140.93300484, 38.59598707 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市三本木字善並田４６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.94329889, 38.53284827 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町石森字町５６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.21068157, 38.72187451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町浅水字東川面３０４" }, "geometry": { "type": "Point", "coordinates": [ 141.2602099, 38.72209893 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市米山町中津山字筒場埣２９４−６" }, "geometry": { "type": "Point", "coordinates": [ 141.17566101, 38.60976506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町長前４９−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.21048184, 38.57041771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市赤井字鷲塚１−５" }, "geometry": { "type": "Point", "coordinates": [ 141.25819494000001, 38.43057012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市小原字新町１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.5597094, 37.96804353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町歌津字大沼１１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.556461719999987, 38.71332334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町志津川字旭ヶ浦５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.45553006, 38.67364313 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田６丁目１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.88563202, 38.17792746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市田高字原３１３" }, "geometry": { "type": "Point", "coordinates": [ 140.8757124, 38.17932545 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市堀内字南竹１７０の３" }, "geometry": { "type": "Point", "coordinates": [ 140.87569846, 38.11864472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈中泉字大原１４６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87524683, 38.08285298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町除南１０" }, "geometry": { "type": "Point", "coordinates": [ 140.76676149, 37.91394909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町小斎山崎８" }, "geometry": { "type": "Point", "coordinates": [ 140.82138398, 37.91842664 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町大館２−８５" }, "geometry": { "type": "Point", "coordinates": [ 140.76466414, 37.92641639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町大内小平内３５" }, "geometry": { "type": "Point", "coordinates": [ 140.82274242, 37.87589585 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町北浦字北田６９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.05953946, 38.54389627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町北浦川戸浦２４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.062129559999988, 38.54543697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町新町２２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.127391429999989, 38.54157881 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市新浜町１−７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.03689139, 38.3268792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町野々浜字野々浜７" }, "geometry": { "type": "Point", "coordinates": [ 141.46998401, 38.39384416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町宮崎字町８４" }, "geometry": { "type": "Point", "coordinates": [ 140.75231057, 38.61155421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町宮崎字東町６１" }, "geometry": { "type": "Point", "coordinates": [ 140.76552249, 38.60869353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字下野目雷北６−９" }, "geometry": { "type": "Point", "coordinates": [ 140.81542496, 38.57755533 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町大門１１３" }, "geometry": { "type": "Point", "coordinates": [ 140.85665183, 38.57683453 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字扇町１０−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.78888924, 37.97751935 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字町１６７" }, "geometry": { "type": "Point", "coordinates": [ 140.77849476, 37.9744351 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市佐倉字萱場３０４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.792377499999986, 38.00322348 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町円田字川原田４３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.68015822000001, 38.10394176 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市相の原２−８−７" }, "geometry": { "type": "Point", "coordinates": [ 140.87471427, 38.1185133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市大手町４−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.86546829, 38.10632191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市港町４９７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.57961032, 38.90394522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市最知川原６２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.58067012, 38.85481816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市田尻２０９" }, "geometry": { "type": "Point", "coordinates": [ 141.613664340000014, 38.86386765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市本吉町津谷館岡１２" }, "geometry": { "type": "Point", "coordinates": [ 141.50490786, 38.79352785 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市本吉町馬籠町３６" }, "geometry": { "type": "Point", "coordinates": [ 141.44490516, 38.77598937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ヶ浜町花渕浜字館下７５−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.082741489999989, 38.30440728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ケ浜町湊浜字砂山２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.04642854, 38.28583517 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字大谷地３０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.9748887, 38.32647304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市一迫柳目字曽根３０９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.95746057, 38.74248018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市花山本沢北ノ前３２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.844998120000014, 38.79209472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒岩ヶ崎字上小路１３４" }, "geometry": { "type": "Point", "coordinates": [ 140.98883433, 38.83157547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川南南大通り２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12532747, 38.76827701 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館伊豆４−１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.02279966, 38.73149425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館照越永平５２−６" }, "geometry": { "type": "Point", "coordinates": [ 141.01634947, 38.71024189 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大衡村大衡字大柳２５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.880646829999989, 38.45272336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町ひより台２−３６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.88536868, 38.40178094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町船岡南１−９−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.76913991, 38.05265057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町大字船岡字東原町１３０" }, "geometry": { "type": "Point", "coordinates": [ 140.78407643, 38.06148423 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町槻木上町１−１−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.81369991, 38.07838845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町前川堀切１６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.63231959, 38.17956883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字菅生字新堀３２" }, "geometry": { "type": "Point", "coordinates": [ 140.766214350000013, 38.16837761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字菅生字狢石６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.76852804, 38.14191202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町字荒町５８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.728923689999988, 38.04598699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町字小島７−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.736529710000013, 38.0664171 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町字新南６３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.72603497, 38.04790334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市井内字１−５６" }, "geometry": { "type": "Point", "coordinates": [ 141.33207024, 38.44435152 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市広渕字町１６８" }, "geometry": { "type": "Point", "coordinates": [ 141.208083859999988, 38.47003615 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字大埣５４−９" }, "geometry": { "type": "Point", "coordinates": [ 141.26399131, 38.44093316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大宮町１−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.360246170000011, 38.41595617 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大森字田待井４２" }, "geometry": { "type": "Point", "coordinates": [ 141.315217249999989, 38.49344677 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市谷川浜川原２１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.48410841, 38.35999808 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市南中里１−９−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.30470277, 38.44102831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北上町十三浜小滝１０１" }, "geometry": { "type": "Point", "coordinates": [ 141.52232367, 38.62208651 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市門脇字三番谷地１−３５５" }, "geometry": { "type": "Point", "coordinates": [ 141.274643669999989, 38.43029834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区蒲生字竹ノ内１２８" }, "geometry": { "type": "Point", "coordinates": [ 140.99040826, 38.26374356 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区宮千代２−４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.913211639999986, 38.25195898 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区出花１−１６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.986884690000011, 38.27563264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野神明１１６" }, "geometry": { "type": "Point", "coordinates": [ 140.97941345000001, 38.27785265 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区鶴ヶ谷５−２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.91615176, 38.29088918 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区鶴ヶ谷東４−２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.928729729999986, 38.2962094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福室５−３−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.96966355, 38.28107961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区沖野３−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.912456, 38.22808344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町３−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.92110136, 38.26084774 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町東５−７−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.957922919999987, 38.25232717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区大和町３−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.91842707, 38.24830847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区六丁の目中町１５−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.94168012, 38.2508476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区一番町１−１５−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.87092711, 38.25671899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区栗生５−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.79029264, 38.26560733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区国見ケ丘６−１２６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.832938719999987, 38.28332013 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区上杉２−２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.87062361, 38.27270814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区南吉成６−２−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.81585227, 38.28445306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区二日町４−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.86597178, 38.26899736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区福沢町１−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.88561087, 38.2737534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区本町３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.875123949999988, 38.26738699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区加茂１−１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.86681782, 38.31484618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区高森１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.84020791, 38.33521007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区七北田笹１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88220059, 38.34106601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区実沢字飛鳥原４９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82331982, 38.33076695 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区泉中央４−３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.884092110000012, 38.32262504 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区大沢２−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87591554, 38.34932662 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区長命ヶ丘１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.8443691, 38.31747715 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区長命ヶ丘６−１５−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.830010750000014, 38.31121381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区鶴が丘１−１１０−６" }, "geometry": { "type": "Point", "coordinates": [ 140.92294892000001, 38.31371097 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区虹の丘４−１０−７" }, "geometry": { "type": "Point", "coordinates": [ 140.86640451, 38.30352499 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区八乙女１−２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.88968888, 38.31085448 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区福岡阿弥陀前１０" }, "geometry": { "type": "Point", "coordinates": [ 140.78323934, 38.35647442 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区郡山出丸３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89688852, 38.22047418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区向山３−４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.87261404, 38.24398969 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西多賀５−２１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.85048128, 38.22048657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西中田３−２４−６" }, "geometry": { "type": "Point", "coordinates": [ 140.87528468, 38.19749609 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区泉崎２−６−４５" }, "geometry": { "type": "Point", "coordinates": [ 140.866087349999987, 38.22410096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区大野田字王ノ壇１９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87710046, 38.21366364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区東中田４−２２−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.908263119999987, 38.19681605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭新熊野７２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.79138032, 38.22186066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭人来田東６３" }, "geometry": { "type": "Point", "coordinates": [ 140.80637005, 38.21742227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市大代１−１３−８" }, "geometry": { "type": "Point", "coordinates": [ 141.02901085, 38.29098248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市町前２−２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.00311259, 38.28493747 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川宮沢金堀場" }, "geometry": { "type": "Point", "coordinates": [ 140.9608172, 38.63755497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川城西１−１０−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.94643571, 38.5758606 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川穂波２−２−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.94698094, 38.56750305 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川李埣１−１−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.970711709999989, 38.57549322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市三本木蒜袋字鷺沼５７" }, "geometry": { "type": "Point", "coordinates": [ 140.949067609999986, 38.54021403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市松山千石字南亀田３４" }, "geometry": { "type": "Point", "coordinates": [ 141.054243750000012, 38.51465557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市田尻沼部字横須賀前１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.0603988, 38.60640234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉字車湯９２−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.7274708, 38.7488005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉字石ノ梅７４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.75705319, 38.73288885 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市石越南郷字西門沖１６−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.15719374, 38.76870383 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町宝江黒沼字下道６６" }, "geometry": { "type": "Point", "coordinates": [ 141.23695985, 38.71039003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市南方町西山成前１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15695247, 38.66034082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字天神前６９" }, "geometry": { "type": "Point", "coordinates": [ 141.19212525, 38.68948631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字萩洗２−３−７" }, "geometry": { "type": "Point", "coordinates": [ 141.18414951, 38.6886626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町新田町１８７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.249206930000014, 38.58136851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市大曲字下台６２" }, "geometry": { "type": "Point", "coordinates": [ 141.24109071, 38.4127561 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市野蒜北針生１２１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.16354042, 38.376104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市矢本字一本杉１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.20590001, 38.41693603 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市小原字中北前田１３" }, "geometry": { "type": "Point", "coordinates": [ 140.558947780000011, 37.95503297 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市白鳥２−１８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.644519699999989, 38.03770637 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町歌津字管の浜２８−４" }, "geometry": { "type": "Point", "coordinates": [ 141.52859712, 38.71829379 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町志津川字汐見町３６" }, "geometry": { "type": "Point", "coordinates": [ 141.44672709, 38.67572208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市大手町６−５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87626705, 38.17098057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市田高沢目１１４" }, "geometry": { "type": "Point", "coordinates": [ 140.89083001, 38.17959993 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈鹿島寺前南４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.84820289000001, 38.04352832 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町荒浜篠子橋６５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.894099899999986, 38.04455406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町長瀞小橋４０−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.8891032, 38.03140633 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市中里１−３−８" }, "geometry": { "type": "Point", "coordinates": [ 141.30273863, 38.44123826 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北上町橋浦字大須２" }, "geometry": { "type": "Point", "coordinates": [ 141.402217150000013, 38.54516749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北村字戸井場６８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.204448070000012, 38.48043406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市緑町２-７-１５" }, "geometry": { "type": "Point", "coordinates": [ 141.34457672, 38.41730857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区荻野町１−１９−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.911982020000011, 38.25933404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区蒲生字二本木１４０" }, "geometry": { "type": "Point", "coordinates": [ 140.99053066, 38.26296683 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町１丁目７−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.94847169, 38.26988233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区東仙台４丁目２−７３" }, "geometry": { "type": "Point", "coordinates": [ 140.90978526, 38.27364142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福田町南１丁目２−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.96312437, 38.26071247 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町東２丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.94843142, 38.25722872 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区新寺３丁目１２−７" }, "geometry": { "type": "Point", "coordinates": [ 140.89051656, 38.25548795 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区中倉１−２５−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.91315157, 38.24319608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区南小泉４丁目１５−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.9025536, 38.23856039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区一番町１丁目１２−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.873828589999988, 38.25615136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区通町２−４−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.867190560000012, 38.27884886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区実沢字中山北１８番地１７８" }, "geometry": { "type": "Point", "coordinates": [ 140.816312430000011, 38.30319622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区西田中字並木南１-９" }, "geometry": { "type": "Point", "coordinates": [ 140.79040679, 38.32428635 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区大沢一丁目２番地の３" }, "geometry": { "type": "Point", "coordinates": [ 140.877512560000014, 38.34755419 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町金山字沼下６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.800066070000014, 37.90229243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町字田町南７２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.763518940000012, 37.91721652 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町大内字横手６８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.824868079999987, 37.86936743 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町牛飼字御蔵場１０" }, "geometry": { "type": "Point", "coordinates": [ 141.0533318, 38.55940407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町字一本柳５８" }, "geometry": { "type": "Point", "coordinates": [ 141.10233126, 38.5487829 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町字下道３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.13103609, 38.53300761 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市牛生町４８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.03434435, 38.30836193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市錦町５−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.019902550000012, 38.31008811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市清水沢３−１１−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.010988989999987, 38.32956975 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町宮崎字屋敷７−５３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.755119760000014, 38.61180147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字西田２−３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.85511055, 38.57383927 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町板橋１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.80030735, 38.57625821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字旭町３２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.782070940000011, 37.97780602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町遠刈田温泉栄町４" }, "geometry": { "type": "Point", "coordinates": [ 140.57456312, 38.12424529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町宮字井戸井前６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.65360256, 38.04267042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町大字曲竹字道路西１０−８" }, "geometry": { "type": "Point", "coordinates": [ 140.656712770000013, 38.08020197 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市下野郷字西原２０２" }, "geometry": { "type": "Point", "coordinates": [ 140.92765358, 38.13004187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市大字長岡字八橋３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.84504949, 38.12906691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字新大谷地１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.97322562, 38.32873905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市一迫柳ノ目字上田２２" }, "geometry": { "type": "Point", "coordinates": [ 140.95966966, 38.73369966 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市金成沢辺字前門沢１０４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.05181431, 38.79326015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒中野田町西２０８" }, "geometry": { "type": "Point", "coordinates": [ 140.985124359999986, 38.82428932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川北塚ノ根１９" }, "geometry": { "type": "Point", "coordinates": [ 141.132243749999986, 38.77420352 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町ひより台１ー４３−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.88590972, 38.40548381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字本砂金字道畑１９" }, "geometry": { "type": "Point", "coordinates": [ 140.644416940000013, 38.24004874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字村田字町１" }, "geometry": { "type": "Point", "coordinates": [ 140.72570733, 38.11558663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市あけぼの町２−４−５" }, "geometry": { "type": "Point", "coordinates": [ 141.27439641, 38.45195917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市鮎川浜湊川１５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.508875319999987, 38.3005222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字新谷地前１３３" }, "geometry": { "type": "Point", "coordinates": [ 141.2856405, 38.44068006 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市双葉町３−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.290164510000011, 38.42726733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市湊字鹿妻南４−２−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.34632127, 38.41751308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市門脇字２番谷地２０" }, "geometry": { "type": "Point", "coordinates": [ 141.27664356, 38.43603902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区岩切字三所南１１２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.94648532, 38.30051306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区岩切字昭和西３" }, "geometry": { "type": "Point", "coordinates": [ 140.9301715, 38.30982835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区幸町５−１−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.89927687, 38.27317296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町３−９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.94422365, 38.26078957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町７−４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.95729445, 38.26075347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区日の出町１−５−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.93630682, 38.26931807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区遠見塚３−８−８" }, "geometry": { "type": "Point", "coordinates": [ 140.91817713, 38.24061354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町４−６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.92846848, 38.26079962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区土樋２６６" }, "geometry": { "type": "Point", "coordinates": [ 140.88420362, 38.24616052 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区六丁の目元町８−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.93177676, 38.25084692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区上愛子字街道４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.74274333, 38.27314334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区中山４−２５−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.83673965, 38.29463114 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区中山吉成１−３−４" }, "geometry": { "type": "Point", "coordinates": [ 140.82279427, 38.29893721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区堤通雨宮町２−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.86862424, 38.27496931 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区本町１−１０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.87643175, 38.26625587 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区桂１−１２５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.865418979999987, 38.33182605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区高玉町２−２２" }, "geometry": { "type": "Point", "coordinates": [ 140.89231851, 38.31883787 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区松森字斎兵衛４８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.91096916, 38.30452316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区鈎取本町１−３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.84380553, 38.22070915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区長町８−１６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87616788, 38.2287989 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市高橋１−２０−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.97804133, 38.28621755 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市町前３−７−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.01082846, 38.28652646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山上野目字上川原５３−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.86577195000001, 38.6663922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川宮沢金堀場" }, "geometry": { "type": "Point", "coordinates": [ 140.96093428, 38.63657381 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川新堀字東田１１０" }, "geometry": { "type": "Point", "coordinates": [ 140.89623984, 38.57328042 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川南町２−２−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.95464567, 38.57064626 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鹿島台広長字内の浦６１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.09006274, 38.46343991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉鬼首字轟１７−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.6615799, 38.79819139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町石森字加賀野３−６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.21203995, 38.69676421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市南方町西山成前８１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15906863, 38.66172128 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字新駒木袋３６２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.207873869999986, 38.68328057 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字大網２１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.1944, 38.67916511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町北方字舟橋９３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.186114370000013, 38.70359717 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市城南１−２−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.61220332, 37.99673031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市高館熊野堂字余方中東３４" }, "geometry": { "type": "Point", "coordinates": [ 140.8220049, 38.21409449 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市高舘熊野堂字岩口上３１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.84632836, 38.2024912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田５−１８−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.889950129999988, 38.17381511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町坂元字町５８" }, "geometry": { "type": "Point", "coordinates": [ 140.896157319999986, 37.92132574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈高屋字柴北１７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87510925, 38.0414437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町舘矢間舘山字坪石３２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.76813933, 37.92360552 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町練牛字十四号" }, "geometry": { "type": "Point", "coordinates": [ 141.12102231, 38.50707463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市栄町９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.004130870000012, 38.32311639 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町浦宿浜寄木２０" }, "geometry": { "type": "Point", "coordinates": [ 141.412884240000011, 38.43396809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡色麻町四竈沼川原１２" }, "geometry": { "type": "Point", "coordinates": [ 140.853062240000014, 38.55112766 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字中島下４７０" }, "geometry": { "type": "Point", "coordinates": [ 140.7889103, 37.97663988 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字町２７１" }, "geometry": { "type": "Point", "coordinates": [ 140.7779871, 37.9761264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町円田十文字北７０−５" }, "geometry": { "type": "Point", "coordinates": [ 140.6468974, 38.10204917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市藤浪１丁目１４６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87012873, 38.10164508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市本吉町津谷松岡１９５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.51037222, 38.79311236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市唐桑町宿浦１４４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.63626571, 38.90283964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市弁天町１丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.58074941000001, 38.89735997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ヶ浜町吉田浜字浜屋敷６１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.08078541, 38.30810007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町高城字愛宕１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.06997286, 38.38751912 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町神谷沢字館ノ内３９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.95414387, 38.31055386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒桜田東有賀７２" }, "geometry": { "type": "Point", "coordinates": [ 141.00012493, 38.7878238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川南南大通８−８" }, "geometry": { "type": "Point", "coordinates": [ 141.12650851, 38.76979659 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川北並柳６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.143328340000011, 38.77191914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大郷町中村字谷地際１-２" }, "geometry": { "type": "Point", "coordinates": [ 141.00499098, 38.42053029 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町鶴巣北目大崎字勝負沢３８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.91431498, 38.40867362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町大字船岡字新生町１３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.77275243, 38.06588462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市前谷地黒沢前１６６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.18844218000001, 38.51029779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市相野谷字飯野川町９６" }, "geometry": { "type": "Point", "coordinates": [ 141.31250996, 38.51521959 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大街道東１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.28843075, 38.42948952 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大街道南５丁目１−８５" }, "geometry": { "type": "Point", "coordinates": [ 141.279459190000011, 38.42974001 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区鈎取本町１丁目１４−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.834506690000012, 38.22121968 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区東中田６丁目１８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.89401238, 38.19767764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭字新熊野６０番地" }, "geometry": { "type": "Point", "coordinates": [ 140.79077146, 38.22202645 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山下野目字雨沼１２−５" }, "geometry": { "type": "Point", "coordinates": [ 140.88042149, 38.64284064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川駅東３−８−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.97790722, 38.57133534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川新堀字南田５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.89413287, 38.572995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川大宮３丁目８−３１" }, "geometry": { "type": "Point", "coordinates": [ 140.95339372, 38.58842847 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市三本木南谷地字千刈田２７４" }, "geometry": { "type": "Point", "coordinates": [ 140.9465425, 38.53709118 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉車湯６４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.728323210000013, 38.74885067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町上沼字弥勒寺住吉６５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.26568921, 38.73808622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市登米町寺池前舟橋８２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.27624211, 38.65435824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市登米町日野渡南田１" }, "geometry": { "type": "Point", "coordinates": [ 141.26970658, 38.66161657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市南方町三代前２−７０" }, "geometry": { "type": "Point", "coordinates": [ 141.10575381000001, 38.67145132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字光ケ丘６７番地" }, "geometry": { "type": "Point", "coordinates": [ 141.20230025, 38.68667472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字末広３４" }, "geometry": { "type": "Point", "coordinates": [ 141.20613419, 38.69300953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町新田町１９３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.25078645, 38.58131538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市大曲字堺堀１２２" }, "geometry": { "type": "Point", "coordinates": [ 141.228718539999988, 38.42551002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町歌津字大沼２１８−４５" }, "geometry": { "type": "Point", "coordinates": [ 141.55615255, 38.70817831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市本郷字大門１６１" }, "geometry": { "type": "Point", "coordinates": [ 140.87561105, 38.13096291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町高瀬字合戦原７３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89446934, 37.94224565 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町字大古町北２７" }, "geometry": { "type": "Point", "coordinates": [ 140.77940575, 37.91175147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町北浦字横埣表６５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.02601323, 38.55991957 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字照井浦３０" }, "geometry": { "type": "Point", "coordinates": [ 140.76374144, 38.58097115 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字矢越205-1" }, "geometry": { "type": "Point", "coordinates": [ 140.86750514, 38.57233439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡色麻町四竃字柧木町１４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.849005799999986, 38.54763581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字中島上２６８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.787527329999989, 37.97287996 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市梶賀字高畑北４０３" }, "geometry": { "type": "Point", "coordinates": [ 140.79694992, 37.98815908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市高倉字関場１１８−２" }, "geometry": { "type": "Point", "coordinates": [ 140.73120431000001, 37.99955252 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町大字平沢字田中１８１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.68511184, 38.12280556 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市早股字松原２４８−４" }, "geometry": { "type": "Point", "coordinates": [ 140.91290332, 38.1017038 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市長磯船原１６" }, "geometry": { "type": "Point", "coordinates": [ 141.579717030000012, 38.83927238 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町高城字動伝三５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.067673649999989, 38.39579943 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市一迫真坂字清水田川４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.94929584, 38.73920227 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市金成沢辺字町沖２００−１" }, "geometry": { "type": "Point", "coordinates": [ 141.06678614, 38.80039074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒稲屋敷後原６５" }, "geometry": { "type": "Point", "coordinates": [ 140.98621504, 38.81632505 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒沼倉耕英東１３３" }, "geometry": { "type": "Point", "coordinates": [ 140.834876650000012, 38.93181002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市志波姫沼崎堰畑１３８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.06663613, 38.75438741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字上畑岡新笹森下５２９" }, "geometry": { "type": "Point", "coordinates": [ 141.12376446, 38.73557873 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字福岡小谷町浦１８２" }, "geometry": { "type": "Point", "coordinates": [ 141.11622037, 38.7842944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市瀬峰下田１８５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.07567771, 38.65057371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館宮野中央２丁目９−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.01777117, 38.75138728 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県古川市桜ノ目字下り松７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.94711523, 38.60489328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県古川市石ノ森字天王山１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.99559828, 38.54284688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大郷町中村字屋鋪６５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.99774994, 38.42335386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町落合舞野字渉戸東２０" }, "geometry": { "type": "Point", "coordinates": [ 140.90984723, 38.43681132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町西船迫一丁目１０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.766959430000014, 38.06678525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字菅生字宮根４３" }, "geometry": { "type": "Point", "coordinates": [ 140.75830724, 38.16770274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字村田字松崎４８" }, "geometry": { "type": "Point", "coordinates": [ 140.726051109999986, 38.11063892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市河南町鹿又字山下西７０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.283457840000011, 38.47157967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市河南町和渕字三工区１９４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.22750206, 38.49601203 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市河北町針岡字小谷地１" }, "geometry": { "type": "Point", "coordinates": [ 141.42651122, 38.54247162 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市小船越字山畑443" }, "geometry": { "type": "Point", "coordinates": [ 141.3007948, 38.50232304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市中里四丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.29533423, 38.44222404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市桃生町中津山字下四軒４７" }, "geometry": { "type": "Point", "coordinates": [ 141.24001332, 38.55552086 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区今泉１−２０−５４" }, "geometry": { "type": "Point", "coordinates": [ 140.93340701, 38.21223656 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区根白石字町尻道下２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.80125041, 38.33976849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山上野目字涎地２６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.86864111, 38.66691688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鹿島台町平渡字銭神２６０" }, "geometry": { "type": "Point", "coordinates": [ 141.09443431, 38.47079159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市松山金谷字金田４" }, "geometry": { "type": "Point", "coordinates": [ 141.06394756, 38.51188721 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市田尻沼部字北沢７０" }, "geometry": { "type": "Point", "coordinates": [ 141.04292274, 38.61896538 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市石越町南郷字矢作７４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.18450618, 38.75501091 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町石森字蓬田180-3" }, "geometry": { "type": "Point", "coordinates": [ 141.227928670000011, 38.70599094 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市登米町寺池目子待井８２" }, "geometry": { "type": "Point", "coordinates": [ 141.27718453, 38.654756 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市東和町米川字中島１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.338336020000014, 38.77656191 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市南方町西山成前６７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.155806109999986, 38.65918954 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字新大瀬３１７" }, "geometry": { "type": "Point", "coordinates": [ 141.17742347, 38.71037463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町新田字狼次２０−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.11549922, 38.70832691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市米山町西野字的場１９２" }, "geometry": { "type": "Point", "coordinates": [ 141.18937978, 38.62795303 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町東待井下５−１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.24718981, 38.58923875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市東松島市大塩字南２４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.1892752, 38.44814961 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市野蒜字南余景６６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.160357330000011, 38.37378116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市福岡長袋字坂下３５" }, "geometry": { "type": "Point", "coordinates": [ 140.62451545, 38.02291466 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町志津川字天王前12-2" }, "geometry": { "type": "Point", "coordinates": [ 141.45326186, 38.67986031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡本吉町平貝１０−４" }, "geometry": { "type": "Point", "coordinates": [ 141.50921634, 38.76576081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田一丁目１２−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.889562790000014, 38.16839443 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町坂元字道合６５" }, "geometry": { "type": "Point", "coordinates": [ 140.898383990000013, 37.92567469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町鷲足字竹の花５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.872810359999988, 37.97671372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈高屋字倉東1−1" }, "geometry": { "type": "Point", "coordinates": [ 140.89104803, 38.04368135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈字郡９８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.8607632, 38.06605557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町字蔵人沖名77" }, "geometry": { "type": "Point", "coordinates": [ 141.112222620000011, 38.54558725 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町字中下道240-1" }, "geometry": { "type": "Point", "coordinates": [ 141.135832850000014, 38.52911374 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡色麻町志津字北田9-2" }, "geometry": { "type": "Point", "coordinates": [ 140.820775770000012, 38.55838621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市桜3丁目13-38" }, "geometry": { "type": "Point", "coordinates": [ 140.87365917, 38.1085973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市字所沢52-2" }, "geometry": { "type": "Point", "coordinates": [ 141.54949675, 38.90152843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市字長磯鳥沢1-1" }, "geometry": { "type": "Point", "coordinates": [ 141.58095017, 38.8450693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市唐桑町馬場101-1" }, "geometry": { "type": "Point", "coordinates": [ 141.64939933, 38.90508459 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市本吉町野々下163-5" }, "geometry": { "type": "Point", "coordinates": [ 141.573114010000012, 38.82053146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ヶ浜町菖蒲田浜字宅地51-1" }, "geometry": { "type": "Point", "coordinates": [ 141.05983846, 38.28263096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町道珍浜38-68" }, "geometry": { "type": "Point", "coordinates": [ 141.06847276, 38.37579521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町幡谷字出石46-2" }, "geometry": { "type": "Point", "coordinates": [ 141.063672489999988, 38.43556389 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町青山2丁目5-4" }, "geometry": { "type": "Point", "coordinates": [ 140.96534542, 38.34074384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川南八木141" }, "geometry": { "type": "Point", "coordinates": [ 141.11521961, 38.75775964 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町吉岡東3丁目2の15" }, "geometry": { "type": "Point", "coordinates": [ 140.90497635, 38.43941786 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町上桜木1丁目1-4" }, "geometry": { "type": "Point", "coordinates": [ 140.87703546, 38.36365395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町成田1丁目6-14" }, "geometry": { "type": "Point", "coordinates": [ 140.89227097, 38.36086149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町大字船岡字若葉町1-1" }, "geometry": { "type": "Point", "coordinates": [ 140.77094075, 38.06671706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字小野字上宿3-1" }, "geometry": { "type": "Point", "coordinates": [ 140.66639425, 38.18451838 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字菅生字大門岫1" }, "geometry": { "type": "Point", "coordinates": [ 140.76524845, 38.16711688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北上町橋浦字西6" }, "geometry": { "type": "Point", "coordinates": [ 141.383504249999987, 38.5447875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北上町十三浜字月浜105" }, "geometry": { "type": "Point", "coordinates": [ 141.44942097, 38.57696917 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区出花1丁目247-3" }, "geometry": { "type": "Point", "coordinates": [ 140.9849782, 38.27963867 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字神妻65" }, "geometry": { "type": "Point", "coordinates": [ 140.99133532, 38.27133563 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区榴岡2丁目4-21" }, "geometry": { "type": "Point", "coordinates": [ 140.88627395, 38.2617515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町2丁目15-4" }, "geometry": { "type": "Point", "coordinates": [ 140.922993960000014, 38.25647368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区若林5丁目11-8" }, "geometry": { "type": "Point", "coordinates": [ 140.90673394, 38.23147378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区白萩町36-1" }, "geometry": { "type": "Point", "coordinates": [ 140.91022601, 38.25053096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区桜ケ丘4丁目7-1" }, "geometry": { "type": "Point", "coordinates": [ 140.853124509999986, 38.301493 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区片平1丁目2-30" }, "geometry": { "type": "Point", "coordinates": [ 140.86688849, 38.25831544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区北根3丁目17-1" }, "geometry": { "type": "Point", "coordinates": [ 140.87886, 38.30146805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区北根黒松1-23" }, "geometry": { "type": "Point", "coordinates": [ 140.87893287, 38.30577649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区本町1丁目6-17" }, "geometry": { "type": "Point", "coordinates": [ 140.87914539, 38.26585326 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区古内字古内20-1" }, "geometry": { "type": "Point", "coordinates": [ 140.84362377, 38.32446239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区市名坂字万吉前117-1" }, "geometry": { "type": "Point", "coordinates": [ 140.89106905, 38.31880009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区松森字城前158" }, "geometry": { "type": "Point", "coordinates": [ 140.92161081, 38.31160028 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区泉中央2丁目17-5" }, "geometry": { "type": "Point", "coordinates": [ 140.87970479, 38.32810861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区南中山1丁目43-1" }, "geometry": { "type": "Point", "coordinates": [ 140.8260163, 38.29752075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区八乙女4丁目4-5" }, "geometry": { "type": "Point", "coordinates": [ 140.89768453, 38.3100133 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西中田3丁目6-13" }, "geometry": { "type": "Point", "coordinates": [ 140.87645846, 38.20080921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区長町南4丁目11-2" }, "geometry": { "type": "Point", "coordinates": [ 140.87143848, 38.22177506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区八木山本町1丁目28-11" }, "geometry": { "type": "Point", "coordinates": [ 140.84354041, 38.24249706 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市町前3丁目71-1" }, "geometry": { "type": "Point", "coordinates": [ 141.009138619999987, 38.28619568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川駅東1丁目5-5" }, "geometry": { "type": "Point", "coordinates": [ 140.97107298, 38.57229915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川新田字大西1-87" }, "geometry": { "type": "Point", "coordinates": [ 140.924520449999989, 38.60484506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川中沢字岡36-1" }, "geometry": { "type": "Point", "coordinates": [ 140.91158033, 38.52794208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鹿島台平渡字新屋敷下48" }, "geometry": { "type": "Point", "coordinates": [ 141.09804544, 38.48073112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉字鷲ノ巣52-1" }, "geometry": { "type": "Point", "coordinates": [ 140.73916678, 38.74056213 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市津山町柳津字宮下31-1" }, "geometry": { "type": "Point", "coordinates": [ 141.30318878, 38.60148941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字中江4丁目5-8" }, "geometry": { "type": "Point", "coordinates": [ 141.187839380000014, 38.68731779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市福岡深谷字一本松26-4" }, "geometry": { "type": "Point", "coordinates": [ 140.644095889999988, 38.03836899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町志津川汐見町21" }, "geometry": { "type": "Point", "coordinates": [ 141.4437709, 38.67502371 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市愛島塩手字前野田48-10外" }, "geometry": { "type": "Point", "coordinates": [ 140.85861116, 38.15990469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町浅生原字日向9-3-3" }, "geometry": { "type": "Point", "coordinates": [ 140.880248349999988, 37.96147321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町字堀ノ内88-1" }, "geometry": { "type": "Point", "coordinates": [ 140.85174662, 38.02464469 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市吉野町3−1−31" }, "geometry": { "type": "Point", "coordinates": [ 141.32098744000001, 38.42219273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区鈎取1−2−15" }, "geometry": { "type": "Point", "coordinates": [ 140.84711676, 38.2216555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川北稲葉1−2−50" }, "geometry": { "type": "Point", "coordinates": [ 140.954169619999988, 38.56358259 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市郡山字飯塚7−2" }, "geometry": { "type": "Point", "coordinates": [ 140.64011749, 38.00492173 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市閖上2−3−6" }, "geometry": { "type": "Point", "coordinates": [ 140.95225413, 38.17699663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字城内２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98196329000001, 38.33281016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字神明前61-1" }, "geometry": { "type": "Point", "coordinates": [ 140.98091051, 38.33182081 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市金成藤渡戸字館前２０−４" }, "geometry": { "type": "Point", "coordinates": [ 141.09638661, 38.85060515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大衡村大衡字河原６４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.88119783, 38.49222765 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町鶴巣北目大崎字千刈田23" }, "geometry": { "type": "Point", "coordinates": [ 140.93532208, 38.41691568 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町新南59-20" }, "geometry": { "type": "Point", "coordinates": [ 140.732023059999989, 38.05392496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市前谷地字馬道前４１" }, "geometry": { "type": "Point", "coordinates": [ 141.192785930000014, 38.5152956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区蒲生字上屋倉４２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98783631, 38.25489973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区上飯田字天神４８" }, "geometry": { "type": "Point", "coordinates": [ 140.927806260000011, 38.21807557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区栗生５丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.78886117, 38.26527058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区大沢1-1-1" }, "geometry": { "type": "Point", "coordinates": [ 140.87864371, 38.34597233 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区柳生6-2-1" }, "geometry": { "type": "Point", "coordinates": [ 140.86391885, 38.19636985 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市八幡４−８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.009791150000012, 38.28930578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川小野15-1" }, "geometry": { "type": "Point", "coordinates": [ 140.98352555, 38.61777179 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市旭町２−１−９" }, "geometry": { "type": "Point", "coordinates": [ 140.633743689999989, 37.9953718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市東小路93-2" }, "geometry": { "type": "Point", "coordinates": [ 140.6214608, 38.0021131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市福岡深谷字街道外3−3" }, "geometry": { "type": "Point", "coordinates": [ 140.636837140000011, 38.03336024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市飯野坂土府２０２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88857114000001, 38.15820802 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市花立町１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.021611689999986, 38.3111202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字赤塚３０４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.85982743, 38.56099967 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町円田字山神北１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.660107329999988, 38.09293354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町宮字古川１０" }, "geometry": { "type": "Point", "coordinates": [ 140.66746452000001, 38.04349216 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市相の原３−１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.87434137, 38.1198414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市岩月千岩田８３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.58016451, 38.86399995 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡松島町高城明神４−２５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.067703529999989, 38.38827289 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字八幡崎前９６" }, "geometry": { "type": "Point", "coordinates": [ 140.97096761, 38.32452357 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町鶴巣北目大崎字具足沢７４" }, "geometry": { "type": "Point", "coordinates": [ 140.91466889, 38.41288004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富谷字源内３３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87613198, 38.38592778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町船岡中央１−１１−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.764830249999989, 38.05773362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市山下町１−１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.29845943, 38.43520856 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区原町２−３−５５" }, "geometry": { "type": "Point", "coordinates": [ 140.90322125, 38.26477745 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字神明１３５" }, "geometry": { "type": "Point", "coordinates": [ 140.97957054, 38.27731245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区日の出町２−１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.93156183, 38.26912464 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区蒲町東６１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.934877629999988, 38.24375142 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区荒井字中在家５１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.934855090000013, 38.24330754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区若林１−５−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.89496591, 38.23354794 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区五橋１−６−２" }, "geometry": { "type": "Point", "coordinates": [ 140.88070307000001, 38.25340949 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区上愛子字松原２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.73096745, 38.27111821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区堤町３−１８−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.87193474, 38.28967596 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区落合１−１−５" }, "geometry": { "type": "Point", "coordinates": [ 140.79887549, 38.27014125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区立町１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.86749185, 38.26198437 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区郡山７−１３−８" }, "geometry": { "type": "Point", "coordinates": [ 140.89258021, 38.21495156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区泉崎１−１４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.87089154, 38.22137304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区長町７−２２−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.87358674, 38.22739134 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区八本松２−８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.894793600000014, 38.22750844 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川諏訪２−５−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.949245749999989, 38.58361049 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川飯川字十文字３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.92121286, 38.57217446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市三本木南谷地字要害３８０" }, "geometry": { "type": "Point", "coordinates": [ 140.941138450000011, 38.53082337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市田尻沼部富岡浦４９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.05526096, 38.59587386 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市東和町米谷字根郭１２２−５" }, "geometry": { "type": "Point", "coordinates": [ 141.29008012, 38.7100344 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市牛網字新上四十八７７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.18063747, 38.39843919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市矢本字一本杉２０３" }, "geometry": { "type": "Point", "coordinates": [ 141.20703984, 38.41796835 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市高舘熊野堂字余方上６３−３" }, "geometry": { "type": "Point", "coordinates": [ 140.81417456, 38.21506056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町大内字七夕西２７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.812468810000013, 37.88999112 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市北浜１−１２−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.02466891, 38.3218116 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町黄金町５２" }, "geometry": { "type": "Point", "coordinates": [ 141.44552226, 38.44198939 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町鷲神浜字鷲神１４８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.44708257, 38.44069401 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字赤塚１" }, "geometry": { "type": "Point", "coordinates": [ 140.85831491, 38.56516895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡色麻町四竃字町９９" }, "geometry": { "type": "Point", "coordinates": [ 140.85065343, 38.54544992 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田旭町３３−７" }, "geometry": { "type": "Point", "coordinates": [ 140.78127176000001, 37.97798999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市角田字大町４１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.78471535, 37.97961534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市魚市場前４−２９" }, "geometry": { "type": "Point", "coordinates": [ 141.580576900000011, 38.89884631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市港町５０３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.579435749999988, 38.90298908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市字浦の浜１０８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.61692858, 38.86492424 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市字松崎片浜１０６−４０９" }, "geometry": { "type": "Point", "coordinates": [ 141.58190847, 38.87529376 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市松川前１５２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.547297179999987, 38.91261697 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市新浜町２−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.58055227, 38.91282045 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市新浜町２−６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.5808728, 38.9142792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市田中前１−５−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.564788709999988, 38.89262663 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市唐桑町小鯖１９６" }, "geometry": { "type": "Point", "coordinates": [ 141.64380111, 38.88348831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市南郷１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.568489340000013, 38.89359836 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡七ヶ浜町汐見台南１−３７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.05426792, 38.29522481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町利府字新揺橋５４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.973679479999987, 38.32513904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市鴬沢南郷新橋沖６５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.95063285, 38.80872678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市金成沢辺字新西待井２１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.083444570000012, 38.79608019 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒岩ケ崎下小路１７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.99294948, 38.83238805 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市高清水中町２" }, "geometry": { "type": "Point", "coordinates": [ 141.01138541, 38.65697236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館照越永平９０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.020328869999986, 38.71233583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館薬師４−９−３７" }, "geometry": { "type": "Point", "coordinates": [ 141.02216894, 38.73489384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大郷町中村字原町２" }, "geometry": { "type": "Point", "coordinates": [ 140.99362604, 38.41886724 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町吉岡南１−３６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87400431, 38.44536306 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町小野字後藤１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.85530345, 38.37575079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町成田９−６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.888924839999987, 38.35669814 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富谷２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.874240109999988, 38.37317531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町大字船岡字新生町２９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.7750845, 38.06549577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町槻木上町３８" }, "geometry": { "type": "Point", "coordinates": [ 140.81449471, 38.07399819 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字前川字北原１９−４" }, "geometry": { "type": "Point", "coordinates": [ 140.62788966, 38.18143621 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字村田字町１５１" }, "geometry": { "type": "Point", "coordinates": [ 140.724481919999988, 38.1203016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字村田字北塩内８９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.71628629, 38.11994365 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町字北嶋脇８２−４" }, "geometry": { "type": "Point", "coordinates": [ 140.73563317, 38.06834385 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市鮎川浜字南６６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.50931462, 38.29644288 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字新下浦１００−２" }, "geometry": { "type": "Point", "coordinates": [ 141.283970860000011, 38.44957831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大宮町１−４６" }, "geometry": { "type": "Point", "coordinates": [ 141.35998884, 38.41598457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市田道町１−１−４２" }, "geometry": { "type": "Point", "coordinates": [ 141.29764259, 38.43558489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市湊字大門崎１２２" }, "geometry": { "type": "Point", "coordinates": [ 141.32625676, 38.42029688 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市雄勝町水浜３９" }, "geometry": { "type": "Point", "coordinates": [ 141.486398799999989, 38.50111435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区苦竹３−１−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.92835627, 38.26921136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字新沼４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.99616253, 38.27926122 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区二の森１２−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.9027611, 38.27833691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町東２−３−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.94590324, 38.25860211 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区上飯田字天神１０６" }, "geometry": { "type": "Point", "coordinates": [ 140.92145568, 38.21881032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区中倉３−１７−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.923307779999988, 38.24617901 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区下愛子竹ノ花１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.781750100000011, 38.26656594 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区宮町１−４−８" }, "geometry": { "type": "Point", "coordinates": [ 140.88399376000001, 38.26817146 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区荒巻本沢２−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.849818199999987, 38.28813657 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区国見ヶ丘１−１４−９" }, "geometry": { "type": "Point", "coordinates": [ 140.831335489999987, 38.29511897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区小松島４−１４−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.88862047, 38.28660811 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区水の森３−４２−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.8533415, 38.29542232 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区折立３−１−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.80799173, 38.26651691 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区南吉成３−２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.81895921, 38.28706412 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区高森２−１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.84367903, 38.34053999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区市名坂字原田１６０" }, "geometry": { "type": "Point", "coordinates": [ 140.90337423, 38.31507316 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区実沢中７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.823482070000011, 38.32806879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区松森字浦田１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.90239152, 38.30900896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区松森字陣ケ前１０９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.927469480000013, 38.31048436 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区泉中央２−１４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.87861622, 38.33004591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区長命ケ丘６−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.83216638, 38.31182331 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区虹の丘１−１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.878647410000013, 38.30700972 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区秋保町湯向２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.725833200000011, 38.22735937 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区中田４−５−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.89141777, 38.19905731 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区八木山本町１−２７−８" }, "geometry": { "type": "Point", "coordinates": [ 140.84448921, 38.24308328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市下馬５−１−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.014971870000011, 38.30012566 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市笠神５−１４−３８" }, "geometry": { "type": "Point", "coordinates": [ 141.0333659, 38.29756261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市浮島字宮前１２６" }, "geometry": { "type": "Point", "coordinates": [ 140.99437354, 38.30472325 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市田尻大貫字上長根１２４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.12441625, 38.60741406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉鬼首字小向４９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.65376895, 38.79644624 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉鬼首字中田野３８" }, "geometry": { "type": "Point", "coordinates": [ 140.64886041, 38.80683298 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市東和町米谷字元町３５−２" }, "geometry": { "type": "Point", "coordinates": [ 141.287612599999989, 38.70818777 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市米山町中津山字刈敷４３６" }, "geometry": { "type": "Point", "coordinates": [ 141.1798044, 38.61861874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市牛網字駅前１−１−３" }, "geometry": { "type": "Point", "coordinates": [ 141.17248969, 38.39681718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市赤井関の内四号３６１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.23630488, 38.43721848 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市南町１−１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.62124047, 38.00015487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市福岡深谷字地蔵堂６２" }, "geometry": { "type": "Point", "coordinates": [ 140.62998352, 38.02953392 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町関根字提筒７８" }, "geometry": { "type": "Point", "coordinates": [ 140.99682775, 38.56799843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町藤ケ崎町１３０" }, "geometry": { "type": "Point", "coordinates": [ 141.06155199, 38.54122463 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町猪岡短台字佐野崎１６" }, "geometry": { "type": "Point", "coordinates": [ 141.19544563, 38.55573256 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町宮が埼川尻１−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.45077454, 38.44605202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町原町字南西屋敷６７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.74686048, 38.58605521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町新川原１３３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.855324450000012, 38.55487495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町大門４" }, "geometry": { "type": "Point", "coordinates": [ 140.85146064, 38.57490172 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町中畑１４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.783082799999988, 38.57414685 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町味ケ袋栗木塩２３" }, "geometry": { "type": "Point", "coordinates": [ 140.73611381, 38.58742574 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県角田市尾山字横町２２" }, "geometry": { "type": "Point", "coordinates": [ 140.82736132, 37.96045487 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市一迫真坂本町８" }, "geometry": { "type": "Point", "coordinates": [ 140.95455315000001, 38.74008362 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市高清水中の茎９３−５" }, "geometry": { "type": "Point", "coordinates": [ 140.9960614, 38.64131909 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳川北東若柳１７１" }, "geometry": { "type": "Point", "coordinates": [ 141.154008800000014, 38.76979924 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町船岡大塚２４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.7455416, 38.04967065 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町槻木白幡３−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.80761872, 38.07087646 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市給分浜羽黒下２０−４" }, "geometry": { "type": "Point", "coordinates": [ 141.47441195, 38.3234163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市小船越字二子北下５５" }, "geometry": { "type": "Point", "coordinates": [ 141.293044040000012, 38.50027544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市相野谷字杉ヶ崎３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.31145762, 38.52047018 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市桃生町神取山下４５" }, "geometry": { "type": "Point", "coordinates": [ 141.23485039, 38.53263095 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市飯野川上川前１３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.31517523, 38.5133675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市雄勝町伊勢畑２６−３５" }, "geometry": { "type": "Point", "coordinates": [ 141.46943769, 38.52146418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区五輪２−９−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.90589599, 38.26510254 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区西宮城野１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89635134, 38.254892 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町１−８−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.952468759999988, 38.27043591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区東仙台１−２−１３" }, "geometry": { "type": "Point", "coordinates": [ 140.91955203, 38.27903452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区日の出町２−１−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.93420948, 38.26905804 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区吉成台１−１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.82266141, 38.29288997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区小角宮２２" }, "geometry": { "type": "Point", "coordinates": [ 140.80175936, 38.33095824 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区長命が丘５−１２−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.83630516, 38.31361243 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区北高森１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.85602158, 38.34543286 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区長町８−２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87848936, 38.22856875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区八木山緑町８−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.86240134, 38.24422601 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市町前３−１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.00691312, 38.28705776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山上野目中田１１０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88070402, 38.65744087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山二ノ構１７５" }, "geometry": { "type": "Point", "coordinates": [ 140.865446389999988, 38.64952109 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川駅前大通６−２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.96644858, 38.57823304 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川字本鹿島２４８" }, "geometry": { "type": "Point", "coordinates": [ 140.94535814, 38.5854496 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川若葉町１−６−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.953178189999988, 38.58883631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川南新町７−５１" }, "geometry": { "type": "Point", "coordinates": [ 140.95783101, 38.56628473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鹿島台木間塚小谷地２３９" }, "geometry": { "type": "Point", "coordinates": [ 141.10365852000001, 38.47894345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鳴子温泉字田中２９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.7792292, 38.73594973 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市津山町柳津字本町１１２" }, "geometry": { "type": "Point", "coordinates": [ 141.30037797, 38.61126121 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字梅ノ木５丁目１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.208470870000014, 38.6942699 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市米山町西野字十日町３８" }, "geometry": { "type": "Point", "coordinates": [ 141.19091773, 38.62966143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町赤生津字新田横町５５" }, "geometry": { "type": "Point", "coordinates": [ 141.24740531, 38.58311902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市越河五賀字宮下前下町１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.6052482, 37.93136084 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市半沢屋敷西１４２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.62032679, 38.01055015 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町志津川廻館前７５" }, "geometry": { "type": "Point", "coordinates": [ 141.44518539, 38.67842329 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田３−１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.886307069999987, 38.17006864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市飯野坂３−７−５" }, "geometry": { "type": "Point", "coordinates": [ 140.886702649999989, 38.15537278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市新浜町２−２−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.03827438, 38.33062439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市東玉川町１−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.01064542, 38.30909529 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市魚市場前３−３４" }, "geometry": { "type": "Point", "coordinates": [ 141.57955503, 38.89812096 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館源光１６−２" }, "geometry": { "type": "Point", "coordinates": [ 141.029556320000012, 38.73523016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市鮎川浜南２７" }, "geometry": { "type": "Point", "coordinates": [ 141.510524409999988, 38.2955839 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市向陽町１−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.28438942, 38.44749144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町４−５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.95267517, 38.26084521 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区中野字寺前６９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.9766301, 38.27659862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区鶴ヶ谷東３−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.9312768, 38.29369205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区遠見塚東１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.911170739999989, 38.23427315 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区郷六字石山２２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.81872012, 38.26465862 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区折立一丁目２番１７号" }, "geometry": { "type": "Point", "coordinates": [ 140.8110858, 38.26384767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区山の寺１−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.89464799000001, 38.32615497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区市名坂字町３４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88764844, 38.32109928 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区実沢字桜田前１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.82288587, 38.33675113 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区南光台南１−１−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.89994389, 38.29839558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区郡山５−５−３３" }, "geometry": { "type": "Point", "coordinates": [ 140.89563553, 38.21995416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区東中田２−１５−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.89772106, 38.20075886 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭字新御所川５５" }, "geometry": { "type": "Point", "coordinates": [ 140.793111329999988, 38.22211236 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭字大沢５２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.78684802, 38.21969301 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭台３−３０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.78991192, 38.23950378 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡本吉町津谷松岡４８" }, "geometry": { "type": "Point", "coordinates": [ 141.504771729999987, 38.7896926 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡本吉町日門７１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.55371602, 38.80902064 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町逢隈神宮寺字一郷６６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.853705280000014, 38.05179622 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市古町１丁目２８８−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.560836450000011, 38.90803031 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区泉ケ丘３−１３−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.87163897, 38.35768618 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福田町３−８−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.9632344, 38.26132468 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区二の森１−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.8962234, 38.27856461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町浅水字長谷山３２６−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.27851672, 38.70471125 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区南光台4-1-20" }, "geometry": { "type": "Point", "coordinates": [ 140.89206945, 38.29720119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区南光台南3-37-21" }, "geometry": { "type": "Point", "coordinates": [ 140.90378024, 38.29141308 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町船岡中央１−７−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.76918332, 38.05757196 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県本吉郡南三陸町歌津字町向１３７−７" }, "geometry": { "type": "Point", "coordinates": [ 141.51649641, 38.71404854 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町小里字新大橋３" }, "geometry": { "type": "Point", "coordinates": [ 141.15439239, 38.58476544 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町遠刈田温泉旭町１７" }, "geometry": { "type": "Point", "coordinates": [ 140.57933441, 38.1231033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市唐桑町堂角２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.636651410000013, 38.93293687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区下愛子字二本松１９−６" }, "geometry": { "type": "Point", "coordinates": [ 140.77520377, 38.27268137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区長町南４丁目１６−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87427395, 38.22150202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区向陽台３−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89432803, 38.33897525 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区萩野町４−２−３４" }, "geometry": { "type": "Point", "coordinates": [ 140.91353222, 38.26109559 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区明通４−５−８" }, "geometry": { "type": "Point", "coordinates": [ 140.86140174, 38.35202248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市植松字宮島８１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88225813, 38.14636364 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区中江２−１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.89076613, 38.27293999 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区郡山４−１５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89728244, 38.22197309 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区苦竹３−１−３２" }, "geometry": { "type": "Point", "coordinates": [ 140.9296378, 38.26918591 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区日の出町２−１−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.934090160000011, 38.2681693 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市福岡深谷字三本松５９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.578846629999987, 38.05465965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県角田市角田字町田２２９" }, "geometry": { "type": "Point", "coordinates": [ 140.78273409, 37.95817241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川塚目字金皿２４１" }, "geometry": { "type": "Point", "coordinates": [ 140.93544283, 38.57295631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市南郷７−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.56996722, 38.8942241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県登米市中田町石森字表５７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.21228162, 38.69624483 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区国分町３−２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.868910879999987, 38.26622014 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川江合本町３−４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.970335870000014, 38.59115818 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区本町１−１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87894852, 38.26694277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区折立１−１３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.813066639999988, 38.26554132 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区扇町３−６−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.9421621, 38.26158661 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県岩沼市押分字須加原１０６−２３（二の倉工業団地内）" }, "geometry": { "type": "Point", "coordinates": [ 140.9252645, 38.09894476 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡大河原町字中の倉１６５" }, "geometry": { "type": "Point", "coordinates": [ 140.73368892, 38.04070518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県塩釜市貞山通２−９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.03981405, 38.31367404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県多賀城市栄２−４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.02245779, 38.28697778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市門脇町１−５−８" }, "geometry": { "type": "Point", "coordinates": [ 141.30786132, 38.42659727 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市蛇田字東道下１０６" }, "geometry": { "type": "Point", "coordinates": [ 141.28198387, 38.45614592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市不動町２−２−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.31813512, 38.43712692 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市八幡町２−７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.31486884, 38.43207462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川狐塚字西田７１" }, "geometry": { "type": "Point", "coordinates": [ 140.980128470000011, 38.60209667 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市字松川前１１５" }, "geometry": { "type": "Point", "coordinates": [ 141.5471158, 38.91347422 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県栗原市築館高田２−８−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.02338068, 38.72340911 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県登米市迫町佐沼字中江４−５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.18849512, 38.68701696 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県東松島市矢本字中谷地８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.19192328, 38.40470055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡柴田町大字下名生字八剣８４" }, "geometry": { "type": "Point", "coordinates": [ 140.808627269999988, 38.06362746 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川稲葉字亀ノ子６５" }, "geometry": { "type": "Point", "coordinates": [ 140.94450414, 38.58361547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市阿武隈２丁目１２４−３" }, "geometry": { "type": "Point", "coordinates": [ 140.86567341, 38.09720831 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市上余田字千刈田８３４" }, "geometry": { "type": "Point", "coordinates": [ 140.89124528, 38.18308296 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田字北谷１４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89057327, 38.17431074 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県多賀城市町前４丁目１２７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.00377473, 38.28299895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市中央２丁目５−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.86807048, 38.10899951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川鶴ケ埣字新江北２３" }, "geometry": { "type": "Point", "coordinates": [ 140.98797564, 38.56944181 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川福浦１丁目１０−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.957909449999988, 38.59002005 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市田町１丁目１−５４" }, "geometry": { "type": "Point", "coordinates": [ 140.62174832, 37.99955981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県白石市字堂場前９０" }, "geometry": { "type": "Point", "coordinates": [ 140.62853291, 38.0040778 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市赤岩杉ノ沢７５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.570076840000013, 38.88978129 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡亘理町字新井町３４" }, "geometry": { "type": "Point", "coordinates": [ 140.85557541, 38.04192871 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町舘矢間舘山字玉川８８" }, "geometry": { "type": "Point", "coordinates": [ 140.76885353, 37.92410673 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県伊具郡丸森町耕野字火石坂８９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.66586867, 37.91399155 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町菅谷字新産野原４９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.96094102, 38.31697075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県亘理郡山元町小平字南６３−９" }, "geometry": { "type": "Point", "coordinates": [ 140.87049516, 37.98141149 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡七ケ宿町字諏訪原２１" }, "geometry": { "type": "Point", "coordinates": [ 140.43985023, 37.99637767 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡大河原町大谷字西原前７４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.748849259999986, 38.05328024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町大字中名生字佐野３４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.796126429999987, 38.06249085 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町槻木上町２丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.811106059999986, 38.07749619 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字川内字七曲山２５" }, "geometry": { "type": "Point", "coordinates": [ 140.641440280000012, 38.18496897 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字前川字裏丁３８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.64707087, 38.17795403 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区田子字要害１５４−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.9640416, 38.27886654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区扇町４丁目７−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.95254585, 38.26300435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区鈎取３丁目１５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.837481669999988, 38.23118473 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区春日町１１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.86431694, 38.26703932 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区岩切２丁目１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.93632455, 38.294983 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区上杉１丁目１６−８" }, "geometry": { "type": "Point", "coordinates": [ 140.8703013, 38.27172354 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区二日町１１−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.86757468, 38.27031137 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市流留字五性橋９−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.37047223, 38.42485798 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市門脇町５丁目１５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.29989473, 38.41971407 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市松並１丁目１３−３" }, "geometry": { "type": "Point", "coordinates": [ 141.328423789999988, 38.41759438 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市新浜町３丁目３０−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.04826501, 38.3360404 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市松並１丁目７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.327009010000012, 38.41621754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区長命ケ丘２丁目１９−２" }, "geometry": { "type": "Point", "coordinates": [ 140.844191489999986, 38.30949735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区袋原６丁目９−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.911235940000012, 38.19576627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区高玉町９−１１３" }, "geometry": { "type": "Point", "coordinates": [ 140.89435759, 38.31735678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町吉岡字志田町６９" }, "geometry": { "type": "Point", "coordinates": [ 140.891831200000013, 38.44425896 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大街道西２丁目３−５" }, "geometry": { "type": "Point", "coordinates": [ 141.273432969999988, 38.43051495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市中浦１丁目１−６２" }, "geometry": { "type": "Point", "coordinates": [ 141.26897885, 38.43013861 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市大瓜字棚橋７５" }, "geometry": { "type": "Point", "coordinates": [ 141.31408, 38.45519687 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市岩ヶ崎２５１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.547657210000011, 38.9079655 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町涌谷字洞ヶ崎５" }, "geometry": { "type": "Point", "coordinates": [ 141.14420707, 38.53630287 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区秋保町湯元字枇杷原１１" }, "geometry": { "type": "Point", "coordinates": [ 140.73266547, 38.22348809 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市栗駒稲屋敷大鳥西側９８" }, "geometry": { "type": "Point", "coordinates": [ 140.983466349999986, 38.80963857 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町５丁目３−７" }, "geometry": { "type": "Point", "coordinates": [ 140.93104101, 38.25639043 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県宮城郡利府町森郷字新太子堂１６２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98643125000001, 38.33405689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市迫町佐沼字中江４丁目６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.18867322, 38.68804234 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区栗生１丁目１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.79810796000001, 38.2643318 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区茂庭字綱木西１１−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.80090711, 38.24794319 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市田高字清水３７０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.87449356, 38.18612879 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区中田５丁目３−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.8849485, 38.19532075 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福田町南１丁目８" }, "geometry": { "type": "Point", "coordinates": [ 140.95786748, 38.25875157 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区木ノ下３丁目１−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.9035735, 38.25301951 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市増田字関下１６５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.892373639999988, 38.1661187 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県塩竈市港町１丁目６−７" }, "geometry": { "type": "Point", "coordinates": [ 141.02965617000001, 38.31900262 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡川崎町大字今宿字町尻２４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.60233957, 38.19255672 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区一番町１丁目１７−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.87057674, 38.25681888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区宮城野１丁目１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89859488, 38.25801654 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市鹿島台木間塚字小谷地２６５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.105715010000011, 38.47778435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市志波姫新熊谷１１" }, "geometry": { "type": "Point", "coordinates": [ 141.06951208000001, 38.74811291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県名取市閖上２丁目４−４" }, "geometry": { "type": "Point", "coordinates": [ 140.95199195, 38.17778461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町北浦字高橋１６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.01180704, 38.56468555 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡美里町大柳字後藤渕８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.118940220000013, 38.50426905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市田尻北牧目字新田２７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.035275399999989, 38.59833202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町吉住字梅田２３" }, "geometry": { "type": "Point", "coordinates": [ 141.19526968, 38.56324977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館源光１２−３０" }, "geometry": { "type": "Point", "coordinates": [ 141.03383804, 38.73384107 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館源光１０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.028717230000012, 38.73505833 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市若柳字川北古川５" }, "geometry": { "type": "Point", "coordinates": [ 141.13375516, 38.7706261 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町吉岡東１丁目３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.89399125, 38.43648713 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字南町１８" }, "geometry": { "type": "Point", "coordinates": [ 140.85753753, 38.56695093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡大和町吉岡字東下蔵４５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.891573920000013, 38.44132131 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富谷字町北裏４４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88842997, 38.40114998 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市鶯沢南郷五輪原３６−４" }, "geometry": { "type": "Point", "coordinates": [ 140.918372940000012, 38.8047432 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県遠田郡涌谷町字新町裏１１９" }, "geometry": { "type": "Point", "coordinates": [ 141.127376489999989, 38.53882345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町鷲神浜字鷲神１６７" }, "geometry": { "type": "Point", "coordinates": [ 141.446223339999989, 38.44203147 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市北上町十三浜字白浜３６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.47664303, 38.58702372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県気仙沼市本吉町津谷松尾６０−２" }, "geometry": { "type": "Point", "coordinates": [ 141.50427112, 38.78849684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市東和町米谷字金谷５７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.28982088, 38.6881264 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市中田町上沼字長根７１" }, "geometry": { "type": "Point", "coordinates": [ 141.2566698, 38.7422204 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市米山町中津山字谷地渕１０３" }, "geometry": { "type": "Point", "coordinates": [ 141.152812180000012, 38.62348834 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市南方町原屋敷１１" }, "geometry": { "type": "Point", "coordinates": [ 141.1777756, 38.66586067 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市矢本字河戸３３−３９" }, "geometry": { "type": "Point", "coordinates": [ 141.212911749999989, 38.42089577 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市須江字池袋２４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.242949040000013, 38.47403977 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市和渕字和渕町２５" }, "geometry": { "type": "Point", "coordinates": [ 141.22344428, 38.52831904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市小野字裏丁８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15160558, 38.40725676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市小野字町裏７１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.15756722, 38.40385608 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県東松島市赤井字新川前６−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.24635061, 38.43177338 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区八乙女１丁目１−３" }, "geometry": { "type": "Point", "coordinates": [ 140.89008501, 38.31165312 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県牡鹿郡女川町大石原浜字向１７−５" }, "geometry": { "type": "Point", "coordinates": [ 141.4657407, 38.39726461 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡柴田町槻木東２丁目１−４３" }, "geometry": { "type": "Point", "coordinates": [ 140.81712676, 38.08013336 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館高田２丁目５−７０" }, "geometry": { "type": "Point", "coordinates": [ 141.02208959, 38.7279684 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山字東川原９１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.87351862, 38.65160058 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県黒川郡富谷町あけの平３丁目８０" }, "geometry": { "type": "Point", "coordinates": [ 140.87895973, 38.37515276 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県加美郡加美町字旧舘一番５９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.85638662, 38.56250971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県東松島市野蒜字北赤崎４２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.15342557, 38.37286536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県登米市迫町佐沼字北散田１２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.20728509, 38.68971193 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県栗原市若柳字川北中文字７８" }, "geometry": { "type": "Point", "coordinates": [ 141.141363579999989, 38.76724583 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県栗原市築館藤木６−２９" }, "geometry": { "type": "Point", "coordinates": [ 141.019510559999986, 38.73963768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県遠田郡美里町字藤ケ崎町１１７" }, "geometry": { "type": "Point", "coordinates": [ 141.0640875, 38.54152363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市鳴子温泉字中野１９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.741457380000014, 38.73908445 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市岩出山字二ノ構１７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.86393368, 38.65169919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市鮎川浜北１４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.50937965, 38.29760083 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県黒川郡富谷町東向陽台３丁目２７−２" }, "geometry": { "type": "Point", "coordinates": [ 140.89697041, 38.34170138 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県本吉郡南三陸町志津川字天王前２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.453894819999988, 38.67857914 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県黒川郡大和町吉岡字上柴崎１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89618823, 38.44251417 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県亘理郡亘理町逢隈鹿島字寺前南２３−７" }, "geometry": { "type": "Point", "coordinates": [ 140.849067319999989, 38.04520578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡川崎町大字前川字大向９２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.625037490000011, 38.16483135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡柴田町槻木下町３丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.815439919999989, 38.07846779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡柴田町船岡東２丁目３−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.771911249999988, 38.05698801 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県岩沼市中央４丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.869148380000013, 38.11402079 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県多賀城市八幡３丁目７−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.008556, 38.28973093 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県名取市増田３丁目２−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.88694947, 38.17153534 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県名取市飯野坂７丁目５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.88043441, 38.15519347 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市田町１丁目１−４１" }, "geometry": { "type": "Point", "coordinates": [ 140.621726630000012, 37.99889119 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市三本木字北町７１" }, "geometry": { "type": "Point", "coordinates": [ 140.94575482, 38.52834888 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県岩沼市藤浪１丁目９−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.867265550000013, 38.10129208 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区堤町３丁目１−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.87065636, 38.28702933 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区平成１丁目１７−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.9128366, 38.2706605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区榴岡３丁目５−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.88868684, 38.26101041 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区二の森４−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.90027425, 38.27845908 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県名取市増田９丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.88585452, 38.18144373 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県柴田郡柴田町大字船岡字若葉町４−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.7755239, 38.06598039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県亘理郡亘理町字新井町７５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.854716989999986, 38.03976429 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市鹿島台平渡字東銭神６２" }, "geometry": { "type": "Point", "coordinates": [ 141.09693687, 38.47336895 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県牡鹿郡女川町鷲神浜字向山５３−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.45089321, 38.44035101 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県牡鹿郡女川町寿町１" }, "geometry": { "type": "Point", "coordinates": [ 141.44351394, 38.44127921 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市字長町３８" }, "geometry": { "type": "Point", "coordinates": [ 140.62250946, 38.00697899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県岩沼市中央２丁目５−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.867693089999989, 38.10806751 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川李埣字前田５１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98668758, 38.56969511 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市西益岡町１−１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.61362969000001, 38.00543738 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市鳴子温泉字星沼７９−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.66750251, 38.726929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市鹿又字山下西３７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.28664121, 38.46921962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市南浜町３丁目１２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.300104510000011, 38.41717425 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市寄磯浜前浜２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.52731544, 38.38931488 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市唐桑町鮪立１５９−１" }, "geometry": { "type": "Point", "coordinates": [ 141.640789070000011, 38.8911302 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県登米市津山町横山字上の山１７" }, "geometry": { "type": "Point", "coordinates": [ 141.35452482, 38.63275327 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区愛子中央１丁目６−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.761805869999989, 38.2712169 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市若林区南小泉４丁目２０−２７" }, "geometry": { "type": "Point", "coordinates": [ 140.90555064, 38.23676625 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区宮城野１丁目２０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.90071927, 38.2574447 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区原町１丁目１−５２" }, "geometry": { "type": "Point", "coordinates": [ 140.89978269, 38.26449953 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区幸町１丁目１９−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.895723479999987, 38.27829518 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市宮城野区蒲生字竹ノ内１２８−１" }, "geometry": { "type": "Point", "coordinates": [ 140.989699480000013, 38.26385576 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区愛子東２丁目３−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.775593679999986, 38.2731865 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区双葉ケ丘１丁目４６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.87858452, 38.30652159 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区八幡４丁目５−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.84422458, 38.26980495 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市青葉区木町通２丁目６−６７" }, "geometry": { "type": "Point", "coordinates": [ 140.868377149999986, 38.27345278 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市字本町６７" }, "geometry": { "type": "Point", "coordinates": [ 140.62305977, 38.00072151 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区西多賀２丁目８−５３" }, "geometry": { "type": "Point", "coordinates": [ 140.859137800000013, 38.21869557 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市清水町１丁目５−５" }, "geometry": { "type": "Point", "coordinates": [ 141.296997620000013, 38.43639415 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市鹿又字蓬莱５０" }, "geometry": { "type": "Point", "coordinates": [ 141.2827969, 38.47334127 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市要害１８２−１５" }, "geometry": { "type": "Point", "coordinates": [ 141.61313424, 38.84665907 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市松崎萱２−４" }, "geometry": { "type": "Point", "coordinates": [ 141.572498779999989, 38.87454053 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県気仙沼市岩月台ノ沢５７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.580512989999988, 38.86055068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川小稲葉町２−５" }, "geometry": { "type": "Point", "coordinates": [ 140.953433100000012, 38.56985457 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川小野字新鶴巻１２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.98376495, 38.61879321 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県塩竈市藤倉３丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.02793689, 38.32427763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市渡波字栄田７３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.34904329, 38.41956883 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市湊町４丁目５−６" }, "geometry": { "type": "Point", "coordinates": [ 141.32031565, 38.4208345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区郡山４丁目２−５" }, "geometry": { "type": "Point", "coordinates": [ 140.899146120000012, 38.224184 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市八幡町１丁目７−４" }, "geometry": { "type": "Point", "coordinates": [ 141.31359962, 38.42826946 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区長町２丁目１−４２" }, "geometry": { "type": "Point", "coordinates": [ 140.884474039999986, 38.23595105 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市魚町３丁目４−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.34153025, 38.41535817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市向陽町１丁目２３−９" }, "geometry": { "type": "Point", "coordinates": [ 141.28165371, 38.44823845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市門脇町２丁目２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.309822419999989, 38.42446 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市井内字二番９２−１" }, "geometry": { "type": "Point", "coordinates": [ 141.33508948, 38.44500711 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市泉区南光台１丁目１２−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.89559684, 38.29314027 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市泉区市名坂字町２６" }, "geometry": { "type": "Point", "coordinates": [ 140.887644349999988, 38.32017273 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区根岸町１０−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.88153347, 38.23785372 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区西中田５丁目１５−２" }, "geometry": { "type": "Point", "coordinates": [ 140.87536868, 38.19613768 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市太白区西多賀５丁目１８−３" }, "geometry": { "type": "Point", "coordinates": [ 140.85187739, 38.22017244 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市字長町５５" }, "geometry": { "type": "Point", "coordinates": [ 140.622540070000014, 38.0056486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県石巻市不動町２丁目１３−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.31917392, 38.43494941 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県黒川郡大和町吉岡字志田町１２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.88909819, 38.44334323 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県大崎市古川稲葉字大江向１８０−１" }, "geometry": { "type": "Point", "coordinates": [ 140.94594473, 38.57306779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市若林区木ノ下４丁目１−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.8976951, 38.24942581 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館薬師３丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.01871105, 38.7333578 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市千石町５−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.30894433, 38.43527965 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市不動町１丁目８−２" }, "geometry": { "type": "Point", "coordinates": [ 141.31567705, 38.43412719 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市中央１丁目４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.305994700000014, 38.42962741 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市重吉町７" }, "geometry": { "type": "Point", "coordinates": [ 141.25209874, 38.41860956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市魚町３丁目１１−６" }, "geometry": { "type": "Point", "coordinates": [ 141.33914999000001, 38.41363887 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市渡波字黄金浜１６−３" }, "geometry": { "type": "Point", "coordinates": [ 141.3526707, 38.41959414 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市南浜町２丁目１７−１６" }, "geometry": { "type": "Point", "coordinates": [ 141.30388675, 38.41604846 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市湊隠里山１１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.331730310000012, 38.42001902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市万石町５−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.37065791, 38.41984758 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市魚町３丁目１１−２" }, "geometry": { "type": "Point", "coordinates": [ 141.34039150000001, 38.41453046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市泉区将監９丁目４−５" }, "geometry": { "type": "Point", "coordinates": [ 140.87452317, 38.33090135 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市泉区実沢字西後山１" }, "geometry": { "type": "Point", "coordinates": [ 140.8197232, 38.32558418 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区向山２丁目３−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.868798129999988, 38.24668295 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区八木山本町１丁目２１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.84623622, 38.24126408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市向陽町４丁目１−１" }, "geometry": { "type": "Point", "coordinates": [ 141.27964379, 38.45032776 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市門脇町１丁目６−６" }, "geometry": { "type": "Point", "coordinates": [ 141.30847744, 38.42694792 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市泉区鶴が丘４丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.92322465, 38.32520782 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市泉町４丁目１４−７" }, "geometry": { "type": "Point", "coordinates": [ 141.29445306, 38.42579944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市泉町２丁目５−８" }, "geometry": { "type": "Point", "coordinates": [ 141.30253104, 38.42934123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市門脇町１丁目８−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.30867791, 38.42580182 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川千手寺町１丁目９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.95472833, 38.57953522 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市東新城３丁目３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.55395053, 38.90380475 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川駅前大通２丁目５−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.96645956, 38.57244764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川諏訪２丁目２−２" }, "geometry": { "type": "Point", "coordinates": [ 140.952600640000014, 38.58174682 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市上田中１丁目４−６" }, "geometry": { "type": "Point", "coordinates": [ 141.55239452, 38.88709997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市新浜町１丁目４−２６" }, "geometry": { "type": "Point", "coordinates": [ 141.580025580000012, 38.91363202 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市大浦１８０" }, "geometry": { "type": "Point", "coordinates": [ 141.590493079999987, 38.89675188 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市旭町５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.02024662, 38.31524219 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市新浜町３丁目１−５０" }, "geometry": { "type": "Point", "coordinates": [ 141.04586828, 38.32686143 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市清水沢３丁目１３−２" }, "geometry": { "type": "Point", "coordinates": [ 141.01072984000001, 38.33017082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市渡波町２丁目２−２１" }, "geometry": { "type": "Point", "coordinates": [ 141.36582456, 38.41703397 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市渡波字栄田１３４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.350607, 38.41981903 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区長町６丁目８−３７" }, "geometry": { "type": "Point", "coordinates": [ 140.882630760000012, 38.22171987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市栄町３−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.00607252, 38.32218817 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市後楽町３−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.00381674, 38.32718771 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市本町３−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.01837448, 38.31696411 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市藤倉３丁目１−１２" }, "geometry": { "type": "Point", "coordinates": [ 141.028192420000011, 38.32432763 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区国見３丁目４−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.84317048, 38.27279451 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区川平５丁目２−６" }, "geometry": { "type": "Point", "coordinates": [ 140.83149271, 38.30597929 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区上杉６丁目１−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.877470140000014, 38.27630021 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区上杉４丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.87850508, 38.27323335 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区荒巻本沢３丁目４−２３" }, "geometry": { "type": "Point", "coordinates": [ 140.85697234, 38.28964754 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区滝道２−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.8521242, 38.29409851 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区連坊２丁目１０−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.89359539, 38.2512393 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区郡山字欠ノ上２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.89735769, 38.21411845 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区郡山２丁目７−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.89127176, 38.22349491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区連坊小路１３８" }, "geometry": { "type": "Point", "coordinates": [ 140.88455768, 38.25200915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区東七番丁１７３" }, "geometry": { "type": "Point", "coordinates": [ 140.88310766, 38.24973328 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区中倉２丁目２５−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.91966402, 38.24391277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区志波町１２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.91317378, 38.25152472 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区木町通２丁目５−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.866002470000012, 38.2735332 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区長町４丁目５−３６" }, "geometry": { "type": "Point", "coordinates": [ 140.881606299999987, 38.23215611 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区土手内１丁目９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.85965407, 38.22918255 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区四郎丸字新田７０−２" }, "geometry": { "type": "Point", "coordinates": [ 140.92135679, 38.19176905 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区本町３丁目５−３" }, "geometry": { "type": "Point", "coordinates": [ 140.8743684, 38.26850353 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区銀杏町１１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.90920415, 38.26365843 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区水の森１丁目６−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.86284366000001, 38.28973956 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区五輪１丁目１１−３９" }, "geometry": { "type": "Point", "coordinates": [ 140.901749990000013, 38.26186104 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区二日町１７−２９" }, "geometry": { "type": "Point", "coordinates": [ 140.86673861, 38.27154455 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区二日町７−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.86777662, 38.26975087 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区葉山町１０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.86473227, 38.28568735 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区八幡２丁目７−３５" }, "geometry": { "type": "Point", "coordinates": [ 140.852293089999989, 38.27202163 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区通町１丁目４−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.86539126, 38.2768384 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区宮町３丁目５−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.882839319999988, 38.27144258 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区東仙台７丁目１２−３８" }, "geometry": { "type": "Point", "coordinates": [ 140.91512167, 38.28198678 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区河原町１丁目２−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.891085190000013, 38.23937915 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区蒲町３３−１７" }, "geometry": { "type": "Point", "coordinates": [ 140.925648599999988, 38.24277178 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区卸町東５丁目４−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.95349796, 38.25466246 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区宮千代１丁目５−９" }, "geometry": { "type": "Point", "coordinates": [ 140.908468910000011, 38.25265945 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区東仙台１丁目２０−４８" }, "geometry": { "type": "Point", "coordinates": [ 140.9230359, 38.2808675 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区原町２丁目３−１６" }, "geometry": { "type": "Point", "coordinates": [ 140.90277244, 38.2649823 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区鶴ケ谷７丁目２６−３" }, "geometry": { "type": "Point", "coordinates": [ 140.91951802, 38.28983026 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区榴岡４丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.88731212, 38.25917161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区榴岡２丁目２−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.884078929999987, 38.26151291 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県登米市津山町横山字久保２５" }, "geometry": { "type": "Point", "coordinates": [ 141.34917828, 38.62840072 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県本吉郡南三陸町志津川字十日町１３６" }, "geometry": { "type": "Point", "coordinates": [ 141.45139239, 38.67635987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市小渕浜カント１２" }, "geometry": { "type": "Point", "coordinates": [ 141.46976279, 38.32301595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県牡鹿郡女川町清水町６１" }, "geometry": { "type": "Point", "coordinates": [ 141.443323779999986, 38.45256024 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市前谷地字中埣１４２−２" }, "geometry": { "type": "Point", "coordinates": [ 141.19264544, 38.51336056 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡亘理町逢隈田沢字神明４７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.86019005, 38.06963902 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区日本平２１−２８" }, "geometry": { "type": "Point", "coordinates": [ 140.811683179999989, 38.22267815 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市住吉町１丁目４−１１" }, "geometry": { "type": "Point", "coordinates": [ 141.31177186, 38.4347409 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川千手寺町１丁目４−２６" }, "geometry": { "type": "Point", "coordinates": [ 140.95479371, 38.5784368 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡大河原町字新南４５−４" }, "geometry": { "type": "Point", "coordinates": [ 140.728434740000012, 38.04844506 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市唐桑町上鮪立２０８−１" }, "geometry": { "type": "Point", "coordinates": [ 141.642485959999988, 38.88426274 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区茂庭台５丁目１９−１１" }, "geometry": { "type": "Point", "coordinates": [ 140.78120955, 38.23879123 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区舟丁１６" }, "geometry": { "type": "Point", "coordinates": [ 140.887827069999986, 38.24193981 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県白石市字清水小路１１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.62365664, 38.00677349 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市唐桑町唯越９−５" }, "geometry": { "type": "Point", "coordinates": [ 141.63235548, 38.93086285 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市広渕字町３９" }, "geometry": { "type": "Point", "coordinates": [ 141.2089779, 38.47092531 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡大河原町字新東２１−１９" }, "geometry": { "type": "Point", "coordinates": [ 140.73640583, 38.05887503 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館伊豆１丁目７−１４" }, "geometry": { "type": "Point", "coordinates": [ 141.02564161, 38.73426602 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館青野２−２７" }, "geometry": { "type": "Point", "coordinates": [ 141.014735, 38.73402807 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館字下宮野町下２６−１" }, "geometry": { "type": "Point", "coordinates": [ 141.02338142, 38.75592209 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館宮野中央１丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 141.01484113, 38.7471284 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県遠田郡美里町二郷字慶半３７−２" }, "geometry": { "type": "Point", "coordinates": [ 141.13337718, 38.47616971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市田尻字町１０４−１" }, "geometry": { "type": "Point", "coordinates": [ 141.02643358, 38.59856991 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館字萩沢南９９−３" }, "geometry": { "type": "Point", "coordinates": [ 140.99872743, 38.72558605 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区四郎丸字渡道３５−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.909243909999986, 38.19101588 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市鹿又字新田町浦２３" }, "geometry": { "type": "Point", "coordinates": [ 141.28074372, 38.48772849 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市相野谷字飯野川町１０３" }, "geometry": { "type": "Point", "coordinates": [ 141.31344343, 38.51484904 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県登米市登米町寺池前舟橋２５−３" }, "geometry": { "type": "Point", "coordinates": [ 141.27772292, 38.65569002 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県登米市登米町寺池前舟橋３４−３" }, "geometry": { "type": "Point", "coordinates": [ 141.2780847, 38.65379277 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市築館薬師４丁目３−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.01971928, 38.73350781 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市瀬峰下田９７−１" }, "geometry": { "type": "Point", "coordinates": [ 141.073007249999989, 38.65521059 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市前谷地字横須賀６８−６" }, "geometry": { "type": "Point", "coordinates": [ 141.1917612, 38.51236156 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市一迫真坂字荒町７" }, "geometry": { "type": "Point", "coordinates": [ 140.95456442, 38.73775341 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市栗駒中野沼尻前４９−１" }, "geometry": { "type": "Point", "coordinates": [ 140.985518140000011, 38.82756749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市若柳字川北橋元４９" }, "geometry": { "type": "Point", "coordinates": [ 141.13974399, 38.77450334 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県本吉郡南三陸町志津川字南町８５" }, "geometry": { "type": "Point", "coordinates": [ 141.44857331, 38.6743239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区中田町字二軒橋７−４" }, "geometry": { "type": "Point", "coordinates": [ 140.89403647, 38.19538708 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県黒川郡大和町吉岡字中町２７" }, "geometry": { "type": "Point", "coordinates": [ 140.88558511, 38.4466821 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市青葉区台原６丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.875808909999989, 38.28013033 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市宮城野区蒲生字二本木１２７−２１" }, "geometry": { "type": "Point", "coordinates": [ 140.99122717, 38.26140055 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡大河原町大谷字末広９３−２" }, "geometry": { "type": "Point", "coordinates": [ 140.741463180000011, 38.05230736 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市高木字清水４８" }, "geometry": { "type": "Point", "coordinates": [ 141.35381289, 38.47117426 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市泉区根白石字町東５４−１" }, "geometry": { "type": "Point", "coordinates": [ 140.796906729999989, 38.34550749 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区白萩町２３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.90869471, 38.25200337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市北浜１丁目２−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.02124064, 38.31976394 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡村田町大字村田字町南１８" }, "geometry": { "type": "Point", "coordinates": [ 140.72528343, 38.11876462 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市錦町１７−１３" }, "geometry": { "type": "Point", "coordinates": [ 141.01570324, 38.30774004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県黒川郡富谷町富谷字町北裏１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.8865663, 38.39979175 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県加美郡加美町字南町１９２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.858293690000011, 38.56558068 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県東松島市宮戸字小舟渡８−３" }, "geometry": { "type": "Point", "coordinates": [ 141.145928239999989, 38.33740046 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県東松島市矢本字下浦２８３−１" }, "geometry": { "type": "Point", "coordinates": [ 141.22063467000001, 38.42559241 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県白石市西益岡町９−１８" }, "geometry": { "type": "Point", "coordinates": [ 140.612057779999986, 38.00233497 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川三日町１丁目６−５" }, "geometry": { "type": "Point", "coordinates": [ 140.95651319000001, 38.57420408 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市港町５−９" }, "geometry": { "type": "Point", "coordinates": [ 141.5784578, 38.90027899 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市中央１丁目１１−２２" }, "geometry": { "type": "Point", "coordinates": [ 141.30728352, 38.4293997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市雄勝町大須字大須２５１−２３" }, "geometry": { "type": "Point", "coordinates": [ 141.53717977, 38.51453139 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県加美郡加美町字南町６１" }, "geometry": { "type": "Point", "coordinates": [ 140.857855980000011, 38.56969009 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県角田市角田字田町５２" }, "geometry": { "type": "Point", "coordinates": [ 140.78120629, 37.97479054 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡村田町大字沼辺字北寄井１２５" }, "geometry": { "type": "Point", "coordinates": [ 140.73018585, 38.07975922 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡松島町高城字町２６" }, "geometry": { "type": "Point", "coordinates": [ 141.06919308, 38.38245558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県黒川郡富谷町石積字中町５７" }, "geometry": { "type": "Point", "coordinates": [ 140.91249301, 38.37069875 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市泉区松森字鹿島３９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.9098368, 38.31622136 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市古川台町１０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.96064447, 38.57458345 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区長町４丁目７−２５" }, "geometry": { "type": "Point", "coordinates": [ 140.880850290000012, 38.22910764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市岩出山字上川原北２５３" }, "geometry": { "type": "Point", "coordinates": [ 140.8640417, 38.66204536 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市渡波字浜曽根山１−１９" }, "geometry": { "type": "Point", "coordinates": [ 141.35500392, 38.41662239 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市大街道東４丁目３−３６" }, "geometry": { "type": "Point", "coordinates": [ 141.28320957, 38.42967004 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区西中田１丁目１８−４０" }, "geometry": { "type": "Point", "coordinates": [ 140.88275907, 38.19925307 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区鈎取２丁目１−２４" }, "geometry": { "type": "Point", "coordinates": [ 140.8430894, 38.22400513 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市潮見町７−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.5845048, 38.89378271 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区南材木町７３" }, "geometry": { "type": "Point", "coordinates": [ 140.88911582, 38.24221764 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡利府町森郷字新太子堂１７７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.986601189999988, 38.33363944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県塩竈市花立町２２−２４" }, "geometry": { "type": "Point", "coordinates": [ 141.02036327, 38.30743205 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市貞山１丁目７−３４" }, "geometry": { "type": "Point", "coordinates": [ 141.28827823, 38.43400769 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県岩沼市本町７−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.86512751, 38.1036161 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市若林区卸町東４丁目２−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.9495693, 38.25493165 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県多賀城市下馬２丁目１２−２０" }, "geometry": { "type": "Point", "coordinates": [ 141.01670042, 38.30662082 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県角田市高倉字本町３" }, "geometry": { "type": "Point", "coordinates": [ 140.72833465, 38.00122248 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県角田市角田字町１１９" }, "geometry": { "type": "Point", "coordinates": [ 140.778633070000012, 37.97533962 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県角田市角田字寺前１００" }, "geometry": { "type": "Point", "coordinates": [ 140.77655974000001, 37.97518195 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県刈田郡蔵王町宮字町２５" }, "geometry": { "type": "Point", "coordinates": [ 140.65210284, 38.04566481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県岩沼市早股字小林２９１−１" }, "geometry": { "type": "Point", "coordinates": [ 140.906112869999987, 38.10204066 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県岩沼市桜４丁目１−１２" }, "geometry": { "type": "Point", "coordinates": [ 140.8698511, 38.1108387 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県岩沼市桑原１丁目３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.86440615, 38.10292263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県多賀城市八幡２丁目２５−９" }, "geometry": { "type": "Point", "coordinates": [ 141.00570557, 38.28780649 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市仲町１丁目４−２８" }, "geometry": { "type": "Point", "coordinates": [ 141.57587959, 38.89625245 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県角田市角田字大町１−６" }, "geometry": { "type": "Point", "coordinates": [ 140.782839380000013, 37.97685144 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市古町１丁目８−９" }, "geometry": { "type": "Point", "coordinates": [ 141.55982043, 38.90718627 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市古町１丁目３−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.56307568, 38.90641416 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県気仙沼市新町３−１７" }, "geometry": { "type": "Point", "coordinates": [ 141.56481055, 38.90650516 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県白石市東町２丁目８−３０" }, "geometry": { "type": "Point", "coordinates": [ 140.62870136, 37.99746944 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県白石市越河字丑山２８" }, "geometry": { "type": "Point", "coordinates": [ 140.59690981, 37.92157528 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県白石市大鷹沢三沢字笠松１１０" }, "geometry": { "type": "Point", "coordinates": [ 140.651236, 37.95158997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡七ヶ浜町松ヶ浜字笹山８６" }, "geometry": { "type": "Point", "coordinates": [ 141.0531895, 38.28464263 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県黒川郡大和町吉岡字館下１０１" }, "geometry": { "type": "Point", "coordinates": [ 140.882038779999988, 38.44832486 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡七ヶ浜町境山２丁目９−３３" }, "geometry": { "type": "Point", "coordinates": [ 141.04114556, 38.29912864 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県黒川郡富谷町日吉台２丁目１６−７" }, "geometry": { "type": "Point", "coordinates": [ 140.86285569, 38.37657435 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡七ケ浜町花渕浜字高山２０−１" }, "geometry": { "type": "Point", "coordinates": [ 141.072328590000012, 38.29777452 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県宮城郡七ケ浜町東宮浜字寺島４−４" }, "geometry": { "type": "Point", "coordinates": [ 141.05360467, 38.31001395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県刈田郡蔵王町大字円田字駅内５１" }, "geometry": { "type": "Point", "coordinates": [ 140.65987107, 38.09557779 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県栗原市若柳字川北片町６３" }, "geometry": { "type": "Point", "coordinates": [ 141.13717233, 38.77312612 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市鹿島台平渡字銭神３９９" }, "geometry": { "type": "Point", "coordinates": [ 141.09436413, 38.47010942 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市鹿島台大迫字下志田７００−１" }, "geometry": { "type": "Point", "coordinates": [ 141.067814489999989, 38.44950222 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県大崎市松山千石字松山３５９" }, "geometry": { "type": "Point", "coordinates": [ 141.05250956, 38.51525491 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡山元町高瀬字合戦原１１３−１６１" }, "geometry": { "type": "Point", "coordinates": [ 140.896149939999987, 37.94326489 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県加美郡加美町字南寺宿６−７" }, "geometry": { "type": "Point", "coordinates": [ 140.782352300000014, 38.57478007 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県加美郡加美町菜切谷字原７−１５" }, "geometry": { "type": "Point", "coordinates": [ 140.861801500000013, 38.59448016 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県加美郡加美町宮崎字町３４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.75508668, 38.61054322 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡大河原町大谷字町向１０３−５２" }, "geometry": { "type": "Point", "coordinates": [ 140.73936444, 38.04705676 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡川崎町大字前川字裏丁１６９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.64367151, 38.17803363 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡柴田町槻木新町１丁目４−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.81096595, 38.07890971 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県伊具郡丸森町舘矢間舘山字坪石２１" }, "geometry": { "type": "Point", "coordinates": [ 140.76958264000001, 37.92379718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡大河原町大谷字末広１０１−２" }, "geometry": { "type": "Point", "coordinates": [ 140.74204081, 38.05340543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡山元町坂元字二又１９−５" }, "geometry": { "type": "Point", "coordinates": [ 140.91324099, 37.92805337 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡亘理町逢隈中泉字町裏４０" }, "geometry": { "type": "Point", "coordinates": [ 140.86696386, 38.08116032 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡亘理町逢隈中泉字沼添８８−５" }, "geometry": { "type": "Point", "coordinates": [ 140.87724103, 38.07889406 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県伊具郡丸森町金山字町５７−１" }, "geometry": { "type": "Point", "coordinates": [ 140.79980276, 37.90062788 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県伊具郡丸森町字山崎前１３" }, "geometry": { "type": "Point", "coordinates": [ 140.76780048, 37.9042733 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県伊具郡丸森町字町東７６" }, "geometry": { "type": "Point", "coordinates": [ 140.76270641, 37.91398573 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県亘理郡亘理町荒浜字隈崎２" }, "geometry": { "type": "Point", "coordinates": [ 140.911540620000011, 38.04669106 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区新寺２−１−１４" }, "geometry": { "type": "Point", "coordinates": [ 140.88595182, 38.25701479 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県黒川郡富谷町富谷字大清水上３３-１" }, "geometry": { "type": "Point", "coordinates": [ 140.87688193, 38.36425229 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市古川沢田字筒場浦１５" }, "geometry": { "type": "Point", "coordinates": [ 140.97249064, 38.5997595 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区堤通雨宮町２−３" }, "geometry": { "type": "Point", "coordinates": [ 140.869577170000014, 38.27505395 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県牡鹿郡女川町鷲神浜字鷲神１７１" }, "geometry": { "type": "Point", "coordinates": [ 141.446221, 38.4419421 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県多賀城市八幡４丁目１−８" }, "geometry": { "type": "Point", "coordinates": [ 141.0083969, 38.2885481 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県柴田郡村田町大字菅生字宮根４３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.758471109999988, 38.16765553 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県石巻市鮎川浜南６６−４" }, "geometry": { "type": "Point", "coordinates": [ 141.50924637, 38.29662039 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県登米市豊里町浦軒８４−２" }, "geometry": { "type": "Point", "coordinates": [ 141.24756172, 38.58274919 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県岩沼市阿武隈２丁目１０１−４" }, "geometry": { "type": "Point", "coordinates": [ 140.865079830000013, 38.0966507 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県塩竈市本町３−１８" }, "geometry": { "type": "Point", "coordinates": [ 141.018296709999987, 38.316978 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市中浦２丁目１−１０" }, "geometry": { "type": "Point", "coordinates": [ 141.26908595, 38.42425689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区茂庭台合ノ沢南２０−３" }, "geometry": { "type": "Point", "coordinates": [ 140.75689757, 38.21558508 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町４−２" }, "geometry": { "type": "Point", "coordinates": [ 140.92981078, 38.25781825 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区宮町４丁目２−３９" }, "geometry": { "type": "Point", "coordinates": [ 140.881694720000013, 38.27457558 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市青葉区旭ヶ丘１丁目４−２０" }, "geometry": { "type": "Point", "coordinates": [ 140.88897655, 38.28896402 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区小田原２丁目２−５４" }, "geometry": { "type": "Point", "coordinates": [ 140.89431378, 38.26449003 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区六丁の目東町６−１０" }, "geometry": { "type": "Point", "coordinates": [ 140.949973949999986, 38.25008012 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区西多賀２−５−５" }, "geometry": { "type": "Point", "coordinates": [ 140.85782598, 38.22090791 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区郡山字新橋南１３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.894197670000011, 38.21689997 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市太白区中田１−６−６" }, "geometry": { "type": "Point", "coordinates": [ 140.88471949, 38.20019439 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市若林区卸町４−３−１" }, "geometry": { "type": "Point", "coordinates": [ 140.93138574, 38.25853987 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県加美郡加美町字赤塚１７８" }, "geometry": { "type": "Point", "coordinates": [ 140.86634226000001, 38.56141866 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県石巻市蛇田字新金沼１７０" }, "geometry": { "type": "Point", "coordinates": [ 141.266980210000014, 38.45010816 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県大崎市岩出山字下川原町５" }, "geometry": { "type": "Point", "coordinates": [ 140.86598855, 38.65539547 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市金成字日向２７−３" }, "geometry": { "type": "Point", "coordinates": [ 141.08618243, 38.83540689 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県栗原市築館宮野中央２丁目３−２５" }, "geometry": { "type": "Point", "coordinates": [ 141.01859104, 38.74711759 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市泉区大沢１丁目５−１" }, "geometry": { "type": "Point", "coordinates": [ 140.88291295, 38.35060482 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県刈田郡蔵王町宮字井戸井3-1" }, "geometry": { "type": "Point", "coordinates": [ 140.651369319999986, 38.04139665 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県仙台市太白区長町８丁目２１−８" }, "geometry": { "type": "Point", "coordinates": [ 140.87635702, 38.22844874 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "1", "P07_002": "宮城県仙台市宮城野区福室字田中前１" }, "geometry": { "type": "Point", "coordinates": [ 140.96826285, 38.26051543 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県栗原市金成有壁大日前４９−６" }, "geometry": { "type": "Point", "coordinates": [ 141.11897101, 38.87563515 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県黒川郡富谷町明石字下桜ノ木６３" }, "geometry": { "type": "Point", "coordinates": [ 140.88349915, 38.35560974 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県仙台市若林区卸町東４−２−８" }, "geometry": { "type": "Point", "coordinates": [ 140.94865979, 38.25510718 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市堂場前１０５" }, "geometry": { "type": "Point", "coordinates": [ 140.62852024, 38.00445631 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "2", "P07_002": "宮城県白石市福岡長袋箱堰２−１" }, "geometry": { "type": "Point", "coordinates": [ 140.61537081, 38.02572579 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡村田町大字村田字末広町１２" }, "geometry": { "type": "Point", "coordinates": [ 140.72372678, 38.12205592 ] } }
+,
+{ "type": "Feature", "properties": { "P07_001": "3", "P07_002": "宮城県柴田郡村田町大字村田字末広町３７" }, "geometry": { "type": "Point", "coordinates": [ 140.72102765, 38.12347441 ] } }
+
+]
+}
