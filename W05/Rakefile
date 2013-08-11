@@ -1,0 +1,25 @@
+# coding: utf-8
+require 'fileutils'
+task :default do
+  t = 'W05'
+  y = '08'
+  e = 'g_Stream'
+  8.upto(14) {|i|
+    s = sprintf('%02d', i)
+    dst = "#{t}-#{y}_#{s}.geojson"
+    FileUtils.rm(dst) if File.exist?(dst)
+    sh "ogr2ogr -f GeoJSON #{dst} ~/Downloads/#{t}-#{y}_#{s}_GML/#{t}-#{y}_#{s}-#{e}.shp"
+    buf = File.open(dst).read.split("\n")
+    File.open(dst, 'w') {|w|
+      n = 0
+      buf.each {|l|
+        n += 1
+        if n == 3
+          w.print "\"source\": \"国土数値情報（河川データ）　国土交通省\",\n"
+        else 
+          w.print l, "\n"
+        end
+      } 
+    }
+  }
+end
